@@ -1,0 +1,11 @@
+.*
+!.gitignore
+*.aux
+*.synctex
+*.toc
+*.idx
+*.log
+*.out
+*.ind
+*.ilg
+*.fls
