@@ -102,3 +102,4 @@ class Trivia(Scene):
         
         self.state = 0
         self.active = False
+
