@@ -9,3 +9,5 @@
 *.ind
 *.ilg
 *.fls
+manim__
+__pycache__
