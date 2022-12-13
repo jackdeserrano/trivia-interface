@@ -24102,7 +24102,7 @@ What does the Latin root non-- mean?
 not; non; none
 6025
 
-What does the Latin root non- mean?
+What does the Latin root non-- mean?
 ninth; nonus; nonary
 6026
 
@@ -24338,7 +24338,7 @@ What does the Greek root ophi-- mean?
 snake; ὄφις (ophis); ophiophagy
 6084
 
-What does the Greek root ophthalm- mean?
+What does the Greek root ophthalm-- mean?
 eye; ὀφθαλμός (ophthalmos); ophthalmology
 6085
 
@@ -24386,7 +24386,7 @@ What do the Latin roots ori--, ort-- mean?
 eastern; oriri, ortus; orient
 6096
 
-What does the Latin root orn- mean?
+What does the Latin root orn-- mean?
 decorate; ōrnāre; adorn, ornament, ornate
 6097
 
@@ -24434,7 +24434,7 @@ What does the Greek root oxy-- mean?
 sharp, pointed; ὀξύς (oxus); oxygen, oxymoron
 6108
 
-What does the Latin root pac- mean?
+What does the Latin root pac-- mean?
 peace; pax, pacis; pacifism
 6109
 
@@ -24798,7 +24798,7 @@ What does the Latin root pleb-- mean?
 people; plebs, plebis; plebian, plebs
 6199
 
-What does the Greek root plec- mean?
+What does the Greek root plec-- mean?
 interwoven; πλέκω (plekō); plectics, symplectomorphism
 6200
 
@@ -25006,7 +25006,7 @@ What does the Latin root prim-- mean?
 first; primus; primary, primeval, primitive
 6251
 
-What does the Latin root prior- mean?
+What does the Latin root prior-- mean?
 former; prior; priority
 6252
 
@@ -25078,7 +25078,7 @@ What does the Greek root pto-- mean?
 fall; πτῶσις (ptōsis); ptosis
 6269
 
-What does the Greek root ptyal- mean?
+What does the Greek root ptyal-- mean?
 saliva; πτύον (ptuon)
 6270
 
@@ -25170,11 +25170,11 @@ What does the Latin root quart-- mean?
 fourth; quartus; quartary, quartile
 6292
 
-What does the Latin root quasi- mean?
+What does the Latin root quasi-- mean?
 as if; quasi; quasar
 6293
 
-What does the Latin root quatern- mean?
+What does the Latin root quatern-- mean?
 four each; quaterni; quaternary, quaternion
 6294
 
@@ -25206,7 +25206,7 @@ What does the Latin root quinque-- mean?
 five; quinque; quinquennium
 6301
 
-What does the Latin root quint- mean?
+What does the Latin root quint-- mean?
 fifth; quintus; quintary, quintile
 6302
 
@@ -25346,8 +25346,8 @@ What are the nine Heegner numbers?
 1, 2, 3, 7, 11, 19, 43, 67, 163
 6336
 
-What are the first six terms of the q-expansion of the j-invariant?
-q^{-1} + 744 + 196884q + 21493760q^2 + 864299970q^3 + 20245856256q^4
+What are the first six terms of the $q$-expansion of the $j$-invariant?
+$q^{-1} + 744 + 196884q + 21493760q^2 + 864299970q^3 + 20245856256q^4$
 6337
 
 What Colombian industrial and commercial city in the Andes, near the Venezuelan border, was founded as a parish in 1733?
@@ -25410,7 +25410,7 @@ What genus of mosquito includes many kinds commonly found in cooler regions that
 Culex
 6352
 
-What city in northwestern Mexico is the capital of Sinaloa?
+What city in north-western Mexico is the capital of Sinaloa?
 Culiacán Rosales
 6353
 
