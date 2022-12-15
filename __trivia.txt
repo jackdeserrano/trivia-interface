@@ -25618,7 +25618,7 @@ Contradictory to its name, what volatile and strongly acidic liquid is actually 
 cyanic acid
 6404
 
-What vitamin found in foods of animal origin such as liver, fish, and eggs, a deficiency of which can cause pernicious anemia, is also called vitamin B12?
+What vitamin found in foods of animal origin such as liver, fish, and eggs, a deficiency of which can cause pernicious anemia, is also called ``vitamin B12''?
 cyanocobalamin
 6405
 
@@ -25642,7 +25642,7 @@ What large group of islands in the southern Aegean Sea were regarded in antiquit
 Cyclades
 6410
 
-What does CRC abbreviate in computing?
+What does ``CRC'' abbreviate in computing?
 cyclic redundancy check
 6411
 
@@ -25658,7 +25658,7 @@ What colourless toxic liquid derived from the distillation of coal tar is insolu
 cyclopentadiene
 6414
 
-Whom did Odysseus blind to escape death in The Odyssey?
+Whom did Odysseus blind to escape death in The odyssey?
 Cyclops Polyphemus
 6415
 
@@ -25690,7 +25690,7 @@ Cymru
 Cynewulf
 6422
 
-(b. 1928) What American writer and critic wrote many works, such as Bloodshed and Three Novellas (1976) and The Puttermesser Papers (1997), that examine being Jewish in contemporary life and has some of her essays collected in Fame and Folly (1996)?
+(b. 1928) What American writer and critic wrote many works, such as Bloodshed and three novellas (1976) and The Puttermesser papers (1997), that examine being Jewish in contemporary life and has some of her essays collected in Fame and folly (1996)?
 Cynthia Ozick
 6423
 
@@ -25782,11 +25782,11 @@ What name is given to the lowest layer of the ionosphere, which reflects low-fre
 D layer
 6445
 
-(1828--82) What English painter, poet, and founder of the Pre-Raphaelite brotherhood (1848) is best known for his idealized images of women, including Beata Beatrix (c. 1863) and The Blessed Damozel (1871--79)?
+(1828--82) What English painter, poet, and founder of the Pre-Raphaelite brotherhood (1848) is best known for his idealized images of women, including Beata Beatrix (c. 1863) and The blessed Damozel (1871--79)?
 Dante Gabriel Rossetti
 6446
 
-(1885--1930) What English novelist, poet, and essayist's work is characterized by its condemnation of industrial society and its frank exploration of sexual relationships, having written Sons and Lovers (1913), The Rainbow (1915), and Lady Chatterley's Lover (1928)?
+(1885--1930) What English novelist, poet, and essayist's work is characterized by its condemnation of industrial society and its frank exploration of sexual relationships, having written Sons and lovers (1913), The rainbow (1915), and Lady Chatterley's lover (1928)?
 D. H. Lawrence
 6447
 
@@ -25798,7 +25798,7 @@ In what year did Vasco da Gama lead the first expedition around the Cape of Good
 1497
 6449
 
-What port and city in central Vietnam on the South China Sea served as an American military base during the Vietnam War and was called Tourane?
+What port and city in central Vietnam on the South China Sea served as an American military base during the Vietnam War and was called ``Tourane''?
 Da Nang
 6450
 
