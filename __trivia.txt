@@ -26038,7 +26038,7 @@ What name is given to a small marker buoy with a lightweight flagpole?
 dan
 6509
 
-oracle betokened that this daughter of Acrisuius would bear a son who would kill her father. Attempting to evade this, Acrisius imprisoned her, but Zeus visited her in the form of a shower of gold and she conceived Perseus, who killed Acrisius by accident. Name this figure of Greek myth.
+An oracle betokened that this daughter of Acrisuius would bear a son who would kill her father. Attempting to evade this, Acrisius imprisoned her, but Zeus visited her in the form of a shower of gold and she conceived Perseus, who killed Acrisius by accident. Name this figure of Greek myth.
 Danae
 6510
 
@@ -26050,7 +26050,7 @@ What name is given to a member of a Sufi religious order who has taken vows of p
 dervish
 6512
 
-What port in Liaoning province near the mouth of the Yalu River is located on the border with North Korea and was once called Antung?
+What port in Liaoning province near the mouth of the Yalu River is located on the border with North Korea and was once called ``Antung''?
 Dandong
 6513
 
@@ -26066,11 +26066,11 @@ What name is given to a participle intended to modify a noun which is not actual
 dangling participle
 6516
 
-In what apocryphal book is Daniel portrayed as a wise judge?
+What apocryphal book portrays Daniel as a wise judge?
 Susanna
 6517
 
-(1850--1931) What American sculptor created the statue of the Minute Man, unveiled 1875 at Concord, Massachusetts, and the seated figure of Abraham Lincoln, completed 1922, in the Lincoln Memorial in Washington, DC?
+(1850--1931) What American sculptor created the statue of the Minute man, unveiled 1875 at Concord, Massachusetts, and the seated figure of Abraham Lincoln, completed 1922, in the Lincoln Memorial in Washington, DC?
 Daniel Chester French
 6518
 
@@ -26078,11 +26078,11 @@ Who penned Robinson Crusoe (1719)?
 Daniel Defoe
 6519
 
-Who penned Moll Flanders (1722) and A Journal of the Plague Year (1722)?
+Who penned Moll Flanders (1722) and A journal of the plague year (1722)?
 Daniel Defoe
 6520
 
-What Irish nationalist leader and social reformer, known as the Liberator, caused the British government to grant emancipation to Catholics to enable him to take his seat in the House of Commons?
+What Irish nationalist leader and social reformer, known as ``the liberator,'' caused the British government to grant emancipation to Catholics to enable him to take his seat in the House of Commons?
 Daniel O'Connell
 6521
 
@@ -26098,7 +26098,7 @@ Who was Dante's muse---a woman about whom he wrote in Vita nuova (c. 1290--94)?
 Beatrice Portinari
 6524
 
-(1828--82) What English painter, poet, and founder of the Pre-Raphaelite brotherhood (1848) is best known for his idealized images of women, including Beata Beatrix (c. 1863) and The Blessed Damozel (1871--79)?
+(1828--82) What English painter, poet, and founder of the Pre-Raphaelite brotherhood (1848) is best known for his idealized images of women, including Beata Beatrix (c. 1863) and The blessed Damozel (1871--79)?
 Dante Gabriel Rossetti
 6525
 
@@ -26122,7 +26122,7 @@ What Sicilian shepherd, according to one version of the legend, was struck with 
 Daphnis
 6530
 
-For what is Dapsang an alternative name?
+For what is ``Dapsang'' an alternative name?
 K2
 6531
 
@@ -26150,7 +26150,7 @@ What sparsely populated province of eastern Panama shares its name with the part
 Darien
 6537
 
-(1926--2016) What Italian playwright and Nobel laureate (1997) wrote Accidental Death of an Anarchist (political satire, 1970) and Open Couple (farce, 1983) and won the Nobel Prize for Literature (1997)?
+(1926--2016) What Italian playwright and Nobel laureate (1997) wrote Accidental death of an anarchist (political satire, 1970) and Open couple (farce, 1983) and won the Nobel Prize for Literature (1997)?
 Dario Fo
 6538
 
@@ -26170,7 +26170,7 @@ In what period in western Europe between the fall of the Roman Empire and the hi
 Dark Ages
 6542
 
-What state bears the nickname Dark and Bloody Ground?
+What state bears the nickname ``Dark and Bloody Ground''?
 Kentucky
 6543
 
@@ -26190,11 +26190,11 @@ What stock made from fish and kelp is used in Japanese cooking?
 dashi
 6547
 
-(1894--1961) What American novelist developed the hard-boiled style of detective fiction in works such as The Maltese Falcon (1930) and The Thin Man (1932), both of which were made into successful movies, and lived for many years with playwright Lillian Hellman, with whom he was persecuted for left-wing views?
+(1894--1961) What American novelist developed the hard-boiled style of detective fiction in works such as The Maltese falcon (1930) and The thin man (1932), both of which were made into successful movies, and lived for many years with playwright Lillian Hellman, with whom he was persecuted for left-wing views?
 Dashiell Hammett
 6548
 
-What is the alternative name for the quoll: A catlike carnivorous marsupial with short legs and a white-spotted coat?
+What is the alternative name for the quoll: a catlike carnivorous marsupial with short legs and a white-spotted coat?
 dasyure
 6549
 
@@ -26223,7 +26223,7 @@ Based on Victor Hugo's believed-to-be birthday, what was Jean Valjean's first pr
 6555
 
 What is the velocity addition formula of relativity?
-v_{AC} = (v_{AB} + v_{BC})/(1 + (v_{AB}v_{BC})/c^2)
+$\displaystyle v_{AC} = \frac{v_{AB} + v_{BC}}{1 + (v_{AB}v_{BC})/c^2}$
 6556
 
 How do you measure rapidity?
@@ -26234,11 +26234,11 @@ What are the first five perfect numbers?
 6, 28, 496, 8128, 33550336
 6558
 
-This French mathematician, who was educated at École Normale Supérieure, constructed the cannonball problem, proved that 2^{127} - 1 was prime by hand, studied in great depth the Fibonacci sequence, and wrote Théorie des nombres. Name this inventor of the Tower of Hanoi puzzle.
+This French mathematician, who was educated at École Normale Supérieure, constructed the cannonball problem, proved that $2^{127} - 1$ was prime by hand, studied in great depth the Fibonacci sequence, and wrote Théorie des nombres. Name this inventor of the Tower of Hanoi puzzle.
 Édouard Lucas
 6559
 
-What Dutch musical director and orchestra conductor was the principal conductor of the LPO and musical director of Glyndebourne and Covent Garden?
+What Dutch musical director and orchestra conductor was the principal conductor of the London Philharmonic Orchestra and musical director of Glyndebourne and Covent Garden?
 Bernard Haitink
 6560
 
@@ -26246,23 +26246,23 @@ What English painter is best known for his California work of the mid-1960s, whi
 David Hockney
 6561
 
-(1711--76) What Scottish philosopher, economist, and historian rejected the possibility of certainty in knowledge and wrote A Treatise of Human Nature (1739--40) and History of England (1754--62)?
+(1711--76) What Scottish philosopher, economist, and historian rejected the possibility of certainty in knowledge and wrote A treatise of human nature (1739--40) and History of England (1754--62)?
 David Hume
 6562
 
-(1908--91) What English movie director's many movies include The Bridge on the River Kwai (1957), Lawrence of Arabia (1962), Doctor Zhivago (1965), and A Passage to India (1984)?
+(1908--91) What English movie director's many movies include The bridge on the River Kwai (1957), Lawrence of Arabia (1962), Doctor Zhivago (1965), and A Ppssage to India (1984)?
 Sir David Lean
 6563
 
-(b. 1935) What English novelist and academic has been the professor of Modern English Literature at the University of Birmingham since 1976, often satirizing academia and literary criticism in his novels which include Changing Places (1975), Small World (1984), and Therapy (1995)?
+(b. 1935) What English novelist and academic has been the professor of Modern English Literature at the University of Birmingham since 1976, often satirizing academia and literary criticism in his novels which include Changing places (1975), Small world (1984), and Therapy (1995)?
 David Lodge
 6564
 
-(1785--1841) What Scottish painter established his reputation with the painting Village Politicians (1806) and contributed to the growing prestige of genre painting?
+(1785--1841) What Scottish painter established his reputation with the painting Village politicians (1806) and contributed to the growing prestige of genre painting?
 Sir David Wilkie
 6565
 
-(1748--1825) What French painter is noted for neoclassical paintings such as The Oath of the Horatii (1784) and The Intervention of the Sabine Women (1799)?
+(1748--1825) What French painter is noted for neoclassical paintings such as The oath of the Horatii (1784) and The intervention of the Sabine women (1799)?
 Jacques-Louis David
 6566
 
@@ -26278,7 +26278,7 @@ What sea passage separates Greenland from Baffin Island and connects Baffin Bay 
 Davis Strait
 6569
 
-What jazz trumpeter, composer, and bandleader introduced modal jazz with Kind of Blue (1959)?
+What jazz trumpeter, composer, and bandleader introduced modal jazz with Kind of blue (1959)?
 Miles Davis
 6570
 
@@ -26306,7 +26306,7 @@ DAX (Deutscher Aktien IndeX)
 Moshe Dayan
 6576
 
-What two days are known collectively as the High Holidays or the Days of Awe?
+What two days are known collectively as ``the High Holidays'' or ``the Days of Awe''?
 Rosh Hashanah, Yom Kippur
 6577
 
@@ -26322,7 +26322,7 @@ What is the symbol for dubnium?
 Db
 6580
 
-What does DCM abbreviate in the UK?
+What does ``DCM'' abbreviate in the United Kingdom?
 Distinguished Conduct Medal
 6581
 
@@ -26338,11 +26338,11 @@ A synthetic analog of a purine nucleoside, what drug inhibits the replication of
 dideoxyinosine (DDI)
 6584
 
-What does DDOS stand for?
+What does ``DDOS'' stand for?
 distributed denial of service
 6585
 
-What does BIOS stand for?
+What does ``BIOS'' stand for?
 basic input-output system
 6586
 
@@ -26350,7 +26350,7 @@ Now banned in many countries, what synthetic organic compound and insecticide te
 DDT
 6587
 
-What does DDT abbreviate?
+What does ``DDT'' abbreviate?
 dichlorodiphenyltrichloroethane
 6588
 
@@ -26398,7 +26398,7 @@ What is debridement?
 the removal of damaged tissue or foreign objects from a wound
 6599
 
-What unit used to express electric dipole moments of molecules is equal to 3.336 times 10^{-30} coulomb metres?
+What unit used to express electric dipole moments of molecules is equivalent to $3.336 \times 10^{-30}$ coulomb metres?
 debye
 6600
 
