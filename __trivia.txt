@@ -26846,7 +26846,7 @@ Deng Xiaoping
 St. Denis
 6711
 
-(1713--84) What French philosopher, writer, and critic was a leading figure of the Enlightenment in France and a principal editor of the Encyclopédie (1751--76), having written Le Rêve de D'Alembert (1782) and Le Neveu de Rameau (1805)?
+(1713--84) What French philosopher, writer, and critic was a leading figure of the Enlightenment in France and a principal editor of the Encyclopédie (1751--76), having written Le rêve de d'Alembert (1782) and Le neveu de Rameau (1805)?
 Denis Diderot
 6712
 
@@ -26870,7 +26870,7 @@ What does ``Deo volente'' mean?
 God willing
 6717
 
-What sugar has the chemical formula of C5H10O4?
+What sugar has the chemical formula C5H10O4?
 deoxyribose
 6718
 
@@ -26978,7 +26978,7 @@ The presence of what single-celled freshwater alga that appears to be composed o
 desmid
 6744
 
-(b. 1928) What British zoologist and writer wrote The Naked Ape (1967) and Animal-Watching (1990) after studying animal behaviour and the implications for the human condition?
+(b. 1928) What British zoologist and writer wrote The naked ape (1967) and Animal-watching (1990) after studying animal behaviour and the implications for the human condition?
 John Desmond Morris
 6745
 
@@ -27138,7 +27138,7 @@ What name is given to a celebration held on 5 November?
 bonfire night
 6784
 
-What constant, commonly denoted alpha, is approximately 1/137 and quantifies the strength of the electromagnetic interaction between elementary charged particles?
+What constant, commonly denoted alpha, is approximately $1/137# and quantifies the strength of the electromagnetic interaction between elementary charged particles?
 fine structure constant
 6785
 
@@ -27194,11 +27194,11 @@ What early Italian goddess was associated with hunting, virginity, and the moon?
 Diana
 6798
 
-(b. 1944) What American pop and soul singer was the lead singer of the Supremes but went on to become a successful solo artist, having portrayed Billie Holiday in the movie Lady Sings the Blues (1972)?
+(b. 1944) What American pop and soul singer was the lead singer of the Supremes but went on to become a successful solo artist, having portrayed Billie Holiday in the movie Lady sings the blues (1972)?
 Diana Ross
 6799
 
-What American actress appeared in Annie Hall (1977), The Godfather (1972, and its sequels 1974 and 1990), The First Wives' Club (1996), and Something's Gotta Give (2003)?
+What American actress appeared in Annie Hall (1977), The godfather (1972, and its sequels 1974 and 1990), The first wives' club (1996), and Something's gotta give (2003)?
 Diane Keaton
 6800
 

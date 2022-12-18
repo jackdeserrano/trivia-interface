@@ -2,6 +2,8 @@
 # can edit TeX output in ~/manim/manimlib/ ... .yml
 # manimgl trivia.py Trivia
 
+# todo: add credits to all photos
+
 from manimlib import *
 import random 
 import time
