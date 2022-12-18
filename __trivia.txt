@@ -13814,7 +13814,7 @@ What noun whose name comes from a delicious dessert and starts with ``a'' means 
 apple-pie order
 3453
 
-What noun coming from the Latin for judge of elegance and used by Tacitus to describe Gauis Petronius means a judge of artistic taste and etiquette?
+What noun that comes from the Latin for ``judge of elegance'' and used by Tacitus to describe Gauis Petronius refers to a judge of artistic taste and etiquette?
 arbiter elegantiarum/elegantiae
 3454
 
@@ -14522,7 +14522,7 @@ What South Korean city has the world's largest shipyard, oil refinery, and autom
 Ulsan
 3630
 
-What South Korean diplomat was secretary general of the UN 2007--16?
+What South Korean diplomat was secretary general of the United Nations from 2007 to 2016?
 Ban Ki-moon
 3631
 
@@ -26478,7 +26478,7 @@ What liquor results from concentrating the essence of a substance by heating or 
 decoction
 6619
 
-What condition, suffered particularly by divers (who often call it ``the bends'') and also called caisson disease, results when sudden decompression causes nitrogen bubbles to form in the body's tissues and can cause pain in the muscles and joints, cramps, numbness, nausea, and paralysis?
+What condition, suffered particularly by divers (who often call it ``the bends'') and called ``caisson disease,'' results when sudden decompression causes nitrogen bubbles to form in the body's tissues and can cause pain in the muscles and joints, cramps, numbness, nausea, and paralysis?
 decompression sickness
 6620
 
@@ -26546,7 +26546,7 @@ What type of ancient Greek pottery vessel used to pour small quantities of liqui
 askos
 6636
 
-What Columbia University mathematician proved a lower bound for the class number of an imaginary quadratic field assuming the existence of an elliptic curve whose L-function had a zero of order at least three at s = 1/2 that Gross and Zagier later discovered?
+What Columbia University mathematician proved a lower bound for the class number of an imaginary quadratic field assuming the existence of an elliptic curve whose $L$-function had a zero of order at least three at $s = 1/2$ that Gross and Zagier later discovered?
 Dorian Goldfeld
 6637
 
@@ -26586,7 +26586,7 @@ What title conferred on Henry VIII by Pope Leo X in 1521 was recognized by Parli
 Fidei Defensor
 6646
 
-What does Fidei Defensor mean?
+What does ``Fidei Defensor'' mean?
 Defender of the Faith
 6647
 
@@ -26607,26 +26607,26 @@ defoliant
 6651
 
 What is the derivative of the zeta function at 0?
-(-1/2)(pi)(log 2)
+$\displaystyle -\frac{1}{2}\pi\log(2)$
 6652
 
-What is zeta(2)?
-pi^2/6
+What is $\zeta(2)$?
+$\pi^2/6$
 6653
 
-What is zeta(4)?
-pi^4/90
+What is $\zeta(4)$?
+$\pi^4/90$
 6654
 
-What is zeta(6)?
-pi^6/945
+What is $\zeta(6)$?
+$\pi^6/945$
 6655
 
-What is zeta(12)?
-691pi^{12}/638512875
+What is $\zeta(12)$?
+$691\pi^{12}/638512875$
 6656
 
-By what name is zeta(3) known?
+By what name is $\zeta(3)$ known?
 Apéry's constant
 6657
 
@@ -26634,7 +26634,7 @@ What is pointing the foot to an open position with an arched instep slightly off
 dégagé
 6658
 
-(1834--1917) What French impressionist painter and sculptor is known for his paintings of ballet dancers, such as Dancer Lacing Her Shoe?
+(1834--1917) What French impressionist painter and sculptor is known for his paintings of ballet dancers, such as Dancer lacing her shoe?
 Edgar Degas
 6659
 
@@ -26646,7 +26646,7 @@ What is the technical term for swallowing?
 deglutition
 6661
 
-What ratlike rodent with a long silky coat (family Octodontidae) is found in southern South America?
+What rat-like rodent with a long silky coat (family Octodontidae) is found in southern South America?
 degu
 6662
 
@@ -33634,7 +33634,7 @@ What US speed skater was the world champion in speed skating in 1977, 1978, and 
 Eric Heiden
 8408
 
-(1902--45) What British runner and missionary, born in China, won the 400 metres in world record time in the 1924 Olympics? His exploits were celebrated in the movie Chariots of Fire (1981).
+(1902--45) What British runner and missionary, born in China, won the 400 metres in world record time in the 1924 Olympics? His exploits were celebrated in the movie Chariots of fire (1981).
 Eric Liddell
 8409
 
@@ -35574,7 +35574,7 @@ How would one describe a tree or shrub that has branches more or less parallel t
 fastigiate
 8893
 
-What rocky islet off the southwestern coast of Ireland is sometimes called Carraig Aonair `lone rock' and gives its name to a famed yacht race from Cowes to Cherbourg (originally Cowes to Plymouth)?
+What rocky islet off the southwestern coast of Ireland is sometimes called ``Carraig Aonair'' `lone rock' and gives its name to a famed yacht race from Cowes to Cherbourg (originally Cowes to Plymouth)?
 Fastnet
 8894
 
