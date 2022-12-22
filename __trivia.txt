@@ -28094,11 +28094,11 @@ What river in eastern Europe rises in Russia west of Moscow and flows south for 
 Dnipro
 7023
 
-What industrial city and river port in Ukraine was called Kamenskoye until 1936?
+What industrial city and river port in Ukraine was called ``Kamenskoye'' until 1936?
 Dniprodzerzhinsk
 7024
 
-What industrial city and river port in Ukraine was called Yekaterinoslav until 1926?
+What industrial city and river port in Ukraine was called ``Yekaterinoslav'' until 1926?
 Dnipropetrovsk
 7025
 
@@ -28142,7 +28142,7 @@ What is the generalization of the parallelepiped and parallelogram called?
 parallelotope
 7035
 
-What name is given to a partition of a plane with n points into convex polygons such that each polygon contains exactly one generating point and every point in a given polygon is closer to its generating point than to any other?
+What name is given to a partition of a plane with points into convex polygons such that each polygon contains exactly one generating point and every point in a given polygon is closer to its generating point than to any other?
 Voronoi diagram
 7036
 
@@ -28154,7 +28154,7 @@ What surveying instrument has a rotating telescope for measuring horizontal and 
 theodolite
 7038
 
-What teacher of St. Thomas Aquinas is known as Doctor Universalis?
+What teacher of St. Thomas Aquinas is known as ``Doctor Universalis''?
 St. Albertus Magnus
 7039
 
@@ -28170,11 +28170,11 @@ Define ``senescent.''
 deteriorating; old; mature
 7042
 
-Let f be a map from a set A to a set B. If f(A) = B, then what is f called?
+Let $f$ be a map from a set $A$ to a set $B$. If $f(A) = B$, then what is $f$ called?
 onto/surjective
 7043
 
-Let f be a map from a set A to a set B. If the preimage of every element in B under f consists of at most one element, then what is f called?
+Let $f$ be a map from a set $A$ to a set $B$. If the pre-image of every element in $B$ under $f$ consists of at most one element, then what is $f$ called?
 one-to-one/injective
 7044
 
@@ -28239,7 +28239,7 @@ dolichocephalic
 7059
 
 From what Dickens novel is the sentence ``Silas Wegg, being on his road to the Roman Empire, approaches it by way of Clerkenwell''?
-Our Mutual Friend
+Our mutual friend
 7060
 
 Who coined the term ``cultural capital''?
@@ -28294,7 +28294,7 @@ Where is Copenhagen?
 Denmark
 7073
 
-Where is Spitzbergen?
+Where is Spitsbergen?
 Svalbard, Norway
 7074
 
@@ -28315,7 +28315,7 @@ the first signer of the Declaration of Independence
 7078
 
 Who was Plutarch?
-Greek of the first and second centuries AD who wrote Parallel Lives
+Greek of the first and second centuries AD who wrote Parallel lives
 7079
 
 Who was Hannibal?
@@ -28518,7 +28518,7 @@ What is the capital of Alabama?
 Montgomery
 7129
 
-Who composed Il Trovatore?
+Who composed Il trovatore?
 Verdi
 7130
 
@@ -28558,11 +28558,11 @@ Where is the St. Gothard pass?
 Alps
 7139
 
-Who wrote Les Miserables?
+Who wrote Les miserables?
 Victor Hugo
 7140
 
-Who made ``The Thinker''?
+Who made ``The thinker''?
 Auguste Rodin
 7141
 
@@ -28630,7 +28630,7 @@ What formal word refers to the country that a person treats as their permanent h
 domicile
 7157
 
-(c. 1170--1221, feast day: 8 August) What Spanish priest and friar founded the Order of Friars Preachers at Toulouse in France in 1216, whose members became known as Black Friars?
+(c. 1170--1221, feast day: 8 August) What Spanish priest and friar founded the Order of Friars Preachers at Toulouse in France in 1216, whose members became known as ``Black Friars''?
 St. Dominic
 7158
 
@@ -28678,7 +28678,7 @@ What equilibrium is reached between two ionic solutions separated by a semiperme
 Donnan equilibrium
 7169
 
-What British proverb means, ``Don't risk the failure of a large project by trying to economize on trivial things''?
+What British proverb means ``don't risk the failure of a large project by trying to economize on trivial things''?
 don't spoil the ship for a ha'p'orth of tar
 7170
 
