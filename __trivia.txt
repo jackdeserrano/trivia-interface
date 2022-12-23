@@ -28822,7 +28822,7 @@ What French-derived word refers to the most respected or prominent person in a p
 doyen
 7205
 
-(1859--1930) What Scottish novelist and short-story writer is known for his creation of private detective Sherlock Holmes, who first appeared (with his friend Dr. Watson, the narrator of the stories) in A Study in Scarlet (1887), The Adventures of Sherlock Holmes (1892), and The Hound of the Baskervilles (1902)?
+(1859--1930) What Scottish novelist and short-story writer is known for his creation of private detective Sherlock Holmes, who first appeared (with his friend Dr. Watson, the narrator of the stories) in A study in Scarlet (1887), The adventures of Sherlock Holmes (1892), and The hound of the Baskervilles (1902)?
 Sir Arthur Conan Doyle
 7206
 
@@ -28966,7 +28966,7 @@ What common polypore growing on tree stumps and logs with a scaly, yellowish-bro
 dryad saddle
 7241
 
-(1631--1700) What English poet, critic, and playwright of the Augustan Age is best known for Marriage à la mode (1673), All for Love (1678), and Absalom and Achitophel (1681)?
+(1631--1700) What English poet, critic, and playwright of the Augustan Age is best known for Marriage à la mode (1673), All for love (1678), and Absalom and Achitophel (1681)?
 John Dryden
 7242
 
@@ -28986,7 +28986,7 @@ What is the only nontrivial case of the sum of the first n squares being a squar
 24
 7246
 
-What unit of electric potential is c_{cgs} 10^{-8} volt?
+What unit of electric potential is $c_{\text{cgs}} 10^{-8}$ volt?
 statvolt
 7247
 
@@ -29002,7 +29002,7 @@ What is German for ``death''?
 Tod
 7250
 
-What does DSP abbreviate in genealogy?
+What does ``DSP'' abbreviate in genealogy?
 decessit sine prole `died without issue'
 7251
 
@@ -29038,7 +29038,7 @@ Marcel Duchamp
 Raoul Dufy
 7259
 
-What amphibious transport vehicle used by the Allies during World War II was also called duck?
+What amphibious transport vehicle used by the Allies during World War II was also called ``duck''?
 DUKW
 7260
 
@@ -29338,7 +29338,7 @@ What fierce Hindu goddess---wife of Shiva and often associated with Kali---is us
 Durga
 7334
 
-(1858--1917) What French founder of modern sociology became the first professor of sociology at the Sorbonne in 1913 and wrote works such as The Division of Labor in Society (1893) and Suicide (1897)?
+(1858--1917) What French founder of modern sociology became the first professor of sociology at the Sorbonne in 1913 and wrote works such as The division of labor in Society (1893) and Suicide (1897)?
 Émile Durkheim
 7335
 
@@ -29346,7 +29346,7 @@ What name for any of a breed of large vigorous red American hogs is shared with 
 duroc
 7336
 
-(1912--90) What English novelist and poet spent much of his life abroad, particularly in the Mediterranean and wrote Alexandria Quartet (1957--60) and Prospero's Cell (1945)?
+(1912--90) What English novelist and poet spent much of his life abroad, particularly in the Mediterranean and wrote Alexandria quartet (1957--60) and Prospero's cell (1945)?
 Lawrence Durrell
 7337
 
@@ -29382,7 +29382,7 @@ What river rises in Russia's Valai Hills and flows west, then north, for 1,020 k
 Dvina River
 7345
 
-(b. 1941) What American singer, songwriter, and leader of an urban folk-music revival in the 1960s who became known for political and protest songs such as ``The Times They Are A-Changin'' (1964) wrote Highway 61 Revisited (1965) and Blood on the Tracks (1975) and won the Nobel Prize for Literature (2016)?
+(b. 1941) What American singer, songwriter, and leader of an urban folk-music revival in the 1960s who became known for political and protest songs such as ``The times they are a-changin'' (1964) wrote Highway 61 revisited (1965) and Blood on the tracks (1975) and won the Nobel Prize for Literature (2016)?
 Bob Dylan
 7346
 
