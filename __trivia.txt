@@ -29486,7 +29486,7 @@ What is the difference between purpose and motive in Burke's theory of ``life as
 purpose addresses why the agents broke a rule; motive justifies the rule-breaking activity in terms of element ratios
 7371
 
-(1898--1962) This mathematician---advised by Herglotz and Hölder---is considered the founder of modern abstract algebra with Emmy Noether. His notable students include John Tate, Serge Lang, Max Zorn, and Bernard Dwork. Identify this Austrian who contributed to class field theory---note his reciprocity law that partially solved Hilbert's ninth problem---developed a new construction of L-functions, contributed to the theories of rings, groups, and fields---he is the eponym a ring that satisfies the descending chain condition on ideals---resolved Hilbert's seventeenth problem, developed the theory of braids (1925), and was an expositor of Galois theory and group-cohomological class ring theory.
+(1898--1962) This mathematician---advised by Herglotz and Hölder---is considered the founder of modern abstract algebra with Emmy Noether. His notable students include John Tate, Serge Lang, Max Zorn, and Bernard Dwork. Identify this Austrian who contributed to class field theory---note his reciprocity law that partially solved Hilbert's ninth problem---developed a new construction of $L$-functions, contributed to the theories of rings, groups, and fields---he is the eponym a ring that satisfies the descending chain condition on ideals---resolved Hilbert's seventeenth problem, developed the theory of braids (1925), and was an expositor of Galois theory and group-cohomological class ring theory.
 Emil Artin
 7372
 
@@ -29506,7 +29506,7 @@ What layer of the ionosphere can reflect medium-frequency radio waves?
 E layer
 7376
 
-(1911--77) What German economist and conservationist's Small is Beautiful: Economics as if People Mattered (1973) argues that mass production needs to be replaced by smaller, more energy-efficient enterprises?
+(1911--77) What German economist and conservationist's Small is beautiful: economics as if people mattered (1973) argues that mass production needs to be replaced by smaller, more energy-efficient enterprises?
 E. F. Schumacher
 7377
 
@@ -29590,7 +29590,7 @@ What entomological verb means ``emerge as an adult from the pupa or as a larva f
 eclose
 7397
 
-(1932--2016) What Italian novelist and semiotician wrote The Name of the Rose (1981) and Travels in Hyperreality (1986)?
+(1932--2016) What Italian novelist and semiotician wrote A theory of semiotics (1976), The name of the rose (1981), and Travels in hyperreality (1986)?
 Umberto Eco
 7398
 
@@ -29666,11 +29666,11 @@ What is the other term for the order Xenarthra?
 Edentata
 7416
 
-(1809--49) What American short-story writer, poet, and critic---whose fiction and poetry are Gothic in style and characterized by their exploration of the macabre and the grotesque---wrote ``The Fall of the House of Usher'' (1840), ``The Murders in the Rue Morgue'' (1841), and ``The Raven'' (1845)?
+(1809--49) What American short-story writer, poet, and critic---whose fiction and poetry are Gothic in style and characterized by their exploration of the macabre and the grotesque---wrote ``The fall of the House of Usher'' (1840), ``The murders in the Rue Morgue'' (1841), and ``The raven'' (1845)?
 Edgar Allan Poe
 7417
 
-(1869--1950) What American writer---whose verse is collected most notably in the Spoon River Anthology (1915)---wrote biographies and novels?
+(1869--1950) What American writer---whose verse is collected most notably in the Spoon River anthology (1915)---wrote biographies and novels?
 Edgar Lee Masters
 7418
 
@@ -29710,7 +29710,7 @@ Edmund Burke
 St. Edmund Campion
 7427
 
-(c. 1552--99) What English poet is best known for his allegorical romance The Faerie Queene (1590; 1596) that celebrated Queen Elizabeth I and was written in his eponymous stanza?
+(c. 1552--99) What English poet is best known for his allegorical romance The faerie queene (1590; 1596) that celebrated Queen Elizabeth I and was written in his eponymous stanza?
 Edmund Spenser
 7428
 
@@ -29722,7 +29722,7 @@ St. Edmund the Martyr
 St. Edmund
 7430
 
-(1832--83) What French painter adopted a realist approach that greatly influenced the impressionists, using pure colour to give a direct unsentimental effect and noted for Déjeuner sur l'herbe (1863), Olympia (1865), and A Bar at the Folies-Bergère (1882)?
+(1832--83) What French painter adopted a realist approach that greatly influenced the impressionists, using pure colour to give a direct unsentimental effect and noted for Déjeuner sur l'herbe (1863), Olympia (1865), and A bar at the Folies-Bergère (1882)?
 Édouard Manet
 7431
 
@@ -29766,11 +29766,11 @@ make (something) more acceptable or palatable
 Edvard Grieg
 7441
 
-(1863--1944) What Norwegian painter and engraver who infused his subjects with an intense emotionalism---exploring the use of vivid colour and linear distortion to express feelings about life and death---painted The Scream (1893)?
+(1863--1944) What Norwegian painter and engraver who infused his subjects with an intense emotionalism---exploring the use of vivid colour and linear distortion to express feelings about life and death---painted The scream (1893)?
 Edvard Munch
 7442
 
-(1737--94) What English historian is best known for his multivolume work, The History of the Decline and Fall of the Roman Empire (1776--88)?
+(1737--94) What English historian is best known for his multivolume work, The history of the decline and fall of the Roman Empire (1776--88)?
 Edward Gibbon
 7443
 
@@ -29794,7 +29794,7 @@ What was Blackbeard's real name?
 Edward Teach
 7448
 
-(1908--2003) What Hungarian-American physicist worked on the first atomic reactor and the first atom bombs after moving to the US? Work under his guidance led to the detonation of the first hydrogen bomb in 1952.
+(1908--2003) What Hungarian-American physicist worked on the first atomic reactor and the first atom bombs after moving to the United States? Work under his guidance led to the detonation of the first hydrogen bomb in 1952.
 Edward Teller
 7449
 
