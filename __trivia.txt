@@ -30158,7 +30158,7 @@ What literary plural noun refers to a tangled mass of hair?
 elflocks
 7539
 
-(b. 1946) What Austrian novelist, poet, and playwright who wrote Women as Lovers (1975), Wonderful, Wonderful Times (1980), The Piano Teacher (1983), and Lust (1989) won the Nobel Prize for Literature (2004)?
+(b. 1946) What Austrian novelist, poet, and playwright who wrote Women as lovers (1975), Wonderful, wonderful times (1980), The piano teacher (1983), and Lust (1989) won the Nobel Prize for Literature (2004)?
 Elfriede Jelinek
 7540
 
@@ -30170,11 +30170,11 @@ What priest was a teacher to the prophet Samuel, for whom Samuel initially misto
 Eli
 7542
 
-What pseudonym was adopted by Charles Lamb in his Essays of --- (1823) and Last Essays of --- (1833)?
+What pseudonym was adopted by Charles Lamb in his Essays of --- (1823) and Last essays of --- (1833)?
 Elia
 7543
 
-(1905--94) What Bulgarian-born British writer who wrote Auto-da-Fé (1936) and Crowds and Power (1960) won the Nobel Prize for Literature (1981)?
+(1905--94) What Bulgarian-born British writer who wrote Auto-da-fé (1936) and Crowds and power (1960) won the Nobel Prize for Literature (1981)?
 Elias Canetti
 7544
 
@@ -30194,7 +30194,7 @@ What Hebrew prophet in the time of Jezebel maintained the worship of Jehovah aga
 Elijah
 7548
 
-(1888--1965) He is associated with the ride of literary modernism. Four Quartets (1943) revealed his increasing involvement with Christianity. He received the Nobel Prize for Literature (1948). What US-born British poet, critic, and playwright was established as the voice of a disillusioned generation by The Waste Land (1922)?
+(1888--1965) He is associated with the ride of literary modernism. Four Quartets (1943) revealed his increasing involvement with Christianity. He received the Nobel Prize for Literature (1948). What American-born British poet, critic, and playwright was established as the voice of a disillusioned generation by The waste land (1922)?
 T. S. Eliot
 7549
 
@@ -30255,18 +30255,18 @@ Lincoln Ellsworth
 7563
 
 What is the density of the best sphere packing in 3 dimensions, conjectured by Kepler and proved by Hales?
-pi/sqrt{18}
+$\pi/\sqrt{18}$
 7564
 
-What Ukrainian mathematician proved that the E_8 and Leech lattices give the densest sphere packings in 8 and 24 dimensions?
+What Ukrainian mathematician proved that the $E_8$ and Leech lattices give the densest sphere packings in $8$ and $24$ dimensions?
 Maryna Viazovska
 7565
 
 What is the 12th Bernoulli number?
--691/2370
+$-691/2370$
 7566
 
-Who has won the most Ballon d'Ors?
+Who has won the most Ballon d'ors?
 Lionel Messi
 7567
 
@@ -30274,8 +30274,8 @@ What plateau region in Antarctica between the Walgreen Coast and Palmer Land ris
 Ellsworth Land
 7568
 
-(1925--2013) What American writer who is known for his gritty realism wrote Unknown Man No. 89 (1977), Freaky Deaky (1988), Get Shorty (1990), and Road Dogs (2009)?
-Leonard Elmore
+(1925--2013) What American writer who is known for his gritty realism wrote Unknown man no. 89 (1977), Freaky deaky (1988), Get shorty (1990), and Road dogs (2009)?
+Elmore Leonard
 7569
 
 What is Elohim?
@@ -30366,7 +30366,7 @@ São Vicente, Boa Vista, and Santiago are among the islands of which republic? I
 Cabo Verde
 7591
 
-About whom is Graham Farmelo's The Strangest Man? In 1933, he shared the Nobel Prize for Physics with Erwin Schrödinger.
+About whom is Graham Farmelo's The strangest man? In 1933, he shared the Nobel Prize for Physics with Erwin Schrödinger.
 Paul Dirac
 7592
 
@@ -30379,23 +30379,23 @@ Times Square
 7594
 
 What film of 1969 concerns the friendship between two hustlers in the Times Square area played by Dustin Hoffman and John Voight?
-Midnight Cowboy
+Midnight cowboy
 7595
 
 By chance rather than etymology, what four-letter affirmation appears at the end of words meaning ``a round structure at the base of the forebrain,'' ``an opening or orifice in a human bone,'' ``a male organ in flowering plants,'' and ``quick-cooking egg noodles usually served in a broth with bits of meat and vegetables''?
 amen
 7596
 
-Name the play by Shakespeare that completes the title of the following: A 2003 paper by Louise Noble has the title, ```And Make Two Pasties of Your Shameful Heads': Medicinal Cannibalism and Healing the Body Politic in ---.''
+Name the play by Shakespeare that completes the title of the following: A 2003 paper by Louise Noble has the title, ```And make two pasties of your shameful heads': medicinal cannibalism and healing the body politic in ---.''
 Titus Andronicus
 7597
 
-Name the play by Shakespeare that completes the title of the following: A 1999 paper by G. A. Sullivan: ```Be This Sweet Helen's knell, and now Forget Her': Forgetting, Memory, and Identity in ---.''
-All's Well That Ends Well
+Name the play by Shakespeare that completes the title of the following: A 1999 paper by G. A. Sullivan: ```Be this sweet Helen's knell, and now forget her': forgetting, memory, and identity in ---.''
+All's well that ends well
 7598
 
-Name the play by Shakespeare that completes the title of the following: A 1974 paper by Michael West: ``The Folk Background of Petruchio's Wooing Dance: Male Supremacy in ---.''
-The Taming of the Shrew
+Name the play by Shakespeare that completes the title of the following: A 1974 paper by Michael West: ``The folk background of Petruchio's wooing dance: male supremacy in ---.''
+The taming of the shrew
 7599
 
 What two chemical elements are the principal constituents of the alloys austenite, martensite, and pearlite?
