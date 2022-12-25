@@ -877,6 +877,116 @@ Necrothesp.
 7587
 C.Stadler/Bwag.
 
+7602
+Mamuka Gongadze.
+
+7609
+DXR.
+
+7610
+None.
+
+7617
+David O Morgan.
+
+7618
+EMBL-EBI. AlphaFold. https://alphafold.ebi.ac.uk/entry/D3B114.
+
+7618__
+Ascendinglotus2.
+
+7621
+0fb1d8.
+
+7621__
+EMBL-EBI. AlphaFold. https://alphafold.ebi.ac.uk/entry/A0A495CCH3.
+
+7623
+Hulton Archive/Getty Images.
+
+7627
+David Medcalf.
+
+7631
+Keystone-France/Gamma-Keystone via Getty Images.
+
+7636
+Elcobbola.
+
+7642
+The New Yorker.
+
+7647
+Lee Jin-man / AP.
+
+7648
+AFP/Getty Images.
+
+7650
+Princeton University Art Museum.
+
+7653
+Hiroyuki Ito/Getty Images.
+
+7655
+Robert DOISNEAU/Gamma-Rapho/Getty Images.
+
+7656
+Elias Gottlob Haussmann.
+
+7657
+Anne Lise Flavik/Abelprisen.
+
+7658
+Paul R. Halmos.
+
+7659
+Charlie Fondville/Abel Prize.
+
+7660
+Peter Badge.
+
+7661
+https://plato.stanford.edu/entries/weyl/.
+
+7666
+Royal Society.
+
+7668
+George Bergman.
+
+7669
+George Bergman.
+
+7670
+Hiroyuki Ito/Getty Images.
+
+7671
+Brill/ullstein bild via Getty Images.
+
+7671__
+Yves Forestier/Sygma via Getty Images.
+
+7672
+Joe Sargent/NHLI via Getty Images.
+
+7673
+Christian Petersen/Getty Images.
+
+7678
+Fry1989.
+
+7686
+Mmh.
+
+7687
+StaraBlazkova.
+
+7688
+Tomas1111.
+
+7694
+NASA/GSFC/METI/ERSDAC/JAROS, and U. S./Japan ASTER Science Team.
 
 9204
 Matthias Hangst/Getty Images.
