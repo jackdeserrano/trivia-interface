@@ -38,7 +38,7 @@ Alfonso de Albuquerque
 Albrecht Dürer
 9
 
-(1503--72) What Italian mannerist painter spent most of his career in Florence as court painter to Cosimo de' Medici and is best-known for Venus, Cupid, Folly, and Time (c. 1546)?
+(1503--72) What Italian mannerist painter spent most of his career in Florence as court painter to Cosimo de' Medici and is best-known for Venus, Cupid, Folly, and time (c. 1546)?
 Agnolo Bronzino
 10
 
@@ -15534,11 +15534,11 @@ What verb means ``examine a patient by listening to sounds from (the heart, lung
 auscultate
 3883
 
-What verb means make (an unpleasant feeling) less intense?
+What verb means ``make (an unpleasant feeling) less intense''?
 assuage
 3884
 
-What verb means to argue about petty and trivial matters or to flow or fall with a gentle repetitive noise?
+What verb means ``to argue about petty and trivial matters or to flow or fall with a gentle repetitive noise''?
 bicker
 3885
 
@@ -30830,11 +30830,11 @@ Meaning ``compartment'' or ``division,'' what short German term is used for a sy
 Fach
 7707
 
-What term is used in the Fach system for an elaborate soprano role characterized by trills and cadenzas? A notable example occurs in the so-called ``mad scene'' of Donizetti's Lucia di Lammermoor.
+What term is used in the Fach system for an elaborate soprano role characterized by trills and cadenzas? A notable example occurs in the so-called ``mad scene'' of Donizetti's Lucia di lammermoor.
 coloratura
 7708
 
-First played by Mozart's sister-in-law Josepha Hofer, what coloratura soprano role in The Magic Flute sings the aria known as ``the revenge of hell''?
+First played by Mozart's sister-in-law Josepha Hofer, what coloratura soprano role in The magic flute sings the aria known as ``the revenge of hell''?
 Queen of the Night
 7709
 
@@ -30906,7 +30906,7 @@ Sciagraphy is a branch of the science of perspective that deals with the project
 shadows
 7726
 
-The White Boy Shuffle and The Sellout are works by whom?
+The white boy shuffle and The sellout are works by whom?
 Paul Beatty
 7727
 
@@ -30930,7 +30930,7 @@ What desert region to the east of the Indus River lies in Rajasthan and Gujarat?
 Thar
 7732
 
-Also known as reduction division, what is the term for nuclear division during the formation of gametes?
+Also known as ``reduction division,'' what is the term for nuclear division during the formation of gametes?
 meiosis
 7733
 
@@ -30954,7 +30954,7 @@ What eighth-century forgery claimed to be a historical document transferring con
 Donation of Constantine
 7738
 
-For a three-dimensional wave function in quantum mechanics, what quantity is obtained using the operator -i h-bar grad?
+For a three-dimensional wave function in quantum mechanics, what quantity is obtained using the operator $-i \hbar \nabla$?
 linear momentum
 7739
 
@@ -30982,7 +30982,7 @@ MINUTE PUN is an anagram of the name of what actinide metal with the atomic numb
 Neptunium
 7745
 
-What surname is shared by two contemporaneous American composers, one of whom wrote the score for the film The Magnificent Seven and the other the music for West Side Story?
+What surname is shared by two contemporaneous American composers, one of whom wrote the score for the film The magnificent seven and the other the music for West side story?
 Bernstein
 7746
 
@@ -30994,7 +30994,7 @@ A centre of cheesemaking, what town near Cardiff is home to Britain's largest ca
 Caerphilly
 7748
 
-Meaning ``fortress'' or ``stronghold,'' Caer is the Welsh name of what English city that was a former Roman legionary base?
+Meaning ``fortress'' or ``stronghold,'' ``Caer'' is the Welsh name of what English city that was a former Roman legionary base?
 Chester
 7749
 
@@ -31006,15 +31006,15 @@ Of the elements in the p-block of the periodic table, which has the lowest atomi
 boron
 7751
 
-Still Life with Apples and Basket of Apples are works by what artist, born in Provence in 1839?
+Still life with apples and Basket of apples are works by what artist, born in Provence in 1839?
 Cezanne
 7752
 
-Which artist's painting, Swallows the Poisoned Apple, depicts Walt Disney's Snow White as a middle-aged woman clutching her throat in agony? The work is a response to the 1937 Disney film.
+Which artist's painting, Swallows the poisoned apple, depicts Walt Disney's Snow white as a middle-aged woman clutching her throat in agony? The work is a response to the 1937 Disney film.
 Paula Rego
 7753
 
-Magritte's 1964 painting, The Son of Man, depicts a besuited man whose features are obscured by an apple. What headgear was he wearing?
+Magritte's 1964 painting, The son of man, depicts a besuited man whose features are obscured by an apple. What headgear was he wearing?
 bowler hat
 7754
 
@@ -31054,15 +31054,15 @@ What is Japanese horseradish?
 wasabi
 7763
 
-Identify the Shakespeare play: The king of Naples is shipwrecked by a sorcerer.
-The Tempest
+Identify the Shakespeare play: the king of Naples is shipwrecked by a sorcerer.
+The tempest
 7764
 
 What river separates Cambridge and Boston?
 Charles River
 7765
 
-Who made ``No Sleep till Brooklyn''?
+Who made ``No sleep till Brooklyn''?
 Beastie Boys
 7766
 
@@ -31102,7 +31102,7 @@ Using atomic numbers, if argon minus neon is oxygen, what element is calcium min
 sodium
 7775
 
-The Norwegian red king crab is found to the north of Russia in what area of the Arctic Ocean, also known as the Murman Sea?
+The Norwegian red king crab is found to the north of Russia in what area of the Arctic Ocean, also called the ``Murman Sea''?
 Barents Sea
 7776
 
@@ -31186,7 +31186,7 @@ What is a Banach space?
 complete normed vector space
 7796
 
-Who proved Ramanujan's conjecture that tau(p) is bounded by 2p^{11/2} and Petersson's conjecture that if c(n) defines the nth Fourier coefficient of a modular function of weight k, then c(p) is bounded by 2p^{(k-1)/2} in his masterful proof of the Riemann hypothesis for curves over finite fields?
+Who proved Ramanujan's conjecture that $\tau(p)$ is bounded by $2p^{11/2}$ and Petersson's conjecture that if $c(n)$ defines the $n$th Fourier coefficient of a modular function of weight $k$, then $c(p)$ is bounded by $2p^{(k-1)/2}$ in his masterful proof of the Riemann hypothesis for curves over finite fields?
 Deligne
 7797
 
@@ -31194,7 +31194,7 @@ Who introduced the theory of schemes in 1960?
 Grothendieck
 7798
 
-On what date did Puccini's Madama Butterfly premiere?
+On what date did Puccini's Madama butterfly premiere?
 17 February 1904
 7799
 
@@ -34274,7 +34274,7 @@ What is the Greek name for Euboea?
 Évvoia
 8568
 
-For what is Évvoia the Greek name?
+For what is ``Évvoia'' the Greek name?
 Euboea
 8569
 
