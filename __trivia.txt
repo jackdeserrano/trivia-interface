@@ -31210,7 +31210,7 @@ What is the highest rank of angels in Judaism?
 Chayot Hakodesh
 7802
 
-In the book The Horse, the Wheel, and Language, the anthropologist David W. Anthony argues that the domestication of the horse by the Botai played a vital role in the spreading of what widespread language family?
+In the book The horse, the wheel, and language, the anthropologist David W. Anthony argues that the domestication of the horse by the Botai played a vital role in the spreading of what widespread language family?
 Indo-European
 7803
 
@@ -31238,7 +31238,7 @@ Based on James Joyce's acquaintance, Oliver St. John Gogarty, what fictional cha
 Buck Mulligan
 7809
 
-``I think my sculptures are about what a human being or an animal feels like, not what they necessarily look like.'' These are the words of what twentieth-century sculptor whose works include Horse and Rider and Goggle Head?
+``I think my sculptures are about what a human being or an animal feels like, not what they necessarily look like.'' These are the words of what twentieth-century sculptor whose works include Horse and rider and Goggle head?
 Elisabeth Frink
 7810
 
@@ -31246,7 +31246,7 @@ What single word completes the phrase coined by the critic Herbert Reed to descr
 fear
 7811
 
-Elisabeth Frink's War Horse and Walking Madonna may be seen in the gardens of what stately home in Derbyshire?
+Elisabeth Frink's War horse and Walking madonna may be seen in the gardens of what stately home in Derbyshire?
 Chatsworth
 7812
 
@@ -31299,26 +31299,26 @@ Ulm
 7824
 
 Kate Croy, Milly Theale, and the journalist Merton Densher are significant characters in what novel by Henry James?
-The Wings of the Dove
+The wings of the dove
 7825
 
-For a collection of n single-variable functions, what name is given to the determinant of the matrix of the first n-1 derivatives of those functions?
-Wronskian
+For a collection of $n$ single-variable functions, what name is given to the determinant of the matrix of the first $n-1$ derivatives of those functions?
+Wrońskian
 7826
 
 Meaning ``small box,'' what three-letter word appears in the name of an annual judicial procedure or trial conducted by Goldsmith's?
 pyx
 7827
 
-Meaning ``to separate the grain from the chaff,'' what word does Keats use to describe the wind in the second stanza of ``To Autumn''?
+Meaning ``to separate the grain from the chaff,'' what word does Keats use to describe the wind in the second stanza of ``To autumn''?
 winnowing
 7828
 
-Meaning ``miserable in appearance,'' what word appears in the same line as ``haggard'' in Keats's ``La Belle Dame Sans Merci''?
+Meaning ``miserable in appearance,'' what word appears in the same line as ``haggard'' in Keats's ``La belle dame sans merci''?
 woe-begone
 7829
 
-What common adjective is applied to the word ``South'' in Keats's ``Ode to a Nightingale''?
+What common adjective is applied to the word ``South'' in Keats's ``Ode to a nightingale''?
 warm
 7830
 
@@ -31334,7 +31334,7 @@ The dinosaur classifications Saurischia and Ornithischia are so-called because o
 hip
 7833
 
-Also known as the reptile bird, what bird of the South American swamplands is noted for the winged claws of its young that resemble those of the archaeopteryx dinosaurs?
+Also known as the ``reptile bird,'' what bird of the South American swamplands is noted for the winged claws of its young that resemble those of the archaeopteryx dinosaurs?
 hoatzin
 7834
 
@@ -31342,11 +31342,11 @@ Alive in the Cretaceous period and growing to a height of around eight feet, the
 ostrich
 7835
 
-What surname is shared by the two astrophysicists who, alongside Willie Fowler and Fred Hoyle, wrote the landmark 1957 paper ``Synthesis of the Elements in Stars,'' also known as the B^2FH paper?
+What surname is shared by the two astrophysicists who, alongside Willie Fowler and Fred Hoyle, wrote the landmark 1957 paper ``Synthesis of the elements in stars,'' also known as the ``B^2FH paper''?
 Burbidge
 7836
 
-In its ancient era, what country was divided into administrative regions called nomes?
+In its ancient era, what country was divided into administrative regions called ``nomes''?
 Egypt
 7837
 
@@ -31355,18 +31355,18 @@ Gluck
 7838
 
 Count Octavian, the youthful lover of an older princess, is the travesti role in which opera by Richard Strauss?
-Der Rosenkavalier
+Der rosenkavalier
 7839
 
 In what opera by Mozart is the trouser role character Cherubino sent away to join the army for flirting with female members of Count Almaviva's household?
-The Marriage of Figaro
+The narriage of Figaro
 7840
 
-Who indited Six Characters in Search of an Author?
+Who indited Six characters in search of an author?
 Pirandello
 7841
 
-What Theatre of the Absurd play did Ionesco write to oppose Sartre?
+What Theatre of the absurd play did Ionesco write to oppose Sartre?
 Rhinoceros
 7842
 
@@ -31390,15 +31390,15 @@ In what Shakespearean tragedy does Iago say, ``Trifles light as air / Are to the
 Othello (3.3.322--24)
 7847
 
-The Saffron Revolution (2007) involved anti-government protests led by Buddhist monks wearing saffron-coloured robes. In what country did it occur?
+The saffron revolution (2007) involved anti-government protests led by Buddhist monks wearing saffron-coloured robes. In what country did it occur?
 Myanmar
 7848
 
-Coloured signs carried by demonstrators gave Kuwait's 2005 Blue Revolution its name. The aim was not to overthrow the government but to achieve what end?
+Coloured signs carried by demonstrators gave Kuwait's 2005 blue revolution its name. The aim was not to overthrow the government but to achieve what end?
 women's suffrage
 7849
 
-Soldiers were given flowers by protesters demanding the resignation of what president during the 2003 Rose Revolution in the former Soviet state of Georgia?
+Soldiers were given flowers by protesters demanding the resignation of what president during the 2003 rose revolution in the former Soviet state of Georgia?
 Eduard Shevardnadze
 7850
 
@@ -31406,19 +31406,19 @@ What country comes fourth in this clockwise sequence of countries bordering Slov
 Austria
 7851
 
-The Dream and La Female Garde are creations of what director and founding choreographer of the Royal Ballet?
+The dream and La female garde are creations of what director and founding choreographer of the Royal Ballet?
 Frederick Ashton
 7852
 
-What contemporary composer created the score to Woolf Works: a ballet that was inspired by Virginia Woolf?
+What contemporary composer created the score to Woolf works: a ballet that was inspired by Virginia Woolf?
 Max Richter
 7853
 
-Zero Degrees, Fall, and Exhibition are among the creations of what Belgian-born director and choreographer?
+Zero degrees, Fall, and Exhibition are among the creations of what Belgian-born director and choreographer?
 Sidi Larbi Cherkaoui
 7854
 
-What name is given to the endomorphism x \mapsto x^p, which is an automorphism if F is a finite field of characteristic p?
+What name is given to the endomorphism $x \longmapsto x^p$, which is an automorphism if $F$ is a finite field of characteristic $p$?
 Frobenius
 7855
 
@@ -31510,7 +31510,7 @@ Define ``exergonic.''
 John Franklin Enders
 7877
 
-What computing adjective describes two systems of ordering data, in which the most significant unit is put either first or last? Its name comes from the egg-breaking habits of characters from Swift's Gulliver's Travels.
+What computing adjective describes two systems of ordering data, in which the most significant unit is put either first or last? Its name comes from the egg-breaking habits of characters from Swift's Gulliver's travels.
 endian
 7878
 
