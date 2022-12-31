@@ -32846,7 +32846,7 @@ What is Socotra's highest point?
 Mashanig
 8211
 
-Define ``the adjective ``erstwhile.''
+Define the adjective ``erstwhile.''
 former
 8212
 
@@ -32894,7 +32894,7 @@ On what river is Antwerp?
 Scheldt
 8223
 
-What city was called Karl-Marx-Stadt?
+What city was called ``Karl-Marx-Stadt''?
 Chemnitz
 8224
 
@@ -32914,7 +32914,7 @@ Who designed Brasília?
 Lúcio Costa
 8228
 
-In what year was Goiânia founded?
+When was Goiânia founded?
 1933
 8229
 
@@ -33203,7 +33203,7 @@ twins
 8300
 
 What is a discrete valuation ring?
-PID with unique nonzero maximal ideal
+principal ideal domain with a unique non-zero maximal ideal
 8301
 
 Who was the last pope of the States of the Church?
