@@ -33195,7 +33195,7 @@ Fyodor Tyutchev
 8298
 
 What term that refers to a mode of biblical interpretation prominent in the Talmudic literature is also used to refer to a separate body of commentaries on Scripture that use this interpretative mode?
-Midrash
+midrash
 8299
 
 Complete this ancient midrash: ``God and man are in a sense ---.''
@@ -33366,12 +33366,12 @@ Define ``deleterious.''
 causing harm or damage
 8341
 
-Give an example of an infinite field of characteristic p.
-rational functions over F_p
+Give an example of an infinite field of characteristic $p$.
+rational functions over $\mathbf{F}_p$
 8342
 
 What Richard Strauss tone poem depicts ``the last hours of a man who had striven for the highest ideals''? It is partitioned into four sections.
-Tod und Verklärung `Death and Transfiguration'
+Tod und Verklärung `Death and transfiguration'
 8343
 
 What is an animal that lives on the body of another animal, especially as a parasite?
@@ -33402,7 +33402,7 @@ What narrative poem resembles an epic poem in style but is notably shorter?
 epyllion
 8350
 
-What state is known as the Equality State?
+What state is known as ``the equality state''?
 Wyoming
 8351
 
@@ -33498,7 +33498,7 @@ What mountain range in northern Morocco runs parallel to the Mediterranean Sea a
 Er Rif
 8374
 
-What proposed amendment to the US Constitution states that civil rights may not be denied based on one's sex?
+What proposed amendment to the American Constitution states that civil rights may not be denied based on one's sex?
 Equal Rights Amendment
 8375
 
@@ -33550,7 +33550,7 @@ Where did Strauss exit?
 Garmisch-Partenkirchen
 8387
 
-What alpine ski town is nicknamed Ga-Pa?
+What alpine ski town is nicknamed ``Ga-Pa''?
 Garmisch-Partenkirchen
 8388
 
