@@ -34494,7 +34494,7 @@ When was the European Free Trade Association established?
 1960
 8623
 
-What does EFTA abbreviate?
+What does ``EFTA'' abbreviate?
 European Free Trade Association
 8624
 
@@ -34542,7 +34542,7 @@ Where was Eusebio born?
 Mozambique
 8635
 
-(c. 264--c. 340 AD) His Ecclesiastical History is the principal source for the history of Christianity (especially in the Eastern Church) from the age of the Apostles until 324. What bishop and Church historian wrote this?
+(c. 264--c. 340 AD) His Ecclesiastical history is the principal source for the history of Christianity (especially in the Eastern Church) from the age of the Apostles until 324. What bishop and Church historian wrote this?
 Eusebius
 8636
 
@@ -34558,7 +34558,7 @@ What is the change of sea level throughout the world caused typically by movemen
 eustasy
 8639
 
-What road in London, which was the site of a former School of Drawing and Painting (1938--39), denoted a group of English post-impressionist realistic painters of the 1930s, whose members included William Coldstream (1908--87) and Victor Pasmore (1908--98)?
+What road in London, which was the site of a former School of Drawing and Painting (1938--39), gave its name to a group of English post-impressionist realistic painters of the 1930s, whose members included William Coldstream (1908--87) and Victor Pasmore (1908--98)?
 Euston Road
 8640
 
@@ -34686,7 +34686,7 @@ What is eversion?
 the action of turning a structure or organ outwards or inside out
 8671
 
-(b. 1954) What US tennis player won both the US and French Open championships six times and Wimbledon three times (1974, 1976, 1981)?
+(b. 1954) What American tennis player won both the US and French Open championships six times and Wimbledon three times (1974, 1976, 1981)?
 Chris Evert
 8672
 
@@ -34718,7 +34718,7 @@ What meat is found in shepherd's pie?
 lamb
 8679
 
-Any algebraic curve over Q can be rationally mapped to the projective line without three points. This led Grothendieck to define what term in his Esquisse?
+Any algebraic curve over $\mathbf{Q}$ can be mapped rationally to the projective line without three points. This led Grothendieck to define what term in his Esquisse?
 dessin d'enfant
 8680
 
@@ -34786,15 +34786,15 @@ Who composed Frauenliebe und Leben?
 Schumann
 8696
 
-Who wrote the music for The Threepenny Opera?
+Who wrote the music for The threepenny opera?
 Kurt Weill
 8697
 
-Who composed the poem ``General William Booth Enters into Heaven''?
+Who composed the poem ``General William Booth enters into heaven''?
 Vachel Lindsay
 8698
 
-Who wrote the musical setting to Vachel Lindsay's ``General William Booth Enters into Heaven''?
+Who wrote the musical setting to Vachel Lindsay's ``General William Booth enters into heaven''?
 Charles Ives
 8699
 
