@@ -34803,7 +34803,7 @@ Georges Auric, Louis Durey, Arthur Honegger, Darius Milhaud, Francis Poulenc, Ge
 8700
 
 Translate ``Ein feste burg ist unser Gott.''
-mighty fortress is our God
+a mighty fortress is our God
 8701
 
 What English canon is one of the oldest notated melodies known to man? Its name means something like, ``Summer is here.''
@@ -34886,7 +34886,7 @@ With whom did Zeus create the Muses?
 Mnemosyne
 8721
 
-A binary form of degree 2n can be split into a sum of powers of n linear forms if and only if this invariant is zero. The term was invented by Sylvester.
+A binary form of degree $2n$ can be split into a sum of powers of $n$ linear forms if and only if this invariant is zero. The term was invented by Sylvester.
 catalecticant
 8722
 
@@ -34954,11 +34954,11 @@ What is an excursus?
 detailed discussion of a particular point in a book, usually in an appendix
 8738
 
-For what does fppf stand?
+For what does ``fppf'' stand?
 fidèlement plate de présentation finie
 8739
 
-For what does fpqc stand?
+For what does ``fpqc'' stand?
 fidèlement plate et quasi-compacte
 8740
 
@@ -35062,7 +35062,7 @@ Define ``extempore.''
 spoken or done without preparation
 8765
 
-What does XML abbreviate?
+What does ``XML'' abbreviate?
 Extensible Markup Language
 8766
 
@@ -35094,19 +35094,19 @@ What is Australia's largest salt lake?
 Lake Eyre
 8773
 
-(1916--97) What German-born British psychologist was noted for his strong criticism of Freudian psychoanalysis and for his ideas concerning the assessment of intelligence and personality (published in Race, Intelligence, and Education, 1971)?
+(1916--97) What German-born British psychologist was noted for his strong criticism of Freudian psychoanalysis and for his ideas concerning the assessment of intelligence and personality (published in Race, intelligence, and education, 1971)?
 Hans Eysenck
 8774
 
-(1892--1957) What Italian-born US opera singer performed with the Metropolitan Opera from 1926 until 1948 and was responsible for the return of Mozart's operas to the Met repertory? In 1949, this bass appeared on Broadway in South Pacific.
+(1892--1957) What Italian-born American opera singer performed with the Metropolitan Opera from 1926 until 1948 and was responsible for the return of Mozart's operas to the Met repertory? In 1949, this bass appeared on Broadway in South Pacific.
 Ezio Pinza
 8775
 
-(1727--95) What US scholar, teacher, lawyer, and Congregational minister in Newport, Rhode Island (1755--86) was the president of Yale College (1778--95) and a founder of Rhode Island College (later Brown University) in 1764?
+(1727--95) What American scholar, teacher, lawyer, and Congregational minister in Newport, Rhode Island (1755--86) was the president of Yale College (1778--95) and a founder of Rhode Island College (later Brown University) in 1764?
 Ezra Stiles
 8776
 
-To whom did Bach dedicate his Musical Offering?
+To whom did Bach dedicate his Musical offering?
 Frederick the Great
 8777
 
@@ -35143,7 +35143,7 @@ bagpipes
 8785
 
 What rhythm and blues group recorded ``My Girl'' in 1964?
-The Temptations
+The temptations
 8786
 
 What cap with a frustum-like shape is worn often by Muslim men in Indonesia?
@@ -35166,7 +35166,7 @@ What organization of socialists aims to achieve socialism by gradual rather than
 Fabian Society
 8791
 
-(d. 203 BC) What Roman general and statesman successfully pursued a strategy of caution and delay to wear down the Carthaginian invaders after Hannibal's defeat of the Roman army at Cannae in 216 BC? This earned him his nickname, --- Cunctator, which means ``delayer.''
+(d. 203 BC) What Roman general and statesman successfully pursued a strategy of caution and delay to wear down the Carthaginian invaders after Hannibal's defeat of the Roman army at Cannae in 216 BC? This earned him his nickname, ``--- Cunctator,'' which means ``delayer.''
 Fabius
 8792
 
