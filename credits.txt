@@ -458,7 +458,7 @@ Sunridin.
 IAU.
 
 7182
-Library of Congress, Washington, D.C. (negative no. LC-USZ62-52654).
+Library of Congress, Washington, D. C. (negative no. LC-USZ62-52654).
 
 7183
 Luc Viatour.
@@ -1286,7 +1286,7 @@ Herbert James Draper.
 Herbert James Draper.
 
 7989
-Ivan.Romero~commonswiki.
+Ivan.Romero.
 
 7991
 Martin Hasselblatt MD.
@@ -1361,7 +1361,7 @@ Batholith.
 Johann Jaritz.
 
 8246
-Joelholdsworth~commonswiki.
+Joelholdsworth.
 
 8260
 Le Creuset.
@@ -1890,6 +1890,102 @@ Selinous.
 
 8801
 Mattkosloski.
+
+8804
+Pmorelli1969.
+
+8811
+Ab basit007.
+
+8812
+Ab basit007.
+
+8814
+Andyworks via Getty Images.
+
+8815
+Az88.
+
+8817
+Maksim.
+
+8822
+Hogweard.
+
+8824
+Pablo Picasso.
+
+8827
+R. P. Jacobs, E. B. O'Donnell, and Connecticut DEEP.
+
+8830
+Los688.
+
+8833
+Nick Hobgood.
+
+8836
+Bernard Cahier/Getty Images.
+
+8840
+Henry William Pickersgill.
+
+8842
+DrBob.
+
+8847
+Ian MacNicol/Getty Images.
+
+8849
+jean-louis zimmermann.
+
+8855
+Masae.
+
+8856
+NASA/GSFC/METI/ERSDAC/JAROS, and U. S./Japan ASTER Science Team.
+
+8857
+Masae.
+
+8858
+Masae.
+
+8859
+Creative Touch Imaging Ltd./NurPhoto via Getty Images.
+
+8863
+Eric Hunt.
+
+8864
+Canterbury Tail.
+
+8867
+Pontificalibus.
+
+8868
+Mick Knapton.
+
+8871
+Library of Congress, Washington, D. C. (Digital File Number: LC-DIG-matpc-08368).
+
+8874
+Iustinus.
+
+8875
+kallerna.
+
+8880
+30rKs56MaE.
+
+8881
+Sergio Gaudenti/Sygma via Getty Images.
+
+8883
+F l a n k e r.
+
+8894
+Odd Wellies.
 
 9204
 Matthias Hangst/Getty Images.
