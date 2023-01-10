@@ -36022,7 +36022,7 @@ What is Norwegian for ``fifteen''?
 femten
 9005
 
-What prefix denotes a factor of 10^{-15}? It comes from the Norwegian for ``fifteen.''
+What prefix denotes a factor of $10^{-15}$? It comes from the Norwegian for ``fifteen.''
 femto
 9006
 
@@ -36078,7 +36078,7 @@ What is the capital of Rhineland-Palatinate?
 Mainz
 9019
 
-What American music theorist held the post of Battell Professor of the Theory of Music at Yale University? He is recognized for his expertise in 20th-century atonal music and music analysis and for his influential The Structure of Atonal Music of 1973, which includes a description of the numbers that he assigned to certain pitch-class sets.
+What American music theorist held the post of Battell Professor of the Theory of Music at Yale University? He is recognized for his expertise in 20th-century atonal music and music analysis and for his influential The structure of atonal music (1973), which includes a description of the numbers that he assigned to certain pitch-class sets.
 Allen Forte
 9020
 
@@ -36094,7 +36094,7 @@ Who wrote the music for H. M. S. Pinafore?
 Arthur Sullivan
 9023
 
-On what novel was The Six Million Dollar Man based?
+On what novel was The six million dollar man based?
 Cyborg
 9024
 
@@ -36146,7 +36146,7 @@ In what characteristic style of 17th-century lute music were the notes of a chor
 style brisé
 9036
 
-(1894--1976) What American composer and music theorist held the post of Naumberg Professor of Music at Harvard University? He studied music at Harvard University and in Paris with Nadia Boulanger, Paul Dukas, and George Enescu. He taught Leonard Bernstein, Gunther Schuller, and Elliot Carter and published Principles of Harmonic Analysis (1933), Harmony (1941), Counterpoint (1947), and Orchestration (1955).
+(1894--1976) What American composer and music theorist held the post of Naumberg Professor of Music at Harvard University? He studied music at Harvard University and in Paris with Nadia Boulanger, Paul Dukas, and George Enescu. He taught Leonard Bernstein, Gunther Schuller, and Elliot Carter and published Principles of harmonic analysis (1933), Harmony (1941), Counterpoint (1947), and Orchestration (1955).
 Walter Piston
 9037
 
@@ -36194,7 +36194,7 @@ What was a feoffment?
 grant of ownership of freehold property to someone
 9048
 
-What ``ironlike'' large and dangerous pit viper is native to Central and South America?
+What ``iron-like'' large and dangerous pit viper is native to Central and South America?
 fer de lance
 9049
 
@@ -36226,7 +36226,7 @@ Define ``ferity.''
 the state or quality of being wild or savage
 9056
 
-(1919--2021) This US poet and publisher, who is identified with San Francisco's beat movement, founded the publishing house City Lights, which produced works such as Allen Ginsberg's Howl (1957). He wrote A Coney Island of the Mind (1958) and Her (1960).
+(1919--2021) This American poet and publisher, who is identified with San Francisco's beat movement, founded the publishing house City Lights, which produced works such as Allen Ginsberg's howl (1957). He wrote A Coney Island of the mind (1958) and Her (1960).
 Lawrence Ferlinghetti
 9057
 
@@ -36242,7 +36242,7 @@ This unit of length equivalent to one femtometre is similar to the diameter of a
 fermi
 9060
 
-(1881--1955) From about 1909, this French painter was associated with the cubist movement but developed a style inspired by machinery and modern technology. His works include the Contrast of Forms series (1913).
+(1881--1955) From about 1909, this French painter was associated with the cubist movement but developed a style inspired by machinery and modern technology. His works include the Contrast of forms series (1913).
 Fernand Léger
 9061
 
@@ -36398,7 +36398,7 @@ What was the name shared by the two kings---the first and second---who founded F
 Idrīs
 9099
 
-What heraldic term has this definition: ``An ordinary in the form of a broad horizontal stripe across the middle of the shield''?
+What heraldic term has this definition: ``an ordinary in the form of a broad horizontal stripe across the middle of the shield''?
 fess
 9100
 
