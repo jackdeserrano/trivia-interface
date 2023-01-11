@@ -36434,7 +36434,7 @@ In what transistor is most current carried along a channel whose effective resis
 field-effect transistor
 9108
 
-What does FET abbreviate?
+What does ``FET'' abbreviate?
 field-effect transistor
 9109
 
@@ -36450,7 +36450,7 @@ What part of a European newspaper or magazine is designed to entertain the gener
 feuilleton
 9112
 
-Identify this dominant social system in medieval Europe: The nobility held lands from the Crown in exchange for military service, vassals were in turn tenants of the nobles, while the peasants (villeins or serfs) were obliged to live on their lord's land and give him homage, labour, and a share of the produce, notionally in exchange for military protection.
+Identify this dominant social system in medieval Europe: the nobility held lands from the Crown in exchange for military service, vassals were in turn tenants of the nobles, while the peasants (villeins or serfs) were obliged to live on their lord's land and give him homage, labour, and a share of the produce, notionally in exchange for military protection.
 feudalism
 9113
 
@@ -36510,7 +36510,7 @@ What is the colour of the stove in ``The Simpsons''?
 green
 9127
 
-What city was called Duroliponte?
+What city was called ``Duroliponte''?
 Cambridge
 9128
 
@@ -36586,11 +36586,11 @@ What name for a faithful friend or devoted follower is derived from the name of 
 fidus Achates
 9146
 
-Complete the phrase: ``He --- while Rome burns.''
+Complete the phrase: ``he --- while Rome burns.''
 fiddles
 9147
 
-Complete the phrase: ``He fiddles while --- burns.''
+Complete the phrase: ``he fiddles while --- burns.''
 Rome
 9148
 
@@ -36602,7 +36602,7 @@ What's a fief?
 estate of land, especially one held on condition of feudal service
 9150
 
-(1707--54) What English novelist provoked the introduction of censorship in theatres with his political satire The Historical Register for 1736? After this, he turned to write picaresque novels, notably Joseph Andrews (1742) and Tom Jones (1749).
+(1707--54) What English novelist provoked the introduction of censorship in theatres with his political satire The historical register for 1736? After this, he turned to write picaresque novels, notably Joseph Andrews (1742) and Tom Jones (1749).
 Henry Fielding
 9151
 
@@ -36618,7 +36618,7 @@ Who composed La bohème?
 Puccini
 9154
 
-Translate ``Che gelida manina.''
+Translate ``che gelida manina.''
 how cold your little hand is
 9155
 
