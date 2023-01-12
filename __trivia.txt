@@ -36842,11 +36842,11 @@ Who wrote that ``Mahler antizipiert schreckhaft das Kommende mit vergangenen Mit
 Theodor Adorno
 9210
 
-Translate ``À la poursuite des champs.''
-Pursuing stacks
+Translate ``à la poursuite des champs.''
+pursuing stacks
 9211
 
-What does qqn abbreviate?
+What does ``qqn'' abbreviate?
 quelqu'un
 9212
 
@@ -36866,15 +36866,15 @@ Who advised David Mumford?
 Oscar Zariski
 9216
 
-Translate ``Die forelle.''
-The trout
+Translate ``die forelle.''
+the trout
 9217
 
 To what patron did Tchaikovsky dedicate his fourth symphony?
 Nadezhda von Meck
 9218
 
-What Shakespearean character exclaims ``A plague o' both your houses!'' after exiting at the sword of Tybalt?
+What Shakespearean character exclaims ``a plague o' both your houses!'' after exiting at the sword of Tybalt?
 Mercutio
 9219
 
@@ -36882,7 +36882,7 @@ To whose poem did Schubert set Die forelle?
 Christian Friedrich Daniel Schubart
 9220
 
-What movement of Stravinsky's Rite of Spring is composed around the infamous E flat--dominant over F flat polychord?
+What movement of Stravinsky's Rite of spring is composed around the infamous E flat--dominant over F flat polychord?
 Les augures printaniers `Augurs of spring'
 9221
 
@@ -36899,7 +36899,7 @@ Cohen, Seidenberg
 9224
 
 On whom was Messaien's only opera?
-St. Francis of Assissi
+St. Francis of Assisi
 9225
 
 What was Alban Berg's first opera?
@@ -36979,7 +36979,7 @@ What is the type of the Riemann curvature tensor?
 9244
 
 What is the vacuum Einstein field equation?
-R_{\mu\nu} = 0
+$R_{\mu\nu} = 0$
 9245
 
 Whose separation ansatz was critical in the proof of a result of Finster, Kamran, Smoller, and Yau (2003) that states that a Dirac particle either falls into the black hole or escapes to infinity?
@@ -36995,7 +36995,7 @@ Uccle, Belgium
 9248
 
 What is the order of the Tits group?
-2^{11} 3^3 5^2 13 = 17, 971, 200
+$2^{11} 3^3 5^2 13 = 17971200$
 9249
 
 On what date was John Nash born?
@@ -37050,7 +37050,7 @@ What is the Hungarian name for Cluj--Napoca?
 Kolozsvár
 9262
 
-What Romanian city's name was once Klausenburg?
+What Romanian city's name was once ``Klausenburg''?
 Cluj--Napoca
 9263
 
@@ -37106,7 +37106,7 @@ Who commissioned Appalachian spring?
 Martha Graham
 9276
 
-What does FIFO abbreviate?
+What does ``FIFO'' abbreviate?
 first in, first out
 9277
 
@@ -37146,7 +37146,7 @@ During what break from activity do people drink coffee, eat cakes or other light
 fika
 9286
 
-What f-term refers to a kilt?
+What ``f''-term refers to a kilt?
 filibeg
 9287
 
@@ -37162,7 +37162,7 @@ What is the common name of Corylus maxima?
 giant filbert
 9290
 
-What does FTP abbreviate?
+What does ``FTP'' abbreviate?
 file transfer protocol
 9291
 
