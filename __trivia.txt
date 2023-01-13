@@ -37254,7 +37254,7 @@ Where did Bernstein enrol after graduating from Harvard University?
 Curtis Institute of Music
 9313
 
-Whose debut album was called Tubular bells?
+Whose debut album was called ``Tubular bells''?
 Mike Oldfield
 9314
 
@@ -37466,7 +37466,7 @@ When did Messier publish his catalogue?
 1774
 9366
 
-When did Dalí paint In principiodeus creavit . . . ?
+When did Dalí paint In principio deus creavit . . . ?
 1964
 9367
 
@@ -37538,8 +37538,8 @@ What packing is demonstrated in helium crystals?
 hexagonal close packing
 9384
 
-What is the volume of the n-sphere?
-pi^{n/2}/(n/2)!
+What is the volume of the $n$-sphere?
+$\pi^{n/2}/(n/2)!$
 9385
 
 What anatomical term refers to a series of threads or other projections resembling a fringe?
@@ -37570,7 +37570,7 @@ What was the German name for the final solution?
 Endlösung
 9392
 
-What does FTSE abbreviate?
+What does ``FTSE'' abbreviate?
 Financial Times Stock Exchange
 9393
 
