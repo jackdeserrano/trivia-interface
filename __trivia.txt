@@ -38343,7 +38343,7 @@ Cohomologie étale `Étale cohomology'
 9585
 
 What is the title of SGA 5?
-Cohomologie \ell-adique et fonctions L `\ell-adic cohomology and L-functions'
+Cohomologie $\ell$-adique et fonctions $L$ `$\ell$-adic cohomology and $L$-functions'
 9586
 
 What is the title of SGA 6?
