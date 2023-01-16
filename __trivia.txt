@@ -38414,7 +38414,7 @@ When did Dick Fosbury win Olympic gold?
 1968
 9603
 
-What does FOSS abbreviate?
+What does ``FOSS'' abbreviate?
 free and open source software
 9604
 
@@ -38722,7 +38722,7 @@ Who suggested that ``any internal state of contradiction, unrecognized, will be 
 Jung (Aion)
 9680
 
-What does EBITDA abbreviate?
+What does ``EBITDA'' abbreviate?
 earnings before interest, taxes, depreciation, and amortization
 9681
 
@@ -38750,7 +38750,7 @@ What small ridge of tissue supports or checks the motion of the thing to which i
 frenulum
 9687
 
-(1732--1806) What French painter in the rococo style is famous for landscapes and for erotic canvases such as The Progress of Love (1771)?
+(1732--1806) What French painter in the rococo style is famous for landscapes and for erotic canvases such as The progress of love (1771)?
 Jean-Honoré Fragonard
 9688
 
@@ -38778,11 +38778,11 @@ Jorge Mario Bergoglio
 Francis I
 9694
 
-(1567--1622, feast day: 24 January) What French bishop and leader of the Counter-Reformation, he was bishop of Geneva (1602--22)? A religious order that was founded in 1859 is named after him.
+(1567--1622, feast day: 24 January) What French bishop and leader of the Counter-Reformation was bishop of Geneva (1602--22)? A religious order that was founded in 1859 is named after him.
 St. Francis of Sales
 9695
 
-(1824--97) What English critic and poet is known for his anthology The Golden Treasury of Songs and Lyrical Poems in the English Language (1861)?
+(1824--97) What English critic and poet is known for his anthology The golden treasury of songs and lyrical poems in the English Language (1861)?
 Francis Turner Palgrave
 9696
 
@@ -38790,15 +38790,15 @@ Francis Turner Palgrave
 Francis Poulenc
 9697
 
-
 (c. 1530--90) What English politician, as Secretary of State to Queen Elizabeth I, developed a spy network that gathered information about Catholic plots against Elizabeth I?
+Sir Francis Walsingham
 9698
 
-(1598--1664) This Spanish painter was the official painter to Seville from 1628. He carried out commissions for many churches and for Philip IV, for whom he painted The Defence of Cadiz (1634) and the series The Labours of Hercules (1634). Much of his subject matter is religious.
+(1598--1664) This Spanish painter was the official painter to Seville from 1628. He carried out commissions for many churches and for Philip IV, for whom he painted The defence of Cadiz (1634) and the series The labours of Hercules (1634). Much of his subject matter is religious.
 Francisco de Zurbarán
 9699
 
-(1892--1975) The leader of the Nationalists in the Civil War, in 1937, this Spanish general and dictator became head of the Falange Party and proclaimed himself Caudillo `leader' of Spain. With the defeat of the republic in 1939, he took control of the government and established a dictatorship that ruled Spain until his death.
+(1892--1975) The leader of the Nationalists in the Civil War, in 1937, this Spanish general and dictator became head of the Falange Party and proclaimed himself ``Caudillo'' `leader' of Spain. With the defeat of the republic in 1939, he took control of the government and established a dictatorship that ruled Spain until his death.
 Francisco Franco
 9700
 
