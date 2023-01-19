@@ -39282,23 +39282,23 @@ How many edges does an icosahedron have?
 30
 9820
 
-What solid has the Schläfli symbol {3,3}?
+What solid has the Schläfli symbol $\{3,3\}$?
 tetrahedron
 9821
 
-What solid has the Schläfli symbol {4,3}?
+What solid has the Schläfli symbol $\{4,3\}$?
 cube
 9822
 
-What solid has the Schläfli symbol {3,4}?
+What solid has the Schläfli symbol $\{3,4\}$?
 octahedron
 9823
 
-What solid has the Schläfli symbol {5,3}?
+What solid has the Schläfli symbol $\{5,3\}$?
 dodecahedron
 9824
 
-What solid has the Schläfli symbol {3,5}?
+What solid has the Schläfli symbol $\{3,5\}$?
 icosahedron
 9825
 
@@ -39410,11 +39410,11 @@ From where are the Kwakwaka'wakw peoples?
 Vancouver Island, surrounding regions
 9852
 
-Define ``the noun ``dovetail.''
+Define the noun ``dovetail.''
 joint formed by one or more tapered projections (tenons) on one piece that interlock with corresponding notches or recesses (mortises) in another
 9853
 
-Define ``the adjective ``dovetail.''
+Define the adjective ``dovetail.''
 fit or make fit together easily and conveniently
 9854
 
@@ -39502,7 +39502,7 @@ What southern French village sheltered thousands of Jewish people during the Sho
 Le Chambon sur Lignon
 9875
 
-For what does qcqs stand?
+For what does ``qcqs'' stand?
 quasi-compacte et quasi-séparé
 9876
 
@@ -39570,7 +39570,7 @@ Fram
 Milton Friedman
 9892
 
-Who painted the altarpiece The cross in the mountains (1808)?
+Who painted the altarpiece Cross in the mountains (1808)?
 Caspar David Friedrich
 9893
 
