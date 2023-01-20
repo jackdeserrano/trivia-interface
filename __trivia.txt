@@ -40694,7 +40694,7 @@ What word does Northrop Frye say means ``change of outlook or spiritual metamorp
 metanoia
 10173
 
-Identify the verse:``Bring forth fruits meet for metanoia.''
+Identify the verse: ``Bring forth fruits meet for metanoia.''
 Matthew 3.8
 10174
 
@@ -40730,7 +40730,7 @@ What is autopoiesis?
 self creation or self organization
 10182
 
-"Whereas traditional cognitive science also encompasses these disciplines, --- finds common purpose in a conception of mind wedded to computationalism: mental processes are computational processes; the brain, qua computer, is the seat of cognition. In contrast, --- variously rejects or reformulates the computational commitments of cognitive science, emphasizing the significance of an agent's physical body in cognitive abilities.'' (Stanford encyclopedia of philosophy)
+``Whereas traditional cognitive science also encompasses these disciplines, --- finds common purpose in a conception of mind wedded to computationalism: mental processes are computational processes; the brain, qua computer, is the seat of cognition. In contrast, --- variously rejects or reformulates the computational commitments of cognitive science, emphasizing the significance of an agent's physical body in cognitive abilities.'' (Stanford encyclopedia of philosophy)
 embodied cognition
 10183
 
@@ -40758,7 +40758,7 @@ Where is Ekibastuz?
 northeast Kazakhstan
 10189
 
-What does I. N. R. I. abbreviate?
+What does I. N. R. I. abbreviate in the alchemical setting?
 Igne Natura Renovatur Integra `All nature is through fire renewed'
 10190
 
@@ -40766,7 +40766,7 @@ What script was invented for the Slavic languages about 860 by the Eastern Ortho
 Glagolitic
 10191
 
-(1892--1971) What US theologian and professor of Christian ethics at Union Theological Seminary (1928--60) wrote Moral man and immoral society (1932) and The irony of American history (1952)?
+(1892--1971) What American theologian and professor of Christian ethics at Union Theological Seminary (1928--60) wrote Moral man and immoral society (1932) and The irony of American history (1952)?
 Reinhold Niebuhr
 10192
 
@@ -40862,7 +40862,7 @@ Define ``fulvous.''
 reddish yellow; tawny
 10215
 
-What crystalline acid isomeric with maleic acid and present in fumitory and many other plants has the chemical formula HOOCCH=CHCOOH? Alternatively, it is called trans -butenedioic acid.
+What crystalline acid isomeric with maleic acid is present in fumitory and many other plants? Alternatively, it is called ``trans -butenedioic acid.''
 fumaric acid
 10216
 
