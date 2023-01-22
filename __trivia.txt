@@ -78,7 +78,7 @@ Albrecht von Haller
 Maria Gaetana Agnesi
 19
 
-(1785--1873) What Italian novelist, playwright, and poet is remembered chiefly as the author of I promessi sposi `The betrothed' (1825--42): A historical reconstruction of seventeenth-century Lombardy?
+(1785--1873) What Italian novelist, playwright, and poet is remembered chiefly as the author of I promessi sposi `The betrothed' (1825--42): a historical reconstruction of seventeenth-century Lombardy?
 Alessandro Manzoni
 20
 
@@ -5522,7 +5522,7 @@ What is the official aircraft of the President of the United States called?
 Air Force One
 1380
 
-What is the only US state pronounced with one syllable?
+What is the only American state pronounced with one syllable?
 Maine
 1381
 
@@ -15439,7 +15439,7 @@ Golden 1 Center
 3859
 
 What venue is home to the San Antonio Spurs?
-AT&T Center
+AT\&T Center
 3860
 
 What venue is home to the San Diego Padres?
@@ -23410,7 +23410,7 @@ What word coming from the Latin for ``theft'' means ``attempting to avoid notice
 furtive
 5852
 
-What word coming from the name of a braggart in Spenser's The Faerie Queene refers to ``boastful or arrogant behaviour''?
+What word coming from the name of a braggart in Spenser's The faerie queene refers to ``boastful or arrogant behaviour''?
 braggadocio
 5853
 
@@ -29838,7 +29838,7 @@ What word comes from the Persian (Avestan) for ``around'' plus ``a wall''?
 paradise
 7459
 
-What proposed homeland of the Tamil people of Sri Lanka did the Tamil Tigers separatist group fight for until their defeat in 2009?
+For what proposed homeland of the Tamil people of Sri Lanka did the Tamil Tigers separatist group fight until their defeat in 2009?
 Eelam
 7460
 
@@ -39946,7 +39946,7 @@ What Egyptian king (1952--53) was named king as an infant on the forced abdicati
 Fuad II
 9986
 
-(1911--88) This German-born British physicist was a communist who fled Nazi persecution. During the 1940s, he passed secret information to the USSR acquired while working on developing the atom bomb in the US and while engaged in research in Britain.
+(1911--88) This German-born British physicist was a communist who fled Nazi persecution. During the 1940s, he passed secret information to the USSR acquired while working on developing the atom bomb in the United States and while engaged in research in Britain.
 Klaus Fuchs
 9987
 
