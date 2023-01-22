@@ -41258,7 +41258,7 @@ What is G and T?
 gin and tonic
 10314
 
-What element does Ga symbolize?
+What element does ``Ga'' symbolize?
 gallium
 10315
 
@@ -41390,7 +41390,7 @@ What animal features in the children's book And tango makes three?
 penguin
 10347
 
-What author is noted for the Best word book ever?
+What author is noted for Best word book ever?
 Richard Scarry
 10348
 
@@ -41414,11 +41414,11 @@ What are catarrhine monkeys called alternatively?
 Old World monkeys
 10353
 
-What does OE abbreviate?
+What does ``OE'' abbreviate?
 Old English
 10354
 
-What does OHG abbreviate?
+What does ``OHG'' abbreviate?
 Old High German
 10355
 
