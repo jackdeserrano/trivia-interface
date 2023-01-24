@@ -1,0 +1,11 @@
+#!/bin/zsh
+
+r=$1
+
+top=$((6000*($((r))-1)+1))
+bottom=$((6000*$((r))))
+
+sed -n "$top,$bottom p" __triviann.txt > testing.txt
+
+#echo $bottom
+

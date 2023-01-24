@@ -1,4 +1,4 @@
-# to get Scio r into testing.txt run sed -n '(8000(r-1) + 1),(8000r)p' tex_trivia.txt > testing.txt
+# to get scio r into testing.txt run ./getscio
 # can edit TeX output in ~/manim/manimlib/ ... .yml
 # manimgl trivia.py Trivia
 
