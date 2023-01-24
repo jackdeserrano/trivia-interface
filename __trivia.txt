@@ -8374,7 +8374,7 @@ Henri Bergson
 Sir J. M. Barrie
 2093
 
-(1860--1948) What US army officer's Meuse-Argonne offensive in 1918 led to the final collapse of the German Army?
+(1860--1948) What United States army officer's Meuse-Argonne offensive in 1918 led to the final collapse of the German Army?
 John J. ``Black Jack'' Pershing
 2094
 
@@ -8546,11 +8546,11 @@ Andrés Segovia
 Folke Bernadotte
 2136
 
-(1895--1948) What US baseball player known as the ``Bambino'' and ``Sultan of Swat'' was originally a pitcher who later became noted for his hitting, setting a record of 714 home runs that remained unbroken until 1974 and a single-season record in 1927 of 60 home runs that was not broken until 1961?
+(1895--1948) What American baseball player known as the ``Bambino'' and ``Sultan of Swat'' was originally a pitcher who later became noted for his hitting, setting a record of 714 home runs that remained unbroken until 1974 and a single-season record in 1927 of 60 home runs that was not broken until 1961?
 Babe Ruth
 2137
 
-(1895--1967) What US comedian and actor starred in The wizard of Oz (1939) as the cowardly lion and also starred in Ship ahoy (1942) and The night they raided Minsky's (1968)?
+(1895--1967) What American comedian and actor starred in The wizard of Oz (1939) as the cowardly lion and also starred in Ship ahoy (1942) and The night they raided Minsky's (1968)?
 Bert Lahr
 2138
 
@@ -28074,7 +28074,7 @@ What intelligent spirit of lower rank than the angels of Arabian and Muslim myth
 jinn
 7018
 
-What does DLL abbreviate in computing?
+What does ``DLL'' abbreviate in computing?
 dynamic link library (a collection of subroutines stored on disk, which can be loaded into memory and executed when accessed by a running program)
 7019
 
@@ -42126,7 +42126,7 @@ For what is ``Ganapati'' another name?
 Ganesh
 10531
 
-What industrial city in Azerbaijan was called Yelizavetpol (1804--1918) and Kirovabad (1935--89)?
+What industrial city in Azerbaijan was called ``Yelizavetpol'' (1804--1918) and ``Kirovabad'' (1935--89)?
 Gäncä
 10532
 
@@ -42245,7 +42245,6 @@ test of a student's academic skills, used for admission to colleges and universi
 What is the alternative spelling for ``jail''?
 gaol
 10561
-
 
 What deep-sea anglerfish that is able to inflate itself with water belongs to the family Chaunacidae and genus Chaunax?
 10562

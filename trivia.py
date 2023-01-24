@@ -4,6 +4,40 @@
 
 # todo: add credits to all photos
 
+# for proper typesetting of Greek characters with a good global font,
+# a similar preamble to the below typeset with pdflatex is suggested:
+"""
+\usepackage{tipa}
+\usepackage{amsmath, amsthm, amssymb, amsfonts}
+\usepackage [english] {babel}
+\usepackage {textgreek}
+\usepackage [LGR,T1] {fontenc}
+\usepackage [utf8] {inputenc}
+\renewcommand*\familydefault{\ttdefault} 
+\usepackage [scaled] {beramono} 
+\usepackage {mhchem}
+% \DisableLigatures{encoding = *, family = * }
+\linespread{1}
+\let\ensuregreek\relax
+\let\acctonos\relax
+\let\accpsilioxia\relax
+\let\accdasiavaria\relax
+\let\accpsili\relax
+\let\accdasia\relax
+\let\accpsilivaria\relax
+\let\accdasiaoxia\relax
+\let\accdasiaperispomeni\relax
+\let\accpsiliperispomeni\relax
+\let\accperispomeni\relax
+\let\accdialytikaperispomeni\relax
+\let\ypogegrammeni\relax
+\let\prosgegrammeni\relax
+\renewcommand\textomicron{o}
+\renewcommand\textOmicron{O}
+"""
+# or you can figure out how to get the accents (preferably with lualatex/xelatex)
+# and then let me know
+
 from manimlib import *
 import random 
 import time
