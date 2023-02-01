@@ -30,7 +30,10 @@ with open("__trivia.txt", "a") as __trivia:
     
         qa_pair_list = qa_pair.split("\n")
         q = qa_pair_list[0]
-        a = qa_pair_list[1]
+        try:
+            a = qa_pair_list[1]
+        except IndexError as e:
+            print(e, q)
 
         __trivia.write(q + "\n")
         __trivia.write(a + "\n")

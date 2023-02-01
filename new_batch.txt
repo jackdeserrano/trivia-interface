@@ -1,14 +1,67 @@
-10601
+11249
 
-test 2
-2
+Who conducted the premiere of Messiaen's Saint François d'Assise?
+Seiji Ozawa
 
-jsandjaks
-dnskndk
+When was the premiere of Messiaen's Saint François d'Assise?
+28 November 1983
 
-hwhowh
-weine
+Who played Saint François in the premiere of Messiaen's Saint François d'Assise?
+José Van Dam
 
-okay it wrks 
-wait no it doesnt
+Where did Messiaen's Saint François d'Assise premiere?
+Palais Garnier
 
+What is the left adjoint to the inclusion functor from the category of compact Hausdorff topological spaces to the category of topological spaces?
+Stone--Čech compactification functor
+
+What is the left adjoint to the inclusion functor from the category of sheaves on X to the category of presheaves on X?
+sheafification functor
+
+What is the left adjoint to the inclusion functor from the category of fields to the category of integral domains (where the maps are injective ring homomorphisms)?
+field of fractions functor
+
+What do left adjoints preserve?
+colimits
+
+To what is tensoring left adjoint?
+Hom 
+
+What does ``C. elegans'' abbreviate?
+Caenorhabditis elegans
+
+Who hosted CBC Radio One's Cross country checkup?
+Rex Murphy
+
+Is 91 a prime number?
+no
+
+What is an apple in hockey?
+assist
+
+What Indonesian province is on the southern tip of Sumatra?
+Lampung
+
+What is Zorn's lemma?
+if every chain in a partially ordered set has an upper bound in the partially ordered set, then it contains a maximal element
+
+What is Rainbolt's first name?
+Trevor
+
+What was Messiaen's last work?
+Éclairs sur l'au-delà...
+
+For what instruments was Fête des belles eaux written?
+six ondes Martenots
+
+By what gene is CAAX prenyl protease 2 encoded?
+RCE1
+
+By what gene is protein-S-isoprenylcysteine O-methyltransferase encoded?
+ICMT
+
+Translate: ``Et Dieu essuiera toute larme de leurs yeux.''
+And God will wipe every tear from their eyes
+
+What does ``SNCF'' abbreviate?
+Société nationale des chemins de fer français
