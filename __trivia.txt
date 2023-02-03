@@ -42400,6 +42400,7 @@ Gary Lineker
 Where did Gary Player enter the world?
 Johannesburg
 10600
+
 What does Exodus 1.15--22 say?
 And the king of Egypt spake to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah: / And he said, When ye do the office of a midwife to the Hebrew women, and see them upon the stools; if it be a son, then ye shall kill him: but if it be a daughter, then she shall live. / But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive. / And the king of Egypt called for the midwives, and said unto them, Why have ye done this thing, and have saved the men children alive? / And the midwives said unto Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in unto them. / Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty. / And it came to pass, because the midwives feared God, that he made them houses. / And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive.
 10601
@@ -42465,7 +42466,7 @@ men do not see it
 10616
 
 What does ``SAQ'' abbreviate?
- Société des alcools du Québec
+Société des alcools du Québec
 10617
 
 What does ``SAAQ'' abbreviate?
@@ -42568,8 +42569,8 @@ What primordial figure can the mythical pelican represent?
 uruboros 
 10642
 
-Whose vision does Jung describe in Psychology and Alchemy starting as follows: 
-``[He] tells of his adventure with the Rex marinus, in whose kingdom nothing prospers and nothing is begotten. Moreover there are no philosophers there. Only like mates with like, consequently there is no procreation. The King must seek the counsel of the philosophers and mate Thabritius with Beya, his two children whom he has hatched in his brain.''
+Whose vision does Jung describe in Psychology and Alchemy starting as follows: ``[He] tells of his adventure with the Rex marinus, in whose kingdom nothing prospers and nothing is begotten. Moreover there are no philosophers there. Only like mates with like, consequently there is no procreation. The King must seek the counsel of the philosophers and mate Thabritius with Beya, his two children whom he has hatched in his brain.''
+Arisleus
 10643
 
 ``They suffer from the intense heat, like the three whom Nebuchadnezzar cast into the fiery furnace. King Nebuchadnezzar had a vision of a fourth, `like the son of God,' as we are told in Daniel 3.25 [`He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.'] This vision is not without bearing on alchemy, since there are numerous passages in the literature stating that the stone is ---. It consists of the four elements, with fire representing the spirit concealed in matter. This is the fourth, absent and yet present, who always appears in the fiery agony of the furnace and symbolizes the divine presence---succour and the completion of the work.''
@@ -42600,7 +42601,7 @@ For what event did Felix Mendelssohn write his fifth symphony?
 tercentennial of the Augsburg Confession
 10650
 
-What symphony (numbered) did  Felix Mendelssohn write for the tercentennial of the Augsburg Confession?
+What symphony (numbered) did Felix Mendelssohn write for the tercentennial of the Augsburg Confession?
 fifth
 10651
 
@@ -42640,7 +42641,7 @@ What ketone bodies does ketogenesis produce?
 acetoacetate, acetone, beta-hydroxybutyrate
 10660
 
-With what notable descriptor does the  Vulgate describe Moses's head? This is reflected in Michelangelo's sculpture.
+With what notable descriptor does the Vulgate describe Moses's head? This is reflected in Michelangelo's sculpture.
 cornuta `horned'
 10661
 
@@ -42708,8 +42709,8 @@ What date is on Delaware's flag?
 December 7, 1787
 10677
 
-
 What is acclaimed to be the oldest quadrangle in Oxford?
+Tom Quad
 10678
 
 Where is ThyssenKrupp headquartered?
@@ -42780,7 +42781,7 @@ What is Jung talking about here? ``[It] is a term derived from Lévy-Bruhl. It d
 participation mystique
 10695
 
-From whom does Jung say the term ``participation mystique'' derive?
+From whom does Jung say the term ``participation mystique'' derives?
 Lucien Lévy-Bruhl
 10696
 
