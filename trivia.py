@@ -6,7 +6,7 @@
 
 # for proper typesetting of Greek characters with a good global font,
 # a similar preamble to the below typeset with pdflatex is suggested:
-"""
+r"""
 \usepackage{tipa}
 \usepackage{amsmath, amsthm, amssymb, amsfonts}
 \usepackage [english] {babel}

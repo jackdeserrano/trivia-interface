@@ -10286,8 +10286,8 @@ What bull issued by Gregory IX on 17 Nov. 1234 called for a crusade to the Holy 
 Rachel suum videns
 2571
 
-What bull issued by Honorius III in 1218 demanded the enforcement of the Fourth Lateran Council that Jews wear clothing to distinguish themselves and that Jews be made to pay the tithe to local churches?
-In generali concilio
+Who issued the bull In generali concilio in 1218?
+Honorius III
 2572
 
 What bull issued by Honorius III in 1219 closed law schools in Paris and forbade the study of civil law?
@@ -43021,7 +43021,7 @@ Who founded Tudor?
 Hans Wilsdorf 
 10755
 
-What name is given to the free monoid construction?
+What sidereal name is given to the free monoid construction?
 Kleene star
 10756
 
@@ -43034,7 +43034,7 @@ Berlin
 10758
 
 Whose sculpture of Nimrod illustrated the Canaanite idea?
- Yitzhak Danziger 
+Yitzhak Danziger 
 10759
 
 Define ``duomo.''
@@ -43158,7 +43158,7 @@ coloboma, heart disease, atresia of the choanae, retarded growth and mental deve
 10789
 
 What is Drosophila melanogaster?
- fruit fly
+fruit fly
 10790
 
 What RNA has a well-defined structure that is a short (usually 20 to 24-bp) double-stranded RNA (dsRNA) with phosphorylated 5' ends and hydroxylated 3' ends with two overhanging nucleotides? The Dicer enzyme catalyzes its production from long dsRNAs and small hairpin RNAs. It interferes with the expression of specific genes with complementary nucleotide sequences by degrading mRNA after transcription, preventing translation.
@@ -43393,8 +43393,8 @@ Where is Bryggen?
 Bergen
 10848
 
-Whose elementary proof of Dirichlet's theorem about primes in an arithmetic progression was published in the 
-Annals of Mathematics in 1949?
+Whose elementary proof of Dirichlet's theorem about primes in an arithmetic progression was published in the Annals of Mathematics in 1949?
+Atle Selberg
 10849
 
 Who wrote The green mile?
