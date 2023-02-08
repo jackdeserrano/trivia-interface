@@ -45049,8 +45049,8 @@ What Indonesian province is on the southern tip of Sumatra?
 Lampung
 11262
 
-What is Zorn's lemma?
-if every chain in a partially ordered set has an upper bound in the partially ordered set, then it contains a maximal element
+What is Zorn's lemma say about a partially ordered set $P$?
+if every chain in $P$ has an upper bound in $P$, then $P$ contains a maximal element
 11263
 
 What is Rainbolt's first name?
