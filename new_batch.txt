@@ -1,67 +1,109 @@
-11249
+11271
 
-Who conducted the premiere of Messiaen's Saint François d'Assise?
-Seiji Ozawa
+What is vitamin B7's other name?
+biotin
 
-When was the premiere of Messiaen's Saint François d'Assise?
-28 November 1983
+Nick Lidström: lefty or righty?
+lefty
 
-Who played Saint François in the premiere of Messiaen's Saint François d'Assise?
-José Van Dam
+Let $R$ be a ring. Let $A$ and $B$ be $R$-modules. What is $\Ext_R^0(A,B)$?
+$\Hom_R(A,B)$
 
-Where did Messiaen's Saint François d'Assise premiere?
-Palais Garnier
+Let $R$ be a ring. Let $A$ and $B$ be $R$-modules. What is $\Tor_R^0(A,B)$?
+$A\otimes_R B$
 
-What is the left adjoint to the inclusion functor from the category of compact Hausdorff topological spaces to the category of topological spaces?
-Stone--Čech compactification functor
+Let $\omega$ be the canonical sheaf. What does Serre duality say?
+$H^i(X,\mathscr{F})  \cong H^{n-i} (X, \mathscr{F}^* \otimes \omega)^*$
 
-What is the left adjoint to the inclusion functor from the category of sheaves on X to the category of presheaves on X?
-sheafification functor
+Where was Jean-Louis Koszul born?
+Strasbourg
 
-What is the left adjoint to the inclusion functor from the category of fields to the category of integral domains (where the maps are injective ring homomorphisms)?
-field of fractions functor
+What ``character'' to the units of the $p$-adic integers takes a number $x$ to a ``representative'' that is $x$ mod $p$ and a $p$th root of unity? It also has a limit definition.
+Teichmüller character
 
-What do left adjoints preserve?
-colimits
+Who was the seventeenth premier of Ontario?
+John Robarts
 
-To what is tensoring left adjoint?
-Hom 
+Of what party was John Robarts a member?
+Progressive Conservative
 
-What does ``C. elegans'' abbreviate?
-Caenorhabditis elegans
+Where was Kevin Hayes born?
+Dorchester, MA
 
-Who hosted CBC Radio One's Cross country checkup?
-Rex Murphy
+Whose memoir based The wolf of Wall Street?
+Jordan Belfort
 
-Is 91 a prime number?
-no
+What is Fratercula arctica?
+Atlantic puffin
 
-What is an apple in hockey?
-assist
+What did Andrés Iniesta's 2010 World Cup Final undershirt say?
+DANI JARQUE SIEMPRE CON NOSOTROS
 
-What Indonesian province is on the southern tip of Sumatra?
-Lampung
+What aromatic Eurasian plant of the rue family, with showy white flowers and fragrant leaves that emit a flammable vapour, can sometimes be ignited without harming the plant?
+gas plant
 
-What is Zorn's lemma?
-if every chain in a partially ordered set has an upper bound in the partially ordered set, then it contains a maximal element
+What is Dictamnus albus?
+gas plant
 
-What is Rainbolt's first name?
-Trevor
+What is fraxinella?
+gas plant
 
-What was Messiaen's last work?
-Éclairs sur l'au-delà...
+What is gasconade?
+extravagant boasting
 
-For what instruments was Fête des belles eaux written?
-six ondes Martenots
+What region and former province of south-western France, in the northern foothills of the Pyrenees, was held by England between 1154 and 1453?
+Gascony
 
-By what gene is CAAX prenyl protease 2 encoded?
-RCE1
+What is the muscular part of the hind leg of a horse between the stifle and the hock?
+gaskin
 
-By what gene is protein-S-isoprenylcysteine O-methyltransferase encoded?
-ICMT
+(1592--1655) What French astronomer and philosopher is best known for his atomic theory of matter, which was based on his interpretation of the works of Epicurus?
+Pierre Gassendi
 
-Translate: ``Et Dieu essuiera toute larme de leurs yeux.''
-And God will wipe every tear from their eyes
+(1888--1963) What American physiologist used an oscilloscope to show that the velocity of a nerve impulse is proportional to the diameter of the fibre in collaboration with Joseph Erlanger? He won the Nobel Prize for Physiology or Medicine in 1944 (shared with Erlanger).
+Herbert Spencer Gasser
 
-What does ``SNCF'' abbreviate?
-Société nationale des chemins de fer français
+What is a Gasthaus?
+small inn or hotel in a German-speaking country or region
+
+What hotel in a German-speaking country is typically larger than a Gasthaus?
+Gasthof
+
+What is the inflammation of the lining of the stomach?
+gastritis
+
+What is gastritis?
+inflammation of the lining of the stomach
+
+What chief muscle of the calf of the leg, which flexes the knee and foot runs to the Achilles tendon from two heads attached to the femur? Don't be fooled, however: it isn't very close to the stomach.
+gastrocnemius
+
+What is the plural of ``gastrocnemius''?
+gastrocnemii
+
+What is a gastronome?
+gourmet
+
+To what class do snails belong?
+Gastropoda
+
+What large class of molluscs which includes snails, slugs, whelks, and all terrestrial kinds have a large muscular foot for movement and (in many kinds) a single asymmetrical spiral shell?
+Gastropoda
+
+What small phylum of minute aquatic wormlike animals that bear bristles and cilia are thought to be related to the nematode worms and rotifers?
+Gastrotricha
+
+What is an embryo at the stage following the blastula, when it is a hollow cup-shaped structure having three layers of cells?
+gastrula
+
+What name was given to any of seventeen poems attributed to Zoroaster---the most ancient texts of the Avesta?
+Gatha
+
+What rapid-fire, crank-driven gun with clustered barrels was the first practical machine gun? The US army officially adopted it in 1866.
+Gatling gun
+
+What is a Gatso?
+camera that automatically takes a photograph of road vehicles travelling over a certain speed
+
+What does ``GATT'' abbreviate?
+General Agreement on Tariffs and Trade

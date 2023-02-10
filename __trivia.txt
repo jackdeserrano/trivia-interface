@@ -45081,3 +45081,147 @@ What does ``SNCF'' abbreviate?
 Société nationale des chemins de fer français
 11270
 
+What is vitamin B7's other name?
+biotin
+11271
+
+Nick Lidström: lefty or righty?
+lefty
+11272
+
+Let $R$ be a ring. Let $A$ and $B$ be $R$-modules. What is $\Ext_R^0(A,B)$?
+$\Hom_R(A,B)$
+11273
+
+Let $R$ be a ring. Let $A$ and $B$ be $R$-modules. What is $\Tor_R^0(A,B)$?
+$A\otimes_R B$
+11274
+
+Let $\omega$ be the canonical sheaf. What does Serre duality say?
+$H^i(X,\mathscr{F})  \cong H^{n-i} (X, \mathscr{F}^* \otimes \omega)^*$
+11275
+
+Where was Jean-Louis Koszul born?
+Strasbourg
+11276
+
+What ``character'' to the units of the $p$-adic integers takes a number $x$ to a ``representative'' that is $x$ mod $p$ and a $p$th root of unity? It also has a limit definition.
+Teichmüller character
+11277
+
+Who was the seventeenth premier of Ontario?
+John Robarts
+11278
+
+Of what party was John Robarts a member?
+Progressive Conservative
+11279
+
+Where was Kevin Hayes born?
+Dorchester, MA
+11280
+
+Whose memoir based The wolf of Wall Street?
+Jordan Belfort
+11281
+
+What is Fratercula arctica?
+Atlantic puffin
+11282
+
+What did Andrés Iniesta's 2010 World Cup Final undershirt say?
+DANI JARQUE SIEMPRE CON NOSOTROS
+11283
+
+What aromatic Eurasian plant of the rue family, with showy white flowers and fragrant leaves that emit a flammable vapour, can sometimes be ignited without harming the plant?
+gas plant
+11284
+
+What is Dictamnus albus?
+gas plant
+11285
+
+What is fraxinella?
+gas plant
+11286
+
+What is gasconade?
+extravagant boasting
+11287
+
+What region and former province of south-western France, in the northern foothills of the Pyrenees, was held by England between 1154 and 1453?
+Gascony
+11288
+
+What is the muscular part of the hind leg of a horse between the stifle and the hock?
+gaskin
+11289
+
+(1592--1655) What French astronomer and philosopher is best known for his atomic theory of matter, which was based on his interpretation of the works of Epicurus?
+Pierre Gassendi
+11290
+
+(1888--1963) What American physiologist used an oscilloscope to show that the velocity of a nerve impulse is proportional to the diameter of the fibre in collaboration with Joseph Erlanger? He won the Nobel Prize for Physiology or Medicine in 1944 (shared with Erlanger).
+Herbert Spencer Gasser
+11291
+
+What is a Gasthaus?
+small inn or hotel in a German-speaking country or region
+11292
+
+What hotel in a German-speaking country is typically larger than a Gasthaus?
+Gasthof
+11293
+
+What is the inflammation of the lining of the stomach?
+gastritis
+11294
+
+What is gastritis?
+inflammation of the lining of the stomach
+11295
+
+What chief muscle of the calf of the leg, which flexes the knee and foot runs to the Achilles tendon from two heads attached to the femur? Don't be fooled, however: it isn't very close to the stomach.
+gastrocnemius
+11296
+
+What is the plural of ``gastrocnemius''?
+gastrocnemii
+11297
+
+What is a gastronome?
+gourmet
+11298
+
+To what class do snails belong?
+Gastropoda
+11299
+
+What large class of molluscs which includes snails, slugs, whelks, and all terrestrial kinds have a large muscular foot for movement and (in many kinds) a single asymmetrical spiral shell?
+Gastropoda
+11300
+
+What small phylum of minute aquatic wormlike animals that bear bristles and cilia are thought to be related to the nematode worms and rotifers?
+Gastrotricha
+11301
+
+What is an embryo at the stage following the blastula, when it is a hollow cup-shaped structure having three layers of cells?
+gastrula
+11302
+
+What name was given to any of seventeen poems attributed to Zoroaster---the most ancient texts of the Avesta?
+Gatha
+11303
+
+What rapid-fire, crank-driven gun with clustered barrels was the first practical machine gun? The US army officially adopted it in 1866.
+Gatling gun
+11304
+
+What is a Gatso?
+camera that automatically takes a photograph of road vehicles travelling over a certain speed
+11305
+
+What does ``GATT'' abbreviate?
+General Agreement on Tariffs and Trade
+11306
+
