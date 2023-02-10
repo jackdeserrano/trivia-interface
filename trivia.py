@@ -1,4 +1,4 @@
-# to get scio r into testing.txt run ./getscio
+# to get scio r into testing.txt run ./getscio r
 # can edit TeX output in ~/manim/manimlib/ ... .yml
 # manimgl trivia.py Trivia
 
