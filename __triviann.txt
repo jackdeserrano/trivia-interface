@@ -33916,5 +33916,504 @@ camera that automatically takes a photograph of road vehicles travelling over a 
 What does ``GATT'' abbreviate?
 General Agreement on Tariffs and Trade
 
+What is the other name for the Bonin Islands?
+Ogasawara Islands 
 
+Where is capsaicin found?
+chilli peppers
+
+Where are capsinoids found?
+chilli peppers
+
+What was Jacques Villeneuve's profession?
+racing driver
+
+What was Gilles Villeneuve's profession?
+racing driver
+
+Where was Gilles Villeneuve born?
+Saint-Jean-sur-Richelieu, Quebec
+
+Where did Gilles Villeneuve die?
+Leuven, Belgium
+
+What is the symbol for the voiceless alveolo-palatal fricative?
+ɕ
+
+What sound is represented by ɕ?
+voiceless alveolo-palatal fricative
+
+What state witnessed the birth of Ryan Whitney?
+Massachusetts
+
+Did Ryan Whitney play for the United States in the 2010 Olympics?
+yes
+
+Did Ryan Whitney play for the United States in the 2006 Olympics?
+no
+
+What is Joe Harris's alma mater?
+Harvard University
+
+Who advised Joe Harris?
+Phillip Griffiths
+
+Who was Ravi Vakil's advisor?
+Joe Harris
+
+Whose ``master theorem'' gives an expression for the Mellin transform of analytic functions?
+Ramanujan
+
+What settlement marks the northern end of the Dempster Highway?
+Inuvik
+
+What two cities does the north continuation of the Dempster Highway connect?
+Inuvik, Tuktoyaktuk
+
+What settlement marks the southern end of the Dempster Highway?
+Dawson City
+
+Define ``svelte.''
+slender and elegant
+
+Who played James Bond in Goldfinger?
+Sean Connery
+
+What is the first James Bond film?
+Dr. No
+
+Who played James Bond in Dr. No?
+Sean Connery
+
+Where was Sean Connery born?
+Edinburgh
+
+What tie knot shares its name with a vehicle drawn by horses?
+four in hand
+
+When is $\Lambda(n)$ non-zero for a natural number $n$ where $\Lambda$ is the von Mangoldt function?
+when $n$ is a prime power
+
+What river does the Barragem do Alqueva impound?
+Guadiana
+
+What two districts house the Albufeira do Alqueva?
+Beja, Évora
+
+Of what is ``Gorka'' the Basque form?
+George
+
+What is the Basque equivalent of the name ``George''?
+Gorka
+
+What Portuguese district houses Montemor-o-Novo?
+Évora
+
+What historic Portuguese province contained Évora?
+Alto Alentejo
+
+What family comprises the smelts?
+Osmeridae
+
+What fish form the family Osmeridae?
+smelts
+
+What are the Yamanaka factors?
+Oct3/4, Sox2, Klf4, c-Myc
+
+What is the collective name of the genes Oct3/4, Sox2, Klf4, and c-Myc?
+Yamanaka factors
+
+Where was George Bigliardi's steakhouse?
+Toronto
+
+What is a Noetherian integral domain that is integrally closed and of dimension less than or equal to one (that is, every non-zero prime ideal is maximal)?
+Dedekind domain
+
+Give the name of the following identity: $[x,[y,z]] + [y,[z,x]] + [z,[x,y]] = 0$.
+Jacobi identity
+
+What is the dimension of the exceptional Lie algebra $\mathfrak{g}_2$?
+$14$
+
+What is the dimension of the exceptional Lie algebra $\mathfrak{f}_4$?
+$52$
+
+What is the dimension of the exceptional Lie algebra $\mathfrak{e}_6$?
+$78$
+
+What is the dimension of the exceptional Lie algebra $\mathfrak{e}_7$?
+$133$
+
+What is the dimension of the exceptional Lie algebra $\mathfrak{e}_8$?
+$248$
+
+What is the name (c. Apr. 2023) of the largest federal riding in Quebec --- the one that houses Val d'Or?
+Abitibi--Baie-James--Nunavik--Eeyou
+
+Where was Jonathan Cheechoo born?
+Moose Factory
+
+What district in the Sakha Republic houses Kyyy?
+Tattinsky
+
+What okrug houses Iul'tin and Egvekinot?
+Chukotka
+
+What is the easternmost peninsula in Asia?
+Chukchi Peninsula
+
+What cape does the Chukchi Peninsula face?
+Seward Peninsula
+
+What is the principal settlement on Sandwich Bay?
+Cartwright
+
+Who wrote the song ``Alison'' for the album My aim is true?
+Elvis Costello
+
+Who advised Frans de Waal?
+Jan van Hooff
+
+What islands does Pevek face?
+Routan Islands
+
+Who wrote the paper ``How often should you beat your kids?''?
+Don Zagier
+
+What name is given to the decomposition of an algebra into sums of eigenspaces of idempotents?
+Peirce decomposition
+
+What was Lucy's species?
+Australopithecus afarensis
+
+What is Lucy's Amharic name?
+Dinkinesh
+
+Where was Wes McCauley born?
+Georgetown, Ontario
+
+What is Wes McCauley's profession?
+NHL referee
+
+What is Citrus reticulata?
+mandarin orange
+
+What is a $\Lambda$-graded vector space?
+a direct sum of vector spaces indexed by $\Lambda$
+
+What does the Hall--Witt identity say?
+$[x,y^{-1},z]^y \cdot [y,z^{-1},x]^z \cdot [z,x^{-1},y]^x = 1$
+
+Complete the poetic phrase: ``God rot ye libertarians ---.''
+God rot ye libertarians, you fill us with dismay / Your atheistic tendencies, your anarchistic ways / Your flaunted immorality leads innocents astray / But you'll get yours on Judgment Day, Judgment Day / Yes, you'll get yours on Judgment Day!
+
+What decomposition of a semi-simple Lie group generalizes the QR decomposition?
+Iwasawa decomposition
+
+What does ``304'' mean?
+hoe
+
+Who introduced the concept of a $(B,N)$ pair?
+Jacques Tits
+
+What is the period in Bott periodicity?
+$8$
+
+What does Bott periodicity say is periodic?
+the homotopy groups of the direct limit of the orthogonal groups
+
+From what university did 
+Murat Günaydin get his PhD?
+
+What does ``MGTOW'' abbreviate?
+men going their own way
+
+What is the broadest muscle of the back?
+latissimus dorsi
+
+What was Solomon Joel Cohen better known as?
+Sid James
+
+Who starred with Tony Hancock in Hancock's half hour?
+Sid James
+
+What are the entries of the Cartan matrix of an algebra with simple roots $r_i$?
+$a_{ji} = 2 (r_i,r_j)/(r_j,r_j)$
+
+How many letters are in the Russian alphabet?
+33
+
+What territories contain Tumuc-Humac Mountains?
+Brazil, French Guiana, Suriname
+
+What is a klaxon?
+electric horn or a similar loud warning device
+
+Where is Cars set?
+Radiator Springs
+
+Where is Zion National Park?
+Utah
+
+What Brazilian state beheld the birth of Marta?
+Alagoas
+
+Who are the three (male and female) football players to have scored at five World Cups?
+Marta, Christine Sinclair, and Cristiano Ronaldo
+
+Where was Stephen Harper born?
+Leaside, Ontario
+
+Who was the first leader of the Conservative Party of Canada?
+Stephen Harper
+
+What country does N'Djamena, Chad border?
+Cameroon
+
+What Cameroonian city does N'Djamena border?
+Kousséri
+
+What two rivers converge in N'Djamena?
+Chari, Logone
+
+What African city sits at the confluence of the Logone and Chari rivers?
+N'Djamena
+
+What was N'Djamena named at its foundation?
+Fort-Lamy
+
+To what settlement does the RR-171 lead?
+Uiramutã
+
+What does ``Polska Górą!'' mean?
+Poland on top
+
+What is a Hopf algebra with a non-cocommutative coproduct?
+quantum group
+
+Let $C/\mathbf{F}_q$ be a smooth projective geometrically connected curve. What is a shtuka of rank $n$ over an $\mathbf{F}_q$-scheme $S$?
+ordered pair $(\mathfrak{E}, \phi_{\mathfrak{E}})$ where $\mathfrak{E}$ is a vector bundle over $C\times_{\mathbf{F}_q} S$ and $\phi_{\mathfrak{E}}$ is a meromorphic isomorphism from $\operatorname{Frob}_S^* \mathfrak{E}$ to $\mathfrak{E}$ --- that is, $\phi_{\mathfrak{E}}$ is defined on an open subset of $C\times_{\mathbf{F}_q} S$ that is fibrewise-dense in $C$
+
+Let $(L_n)_{n\in\mathbf{Z}}$ be a sequence. What relations do these numbers need to satisfy to generate a Virasoro algebra given a central charge $c$?
+$[c,L_n]=0$ and $[L_m,L_n] = (m-n)L_{m+n} + c(m^3-m)\delta_{m+n,0}$
+
+What is a profinite set?
+compact, totally disconnected, Hausdorff topological space
+
+What is the pro-\'etale site of a point?
+the category of profinite sets with finite jointly surjective families of maps as covers
+
+What is a condensed set?
+sheaf of sets on the pro-\'etale site of a point
+
+When is a condensed abelian group $V$ $p$-liquid (for $0<p\le 1$)?
+when, for every compact Hausdorff topological space $X$ and every morphism of condensed sets $f$ from $X$ to $V$, there exists a unique morphism of condensed abelian groups from $M_{<p}(X)$ to $V$ that extends $f$ along the inclusion of $X$ into $M_{<p}(X)$
+
+What phrase is Rasheed Wallace famous for saying?
+ball don't lie
+
+Who wrote the song ``Any way you want it''?
+Journey
+
+Who wrote the song ``It's the end of the world as we know it''?
+R.E.M.
+
+Assuming standard notation, what does the Weyl character formula for complex semi-simple Lie algebras say?
+\begin{align*} \operatorname{ch}_\pi(H) = \frac{\sum_{w\in W} \varepsilon(w) e^{w+(\lambda+\rho)(H)}}{\prod_{\alpha\in\Delta^+} (e^{\alpha(H)/2} - e^{-\alpha(H)/2})} \end{align*}
+
+Assuming standard notation, what does the Weyl denominator formula say?
+\begin{align*} \sum_{w\in W} \varepsilon(w) e^{w(\rho)(H)} = \prod_{\alpha\in\Delta^+} (e^{\alpha(H)/2} - e^{-\alpha(H)/2}) \end{align*}
+
+What is a pyknotic set?
+sheaf of sets on the site of compact Hausdorff topological spaces whose underlying set has rank smaller than the smallest strongly inaccessible cardinal
+
+Who wrote the song ``The winner takes it all''?
+ABBA
+
+What does ``sheket bevakasha'' mean?
+quiet, please
+
+Define ``pluripotent.''
+(cell) capable of giving rise to several different cell types
+
+What is the largest Ionian island?
+Kefalonia
+
+What is the Krull dimension of an Artinian ring?
+0
+
+What is the Japanese bullet train network called?
+Shinkansen
+
+State the Banach--Alaoglu theorem.
+Let $\mathfrak{X}$ be a Banach space. Then, the closed unit ball $\mathfrak{X}_1^∗ := \{x^* \in \mathfrak{X}^* : \lVert x^*\rVert \le 1\}$ of $\mathfrak{X}^*$ is weak$∗$-compact.
+
+What principle states that a pointwise bounded family of continuous linear operators on Banach spaces is uniformly bounded (with respect to the operator norm)?
+uniform boundedness principle
+
+What does ``et seq.'' mean?
+and what follows
+
+What was Conan O'Brien's house band?
+The Max Weinberg 7 
+
+Who coined the term ``smooth number''?
+Ron Rivest
+
+What does ``atriðisorðaskrá'' mean?
+index
+
+What is zugzwang?
+chess situation in which the obligation to make a move in one's turn is a serious, often decisive, disadvantage
+
+Who wrote ``Time in a bottle''?
+Jim Croce
+
+What is the principle of explosion?
+the principle that any statement can be proved from a contradiction
+
+What is ex falso quodlibet?
+the principle that any statement can be proved from a contradiction
+
+What remarkable thing does the proof of Banach's fixed point theorem say about sequences of the form $(\varrho^n(x))_n$ where $\varrho$ is a strict contraction on a complete metric space?
+all such sequences converge to the same point and this point is the unique fixed point of $\varrho$
+
+Who wrote the soundtrack to The godfather?
+Nino Rota
+
+Who does Michael marry in Sicily?
+Apollonia
+
+What is Fabrizio Romano's occupation?
+journalist
+
+Where was Mikhail Tal born?
+Riga
+
+Who is The Magician from Riga?
+Mikhail Tal
+
+Where was Ian Nepomniachtchi born?
+Bryansk
+
+Who played Magnus Carlsen in the 2021 World Chess Championship?
+Ian Nepomniachtchi
+
+What Hungarian chess player is considered the best female chess player of all time?
+Polgár Judit
+
+Who became World Chess Champion in 2013?
+Magnus Carlsen
+
+Who won the World Fischer Random Chess Championship in 2022?
+Hikaru Nakamura
+
+Where was Garry Kasparov born?
+Baku
+
+How many games were played before the 1984 Karpov--Kasparov world championship match was abandoned?
+48
+
+What was the score when the 1984 Karpov--Kasparov world championship match was abandoned?
+5--3
+
+Who terminated the 1984 Karpov--Kasparov world championship match?
+Florencio Campomanes
+
+When did Garry Kasparov become the world champion?
+1985
+
+Who did Garry Kasparov defeat to become the world champion?
+Anatoly Karpov
+
+How did Garry Kasparov play the final game of the 1985 world championship with the black pieces to win?
+Sicilian defence
+
+Where was Anatoly Karpov born?
+Zlatoust
+
+Who defeated Garry Kasparov in the 2000 world championship?
+Vladimir Kramnik
+
+Who succeeded Bobby Fischer as World Chess Champion?
+Anatoly Karpov
+
+Where was Bobby Fischer born?
+Chicago
+
+What year saw chess's match of the century?
+1972
+
+Who played in chess's match of the century?
+Bobby Fischer, Boris Spassky
+
+What was the score in the Spassky--Fischer match of the century (1972)?
+8 1/2--12 1/2
+
+Who wrote ``Sugar mountain''?
+Neil Young
+
+Where is Deerhurst?
+Huntsville
+
+What are Sperrys?
+shoes
+
+For what is ``C. elegans'' short?
+Caenorhabditis elegans
+
+Who won the 2022 US Open Tennis Championships?
+Carlos Alcaraz
+
+Where was Khvicha Kvaratskhelia born?
+Tbilisi
+
+What pasta has a ``diameter between 2.08 and 2.30 millimetres (0.082 and 0.091 in) with little variation between different producers''?
+vermicelli
+
+Who are the mackerel snappers?
+Catholics
+
+Who sang ``The world we knew''?
+Frank Sinatra
+
+What major water body does Sundarbans border?
+Bay of Bengal
+
+Who made the song ``Lose control'' in 2019? 
+Meduza, Becky Hill, and Goodboys
+
+Where was Marty Turco born?
+Sault Ste. Marie
+
+What NHL team drafted Marty Turco?
+Dallas Stars
+
+What is Muslim prayer called?
+salat
+
+Who stars in Enter the dragon?
+Bruce Lee
+
+Who is Burnaby Joe?
+Joe Sakic
+
+What shish-kabob--like dish is popular in Russia?
+shashlik
+
+What is the Russian name for Easter bread?
+kulich
+
+Who composed 〈一剪梅〉?
+费玉清
+
+How many points did Connor McDavid have in the 2022--23 NHL season?
+153
+
+How many goals did Connor McDavid have in the 2022--23 NHL season?
+64
+
+How many assists did Connor McDavid have in the 2022--23 NHL season?
+89
 

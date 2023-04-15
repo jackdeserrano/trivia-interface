@@ -1,109 +1,160 @@
-11271
+11420
 
-What is vitamin B7's other name?
-biotin
+Who coined the term ``smooth number''?
+Ron Rivest
 
-Nick Lidström: lefty or righty?
-lefty
+What does ``atriðisorðaskrá'' mean?
+index
 
-Let $R$ be a ring. Let $A$ and $B$ be $R$-modules. What is $\Ext_R^0(A,B)$?
-$\Hom_R(A,B)$
+What is zugzwang?
+chess situation in which the obligation to make a move in one's turn is a serious, often decisive, disadvantage
 
-Let $R$ be a ring. Let $A$ and $B$ be $R$-modules. What is $\Tor_R^0(A,B)$?
-$A\otimes_R B$
+Who wrote ``Time in a bottle''?
+Jim Croce
 
-Let $\omega$ be the canonical sheaf. What does Serre duality say?
-$H^i(X,\mathscr{F})  \cong H^{n-i} (X, \mathscr{F}^* \otimes \omega)^*$
+What is the principle of explosion?
+the principle that any statement can be proved from a contradiction
 
-Where was Jean-Louis Koszul born?
-Strasbourg
+What is ex falso quodlibet?
+the principle that any statement can be proved from a contradiction
 
-What ``character'' to the units of the $p$-adic integers takes a number $x$ to a ``representative'' that is $x$ mod $p$ and a $p$th root of unity? It also has a limit definition.
-Teichmüller character
+What remarkable thing does the proof of Banach's fixed point theorem say about sequences of the form $(\varrho^n(x))_n$ where $\varrho$ is a strict contraction on a complete metric space?
+all such sequences converge to the same point and this point is the unique fixed point of $\varrho$
 
-Who was the seventeenth premier of Ontario?
-John Robarts
+Who wrote the soundtrack to The godfather?
+Nino Rota
 
-Of what party was John Robarts a member?
-Progressive Conservative
+Who does Michael marry in Sicily?
+Apollonia
 
-Where was Kevin Hayes born?
-Dorchester, MA
+What is Fabrizio Romano's occupation?
+journalist
 
-Whose memoir based The wolf of Wall Street?
-Jordan Belfort
+Where was Mikhail Tal born?
+Riga
 
-What is Fratercula arctica?
-Atlantic puffin
+Who is The Magician from Riga?
+Mikhail Tal
 
-What did Andrés Iniesta's 2010 World Cup Final undershirt say?
-DANI JARQUE SIEMPRE CON NOSOTROS
+Where was Ian Nepomniachtchi born?
+Bryansk
 
-What aromatic Eurasian plant of the rue family, with showy white flowers and fragrant leaves that emit a flammable vapour, can sometimes be ignited without harming the plant?
-gas plant
+Who played Magnus Carlsen in the 2021 World Chess Championship?
+Ian Nepomniachtchi
 
-What is Dictamnus albus?
-gas plant
+What Hungarian chess player is considered the best female chess player of all time?
+Polgár Judit
 
-What is fraxinella?
-gas plant
+Who became World Chess Champion in 2013?
+Magnus Carlsen
 
-What is gasconade?
-extravagant boasting
+Who won the World Fischer Random Chess Championship in 2022?
+Hikaru Nakamura
 
-What region and former province of south-western France, in the northern foothills of the Pyrenees, was held by England between 1154 and 1453?
-Gascony
+Where was Garry Kasparov born?
+Baku
 
-What is the muscular part of the hind leg of a horse between the stifle and the hock?
-gaskin
+How many games were played before the 1984 Karpov--Kasparov world championship match was abandoned?
+48
 
-(1592--1655) What French astronomer and philosopher is best known for his atomic theory of matter, which was based on his interpretation of the works of Epicurus?
-Pierre Gassendi
+What was the score when the 1984 Karpov--Kasparov world championship match was abandoned?
+5--3
 
-(1888--1963) What American physiologist used an oscilloscope to show that the velocity of a nerve impulse is proportional to the diameter of the fibre in collaboration with Joseph Erlanger? He won the Nobel Prize for Physiology or Medicine in 1944 (shared with Erlanger).
-Herbert Spencer Gasser
+Who terminated the 1984 Karpov--Kasparov world championship match?
+Florencio Campomanes
 
-What is a Gasthaus?
-small inn or hotel in a German-speaking country or region
+When did Garry Kasparov become the world champion?
+1985
 
-What hotel in a German-speaking country is typically larger than a Gasthaus?
-Gasthof
+Who did Garry Kasparov defeat to become the world champion?
+Anatoly Karpov
 
-What is the inflammation of the lining of the stomach?
-gastritis
+How did Garry Kasparov play the final game of the 1985 world championship with the black pieces to win?
+Sicilian defence
 
-What is gastritis?
-inflammation of the lining of the stomach
+Where was Anatoly Karpov born?
+Zlatoust
 
-What chief muscle of the calf of the leg, which flexes the knee and foot runs to the Achilles tendon from two heads attached to the femur? Don't be fooled, however: it isn't very close to the stomach.
-gastrocnemius
+Who defeated Garry Kasparov in the 2000 world championship?
+Vladimir Kramnik
 
-What is the plural of ``gastrocnemius''?
-gastrocnemii
+Who succeeded Bobby Fischer as World Chess Champion?
+Anatoly Karpov
 
-What is a gastronome?
-gourmet
+Where was Bobby Fischer born?
+Chicago
 
-To what class do snails belong?
-Gastropoda
+What year saw chess's match of the century?
+1972
 
-What large class of molluscs which includes snails, slugs, whelks, and all terrestrial kinds have a large muscular foot for movement and (in many kinds) a single asymmetrical spiral shell?
-Gastropoda
+Who played in chess's match of the century?
+Bobby Fischer, Boris Spassky
 
-What small phylum of minute aquatic wormlike animals that bear bristles and cilia are thought to be related to the nematode worms and rotifers?
-Gastrotricha
+What was the score in the Spassky--Fischer match of the century (1972)?
+8 1/2--12 1/2
 
-What is an embryo at the stage following the blastula, when it is a hollow cup-shaped structure having three layers of cells?
-gastrula
+Who wrote ``Sugar mountain''?
+Neil Young
 
-What name was given to any of seventeen poems attributed to Zoroaster---the most ancient texts of the Avesta?
-Gatha
+Where is Deerhurst?
+Huntsville
 
-What rapid-fire, crank-driven gun with clustered barrels was the first practical machine gun? The US army officially adopted it in 1866.
-Gatling gun
+What are Sperrys?
+shoes
 
-What is a Gatso?
-camera that automatically takes a photograph of road vehicles travelling over a certain speed
+For what is ``C. elegans'' short?
+Caenorhabditis elegans
 
-What does ``GATT'' abbreviate?
-General Agreement on Tariffs and Trade
+Who won the 2022 US Open Tennis Championships?
+Carlos Alcaraz
+
+Where was Khvicha Kvaratskhelia born?
+Tbilisi
+
+What pasta has a ``diameter between 2.08 and 2.30 millimetres (0.082 and 0.091 in) with little variation between different producers''?
+vermicelli
+
+Who are the mackerel snappers?
+Catholics
+
+Who sang ``The world we knew''?
+Frank Sinatra
+
+What major water body does Sundarbans border?
+Bay of Bengal
+
+Who made the song ``Lose control'' in 2019? 
+Meduza, Becky Hill, and Goodboys
+
+Where was Marty Turco born?
+Sault Ste. Marie
+
+What NHL team drafted Marty Turco?
+Dallas Stars
+
+What is Muslim prayer called?
+salat
+
+Who stars in Enter the dragon?
+Bruce Lee
+
+Who is Burnaby Joe?
+Joe Sakic
+
+What shish-kabob--like dish is popular in Russia?
+shashlik
+
+What is the Russian name for Easter bread?
+kulich
+
+Who composed 〈一剪梅〉?
+费玉清
+
+How many points did Connor McDavid have in the 2022--23 NHL season?
+153
+
+How many goals did Connor McDavid have in the 2022--23 NHL season?
+64
+
+How many assists did Connor McDavid have in the 2022--23 NHL season?
+89

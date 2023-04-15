@@ -45225,3 +45225,670 @@ What does ``GATT'' abbreviate?
 General Agreement on Tariffs and Trade
 11306
 
+What is the other name for the Bonin Islands?
+Ogasawara Islands 
+11306
+
+Where is capsaicin found?
+chilli peppers
+11307
+
+Where are capsinoids found?
+chilli peppers
+11308
+
+What was Jacques Villeneuve's profession?
+racing driver
+11309
+
+What was Gilles Villeneuve's profession?
+racing driver
+11310
+
+Where was Gilles Villeneuve born?
+Saint-Jean-sur-Richelieu, Quebec
+11311
+
+Where did Gilles Villeneuve die?
+Leuven, Belgium
+11312
+
+What is the symbol for the voiceless alveolo-palatal fricative?
+ɕ
+11313
+
+What sound is represented by ɕ?
+voiceless alveolo-palatal fricative
+11314
+
+What state witnessed the birth of Ryan Whitney?
+Massachusetts
+11315
+
+Did Ryan Whitney play for the United States in the 2010 Olympics?
+yes
+11316
+
+Did Ryan Whitney play for the United States in the 2006 Olympics?
+no
+11317
+
+What is Joe Harris's alma mater?
+Harvard University
+11318
+
+Who advised Joe Harris?
+Phillip Griffiths
+11319
+
+Who was Ravi Vakil's advisor?
+Joe Harris
+11320
+
+Whose ``master theorem'' gives an expression for the Mellin transform of analytic functions?
+Ramanujan
+11321
+
+What settlement marks the northern end of the Dempster Highway?
+Inuvik
+11322
+
+What two cities does the north continuation of the Dempster Highway connect?
+Inuvik, Tuktoyaktuk
+11323
+
+What settlement marks the southern end of the Dempster Highway?
+Dawson City
+11324
+
+Define ``svelte.''
+slender and elegant
+11325
+
+Who played James Bond in Goldfinger?
+Sean Connery
+11326
+
+What is the first James Bond film?
+Dr. No
+11327
+
+Who played James Bond in Dr. No?
+Sean Connery
+11328
+
+Where was Sean Connery born?
+Edinburgh
+11329
+
+What tie knot shares its name with a vehicle drawn by horses?
+four in hand
+11330
+
+When is $\Lambda(n)$ non-zero for a natural number $n$ where $\Lambda$ is the von Mangoldt function?
+when $n$ is a prime power
+11331
+
+What river does the Barragem do Alqueva impound?
+Guadiana
+11332
+
+What two districts house the Albufeira do Alqueva?
+Beja, Évora
+11333
+
+Of what is ``Gorka'' the Basque form?
+George
+11334
+
+What is the Basque equivalent of the name ``George''?
+Gorka
+11335
+
+What Portuguese district houses Montemor-o-Novo?
+Évora
+11336
+
+What historic Portuguese province contained Évora?
+Alto Alentejo
+11337
+
+What family comprises the smelts?
+Osmeridae
+11338
+
+What fish form the family Osmeridae?
+smelts
+11339
+
+What are the Yamanaka factors?
+Oct3/4, Sox2, Klf4, c-Myc
+11340
+
+What is the collective name of the genes Oct3/4, Sox2, Klf4, and c-Myc?
+Yamanaka factors
+11341
+
+Where was George Bigliardi's steakhouse?
+Toronto
+11342
+
+What is a Noetherian integral domain that is integrally closed and of dimension less than or equal to one (that is, every non-zero prime ideal is maximal)?
+Dedekind domain
+11343
+
+Give the name of the following identity: $[x,[y,z]] + [y,[z,x]] + [z,[x,y]] = 0$.
+Jacobi identity
+11344
+
+What is the dimension of the exceptional Lie algebra $\mathfrak{g}_2$?
+$14$
+11345
+
+What is the dimension of the exceptional Lie algebra $\mathfrak{f}_4$?
+$52$
+11346
+
+What is the dimension of the exceptional Lie algebra $\mathfrak{e}_6$?
+$78$
+11347
+
+What is the dimension of the exceptional Lie algebra $\mathfrak{e}_7$?
+$133$
+11348
+
+What is the dimension of the exceptional Lie algebra $\mathfrak{e}_8$?
+$248$
+11349
+
+What is the name (c. Apr. 2023) of the largest federal riding in Quebec --- the one that houses Val d'Or?
+Abitibi--Baie-James--Nunavik--Eeyou
+11350
+
+Where was Jonathan Cheechoo born?
+Moose Factory
+11351
+
+What district in the Sakha Republic houses Kyyy?
+Tattinsky
+11352
+
+What okrug houses Iul'tin and Egvekinot?
+Chukotka
+11353
+
+What is the easternmost peninsula in Asia?
+Chukchi Peninsula
+11354
+
+What cape does the Chukchi Peninsula face?
+Seward Peninsula
+11355
+
+What is the principal settlement on Sandwich Bay?
+Cartwright
+11356
+
+Who wrote the song ``Alison'' for the album My aim is true?
+Elvis Costello
+11357
+
+Who advised Frans de Waal?
+Jan van Hooff
+11358
+
+What islands does Pevek face?
+Routan Islands
+11359
+
+Who wrote the paper ``How often should you beat your kids?''?
+Don Zagier
+11360
+
+What name is given to the decomposition of an algebra into sums of eigenspaces of idempotents?
+Peirce decomposition
+11361
+
+What was Lucy's species?
+Australopithecus afarensis
+11362
+
+What is Lucy's Amharic name?
+Dinkinesh
+11363
+
+Where was Wes McCauley born?
+Georgetown, Ontario
+11364
+
+What is Wes McCauley's profession?
+NHL referee
+11365
+
+What is Citrus reticulata?
+mandarin orange
+11366
+
+What is a $\Lambda$-graded vector space?
+a direct sum of vector spaces indexed by $\Lambda$
+11367
+
+What does the Hall--Witt identity say?
+$[x,y^{-1},z]^y \cdot [y,z^{-1},x]^z \cdot [z,x^{-1},y]^x = 1$
+11368
+
+Complete the poetic phrase: ``God rot ye libertarians ---.''
+God rot ye libertarians, you fill us with dismay / Your atheistic tendencies, your anarchistic ways / Your flaunted immorality leads innocents astray / But you'll get yours on Judgment Day, Judgment Day / Yes, you'll get yours on Judgment Day!
+11369
+
+What decomposition of a semi-simple Lie group generalizes the QR decomposition?
+Iwasawa decomposition
+11370
+
+What does ``304'' mean?
+hoe
+11371
+
+Who introduced the concept of a $(B,N)$ pair?
+Jacques Tits
+11372
+
+What is the period in Bott periodicity?
+$8$
+11373
+
+What does Bott periodicity say is periodic?
+the homotopy groups of the direct limit of the orthogonal groups
+11374
+
+From what university did 
+Murat Günaydin get his PhD?
+11375
+
+What does ``MGTOW'' abbreviate?
+men going their own way
+11376
+
+What is the broadest muscle of the back?
+latissimus dorsi
+11377
+
+What was Solomon Joel Cohen better known as?
+Sid James
+11378
+
+Who starred with Tony Hancock in Hancock's half hour?
+Sid James
+11379
+
+What are the entries of the Cartan matrix of an algebra with simple roots $r_i$?
+$a_{ji} = 2 (r_i,r_j)/(r_j,r_j)$
+11380
+
+How many letters are in the Russian alphabet?
+33
+11381
+
+What territories contain Tumuc-Humac Mountains?
+Brazil, French Guiana, Suriname
+11382
+
+What is a klaxon?
+electric horn or a similar loud warning device
+11383
+
+Where is Cars set?
+Radiator Springs
+11384
+
+Where is Zion National Park?
+Utah
+11385
+
+What Brazilian state beheld the birth of Marta?
+Alagoas
+11386
+
+Who are the three (male and female) football players to have scored at five World Cups?
+Marta, Christine Sinclair, and Cristiano Ronaldo
+11387
+
+Where was Stephen Harper born?
+Leaside, Ontario
+11388
+
+Who was the first leader of the Conservative Party of Canada?
+Stephen Harper
+11389
+
+What country does N'Djamena, Chad border?
+Cameroon
+11390
+
+What Cameroonian city does N'Djamena border?
+Kousséri
+11391
+
+What two rivers converge in N'Djamena?
+Chari, Logone
+11392
+
+What African city sits at the confluence of the Logone and Chari rivers?
+N'Djamena
+11393
+
+What was N'Djamena named at its foundation?
+Fort-Lamy
+11394
+
+To what settlement does the RR-171 lead?
+Uiramutã
+11395
+
+What does ``Polska Górą!'' mean?
+Poland on top
+11396
+
+What is a Hopf algebra with a non-cocommutative coproduct?
+quantum group
+11397
+
+Let $C/\mathbf{F}_q$ be a smooth projective geometrically connected curve. What is a shtuka of rank $n$ over an $\mathbf{F}_q$-scheme $S$?
+ordered pair $(\mathfrak{E}, \phi_{\mathfrak{E}})$ where $\mathfrak{E}$ is a vector bundle over $C\times_{\mathbf{F}_q} S$ and $\phi_{\mathfrak{E}}$ is a meromorphic isomorphism from $\operatorname{Frob}_S^* \mathfrak{E}$ to $\mathfrak{E}$ --- that is, $\phi_{\mathfrak{E}}$ is defined on an open subset of $C\times_{\mathbf{F}_q} S$ that is fibrewise-dense in $C$
+11398
+
+Let $(L_n)_{n\in\mathbf{Z}}$ be a sequence. What relations do these numbers need to satisfy to generate a Virasoro algebra given a central charge $c$?
+$[c,L_n]=0$ and $[L_m,L_n] = (m-n)L_{m+n} + c(m^3-m)\delta_{m+n,0}$
+11399
+
+What is a profinite set?
+compact, totally disconnected, Hausdorff topological space
+11400
+
+What is the pro-\'etale site of a point?
+the category of profinite sets with finite jointly surjective families of maps as covers
+11401
+
+What is a condensed set?
+sheaf of sets on the pro-\'etale site of a point
+11402
+
+When is a condensed abelian group $V$ $p$-liquid (for $0<p\le 1$)?
+when, for every compact Hausdorff topological space $X$ and every morphism of condensed sets $f$ from $X$ to $V$, there exists a unique morphism of condensed abelian groups from $M_{<p}(X)$ to $V$ that extends $f$ along the inclusion of $X$ into $M_{<p}(X)$
+11403
+
+What phrase is Rasheed Wallace famous for saying?
+ball don't lie
+11404
+
+Who wrote the song ``Any way you want it''?
+Journey
+11405
+
+Who wrote the song ``It's the end of the world as we know it''?
+R.E.M.
+11406
+
+Assuming standard notation, what does the Weyl character formula for complex semi-simple Lie algebras say?
+\begin{align*} \operatorname{ch}_\pi(H) = \frac{\sum_{w\in W} \varepsilon(w) e^{w+(\lambda+\rho)(H)}}{\prod_{\alpha\in\Delta^+} (e^{\alpha(H)/2} - e^{-\alpha(H)/2})} \end{align*}
+11407
+
+Assuming standard notation, what does the Weyl denominator formula say?
+\begin{align*} \sum_{w\in W} \varepsilon(w) e^{w(\rho)(H)} = \prod_{\alpha\in\Delta^+} (e^{\alpha(H)/2} - e^{-\alpha(H)/2}) \end{align*}
+11408
+
+What is a pyknotic set?
+sheaf of sets on the site of compact Hausdorff topological spaces whose underlying set has rank smaller than the smallest strongly inaccessible cardinal
+11409
+
+Who wrote the song ``The winner takes it all''?
+ABBA
+11410
+
+What does ``sheket bevakasha'' mean?
+quiet, please
+11411
+
+Define ``pluripotent.''
+(cell) capable of giving rise to several different cell types
+11412
+
+What is the largest Ionian island?
+Kefalonia
+11413
+
+What is the Krull dimension of an Artinian ring?
+0
+11414
+
+What is the Japanese bullet train network called?
+Shinkansen
+11415
+
+State the Banach--Alaoglu theorem.
+Let $\mathfrak{X}$ be a Banach space. Then, the closed unit ball $\mathfrak{X}_1^∗ := \{x^* \in \mathfrak{X}^* : \lVert x^*\rVert \le 1\}$ of $\mathfrak{X}^*$ is weak$∗$-compact.
+11416
+
+What principle states that a pointwise bounded family of continuous linear operators on Banach spaces is uniformly bounded (with respect to the operator norm)?
+uniform boundedness principle
+11417
+
+What does ``et seq.'' mean?
+and what follows
+11418
+
+What was Conan O'Brien's house band?
+The Max Weinberg 7 
+11419
+
+Who coined the term ``smooth number''?
+Ron Rivest
+11420
+
+What does ``atriðisorðaskrá'' mean?
+index
+11421
+
+What is zugzwang?
+chess situation in which the obligation to make a move in one's turn is a serious, often decisive, disadvantage
+11422
+
+Who wrote ``Time in a bottle''?
+Jim Croce
+11423
+
+What is the principle of explosion?
+the principle that any statement can be proved from a contradiction
+11424
+
+What is ex falso quodlibet?
+the principle that any statement can be proved from a contradiction
+11425
+
+What remarkable thing does the proof of Banach's fixed point theorem say about sequences of the form $(\varrho^n(x))_n$ where $\varrho$ is a strict contraction on a complete metric space?
+all such sequences converge to the same point and this point is the unique fixed point of $\varrho$
+11426
+
+Who wrote the soundtrack to The godfather?
+Nino Rota
+11427
+
+Who does Michael marry in Sicily?
+Apollonia
+11428
+
+What is Fabrizio Romano's occupation?
+journalist
+11429
+
+Where was Mikhail Tal born?
+Riga
+11430
+
+Who is The Magician from Riga?
+Mikhail Tal
+11431
+
+Where was Ian Nepomniachtchi born?
+Bryansk
+11432
+
+Who played Magnus Carlsen in the 2021 World Chess Championship?
+Ian Nepomniachtchi
+11433
+
+What Hungarian chess player is considered the best female chess player of all time?
+Polgár Judit
+11434
+
+Who became World Chess Champion in 2013?
+Magnus Carlsen
+11435
+
+Who won the World Fischer Random Chess Championship in 2022?
+Hikaru Nakamura
+11436
+
+Where was Garry Kasparov born?
+Baku
+11437
+
+How many games were played before the 1984 Karpov--Kasparov world championship match was abandoned?
+48
+11438
+
+What was the score when the 1984 Karpov--Kasparov world championship match was abandoned?
+5--3
+11439
+
+Who terminated the 1984 Karpov--Kasparov world championship match?
+Florencio Campomanes
+11440
+
+When did Garry Kasparov become the world champion?
+1985
+11441
+
+Who did Garry Kasparov defeat to become the world champion?
+Anatoly Karpov
+11442
+
+How did Garry Kasparov play the final game of the 1985 world championship with the black pieces to win?
+Sicilian defence
+11443
+
+Where was Anatoly Karpov born?
+Zlatoust
+11444
+
+Who defeated Garry Kasparov in the 2000 world championship?
+Vladimir Kramnik
+11445
+
+Who succeeded Bobby Fischer as World Chess Champion?
+Anatoly Karpov
+11446
+
+Where was Bobby Fischer born?
+Chicago
+11447
+
+What year saw chess's match of the century?
+1972
+11448
+
+Who played in chess's match of the century?
+Bobby Fischer, Boris Spassky
+11449
+
+What was the score in the Spassky--Fischer match of the century (1972)?
+8 1/2--12 1/2
+11450
+
+Who wrote ``Sugar mountain''?
+Neil Young
+11451
+
+Where is Deerhurst?
+Huntsville
+11452
+
+What are Sperrys?
+shoes
+11453
+
+For what is ``C. elegans'' short?
+Caenorhabditis elegans
+11454
+
+Who won the 2022 US Open Tennis Championships?
+Carlos Alcaraz
+11455
+
+Where was Khvicha Kvaratskhelia born?
+Tbilisi
+11456
+
+What pasta has a ``diameter between 2.08 and 2.30 millimetres (0.082 and 0.091 in) with little variation between different producers''?
+vermicelli
+11457
+
+Who are the mackerel snappers?
+Catholics
+11458
+
+Who sang ``The world we knew''?
+Frank Sinatra
+11459
+
+What major water body does Sundarbans border?
+Bay of Bengal
+11460
+
+Who made the song ``Lose control'' in 2019? 
+Meduza, Becky Hill, and Goodboys
+11461
+
+Where was Marty Turco born?
+Sault Ste. Marie
+11462
+
+What NHL team drafted Marty Turco?
+Dallas Stars
+11463
+
+What is Muslim prayer called?
+salat
+11464
+
+Who stars in Enter the dragon?
+Bruce Lee
+11465
+
+Who is Burnaby Joe?
+Joe Sakic
+11466
+
+What shish-kabob--like dish is popular in Russia?
+shashlik
+11467
+
+What is the Russian name for Easter bread?
+kulich
+11468
+
+Who composed 〈一剪梅〉?
+费玉清
+11469
+
+How many points did Connor McDavid have in the 2022--23 NHL season?
+153
+11470
+
+How many goals did Connor McDavid have in the 2022--23 NHL season?
+64
+11471
+
+How many assists did Connor McDavid have in the 2022--23 NHL season?
+89
+11472
