@@ -45892,3 +45892,295 @@ How many goals did Connor McDavid have in the 2022--23 NHL season?
 How many assists did Connor McDavid have in the 2022--23 NHL season?
 89
 11472
+``The ability to play chess is the sign of a gentleman. The ability to play chess well is the sign of a wasted life.''
+Paul Morphy
+11473
+
+Let $\mathfrak{g}$ be an $N$-dimensional Lie algebra. Let $(\ ,\ )$ be an $\operatorname{ad}$-invariant bilinear form on $\mathfrak{g}$ (say the Killing form). Let $\{x_1,\hdots,x_N\}$ be a basis for $\mathfrak{g}$ and let $\{x_1^*,\hdots,x_N^*\}$ be the dual basis with respect to $(\ ,\ )$. What is the Casimir element for $(\ ,\ )$?
+\begin{align*} \sum_{n=1}^N x_nx_n^*\end{align*}
+11474
+
+What is the chorale to which the O Haupt voll Blut und Wunden music is set in Bach's Christmas oratorio (BWV 248)?
+Wie soll ich dich empfangen
+11475
+
+What was the last completed work of Tchaikovsky?
+Piano concerto no. 3
+11476
+
+Who were the original members of the Budapest String Quartet?
+Emil Hauser, Alfred Indig, István Ipolyi, Harry Son
+11477
+
+Who comprised the Budapest String Quartet in 1951?
+Josef Roisman, Jac Gorodetzky, Boris Kroyt, Mischa Schneider
+11478
+
+What pope decreed ``God bless you'' as the correct response to a sneeze?
+Gregory I
+11479
+
+What chess player was disqualified from the 2022 Candidates?
+Sergey Karjakin
+11480
+
+Who won the 2023 World Chess Championship?
+Ding Liren
+11481
+
+What is a northern spy?
+apple
+11482
+
+What is Malus pumila?
+apple
+11483
+
+Define ``zeitgeber.''
+rhythmically occurring natural phenomenon which acts as a cue in the regulation of the body's circadian rhythms
+11484
+
+Define ``infradian.''
+having a period of recurrence longer than a day
+11485
+
+Define ``ultradian.''
+having a period of recurrence shorter than a day but longer than an hour
+11486
+
+For what does ``KMP'' stand in ``KMP algorithm''?
+Knuth--Morris--Pratt
+11487
+
+Who composed ``21st century schizoid man''?
+King Crimson
+11488
+
+With whom is Nicomachean ethics associated?
+Aristotle
+11489
+
+What are the four types of man that Aristotle describes in Nicomachean ethics? 
+the virtuous, the continent, the incontinent, the vice-filled
+11490
+
+Where is the Blue Grotto?
+Capri
+11491
+
+What is Belone belone?
+garfish
+11492
+
+What region of south-western France is thought to produce boastful people?
+Gascony
+11493
+
+What is a gascon?
+boastful person
+11494
+
+What is gasconade?
+extravagant boasting
+11495
+
+What is the French name for Gascony?
+Gascogne
+11496
+
+What region and former province of south-western France in the northern foothills of the Pyrenees was held by England between 1154 and 1453?
+Gascony
+11497
+
+What is a chandelier with gas burners rather than light bulbs or candles?
+gasolier
+11498
+
+What is a gasolier?
+chandelier with gas burners rather than light bulbs or candles
+11499
+
+What shaped sheet or ring of rubber or other material seals the junction between two surfaces in an engine or other device?
+gasket
+11500
+
+What is the muscular part of the hind leg of a horse between the stifle and the hock?
+gaskin
+11501
+
+What peninsula contains the city of Percé?
+Gaspé
+11502
+
+What was a gasper?
+cigarette
+11503
+
+(1592--1655) What French astronomer and philosopher is best known for his atomic theory of matter, which was based on his interpretation of the works of Epicurus?
+Pierre Gassendi
+11504
+
+(1888--1963) What American physiologist, in collaboration with Joseph Erlanger, used an oscilloscope to show that the velocity of a nerve impulse is proportional to the diameter of the fibre?
+Herbert Spencer Gasser
+11505
+
+What were the last names of the two winners of the Nobel Prize for Physiology or Medicine in 1944? They won the prize for their work on nerve impulses.
+Erlanger, Gasser
+11506
+
+What is a Gastarbeiter?
+person with temporary permission to work in another country
+11507
+
+What epoch witnessed the Gastornis?
+Eocene
+11508
+
+What was the Gastornis?
+very large flightless bird of the Eocene epoch
+11509
+
+What is the surgical removal of the stomach?
+gastrectomy
+11510
+
+What is the chief muscle of the calf of the leg?
+gastrocnemius
+11511
+
+What chief muscle of the calf of the leg runs to the Achilles tendon from two heads attached to the femur?
+gastrocnemius
+11512
+
+Where is the gastrocnemius?
+calf
+11513
+
+What is a gastrolith?
+small stone swallowed by a bird, reptile, or fish to aid digestion in the gizzard
+11514
+
+What large class of molluscs includes snails, slugs, whelks, and all terrestrial kinds?
+Gastropoda
+11515
+
+What small phylum consists of minute aquatic wormlike animals that bear bristles and cilia? Its members are thought to be related to the nematode worms and rotifers. 
+Gastrotricha
+11516
+
+What is an embryo called at the stage following the blastula, when it is a hollow cup-shaped structure having three layers of cells?
+gastrula
+11517
+
+From what does a gastrula come?
+blastula
+11518
+
+What year witnessed the birth of William Henry Gates?
+1955
+11519
+
+What industrial town opposes Newcastle on the River Tyne?
+Gateshead
+11520
+
+What first practical machine gun was officially adopted by the US army in 1866?
+Gatling gun
+11521
+
+What does ``GATT'' abbreviate?
+General Agreement on Tariffs and Trade
+11522
+
+What hereditary disease sees abnormal metabolism and storage of fats and results in bone fragility, neurological disturbance, anaemia, and enlargement of the liver and spleen?
+Gaucher's disease
+11523
+
+What is a gaucho?
+cowboy from the South American pampas
+11524
+
+Who designed the Sagrada Família?
+Antonio Gaudí
+11525
+
+(1891–1915) What French sculptor --- a Vorticist --- created the faceted bust of Horace Brodzky (1912) and Bird Swallowing a Fish (1913)?
+Henri Gaudier-Brzeska
+11526
+
+Where did Paul Gauguin live after 1891?
+Tahiti
+11527
+
+What was a political official governing a district under Nazi rule called?
+Gauleiter
+11528
+
+What series of Cretaceous clays and marls forms strata in southern England? Perhaps its name is related to the Old Swedish for ``barren.''
+Gault
+11529
+
+What was Ghent's old name?
+Gaunt
+11530
+
+What wild ox having a large head, a dark brown or black coat with white stockings, and a hump is native to India and Malaysia and is the ancestor of the domestic gayal?
+gaur
+11531
+
+What is the capital of Gauteng?
+Johannesburg
+11532
+
+What was Gauteng's name before 1995?
+Pretoria-Witwatersrand-Vereeniging
+11533
+
+What is gavage?
+the administration of food or drugs by force, especially to an animal, typically through a tube leading down the throat to the stomach
+11534
+
+What was Sunil Gavaskar?
+cricketer
+11535
+
+In what system of inheritance is a deceased person's land divided equally among all male heirs?
+gavelkind
+11536
+
+What did ``Gavot'' mean in Provençal?
+native of the Alps
+11537
+
+What knight of the Round Table who quested after the Holy Grail is the hero of the medieval poem Sir --- and the green knight?
+Gawain
+11538
+
+What does Gay-Lussac's law say?
+the volumes of gases undergoing a reaction at constant pressure and temperature are in a simple ratio to each other and to that of the product
+11539
+
+Whose law says that the volumes of gases undergoing a reaction at constant pressure and temperature are in a simple ratio to each other and to that of the product?
+Gay-Lussac's
+11540
+
+(1939--84) What American soul singer, composer, and musician who is best known for ``I heard it through the grapevine'' (1968) later recorded the albums Let's get it on (1973) and Midnight love (1982)? He was shot dead by his father in a quarrel.
+Marvin Gaye
+11541
+
+What tropical herbaceous plant of the daisy family has showy flowers that are typically orange or yellow?
+gazania
+11542
+
+What former homeland established in South Africa for the Tsonga people is now part of the provinces of Limpopo and Mpumalanga?
+Gazankulu
+11543
+
+What is gazar?
+stiff gauzy kind of silk fabric
+11544
+
+To what country is Gaziantep closest?
+Turkey
+11545
+

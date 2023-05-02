@@ -22826,7 +22826,7 @@ What is the largest city in the Chugoku region?
 Hiroshima
 
 John Conway is perhaps best known for his game of life, an example of what general kind of mathematical system?
-cellular automata
+cellular automaton
 
 What is tiling the plane called?
 tesselation

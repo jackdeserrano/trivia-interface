@@ -1,160 +1,220 @@
-11420
+11473
 
-Who coined the term ``smooth number''?
-Ron Rivest
+``The ability to play chess is the sign of a gentleman. The ability to play chess well is the sign of a wasted life.''
+Paul Morphy
 
-What does ``atriðisorðaskrá'' mean?
-index
+Let $\mathfrak{g}$ be an $N$-dimensional Lie algebra. Let $(\ ,\ )$ be an $\operatorname{ad}$-invariant bilinear form on $\mathfrak{g}$ (say the Killing form). Let $\{x_1,\hdots,x_N\}$ be a basis for $\mathfrak{g}$ and let $\{x_1^*,\hdots,x_N^*\}$ be the dual basis with respect to $(\ ,\ )$. What is the Casimir element for $(\ ,\ )$?
+\begin{align*} \sum_{n=1}^N x_nx_n^*\end{align*}
 
-What is zugzwang?
-chess situation in which the obligation to make a move in one's turn is a serious, often decisive, disadvantage
+What is the chorale to which the O Haupt voll Blut und Wunden music is set in Bach's Christmas oratorio (BWV 248)?
+Wie soll ich dich empfangen
 
-Who wrote ``Time in a bottle''?
-Jim Croce
+What was the last completed work of Tchaikovsky?
+Piano concerto no. 3
 
-What is the principle of explosion?
-the principle that any statement can be proved from a contradiction
+Who were the original members of the Budapest String Quartet?
+Emil Hauser, Alfred Indig, István Ipolyi, Harry Son
 
-What is ex falso quodlibet?
-the principle that any statement can be proved from a contradiction
+Who comprised the Budapest String Quartet in 1951?
+Josef Roisman, Jac Gorodetzky, Boris Kroyt, Mischa Schneider
 
-What remarkable thing does the proof of Banach's fixed point theorem say about sequences of the form $(\varrho^n(x))_n$ where $\varrho$ is a strict contraction on a complete metric space?
-all such sequences converge to the same point and this point is the unique fixed point of $\varrho$
+What pope decreed ``God bless you'' as the correct response to a sneeze?
+Gregory I
 
-Who wrote the soundtrack to The godfather?
-Nino Rota
+What chess player was disqualified from the 2022 Candidates?
+Sergey Karjakin
 
-Who does Michael marry in Sicily?
-Apollonia
+Who won the 2023 World Chess Championship?
+Ding Liren
 
-What is Fabrizio Romano's occupation?
-journalist
+What is a northern spy?
+apple
 
-Where was Mikhail Tal born?
-Riga
+What is Malus pumila?
+apple
 
-Who is The Magician from Riga?
-Mikhail Tal
+Define ``zeitgeber.''
+rhythmically occurring natural phenomenon which acts as a cue in the regulation of the body's circadian rhythms
 
-Where was Ian Nepomniachtchi born?
-Bryansk
+Define ``infradian.''
+having a period of recurrence longer than a day
 
-Who played Magnus Carlsen in the 2021 World Chess Championship?
-Ian Nepomniachtchi
+Define ``ultradian.''
+having a period of recurrence shorter than a day but longer than an hour
 
-What Hungarian chess player is considered the best female chess player of all time?
-Polgár Judit
+For what does ``KMP'' stand in ``KMP algorithm''?
+Knuth--Morris--Pratt
 
-Who became World Chess Champion in 2013?
-Magnus Carlsen
+Who composed ``21st century schizoid man''?
+King Crimson
 
-Who won the World Fischer Random Chess Championship in 2022?
-Hikaru Nakamura
+With whom is Nicomachean ethics associated?
+Aristotle
 
-Where was Garry Kasparov born?
-Baku
+What are the four types of man that Aristotle describes in Nicomachean ethics? 
+the virtuous, the continent, the incontinent, the vice-filled
 
-How many games were played before the 1984 Karpov--Kasparov world championship match was abandoned?
-48
+Where is the Blue Grotto?
+Capri
 
-What was the score when the 1984 Karpov--Kasparov world championship match was abandoned?
-5--3
+What is Belone belone?
+garfish
 
-Who terminated the 1984 Karpov--Kasparov world championship match?
-Florencio Campomanes
+What region of south-western France is thought to produce boastful people?
+Gascony
 
-When did Garry Kasparov become the world champion?
-1985
+What is a gascon?
+boastful person
 
-Who did Garry Kasparov defeat to become the world champion?
-Anatoly Karpov
+What is gasconade?
+extravagant boasting
 
-How did Garry Kasparov play the final game of the 1985 world championship with the black pieces to win?
-Sicilian defence
+What is the French name for Gascony?
+Gascogne
 
-Where was Anatoly Karpov born?
-Zlatoust
+What region and former province of south-western France in the northern foothills of the Pyrenees was held by England between 1154 and 1453?
+Gascony
 
-Who defeated Garry Kasparov in the 2000 world championship?
-Vladimir Kramnik
+What is a chandelier with gas burners rather than light bulbs or candles?
+gasolier
 
-Who succeeded Bobby Fischer as World Chess Champion?
-Anatoly Karpov
+What is a gasolier?
+chandelier with gas burners rather than light bulbs or candles
 
-Where was Bobby Fischer born?
-Chicago
+What shaped sheet or ring of rubber or other material seals the junction between two surfaces in an engine or other device?
+gasket
 
-What year saw chess's match of the century?
-1972
+What is the muscular part of the hind leg of a horse between the stifle and the hock?
+gaskin
 
-Who played in chess's match of the century?
-Bobby Fischer, Boris Spassky
+What peninsula contains the city of Percé?
+Gaspé
 
-What was the score in the Spassky--Fischer match of the century (1972)?
-8 1/2--12 1/2
+What was a gasper?
+cigarette
 
-Who wrote ``Sugar mountain''?
-Neil Young
+(1592--1655) What French astronomer and philosopher is best known for his atomic theory of matter, which was based on his interpretation of the works of Epicurus?
+Pierre Gassendi
 
-Where is Deerhurst?
-Huntsville
+(1888--1963) What American physiologist, in collaboration with Joseph Erlanger, used an oscilloscope to show that the velocity of a nerve impulse is proportional to the diameter of the fibre?
+Herbert Spencer Gasser
 
-What are Sperrys?
-shoes
+What were the last names of the two winners of the Nobel Prize for Physiology or Medicine in 1944? They won the prize for their work on nerve impulses.
+Erlanger, Gasser
 
-For what is ``C. elegans'' short?
-Caenorhabditis elegans
+What is a Gastarbeiter?
+person with temporary permission to work in another country
 
-Who won the 2022 US Open Tennis Championships?
-Carlos Alcaraz
+What epoch witnessed the Gastornis?
+Eocene
 
-Where was Khvicha Kvaratskhelia born?
-Tbilisi
+What was the Gastornis?
+very large flightless bird of the Eocene epoch
 
-What pasta has a ``diameter between 2.08 and 2.30 millimetres (0.082 and 0.091 in) with little variation between different producers''?
-vermicelli
+What is the surgical removal of the stomach?
+gastrectomy
 
-Who are the mackerel snappers?
-Catholics
+What is the chief muscle of the calf of the leg?
+gastrocnemius
 
-Who sang ``The world we knew''?
-Frank Sinatra
+What chief muscle of the calf of the leg runs to the Achilles tendon from two heads attached to the femur?
+gastrocnemius
 
-What major water body does Sundarbans border?
-Bay of Bengal
+Where is the gastrocnemius?
+calf
 
-Who made the song ``Lose control'' in 2019? 
-Meduza, Becky Hill, and Goodboys
+What is a gastrolith?
+small stone swallowed by a bird, reptile, or fish to aid digestion in the gizzard
 
-Where was Marty Turco born?
-Sault Ste. Marie
+What large class of molluscs includes snails, slugs, whelks, and all terrestrial kinds?
+Gastropoda
 
-What NHL team drafted Marty Turco?
-Dallas Stars
+What small phylum consists of minute aquatic wormlike animals that bear bristles and cilia? Its members are thought to be related to the nematode worms and rotifers. 
+Gastrotricha
 
-What is Muslim prayer called?
-salat
+What is an embryo called at the stage following the blastula, when it is a hollow cup-shaped structure having three layers of cells?
+gastrula
 
-Who stars in Enter the dragon?
-Bruce Lee
+From what does a gastrula come?
+blastula
 
-Who is Burnaby Joe?
-Joe Sakic
+What year witnessed the birth of William Henry Gates?
+1955
 
-What shish-kabob--like dish is popular in Russia?
-shashlik
+What industrial town opposes Newcastle on the River Tyne?
+Gateshead
 
-What is the Russian name for Easter bread?
-kulich
+What first practical machine gun was officially adopted by the US army in 1866?
+Gatling gun
 
-Who composed 〈一剪梅〉?
-费玉清
+What does ``GATT'' abbreviate?
+General Agreement on Tariffs and Trade
 
-How many points did Connor McDavid have in the 2022--23 NHL season?
-153
+What hereditary disease sees abnormal metabolism and storage of fats and results in bone fragility, neurological disturbance, anaemia, and enlargement of the liver and spleen?
+Gaucher's disease
 
-How many goals did Connor McDavid have in the 2022--23 NHL season?
-64
+What is a gaucho?
+cowboy from the South American pampas
 
-How many assists did Connor McDavid have in the 2022--23 NHL season?
-89
+Who designed the Sagrada Família?
+Antonio Gaudí
+
+(1891–1915) What French sculptor --- a Vorticist --- created the faceted bust of Horace Brodzky (1912) and Bird Swallowing a Fish (1913)?
+Henri Gaudier-Brzeska
+
+Where did Paul Gauguin live after 1891?
+Tahiti
+
+What was a political official governing a district under Nazi rule called?
+Gauleiter
+
+What series of Cretaceous clays and marls forms strata in southern England? Perhaps its name is related to the Old Swedish for ``barren.''
+Gault
+
+What was Ghent's old name?
+Gaunt
+
+What wild ox having a large head, a dark brown or black coat with white stockings, and a hump is native to India and Malaysia and is the ancestor of the domestic gayal?
+gaur
+
+What is the capital of Gauteng?
+Johannesburg
+
+What was Gauteng's name before 1995?
+Pretoria-Witwatersrand-Vereeniging
+
+What is gavage?
+the administration of food or drugs by force, especially to an animal, typically through a tube leading down the throat to the stomach
+
+What was Sunil Gavaskar?
+cricketer
+
+In what system of inheritance is a deceased person's land divided equally among all male heirs?
+gavelkind
+
+What did ``Gavot'' mean in Provençal?
+native of the Alps
+
+What knight of the Round Table who quested after the Holy Grail is the hero of the medieval poem Sir --- and the green knight?
+Gawain
+
+What does Gay-Lussac's law say?
+the volumes of gases undergoing a reaction at constant pressure and temperature are in a simple ratio to each other and to that of the product
+
+Whose law says that the volumes of gases undergoing a reaction at constant pressure and temperature are in a simple ratio to each other and to that of the product?
+Gay-Lussac's
+
+(1939--84) What American soul singer, composer, and musician who is best known for ``I heard it through the grapevine'' (1968) later recorded the albums Let's get it on (1973) and Midnight love (1982)? He was shot dead by his father in a quarrel.
+Marvin Gaye
+
+What tropical herbaceous plant of the daisy family has showy flowers that are typically orange or yellow?
+gazania
+
+What former homeland established in South Africa for the Tsonga people is now part of the provinces of Limpopo and Mpumalanga?
+Gazankulu
+
+What is gazar?
+stiff gauzy kind of silk fabric
+
+To what country is Gaziantep closest?
+Turkey
