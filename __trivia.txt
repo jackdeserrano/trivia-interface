@@ -46184,3 +46184,435 @@ To what country is Gaziantep closest?
 Turkey
 11545
 
+Define ``extemporize.''
+compose or perform something such as music or a speech without preparation; improvise
+11546
+
+Who is the earliest-born person to have been filmed?
+Pope Leo XIII
+11547
+
+What is a Salem number?
+real algebraic integer $\lamdba > 1$ whose conjugates have modulus at most $1$ and which has a conjugate of modulus precisely $1$
+11548
+
+Who painted the Aino-taru --- the Aino myth triptych?
+Akseli Gallen-Kallela
+11549
+
+What country contains Shibam –-- the city of mudbrick skyscrapers?
+Yemen
+11550
+
+Who produced the Solitude trilogy for the CBC?
+Glenn Gould
+11551
+
+What year saw Glenn Gould's birth?
+1932
+11552
+
+Where was Glenn Gould born?
+Toronto
+11553
+
+``We suffer more in imagination than we do in reality.''
+Seneca
+11554
+
+Define ``prolix.''
+using or containing too many words; tediously lengthy
+11555
+
+When does the ``strange loop'' phenomenon occur?
+whenever, by moving upwards (or downwards) through the levels of some hierarchical system, we unexpectedly find ourselves right back where we started
+11556
+
+What is the first example of a strange loop that Hofstadter gives in Gödel, Escher, and Bach?
+Canon per Tonos
+11557
+
+Translate ``Quaerendo invenietis.''
+by seeking, you will discover
+11558
+
+Who made the strange loop ``Waterfall''?
+M. C. Escher
+11559
+
+What is the statement defining the Epimenides paradox?
+all Cretans are liars
+11560
+
+What is Grelling's paradox?
+``heterological'' is neither heterological nor not heterological
+11561
+
+Where is Kishinev?
+Moldova
+11562
+
+What is the Danish name for Copenhagen?
+København
+11563
+
+Who constructed higher algebraic $K$-theory?
+Daniel Quillen
+11564
+
+What year saw Daniel Quillen win the Fields Medal?
+1978
+11565
+
+What year saw Pierre Deligne win the Fields Medal?
+1978
+11566
+
+Who was the leading exponent of spectral music?
+Tristan Murail
+11567
+
+When did the Algerian War end?
+19 March 1962
+11568
+
+When did Algeria get independence from France?
+5 July 1962
+11569
+
+When was Ásatrúarfélagið founded?
+1972
+11570
+
+Who do many consider to be the first permanent Norse settler of Iceland?
+Ingólfr Arnarson
+11571
+
+What is the name of Iceland's national anthem?
+Lofsöngur
+11572
+
+Define ``schlemiel.''
+stupid, awkward, or unlucky person
+11573
+
+Who said that ``it's very famous for difficult people to bomb''?
+Conan O'Brien
+11574
+
+What does ``PLUM'' abbreviate in earthquake sensor technology?
+propagation of local undamped motion
+11575
+
+Where was the smiling Rafael Leão born?
+Almada, Portugal
+11576
+
+How many goals did Rafael Leão score in the 2022 World Cup?
+2
+11577
+
+Who managed the Croatian World Cup teams in 2018 and 2022?
+Zlatko Dalić
+11578
+
+Define ``quisling.''
+traitor who serves as the puppet of the enemy occupying his country
+11579
+
+What does the Oxford English Dictionary say that room temperature is in degrees Celsius?
+20
+11580
+
+What country administers Jan Mayen?
+Norway
+11581
+
+What is Jan Mayen's largest settlement?
+Olonkinbyen
+11582
+
+What state welcomed Brian Leetch into the world?
+Texas
+11583
+
+What was Paul Kariya's father's ethnicity?
+Japanese
+11584
+
+What is the dialling code for the São Paulo metropolitan area?
+11
+11585
+
+What is the dialling code for western São Paulo?
+18
+11586
+
+What is the dialling code for greater Rio de Janeiro and Teresópolis?
+21
+11587
+
+What is the dialling code for eastern and northern Rio de Janeiro?
+22
+11588
+
+What is the dialling code for western Rio de Janeiro?
+24
+11589
+
+What are the dialling codes for Espírito Santo?
+27, 28
+11590
+
+What is the dialling code for southern Espírito Santo?
+28
+11591
+
+What is the dialling code for central Minas Gerais?
+31
+11592
+
+What Brazilian state or states have the dialling code prefix ``3''?
+Minas Gerais
+11593
+
+What Brazilian state or states have the dialling code prefix ``4''?
+Paraná, Santa Catarina
+11594
+
+What Brazilian state or states have the dialling code prefix ``5''?
+Rio Grande do Sul
+11595
+
+What Brazilian state or states have the dialling code prefix ``6''?
+Acre, Distrito Federal, Goiás, Mato Grosso, Mato Grosso do Sul, Rondônia, Tocantins
+11596
+
+What is the dialling code for Tocantins?
+63
+11597
+
+What are the dialling codes for Mato Grosso?
+65, 66
+11598
+
+What is the dialling code for Mato Grosso do Sul?
+67
+11599
+
+What is the dialling code for Acre?
+68
+11600
+
+What is the dialling code for Rondônia?
+68
+11601
+
+What Brazilian state or states have the dialling code prefix ``7''?
+Bahia, Sergipe
+11602
+
+What is the dialling code for Sergipe?
+79
+11603
+
+What Brazilian state or states have the dialling code prefix ``8''?
+Alagoas, Ceará, Paraíba, Pernambuco, Piauí, Rio Grande do Norte
+11604
+
+What is the dialling code for Alagoas?
+82
+11605
+
+What is the dialling code for Paraíba?
+83
+11606
+
+What is the dialling code for Rio Grande do Norte?
+84
+11607
+
+What are the dialling codes for Ceará?
+85, 88
+11608
+
+What are the dialling codes for Piauí?
+86, 89
+11609
+
+What is the dialling code for northern Piauí?
+86
+11610
+
+What Brazilian state or states have the dialling code prefix ``9''?
+Amapá, Amazonas, Maranhão, Pará, Roraima
+11611
+
+What is the dialling code for Roraima?
+95
+11612
+
+What is the dialling code for Amapá?
+96
+11613
+
+What is the dialling code for northern Maranhão?
+98
+11614
+
+Who wrote ``Linear algebra done wrong''?
+Sergei Treil
+11615
+
+Who issued the earthquake and tsunami warnings on NHK on 11 March 2011 when the Great East Japan Earthquake occurred?
+Kenzo Ito
+11616
+
+What time was it locally when the Great East Japan Earthquake happened?
+14:46
+11617
+
+Who said, ``Hey, hey, you, you, get off of my cloud''?
+The Rolling Stones
+11618
+
+Who asked, ``Psycho killer / Qu'est-ce que c'est?''?
+Talking Heads
+11619
+
+What is a coeval?
+person of roughly the same age as oneself
+11620
+
+What does escitalopram treat?
+depression
+11621
+
+What was a tunic?
+loose garment, typically sleeveless and reaching to the wearer's knees, as worn in ancient Greece and
+11622
+
+Where was Dean Martin born?
+Steubenville, Ohio
+11623
+
+Define ``staid.''
+sedate, respectable, and unadventurous
+11624
+
+What name is associated with the problem of determining if a constant-recursive sequence contains 0?
+Skolem
+11625
+
+About whom was the New York Times talking when it said that, ``[a]mong the handful of the world's most legendary pianists,'' he ``is perhaps the most reclusive, enigmatic and obsessive''? 
+Arturo Benedetti Michelangeli
+11626
+
+What is the Portuguese word for ``scapula''?
+omoplata
+11627
+
+What does ``omoplata'' mean in Portuguese?
+scapula
+11628
+
+With what sport is the omoplata associated?
+Brazilian jiu-jitsu
+11629
+
+What submission in Brazilian jiu-jitsu has the name ashi sankaku garami `leg triangle entanglement' in judo?
+omoplata
+11630
+
+From what city does the band Disturbed come?
+Chicago
+11631
+
+Where was Chung Myung-whun born?
+Seoul
+11632
+
+What Scottish town shares its name with a Canadian village south of Kitchener?
+Ayr
+11633
+
+What year saw the Hōei earthquake happen? It was the largest Japanese earthquake before the Great East Japan Earthquake.
+1707
+11634
+
+Who recorded the song ``Lay all your love on me''?
+ABBA
+11635
+
+On what album did ``Lay all your love on me'' appear?
+Super Trouper
+11636
+
+Who comprised ABBA?
+Benny Andersson, Agnetha Fältskog,  Anni-Frid Lyngstad, Björn Ulvaeus
+11637
+
+What instrument does Nathalie Forget play?
+ondes Martenot
+11638
+
+What does 「吃一堑，长一智」 [chī yí qiàn，zhǎng yí zhì] mean?
+``a fall into a pit, a gain in your wit''
+11639
+
+What does 「一根筷子容易折，一把筷子难折断」 [yī gēn kuài zi róng yì zhé， yī bǎ kuài zi nán zhé duàn] mean?
+``one chopstick is fragile, but a group of chopsticks is robust''
+11640
+
+What does 「良好的开端，是成功的一半」 [liáng hǎo de kāi duān， shì chéng gōng de yī bàn] mean?
+``well begun is half done''
+11641
+
+What does 「三思而后行」 [sān sī ér hòu xíng] mean?
+``think three times before you do''
+11642
+
+What does 「量变质变规律」[liàng biàn zhí biàn guī lǜ] mean?
+``quantitative changes lead to qualitative changes''
+11643
+
+What does 「巧妇难为无米之炊」 [qiǎo fù nán wéi wú mǐ zhī chuī] mean?
+``the cleverest housewife cannot cook without rice''
+11644
+
+Monomorphisms must be injective functions in $\sffamily{Set}$. True or false?
+false
+11645
+
+``Once you solve a problem, . . . you tend to remember only the short path that got you from A to B. You forget all the dead ends. It's a bit of a shame. It gives the wrong impression that people who are good at mathematics only choose the right steps. But there is a lot of trial and error and really terribly embarrassing ideas. Sometimes there is a `eureka!' moment, but it’s more of a hitting-your-head moment: `Of course! Why was I so dense?''' Who said this?
+Terence Tao
+11646
+
+What name is given to a semi-hereditary integral domain?
+Prüfer domain
+11647
+
+When is a ring $R$ hereditary?
+all submodules of projective $R$-modules are projective
+11648
+
+When is a ring $R$ semi-hereditary?
+all submodules of finitely generated projective $R$-modules are projective
+11649
+
+What is a seiche?
+temporary disturbance or oscillation in the water level of a lake or partially enclosed body of water, especially one caused by changes in atmospheric pressure
+11650
+
+What was the score of the 2013 World Chess Championship between Viswanathan Anand and Magnus Carlsen?
+3 1/2 -- 6 1/2
+11651
+
+Where did Peter Sarnak get his Ph.D.?
+Stanford University
+11652
+
+Who advised Peter Sarnak in his Ph.D.?
+Paul Cohen
+11653
+

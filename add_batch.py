@@ -1,7 +1,6 @@
 # expects new_batch.txt to contain something of the form
 
-"""
-[index i at which to start, so the last one is i - 1]
+"""[index i at which to start, so the last one is i - 1]
 
 q_i
 a_i
@@ -9,8 +8,10 @@ a_i
 q_{i+1}
 a_{i+1}
 
-etc.
-"""
+...
+
+q_N
+a_N"""
 
 # otherwise do not expect something sensible or for this to run at all
 

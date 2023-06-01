@@ -1,220 +1,328 @@
-11473
+11546
 
-``The ability to play chess is the sign of a gentleman. The ability to play chess well is the sign of a wasted life.''
-Paul Morphy
+Define ``extemporize.''
+compose or perform something such as music or a speech without preparation; improvise
 
-Let $\mathfrak{g}$ be an $N$-dimensional Lie algebra. Let $(\ ,\ )$ be an $\operatorname{ad}$-invariant bilinear form on $\mathfrak{g}$ (say the Killing form). Let $\{x_1,\hdots,x_N\}$ be a basis for $\mathfrak{g}$ and let $\{x_1^*,\hdots,x_N^*\}$ be the dual basis with respect to $(\ ,\ )$. What is the Casimir element for $(\ ,\ )$?
-\begin{align*} \sum_{n=1}^N x_nx_n^*\end{align*}
+Who is the earliest-born person to have been filmed?
+Pope Leo XIII
 
-What is the chorale to which the O Haupt voll Blut und Wunden music is set in Bach's Christmas oratorio (BWV 248)?
-Wie soll ich dich empfangen
+What is a Salem number?
+real algebraic integer $\lamdba > 1$ whose conjugates have modulus at most $1$ and which has a conjugate of modulus precisely $1$
 
-What was the last completed work of Tchaikovsky?
-Piano concerto no. 3
+Who painted the Aino-taru --- the Aino myth triptych?
+Akseli Gallen-Kallela
 
-Who were the original members of the Budapest String Quartet?
-Emil Hauser, Alfred Indig, István Ipolyi, Harry Son
+What country contains Shibam –-- the city of mudbrick skyscrapers?
+Yemen
 
-Who comprised the Budapest String Quartet in 1951?
-Josef Roisman, Jac Gorodetzky, Boris Kroyt, Mischa Schneider
+Who produced the Solitude trilogy for the CBC?
+Glenn Gould
 
-What pope decreed ``God bless you'' as the correct response to a sneeze?
-Gregory I
+What year saw Glenn Gould's birth?
+1932
 
-What chess player was disqualified from the 2022 Candidates?
-Sergey Karjakin
+Where was Glenn Gould born?
+Toronto
 
-Who won the 2023 World Chess Championship?
-Ding Liren
+``We suffer more in imagination than we do in reality.''
+Seneca
 
-What is a northern spy?
-apple
+Define ``prolix.''
+using or containing too many words; tediously lengthy
 
-What is Malus pumila?
-apple
+When does the ``strange loop'' phenomenon occur?
+whenever, by moving upwards (or downwards) through the levels of some hierarchical system, we unexpectedly find ourselves right back where we started
 
-Define ``zeitgeber.''
-rhythmically occurring natural phenomenon which acts as a cue in the regulation of the body's circadian rhythms
+What is the first example of a strange loop that Hofstadter gives in Gödel, Escher, and Bach?
+Canon per Tonos
 
-Define ``infradian.''
-having a period of recurrence longer than a day
+Translate ``Quaerendo invenietis.''
+by seeking, you will discover
 
-Define ``ultradian.''
-having a period of recurrence shorter than a day but longer than an hour
+Who made the strange loop ``Waterfall''?
+M. C. Escher
 
-For what does ``KMP'' stand in ``KMP algorithm''?
-Knuth--Morris--Pratt
+What is the statement defining the Epimenides paradox?
+all Cretans are liars
 
-Who composed ``21st century schizoid man''?
-King Crimson
+What is Grelling's paradox?
+``heterological'' is neither heterological nor not heterological
 
-With whom is Nicomachean ethics associated?
-Aristotle
+Where is Kishinev?
+Moldova
 
-What are the four types of man that Aristotle describes in Nicomachean ethics? 
-the virtuous, the continent, the incontinent, the vice-filled
+What is the Danish name for Copenhagen?
+København
 
-Where is the Blue Grotto?
-Capri
+Who constructed higher algebraic $K$-theory?
+Daniel Quillen
 
-What is Belone belone?
-garfish
+What year saw Daniel Quillen win the Fields Medal?
+1978
 
-What region of south-western France is thought to produce boastful people?
-Gascony
+What year saw Pierre Deligne win the Fields Medal?
+1978
 
-What is a gascon?
-boastful person
+Who was the leading exponent of spectral music?
+Tristan Murail
 
-What is gasconade?
-extravagant boasting
+When did the Algerian War end?
+19 March 1962
 
-What is the French name for Gascony?
-Gascogne
+When did Algeria get independence from France?
+5 July 1962
 
-What region and former province of south-western France in the northern foothills of the Pyrenees was held by England between 1154 and 1453?
-Gascony
+When was Ásatrúarfélagið founded?
+1972
 
-What is a chandelier with gas burners rather than light bulbs or candles?
-gasolier
+Who do many consider to be the first permanent Norse settler of Iceland?
+Ingólfr Arnarson
 
-What is a gasolier?
-chandelier with gas burners rather than light bulbs or candles
+What is the name of Iceland's national anthem?
+Lofsöngur
 
-What shaped sheet or ring of rubber or other material seals the junction between two surfaces in an engine or other device?
-gasket
+Define ``schlemiel.''
+stupid, awkward, or unlucky person
 
-What is the muscular part of the hind leg of a horse between the stifle and the hock?
-gaskin
+Who said that ``it's very famous for difficult people to bomb''?
+Conan O'Brien
+ 
+How many millimetres of rain did Ziguinchor, Senegal average through June, July, and August from 1991 to 2020?
+829.61
 
-What peninsula contains the city of Percé?
-Gaspé
+What does ``PLUM'' abbreviate in earthquake sensor technology?
+propagation of local undamped motion
 
-What was a gasper?
-cigarette
+Where was the smiling Rafael Leão born?
+Almada, Portugal
 
-(1592--1655) What French astronomer and philosopher is best known for his atomic theory of matter, which was based on his interpretation of the works of Epicurus?
-Pierre Gassendi
+How many goals did Rafael Leão score in the 2022 World Cup?
+2
 
-(1888--1963) What American physiologist, in collaboration with Joseph Erlanger, used an oscilloscope to show that the velocity of a nerve impulse is proportional to the diameter of the fibre?
-Herbert Spencer Gasser
+Who managed the Croatian World Cup teams in 2018 and 2022?
+Zlatko Dalić
 
-What were the last names of the two winners of the Nobel Prize for Physiology or Medicine in 1944? They won the prize for their work on nerve impulses.
-Erlanger, Gasser
+Define ``quisling.''
+traitor who serves as the puppet of the enemy occupying his country
 
-What is a Gastarbeiter?
-person with temporary permission to work in another country
+What does the Oxford English Dictionary say that room temperature is in degrees Celsius?
+20
 
-What epoch witnessed the Gastornis?
-Eocene
+What country administers Jan Mayen?
+Norway
 
-What was the Gastornis?
-very large flightless bird of the Eocene epoch
+What is Jan Mayen's largest settlement?
+Olonkinbyen
 
-What is the surgical removal of the stomach?
-gastrectomy
+What state welcomed Brian Leetch into the world?
+Texas
 
-What is the chief muscle of the calf of the leg?
-gastrocnemius
+What was Paul Kariya's father's ethnicity?
+Japanese
 
-What chief muscle of the calf of the leg runs to the Achilles tendon from two heads attached to the femur?
-gastrocnemius
+What is the dialling code for the São Paulo metropolitan area?
+11
 
-Where is the gastrocnemius?
-calf
+What is the dialling code for western São Paulo?
+18
 
-What is a gastrolith?
-small stone swallowed by a bird, reptile, or fish to aid digestion in the gizzard
+What is the dialling code for greater Rio de Janeiro and Teresópolis?
+21
 
-What large class of molluscs includes snails, slugs, whelks, and all terrestrial kinds?
-Gastropoda
+What is the dialling code for eastern and northern Rio de Janeiro?
+22
 
-What small phylum consists of minute aquatic wormlike animals that bear bristles and cilia? Its members are thought to be related to the nematode worms and rotifers. 
-Gastrotricha
+What is the dialling code for western Rio de Janeiro?
+24
 
-What is an embryo called at the stage following the blastula, when it is a hollow cup-shaped structure having three layers of cells?
-gastrula
+What are the dialling codes for Espírito Santo?
+27, 28
 
-From what does a gastrula come?
-blastula
+What is the dialling code for southern Espírito Santo?
+28
 
-What year witnessed the birth of William Henry Gates?
-1955
+What is the dialling code for central Minas Gerais?
+31
 
-What industrial town opposes Newcastle on the River Tyne?
-Gateshead
+What Brazilian state or states have the dialling code prefix ``3''?
+Minas Gerais
 
-What first practical machine gun was officially adopted by the US army in 1866?
-Gatling gun
+What Brazilian state or states have the dialling code prefix ``4''?
+Paraná, Santa Catarina
 
-What does ``GATT'' abbreviate?
-General Agreement on Tariffs and Trade
+What Brazilian state or states have the dialling code prefix ``5''?
+Rio Grande do Sul
 
-What hereditary disease sees abnormal metabolism and storage of fats and results in bone fragility, neurological disturbance, anaemia, and enlargement of the liver and spleen?
-Gaucher's disease
+What Brazilian state or states have the dialling code prefix ``6''?
+Acre, Distrito Federal, Goiás, Mato Grosso, Mato Grosso do Sul, Rondônia, Tocantins
 
-What is a gaucho?
-cowboy from the South American pampas
+What is the dialling code for Tocantins?
+63
 
-Who designed the Sagrada Família?
-Antonio Gaudí
+What are the dialling codes for Mato Grosso?
+65, 66
 
-(1891–1915) What French sculptor --- a Vorticist --- created the faceted bust of Horace Brodzky (1912) and Bird Swallowing a Fish (1913)?
-Henri Gaudier-Brzeska
+What is the dialling code for Mato Grosso do Sul?
+67
 
-Where did Paul Gauguin live after 1891?
-Tahiti
+What is the dialling code for Acre?
+68
 
-What was a political official governing a district under Nazi rule called?
-Gauleiter
+What is the dialling code for Rondônia?
+68
 
-What series of Cretaceous clays and marls forms strata in southern England? Perhaps its name is related to the Old Swedish for ``barren.''
-Gault
+What Brazilian state or states have the dialling code prefix ``7''?
+Bahia, Sergipe
 
-What was Ghent's old name?
-Gaunt
+What is the dialling code for Sergipe?
+79
 
-What wild ox having a large head, a dark brown or black coat with white stockings, and a hump is native to India and Malaysia and is the ancestor of the domestic gayal?
-gaur
+What Brazilian state or states have the dialling code prefix ``8''?
+Alagoas, Ceará, Paraíba, Pernambuco, Piauí, Rio Grande do Norte
 
-What is the capital of Gauteng?
-Johannesburg
+What is the dialling code for Alagoas?
+82
 
-What was Gauteng's name before 1995?
-Pretoria-Witwatersrand-Vereeniging
+What is the dialling code for Paraíba?
+83
 
-What is gavage?
-the administration of food or drugs by force, especially to an animal, typically through a tube leading down the throat to the stomach
+What is the dialling code for Rio Grande do Norte?
+84
 
-What was Sunil Gavaskar?
-cricketer
+What are the dialling codes for Ceará?
+85, 88
 
-In what system of inheritance is a deceased person's land divided equally among all male heirs?
-gavelkind
+What are the dialling codes for Piauí?
+86, 89
 
-What did ``Gavot'' mean in Provençal?
-native of the Alps
+What is the dialling code for northern Piauí?
+86
 
-What knight of the Round Table who quested after the Holy Grail is the hero of the medieval poem Sir --- and the green knight?
-Gawain
+What Brazilian state or states have the dialling code prefix ``9''?
+Amapá, Amazonas, Maranhão, Pará, Roraima
 
-What does Gay-Lussac's law say?
-the volumes of gases undergoing a reaction at constant pressure and temperature are in a simple ratio to each other and to that of the product
+What is the dialling code for Roraima?
+95
 
-Whose law says that the volumes of gases undergoing a reaction at constant pressure and temperature are in a simple ratio to each other and to that of the product?
-Gay-Lussac's
+What is the dialling code for Amapá?
+96
 
-(1939--84) What American soul singer, composer, and musician who is best known for ``I heard it through the grapevine'' (1968) later recorded the albums Let's get it on (1973) and Midnight love (1982)? He was shot dead by his father in a quarrel.
-Marvin Gaye
+What is the dialling code for northern Maranhão?
+98
 
-What tropical herbaceous plant of the daisy family has showy flowers that are typically orange or yellow?
-gazania
+Who wrote ``Linear algebra done wrong''?
+Sergei Treil
 
-What former homeland established in South Africa for the Tsonga people is now part of the provinces of Limpopo and Mpumalanga?
-Gazankulu
+Who issued the earthquake and tsunami warnings on NHK on 11 March 2011 when the Great East Japan Earthquake occurred?
+Kenzo Ito
 
-What is gazar?
-stiff gauzy kind of silk fabric
+What time was it locally when the Great East Japan Earthquake happened?
+14:46
 
-To what country is Gaziantep closest?
-Turkey
+Who said, ``Hey, hey, you, you, get off of my cloud''?
+The Rolling Stones
+
+Who asked, ``Psycho killer / Qu'est-ce que c'est?''?
+Talking Heads
+
+What is a coeval?
+person of roughly the same age as oneself
+
+What does escitalopram treat?
+depression
+
+What was a tunic?
+loose garment, typically sleeveless and reaching to the wearer's knees, as worn in ancient Greece and
+
+Where was Dean Martin born?
+Steubenville, Ohio
+
+Define ``staid.''
+sedate, respectable, and unadventurous
+
+What name is associated with the problem of determining if a constant-recursive sequence contains 0?
+Skolem
+
+About whom was the New York Times talking when it said that, ``[a]mong the handful of the world's most legendary pianists,'' he ``is perhaps the most reclusive, enigmatic and obsessive''? 
+Arturo Benedetti Michelangeli
+
+What is the Portuguese word for ``scapula''?
+omoplata
+
+What does ``omoplata'' mean in Portuguese?
+scapula
+
+With what sport is the omoplata associated?
+Brazilian jiu-jitsu
+
+What submission in Brazilian jiu-jitsu has the name ashi sankaku garami `leg triangle entanglement' in judo?
+omoplata
+
+From what city does the band Disturbed come?
+Chicago
+
+Where was Chung Myung-whun born?
+Seoul
+
+What Scottish town shares its name with a Canadian village south of Kitchener?
+Ayr
+
+What year saw the Hōei earthquake happen? It was the largest Japanese earthquake before the Great East Japan Earthquake.
+1707
+
+Who recorded the song ``Lay all your love on me''?
+ABBA
+
+On what album did ``Lay all your love on me'' appear?
+Super Trouper
+
+Who comprised ABBA?
+Benny Andersson, Agnetha Fältskog,  Anni-Frid Lyngstad, Björn Ulvaeus
+
+What instrument does Nathalie Forget play?
+ondes Martenot
+
+What does 「吃一堑，长一智」 [chī yí qiàn，zhǎng yí zhì] mean?
+``a fall into a pit, a gain in your wit''
+
+What does 「一根筷子容易折，一把筷子难折断」 [yī gēn kuài zi róng yì zhé， yī bǎ kuài zi nán zhé duàn] mean?
+``one chopstick is fragile, but a group of chopsticks is robust''
+
+What does 「良好的开端，是成功的一半」 [liáng hǎo de kāi duān， shì chéng gōng de yī bàn] mean?
+``well begun is half done''
+
+What does 「三思而后行」 [sān sī ér hòu xíng] mean?
+``think three times before you do''
+
+What does 「量变质变规律」[liàng biàn zhí biàn guī lǜ] mean?
+``quantitative changes lead to qualitative changes''
+
+What does 「巧妇难为无米之炊」 [qiǎo fù nán wéi wú mǐ zhī chuī] mean?
+``the cleverest housewife cannot cook without rice''
+
+Monomorphisms must be injective functions in $\sffamily{Set}$. True or false?
+false
+
+``Once you solve a problem, . . . you tend to remember only the short path that got you from A to B. You forget all the dead ends. It's a bit of a shame. It gives the wrong impression that people who are good at mathematics only choose the right steps. But there is a lot of trial and error and really terribly embarrassing ideas. Sometimes there is a `eureka!' moment, but it’s more of a hitting-your-head moment: `Of course! Why was I so dense?''' Who said this?
+Terence Tao
+
+What name is given to a semi-hereditary integral domain?
+Prüfer domain
+
+When is a ring $R$ hereditary?
+all submodules of projective $R$-modules are projective
+
+When is a ring $R$ semi-hereditary?
+all submodules of finitely generated projective $R$-modules are projective
+
+What is a seiche?
+temporary disturbance or oscillation in the water level of a lake or partially enclosed body of water, especially one caused by changes in atmospheric pressure
+
+What was the score of the 2013 World Chess Championship between Viswanathan Anand and Magnus Carlsen?
+3 1/2 -- 6 1/2
+
+Where did Peter Sarnak get his Ph.D.?
+Stanford University
+
+Who advised Peter Sarnak in his Ph.D.?
+Paul Cohen
