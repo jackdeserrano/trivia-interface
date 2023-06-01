@@ -34720,7 +34720,7 @@ stupid, awkward, or unlucky person
 Who said that ``it's very famous for difficult people to bomb''?
 Conan O'Brien
 
-What does ``PLUM'' abbreviate in earthquake sensor technology?
+What does ``PLUM'' abbreviate in the nomenclature of earthquake sensor technology?
 propagation of local undamped motion
 
 Where was the smiling Rafael Leão born?
@@ -34930,7 +34930,7 @@ What does 「量变质变规律」[liàng biàn zhí biàn guī lǜ] mean?
 What does 「巧妇难为无米之炊」 [qiǎo fù nán wéi wú mǐ zhī chuī] mean?
 ``the cleverest housewife cannot cook without rice''
 
-Monomorphisms must be injective functions in $\sffamily{Set}$. True or false?
+Monomorphisms must be injective functions in ${\sffamily Set}$. True or false?
 false
 
 ``Once you solve a problem, . . . you tend to remember only the short path that got you from A to B. You forget all the dead ends. It's a bit of a shame. It gives the wrong impression that people who are good at mathematics only choose the right steps. But there is a lot of trial and error and really terribly embarrassing ideas. Sometimes there is a `eureka!' moment, but it’s more of a hitting-your-head moment: `Of course! Why was I so dense?''' Who said this?

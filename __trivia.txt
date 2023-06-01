@@ -46300,7 +46300,7 @@ Who said that ``it's very famous for difficult people to bomb''?
 Conan O'Brien
 11574
 
-What does ``PLUM'' abbreviate in earthquake sensor technology?
+What does ``PLUM'' abbreviate in the nomenclature of earthquake sensor technology?
 propagation of local undamped motion
 11575
 
@@ -46580,7 +46580,7 @@ What does 「巧妇难为无米之炊」 [qiǎo fù nán wéi wú mǐ zhī chuī
 ``the cleverest housewife cannot cook without rice''
 11644
 
-Monomorphisms must be injective functions in $\sffamily{Set}$. True or false?
+Monomorphisms must be injective functions in ${\sffamily Set}$. True or false?
 false
 11645
 
