@@ -34957,5 +34957,239 @@ Stanford University
 Who advised Peter Sarnak in his Ph.D.?
 Paul Cohen
 
+Where is the Musiikkitalo?
+Helsinki
+
+What is Norway's largest fjord?
+Sognefjord
+
+What opening is comprised by the moves 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+?
+Bogo--Indian defence
+
+After whom is the Bogo--Indian defence named?
+Yefim Bogolyubov
+
+Define ``bootleg'' as a verb.
+make, distribute, or sell (alcoholic drink or recording) illegally
+
+What prefecture contains Nikkō?
+Tochigi
+
+What island contains Port Renfrew?
+Vancouver Island
+
+What name is given to a sequence of random variables $(X_n)_n$ that satisfies $\mathbf{E}(\lvert X_n \rvert) < \infty$ and $\mathbf{E}(X_{n+1} \mid X_1,\hdots,X_n) = X_n$ for all $n$?
+martingale 
+
+What is the second convergent of the continued fraction of $\pi$?
+$22/7$
+
+What is the third convergent of the continued fraction of $\pi$?
+$333/106$
+
+What is the fourth convergent of the continued fraction of $\pi$?
+$355/113$
+
+What number is called 「密率」in Chinese?
+$355/113$
+
+What two mathematicians were the first to prove the prime number theorem?
+Jacques Hadamard, Charles Jean de la Vallée Poussin
+
+What class of fields is comprised of finite extensions of $\mathbf{Q}$ and finite extensions of $\mathbf{F}_q(T)$?
+global fields
+
+Who challenged Magnus Carlsen in 2016 for the World Chess Championship?
+Sergey Karjakin
+
+What is Russia's southernmost island?
+Furugelm Island
+
+Where was Joseph Biden born?
+Scranton, Pennsylvania
+
+Where was Donald Trump born?
+New York City, New York
+
+Where was Ronald DeSantis born?
+Jacksonville, Florida
+
+Where was Barack Obama born?
+Honolulu, Hawaii
+
+What name is given to the display of a choreographed flag, sign, or banner in a stadium for a sporting event?
+tifo
+
+When is $\alpha$ $(\omega,C)$--badly approximable?
+$\min_{p\in \mathbf{Z}} \lvert q\alpha - p \rvert \ge C q^{-\omega}$ for all $q\gg 1$
+
+Define ``bulbil.''
+small bulblike structure, in particular one in the axil of a leaf, which may fall to form a new plant
+
+Is $\mathbf{Z}_{10}$ an integral domain?
+no
+
+Is $\mathbf{Z}_{5}$ an integral domain?
+yes
+
+What opus is Sibelius's Kullervo?
+7
+
+What does ``GBZ'' abbreviate?
+Gibraltar
+
+What does ``GC'' abbreviate in the UK?
+George Cross
+
+What country holds Gdynia?
+Poland
+
+What is the wild or sweet cherry, which is native to both Eurasia and North America?
+gean
+
+What is Prunus avium?
+gean
+
+What is a geanticline?
+large-scale upwardly flexed structure in the earth's crust
+
+(c. 721--c. 815) What Arab chemist was familiar with many chemicals and laboratory techniques, including distillation and sublimation? Many works are attributed to him, but his name was used by later writers.
+Geber
+
+What Australian shrub or small tree that bears creamy-yellow flowers and small green fruit belongs to the genus Persoonia?
+geebung
+
+What is Geechee?
+English creole spoken by some black people in parts of South Carolina and Georgia
+
+What Australian administrative division contains Geelong?
+Victoria
+
+What patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun is thought to be the image of the sun reflected from gas and dust outside the atmosphere?
+gegenschein
+
+What patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun is thought to be the image of the sun reflected from gas and dust outside the atmosphere? Its name comes from the German for ``opposite'' + ``glow.''
+gegenschein
+
+What is gegenschein?
+patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun
+
+What is Gehenna?
+Hell
+
+What baseball player was known as the ``Iron Horse''?
+Lou Gehrig
+
+Who played a record 2,130 major-league games for the New York Yankees from 1925 to 1939?
+Lou Gehrig
+
+What does a Geiger counter measure?
+radioactivity
+
+(1835--1924) What Scottish geologist specialized in Pleistocene geology, especially the geomorphological effects of glaciations and the resulting deposits?
+Sir Archibald Geikie
+
+What sealed tube of glass or quartz with a central constriction is filled with vapour for the production of a luminous electrical discharge?
+Geissler tube
+
+What is a Geissler tube?
+sealed tube of glass or quartz with a central constriction, filled with vapour for the production of a luminous electrical discharge
+
+Define ``Geist.''
+the spirit of an individual or group
+
+What is the fertilization of a flower by pollen from another flower on the same (or a genetically identical) plant?
+geitonogamy
+
+What tin-mining city in southern China is located near the border with Vietnam?
+Gejiu
+
+What country's currency is the GEL?
+Georgia
+
+What brownish baboon with a long mane and naked red rump is native to Ethiopia? 
+gelada
+
+Define ``geld.''
+castrate
+
+What is the capital of Gelderland?
+Arnhem
+
+What province contains Arnhem?
+Gelderland
+
+Define ``gelid.''
+icy; extremely cold
+
+Define ``gelidity.''
+the quality or condition of being extremely cold or icy
+
+What high explosive made from a gel of nitroglycerine and nitrocellulose in a base of wood pulp and sodium or potassium nitrate is used particularly for rock-blasting?
+gelignite
+
+(1929--2019) What American theoretical physicist coined the word ``quark'' and proposed the concept of strangeness in quarks? He won the Nobel Prize for Physics (1969).
+Murray Gell-Mann
+
+What preparation of the rhizome of yellow jasmine used in homeopathy to treat flulike symptoms shares its name with the genus that includes the yellow jasmine?
+gelsemium
+
+What German state contains the industrial city of Gelsenkirchen?
+North Rhine--Westphalia
+
+What is the Gem State?
+Idaho
+
+What rabbinical commentary on the Mishnah forms the second part of the Talmud?
+the Gemara
+
+What Kabbalistic method of interpreting the Hebrew scriptures by computing the numerical value of words is based on the values of the constituent letters thereof?
+gematria
+
+(1905--84) What Lebanese political leader, as a Maronite Christian, founded the right-wing Phalange Party in 1936 and served as a Member of Parliament from 1960 to 1984? His youngest son, Bashir (1947--82), was assassinated while president-elect, and his eldest son, Amin (b. 1942), served as president from 1982 to 1988.
+Pierre Gemayel
+
+What mass noun of German origin refers to social relations between individuals, based on close personal and family ties?
+Gemeinschaft
+
+What adjective in phonetics describes something that consists of identical adjacent speech sounds or doubled?
+geminate
+
+What annual meteor shower with a radiant in the constellation Gemini reaches a peak about 13 December?
+Geminids
+
+What is a small cellular body or bud that can separate to form a new organism called?
+gemma
+
+What small cellular body or bud that can separate to form a new organism shares its name with a peculiar name?
+gemma
+
+What is another term for chlamydospore?
+gemma
+
+Define ``gemmed.''
+decorated with or as with gems
+
+What adjective describes a plant or animal that reproduces by gemmation?
+gemmiparous
+
+What tough-coated dormant cluster of embryonic cells is produced by a freshwater sponge for development in more favourable conditions?
+gemmule
+
+What is a gemmule?
+tough-coated dormant cluster of embryonic cells produced by a freshwater sponge for development in more favourable conditions
+
+What large antelope (Oryx gazella) that has a grey coat, distinctive black-and-white head markings, and long straight horns is native to south-western and East Africa?
+gemsbok
+
+What is the systematic name for the gemsbok?
+Oryx gazella
+
+Define ``gemütlich.''
+pleasant and cheerful
+
+What is Gemütlichkeit?
+geniality
+
 
 

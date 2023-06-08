@@ -46616,3 +46616,315 @@ Who advised Peter Sarnak in his Ph.D.?
 Paul Cohen
 11653
 
+Where is the Musiikkitalo?
+Helsinki
+11654
+
+What is Norway's largest fjord?
+Sognefjord
+11655
+
+What opening is comprised by the moves 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+?
+Bogo--Indian defence
+11656
+
+After whom is the Bogo--Indian defence named?
+Yefim Bogolyubov
+11657
+
+Define ``bootleg'' as a verb.
+make, distribute, or sell (alcoholic drink or recording) illegally
+11658
+
+What prefecture contains Nikkō?
+Tochigi
+11659
+
+What island contains Port Renfrew?
+Vancouver Island
+11660
+
+What name is given to a sequence of random variables $(X_n)_n$ that satisfies $\mathbf{E}(\lvert X_n \rvert) < \infty$ and $\mathbf{E}(X_{n+1} \mid X_1,\hdots,X_n) = X_n$ for all $n$?
+martingale 
+11661
+
+What is the second convergent of the continued fraction of $\pi$?
+$22/7$
+11662
+
+What is the third convergent of the continued fraction of $\pi$?
+$333/106$
+11663
+
+What is the fourth convergent of the continued fraction of $\pi$?
+$355/113$
+11664
+
+What number is called 「密率」in Chinese?
+$355/113$
+11665
+
+What two mathematicians were the first to prove the prime number theorem?
+Jacques Hadamard, Charles Jean de la Vallée Poussin
+11666
+
+What class of fields is comprised of finite extensions of $\mathbf{Q}$ and finite extensions of $\mathbf{F}_q(T)$?
+global fields
+11667
+
+Who challenged Magnus Carlsen in 2016 for the World Chess Championship?
+Sergey Karjakin
+11668
+
+What is Russia's southernmost island?
+Furugelm Island
+11669
+
+Where was Joseph Biden born?
+Scranton, Pennsylvania
+11670
+
+Where was Donald Trump born?
+New York City, New York
+11671
+
+Where was Ronald DeSantis born?
+Jacksonville, Florida
+11672
+
+Where was Barack Obama born?
+Honolulu, Hawaii
+11673
+
+What name is given to the display of a choreographed flag, sign, or banner in a stadium for a sporting event?
+tifo
+11674
+
+When is $\alpha$ $(\omega,C)$--badly approximable?
+$\min_{p\in \mathbf{Z}} \lvert q\alpha - p \rvert \ge C q^{-\omega}$ for all $q\gg 1$
+11675
+
+Define ``bulbil.''
+small bulblike structure, in particular one in the axil of a leaf, which may fall to form a new plant
+11676
+
+Is $\mathbf{Z}_{10}$ an integral domain?
+no
+11677
+
+Is $\mathbf{Z}_{5}$ an integral domain?
+yes
+11678
+
+What opus is Sibelius's Kullervo?
+7
+11679
+
+What does ``GBZ'' abbreviate?
+Gibraltar
+11680
+
+What does ``GC'' abbreviate in the UK?
+George Cross
+11681
+
+What country holds Gdynia?
+Poland
+11682
+
+What is the wild or sweet cherry, which is native to both Eurasia and North America?
+gean
+11683
+
+What is Prunus avium?
+gean
+11684
+
+What is a geanticline?
+large-scale upwardly flexed structure in the earth's crust
+11685
+
+(c. 721--c. 815) What Arab chemist was familiar with many chemicals and laboratory techniques, including distillation and sublimation? Many works are attributed to him, but his name was used by later writers.
+Geber
+11686
+
+What Australian shrub or small tree that bears creamy-yellow flowers and small green fruit belongs to the genus Persoonia?
+geebung
+11687
+
+What is Geechee?
+English creole spoken by some black people in parts of South Carolina and Georgia
+11688
+
+What Australian administrative division contains Geelong?
+Victoria
+11689
+
+What patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun is thought to be the image of the sun reflected from gas and dust outside the atmosphere?
+gegenschein
+11690
+
+What patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun is thought to be the image of the sun reflected from gas and dust outside the atmosphere? Its name comes from the German for ``opposite'' + ``glow.''
+gegenschein
+11691
+
+What is gegenschein?
+patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun
+11692
+
+What is Gehenna?
+Hell
+11693
+
+What baseball player was known as the ``Iron Horse''?
+Lou Gehrig
+11694
+
+Who played a record 2,130 major-league games for the New York Yankees from 1925 to 1939?
+Lou Gehrig
+11695
+
+What does a Geiger counter measure?
+radioactivity
+11696
+
+(1835--1924) What Scottish geologist specialized in Pleistocene geology, especially the geomorphological effects of glaciations and the resulting deposits?
+Sir Archibald Geikie
+11697
+
+What sealed tube of glass or quartz with a central constriction is filled with vapour for the production of a luminous electrical discharge?
+Geissler tube
+11698
+
+What is a Geissler tube?
+sealed tube of glass or quartz with a central constriction, filled with vapour for the production of a luminous electrical discharge
+11699
+
+Define ``Geist.''
+the spirit of an individual or group
+11700
+
+What is the fertilization of a flower by pollen from another flower on the same (or a genetically identical) plant?
+geitonogamy
+11701
+
+What tin-mining city in southern China is located near the border with Vietnam?
+Gejiu
+11702
+
+What country's currency is the GEL?
+Georgia
+11703
+
+What brownish baboon with a long mane and naked red rump is native to Ethiopia? 
+gelada
+11704
+
+Define ``geld.''
+castrate
+11705
+
+What is the capital of Gelderland?
+Arnhem
+11706
+
+What province contains Arnhem?
+Gelderland
+11707
+
+Define ``gelid.''
+icy; extremely cold
+11708
+
+Define ``gelidity.''
+the quality or condition of being extremely cold or icy
+11709
+
+What high explosive made from a gel of nitroglycerine and nitrocellulose in a base of wood pulp and sodium or potassium nitrate is used particularly for rock-blasting?
+gelignite
+11710
+
+(1929--2019) What American theoretical physicist coined the word ``quark'' and proposed the concept of strangeness in quarks? He won the Nobel Prize for Physics (1969).
+Murray Gell-Mann
+11711
+
+What preparation of the rhizome of yellow jasmine used in homeopathy to treat flulike symptoms shares its name with the genus that includes the yellow jasmine?
+gelsemium
+11712
+
+What German state contains the industrial city of Gelsenkirchen?
+North Rhine--Westphalia
+11713
+
+What is the Gem State?
+Idaho
+11714
+
+What rabbinical commentary on the Mishnah forms the second part of the Talmud?
+the Gemara
+11715
+
+What Kabbalistic method of interpreting the Hebrew scriptures by computing the numerical value of words is based on the values of the constituent letters thereof?
+gematria
+11716
+
+(1905--84) What Lebanese political leader, as a Maronite Christian, founded the right-wing Phalange Party in 1936 and served as a Member of Parliament from 1960 to 1984? His youngest son, Bashir (1947--82), was assassinated while president-elect, and his eldest son, Amin (b. 1942), served as president from 1982 to 1988.
+Pierre Gemayel
+11717
+
+What mass noun of German origin refers to social relations between individuals, based on close personal and family ties?
+Gemeinschaft
+11718
+
+What adjective in phonetics describes something that consists of identical adjacent speech sounds or doubled?
+geminate
+11719
+
+What annual meteor shower with a radiant in the constellation Gemini reaches a peak about 13 December?
+Geminids
+11720
+
+What is a small cellular body or bud that can separate to form a new organism called?
+gemma
+11721
+
+What small cellular body or bud that can separate to form a new organism shares its name with a peculiar name?
+gemma
+11722
+
+What is another term for chlamydospore?
+gemma
+11723
+
+Define ``gemmed.''
+decorated with or as with gems
+11724
+
+What adjective describes a plant or animal that reproduces by gemmation?
+gemmiparous
+11725
+
+What tough-coated dormant cluster of embryonic cells is produced by a freshwater sponge for development in more favourable conditions?
+gemmule
+11726
+
+What is a gemmule?
+tough-coated dormant cluster of embryonic cells produced by a freshwater sponge for development in more favourable conditions
+11727
+
+What large antelope (Oryx gazella) that has a grey coat, distinctive black-and-white head markings, and long straight horns is native to south-western and East Africa?
+gemsbok
+11728
+
+What is the systematic name for the gemsbok?
+Oryx gazella
+11729
+
+Define ``gemütlich.''
+pleasant and cheerful
+11730
+
+What is Gemütlichkeit?
+geniality
+11731
+

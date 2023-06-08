@@ -1,328 +1,235 @@
-11546
+11654
 
-Define ``extemporize.''
-compose or perform something such as music or a speech without preparation; improvise
+Where is the Musiikkitalo?
+Helsinki
 
-Who is the earliest-born person to have been filmed?
-Pope Leo XIII
+What is Norway's largest fjord?
+Sognefjord
 
-What is a Salem number?
-real algebraic integer $\lamdba > 1$ whose conjugates have modulus at most $1$ and which has a conjugate of modulus precisely $1$
+What opening is comprised by the moves 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+?
+Bogo--Indian defence
 
-Who painted the Aino-taru --- the Aino myth triptych?
-Akseli Gallen-Kallela
+After whom is the Bogo--Indian defence named?
+Yefim Bogolyubov
 
-What country contains Shibam –-- the city of mudbrick skyscrapers?
-Yemen
+Define ``bootleg'' as a verb.
+make, distribute, or sell (alcoholic drink or recording) illegally
 
-Who produced the Solitude trilogy for the CBC?
-Glenn Gould
+What prefecture contains Nikkō?
+Tochigi
 
-What year saw Glenn Gould's birth?
-1932
+What island contains Port Renfrew?
+Vancouver Island
 
-Where was Glenn Gould born?
-Toronto
+What name is given to a sequence of random variables $(X_n)_n$ that satisfies $\mathbf{E}(\lvert X_n \rvert) < \infty$ and $\mathbf{E}(X_{n+1} \mid X_1,\hdots,X_n) = X_n$ for all $n$?
+martingale 
 
-``We suffer more in imagination than we do in reality.''
-Seneca
+What is the second convergent of the continued fraction of $\pi$?
+$22/7$
 
-Define ``prolix.''
-using or containing too many words; tediously lengthy
+What is the third convergent of the continued fraction of $\pi$?
+$333/106$
 
-When does the ``strange loop'' phenomenon occur?
-whenever, by moving upwards (or downwards) through the levels of some hierarchical system, we unexpectedly find ourselves right back where we started
+What is the fourth convergent of the continued fraction of $\pi$?
+$355/113$
 
-What is the first example of a strange loop that Hofstadter gives in Gödel, Escher, and Bach?
-Canon per Tonos
+What number is called 「密率」in Chinese?
+$355/113$
 
-Translate ``Quaerendo invenietis.''
-by seeking, you will discover
+What two mathematicians were the first to prove the prime number theorem?
+Jacques Hadamard, Charles Jean de la Vallée Poussin
 
-Who made the strange loop ``Waterfall''?
-M. C. Escher
+What class of fields is comprised of finite extensions of $\mathbf{Q}$ and finite extensions of $\mathbf{F}_q(T)$?
+global fields
 
-What is the statement defining the Epimenides paradox?
-all Cretans are liars
+Who challenged Magnus Carlsen in 2016 for the World Chess Championship?
+Sergey Karjakin
 
-What is Grelling's paradox?
-``heterological'' is neither heterological nor not heterological
+What is Russia's southernmost island?
+Furugelm Island
 
-Where is Kishinev?
-Moldova
+Where was Joseph Biden born?
+Scranton, Pennsylvania
 
-What is the Danish name for Copenhagen?
-København
+Where was Donald Trump born?
+New York City, New York
 
-Who constructed higher algebraic $K$-theory?
-Daniel Quillen
+Where was Ronald DeSantis born?
+Jacksonville, Florida
 
-What year saw Daniel Quillen win the Fields Medal?
-1978
+Where was Barack Obama born?
+Honolulu, Hawaii
 
-What year saw Pierre Deligne win the Fields Medal?
-1978
+What name is given to the display of a choreographed flag, sign, or banner in a stadium for a sporting event?
+tifo
 
-Who was the leading exponent of spectral music?
-Tristan Murail
+When is $\alpha$ $(\omega,C)$--badly approximable?
+$\min_{p\in \mathbf{Z}} \lvert q\alpha - p \rvert \ge C q^{-\omega}$ for all $q\gg 1$
 
-When did the Algerian War end?
-19 March 1962
+Define ``bulbil.''
+small bulblike structure, in particular one in the axil of a leaf, which may fall to form a new plant
 
-When did Algeria get independence from France?
-5 July 1962
+Is $\mathbf{Z}_{10}$ an integral domain?
+no
 
-When was Ásatrúarfélagið founded?
-1972
+Is $\mathbf{Z}_{5}$ an integral domain?
+yes
 
-Who do many consider to be the first permanent Norse settler of Iceland?
-Ingólfr Arnarson
+What opus is Sibelius's Kullervo?
+7
 
-What is the name of Iceland's national anthem?
-Lofsöngur
+What does ``GBZ'' abbreviate?
+Gibraltar
 
-Define ``schlemiel.''
-stupid, awkward, or unlucky person
+What does ``GC'' abbreviate in the UK?
+George Cross
 
-Who said that ``it's very famous for difficult people to bomb''?
-Conan O'Brien
- 
-How many millimetres of rain did Ziguinchor, Senegal average through June, July, and August from 1991 to 2020?
-829.61
+What country holds Gdynia?
+Poland
 
-What does ``PLUM'' abbreviate in earthquake sensor technology?
-propagation of local undamped motion
+What is the wild or sweet cherry, which is native to both Eurasia and North America?
+gean
 
-Where was the smiling Rafael Leão born?
-Almada, Portugal
+What is Prunus avium?
+gean
 
-How many goals did Rafael Leão score in the 2022 World Cup?
-2
+What is a geanticline?
+large-scale upwardly flexed structure in the earth's crust
 
-Who managed the Croatian World Cup teams in 2018 and 2022?
-Zlatko Dalić
+(c. 721--c. 815) What Arab chemist was familiar with many chemicals and laboratory techniques, including distillation and sublimation? Many works are attributed to him, but his name was used by later writers.
+Geber
 
-Define ``quisling.''
-traitor who serves as the puppet of the enemy occupying his country
+What Australian shrub or small tree that bears creamy-yellow flowers and small green fruit belongs to the genus Persoonia?
+geebung
 
-What does the Oxford English Dictionary say that room temperature is in degrees Celsius?
-20
+What is Geechee?
+English creole spoken by some black people in parts of South Carolina and Georgia
 
-What country administers Jan Mayen?
-Norway
+What Australian administrative division contains Geelong?
+Victoria
 
-What is Jan Mayen's largest settlement?
-Olonkinbyen
+What patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun is thought to be the image of the sun reflected from gas and dust outside the atmosphere?
+gegenschein
 
-What state welcomed Brian Leetch into the world?
-Texas
+What patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun is thought to be the image of the sun reflected from gas and dust outside the atmosphere? Its name comes from the German for ``opposite'' + ``glow.''
+gegenschein
 
-What was Paul Kariya's father's ethnicity?
-Japanese
+What is gegenschein?
+patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun
 
-What is the dialling code for the São Paulo metropolitan area?
-11
+What is Gehenna?
+Hell
 
-What is the dialling code for western São Paulo?
-18
+What baseball player was known as the ``Iron Horse''?
+Lou Gehrig
 
-What is the dialling code for greater Rio de Janeiro and Teresópolis?
-21
+Who played a record 2,130 major-league games for the New York Yankees from 1925 to 1939?
+Lou Gehrig
 
-What is the dialling code for eastern and northern Rio de Janeiro?
-22
+What does a Geiger counter measure?
+radioactivity
 
-What is the dialling code for western Rio de Janeiro?
-24
+(1835--1924) What Scottish geologist specialized in Pleistocene geology, especially the geomorphological effects of glaciations and the resulting deposits?
+Sir Archibald Geikie
 
-What are the dialling codes for Espírito Santo?
-27, 28
+What sealed tube of glass or quartz with a central constriction is filled with vapour for the production of a luminous electrical discharge?
+Geissler tube
 
-What is the dialling code for southern Espírito Santo?
-28
+What is a Geissler tube?
+sealed tube of glass or quartz with a central constriction, filled with vapour for the production of a luminous electrical discharge
 
-What is the dialling code for central Minas Gerais?
-31
+Define ``Geist.''
+the spirit of an individual or group
 
-What Brazilian state or states have the dialling code prefix ``3''?
-Minas Gerais
+What is the fertilization of a flower by pollen from another flower on the same (or a genetically identical) plant?
+geitonogamy
 
-What Brazilian state or states have the dialling code prefix ``4''?
-Paraná, Santa Catarina
+What tin-mining city in southern China is located near the border with Vietnam?
+Gejiu
 
-What Brazilian state or states have the dialling code prefix ``5''?
-Rio Grande do Sul
+What country's currency is the GEL?
+Georgia
 
-What Brazilian state or states have the dialling code prefix ``6''?
-Acre, Distrito Federal, Goiás, Mato Grosso, Mato Grosso do Sul, Rondônia, Tocantins
+What brownish baboon with a long mane and naked red rump is native to Ethiopia? 
+gelada
 
-What is the dialling code for Tocantins?
-63
+Define ``geld.''
+castrate
 
-What are the dialling codes for Mato Grosso?
-65, 66
+What is the capital of Gelderland?
+Arnhem
 
-What is the dialling code for Mato Grosso do Sul?
-67
+What province contains Arnhem?
+Gelderland
 
-What is the dialling code for Acre?
-68
+Define ``gelid.''
+icy; extremely cold
 
-What is the dialling code for Rondônia?
-68
+Define ``gelidity.''
+the quality or condition of being extremely cold or icy
 
-What Brazilian state or states have the dialling code prefix ``7''?
-Bahia, Sergipe
+What high explosive made from a gel of nitroglycerine and nitrocellulose in a base of wood pulp and sodium or potassium nitrate is used particularly for rock-blasting?
+gelignite
 
-What is the dialling code for Sergipe?
-79
+(1929--2019) What American theoretical physicist coined the word ``quark'' and proposed the concept of strangeness in quarks? He won the Nobel Prize for Physics (1969).
+Murray Gell-Mann
 
-What Brazilian state or states have the dialling code prefix ``8''?
-Alagoas, Ceará, Paraíba, Pernambuco, Piauí, Rio Grande do Norte
+What preparation of the rhizome of yellow jasmine used in homeopathy to treat flulike symptoms shares its name with the genus that includes the yellow jasmine?
+gelsemium
 
-What is the dialling code for Alagoas?
-82
+What German state contains the industrial city of Gelsenkirchen?
+North Rhine--Westphalia
 
-What is the dialling code for Paraíba?
-83
+What is the Gem State?
+Idaho
 
-What is the dialling code for Rio Grande do Norte?
-84
+What rabbinical commentary on the Mishnah forms the second part of the Talmud?
+the Gemara
 
-What are the dialling codes for Ceará?
-85, 88
+What Kabbalistic method of interpreting the Hebrew scriptures by computing the numerical value of words is based on the values of the constituent letters thereof?
+gematria
 
-What are the dialling codes for Piauí?
-86, 89
+(1905--84) What Lebanese political leader, as a Maronite Christian, founded the right-wing Phalange Party in 1936 and served as a Member of Parliament from 1960 to 1984? His youngest son, Bashir (1947--82), was assassinated while president-elect, and his eldest son, Amin (b. 1942), served as president from 1982 to 1988.
+Pierre Gemayel
 
-What is the dialling code for northern Piauí?
-86
+What mass noun of German origin refers to social relations between individuals, based on close personal and family ties?
+Gemeinschaft
 
-What Brazilian state or states have the dialling code prefix ``9''?
-Amapá, Amazonas, Maranhão, Pará, Roraima
+What adjective in phonetics describes something that consists of identical adjacent speech sounds or doubled?
+geminate
 
-What is the dialling code for Roraima?
-95
+What annual meteor shower with a radiant in the constellation Gemini reaches a peak about 13 December?
+Geminids
 
-What is the dialling code for Amapá?
-96
+What is a small cellular body or bud that can separate to form a new organism called?
+gemma
 
-What is the dialling code for northern Maranhão?
-98
+What small cellular body or bud that can separate to form a new organism shares its name with a peculiar name?
+gemma
 
-Who wrote ``Linear algebra done wrong''?
-Sergei Treil
+What is another term for chlamydospore?
+gemma
 
-Who issued the earthquake and tsunami warnings on NHK on 11 March 2011 when the Great East Japan Earthquake occurred?
-Kenzo Ito
+Define ``gemmed.''
+decorated with or as with gems
 
-What time was it locally when the Great East Japan Earthquake happened?
-14:46
+What adjective describes a plant or animal that reproduces by gemmation?
+gemmiparous
 
-Who said, ``Hey, hey, you, you, get off of my cloud''?
-The Rolling Stones
+What tough-coated dormant cluster of embryonic cells is produced by a freshwater sponge for development in more favourable conditions?
+gemmule
 
-Who asked, ``Psycho killer / Qu'est-ce que c'est?''?
-Talking Heads
+What is a gemmule?
+tough-coated dormant cluster of embryonic cells produced by a freshwater sponge for development in more favourable conditions
 
-What is a coeval?
-person of roughly the same age as oneself
+What large antelope (Oryx gazella) that has a grey coat, distinctive black-and-white head markings, and long straight horns is native to south-western and East Africa?
+gemsbok
 
-What does escitalopram treat?
-depression
+What is the systematic name for the gemsbok?
+Oryx gazella
 
-What was a tunic?
-loose garment, typically sleeveless and reaching to the wearer's knees, as worn in ancient Greece and
+Define ``gemütlich.''
+pleasant and cheerful
 
-Where was Dean Martin born?
-Steubenville, Ohio
-
-Define ``staid.''
-sedate, respectable, and unadventurous
-
-What name is associated with the problem of determining if a constant-recursive sequence contains 0?
-Skolem
-
-About whom was the New York Times talking when it said that, ``[a]mong the handful of the world's most legendary pianists,'' he ``is perhaps the most reclusive, enigmatic and obsessive''? 
-Arturo Benedetti Michelangeli
-
-What is the Portuguese word for ``scapula''?
-omoplata
-
-What does ``omoplata'' mean in Portuguese?
-scapula
-
-With what sport is the omoplata associated?
-Brazilian jiu-jitsu
-
-What submission in Brazilian jiu-jitsu has the name ashi sankaku garami `leg triangle entanglement' in judo?
-omoplata
-
-From what city does the band Disturbed come?
-Chicago
-
-Where was Chung Myung-whun born?
-Seoul
-
-What Scottish town shares its name with a Canadian village south of Kitchener?
-Ayr
-
-What year saw the Hōei earthquake happen? It was the largest Japanese earthquake before the Great East Japan Earthquake.
-1707
-
-Who recorded the song ``Lay all your love on me''?
-ABBA
-
-On what album did ``Lay all your love on me'' appear?
-Super Trouper
-
-Who comprised ABBA?
-Benny Andersson, Agnetha Fältskog,  Anni-Frid Lyngstad, Björn Ulvaeus
-
-What instrument does Nathalie Forget play?
-ondes Martenot
-
-What does 「吃一堑，长一智」 [chī yí qiàn，zhǎng yí zhì] mean?
-``a fall into a pit, a gain in your wit''
-
-What does 「一根筷子容易折，一把筷子难折断」 [yī gēn kuài zi róng yì zhé， yī bǎ kuài zi nán zhé duàn] mean?
-``one chopstick is fragile, but a group of chopsticks is robust''
-
-What does 「良好的开端，是成功的一半」 [liáng hǎo de kāi duān， shì chéng gōng de yī bàn] mean?
-``well begun is half done''
-
-What does 「三思而后行」 [sān sī ér hòu xíng] mean?
-``think three times before you do''
-
-What does 「量变质变规律」[liàng biàn zhí biàn guī lǜ] mean?
-``quantitative changes lead to qualitative changes''
-
-What does 「巧妇难为无米之炊」 [qiǎo fù nán wéi wú mǐ zhī chuī] mean?
-``the cleverest housewife cannot cook without rice''
-
-Monomorphisms must be injective functions in $\sffamily{Set}$. True or false?
-false
-
-``Once you solve a problem, . . . you tend to remember only the short path that got you from A to B. You forget all the dead ends. It's a bit of a shame. It gives the wrong impression that people who are good at mathematics only choose the right steps. But there is a lot of trial and error and really terribly embarrassing ideas. Sometimes there is a `eureka!' moment, but it’s more of a hitting-your-head moment: `Of course! Why was I so dense?''' Who said this?
-Terence Tao
-
-What name is given to a semi-hereditary integral domain?
-Prüfer domain
-
-When is a ring $R$ hereditary?
-all submodules of projective $R$-modules are projective
-
-When is a ring $R$ semi-hereditary?
-all submodules of finitely generated projective $R$-modules are projective
-
-What is a seiche?
-temporary disturbance or oscillation in the water level of a lake or partially enclosed body of water, especially one caused by changes in atmospheric pressure
-
-What was the score of the 2013 World Chess Championship between Viswanathan Anand and Magnus Carlsen?
-3 1/2 -- 6 1/2
-
-Where did Peter Sarnak get his Ph.D.?
-Stanford University
-
-Who advised Peter Sarnak in his Ph.D.?
-Paul Cohen
+What is Gemütlichkeit?
+geniality
