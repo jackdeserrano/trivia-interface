@@ -33250,7 +33250,7 @@ When was the film Battleground released?
 Who directed Battleground?
 William Wellman
 
-What American television western that aired on CBS for 20 seasons (1955–75) became the longest-running prime-time television western in history?
+What American television western that aired on CBS for 20 seasons (1955-–75) became the longest-running prime-time television western in history?
 Gunsmoke
 
 Where was Gunsmoke set?
@@ -35190,6 +35190,396 @@ pleasant and cheerful
 
 What is Gemütlichkeit?
 geniality
+
+Translate ``auspice Maria.''
+under the protection of Mary
+
+Who introduced the notion of perfectoid spaces?
+Peter Scholze
+
+When did Peter Scholze win the Fields Medal?
+2018
+
+Who advised Peter Scholze?
+Michael Rapoport
+
+Define ``saturnine.''
+slow and gloomy
+
+Who wrote ``The decipherment of Linear B''?
+John Chadwick
+
+Who deciphered Linear B?
+Michael Ventris
+
+Translate ``solvitur ambulando.''
+solved by walking
+
+What is the highest point of Hopen Island in Svalbard?
+Iversenfjellet
+
+What is the southernmost point of Hopen Island in Svalbard?
+Kapp Thor
+
+For what is Daniel Ellsberg known?
+releasing the Pentagon Papers
+
+Who released the Pentagon Papers?
+Daniel Ellsberg
+
+Define ``reprobate'' as a noun.
+unprincipled person
+
+Define ``reticent.''
+not revealing one's thoughts or feelings readily
+
+Where was Noam Chomsky born?
+Philadelphia
+
+Where was Noam Chomsky educated?
+University of Pennsylvania
+
+What year saw Noam Chomsky publish his Syntactic structures?
+1957  
+
+Who was the first grandmaster that Mikhail Tal defeated?
+Yuri Averbakh
+
+Who wrote the song ``21 questions''?
+50 Cent
+
+What Brazilian legend was part of the World XI squad at Soccer Aid 2023?
+Roberto Carlos
+
+Define ``phantasmagorical.''
+full of different images, like something in a confused dream
+
+Who asks ``Guess who's back?''
+Eminem
+
+What ships was the HMS Hood to intercept before she sank?
+Bismarck, Prinz Eugen
+
+Define ``prevaricator.''
+one who speaks or acts in an evasive way
+
+Who won the Conn Smythe in 2023?
+Jonathan Marchessault
+
+Who won the Stanley Cup in 2023?
+Vegas Golden Knights
+
+What is syncretism?
+the amalgamation or attempted amalgamation of different religions, cultures, or schools of thought
+
+Who captained Vegas Golden Knights to Stanley Cup glory in 2023?
+Mark Stone
+
+Who was the famous glassblower?
+Bach
+
+What is the meaning of the Bach title ``Quaerendo invenietis''?
+seek and ye shall find
+
+Translate ``aut Caesar aut nihil''?
+either Caesar or nothing
+
+What Chinese city is immediately north of Hong Kong?
+Shenzhen
+
+What is the deepest known point of Earth's seabed as of VII.2023?
+Challenger Deep
+
+What is the CCGS Terry Fox?
+Canadian Coast Guard icebreaker
+
+Where was Terry Fox born?
+Winnipeg
+
+When was Terry Fox born?
+28 July 1958
+
+What was Terry Fox's run called?
+Marathon of Hope
+
+Near where did Terry Fox commence his Marathon of Hope?
+St. John's, Newfoundland and Labrador
+
+When did Terry Fox commence his Marathon of Hope?
+12 April 1980
+
+What form of cancer did Terry Fox have?
+osteosarcoma
+
+Which leg of Terry Fox's was amputated?
+right
+
+Near where was Terry Fox forced to end his Marathon of Hope?
+Thunder Bay, Ontario
+
+When was Terry Fox forced to end his Marathon of Hope?
+1 September 1980
+
+Where did Terry Fox study?
+Simon Fraser University
+
+What American state includes Puget Sound?
+Washington
+
+Who was Hermann Minkowski's advisor?
+Ferdinand von Lindemann
+
+What curved bar is part of the crash-protection system in open-wheel racing?
+halo
+
+Who directed The last waltz?
+Martin Scorsese
+
+When was The last waltz concert held?
+25 November 1976
+
+Whose concert did The last waltz document?
+The Band's
+
+What is Muzak?
+background music
+
+Where does William Nelson teach biology?
+Queen's University
+
+On what island is Tangerang located?
+Java
+
+How many syllables are in a haiku?
+17
+
+What is the haiku's syllabic pattern?
+5-7-5
+
+Where was Jacques Monod born?
+Paris, France
+
+Whose work on the lac operon won them a Nobel Prize in 1965?
+François Jacob, Jacques Monod
+
+Who played John Paul Getty III in All the money in the world?
+Christopher Plummer
+
+What does modus ponens say?
+if x is true and x implies y then y is true
+
+What does ``vel'' mean in Latin?
+or
+
+Who was Q. q. Switcheroo?
+Albanian railroad engineer who worked in logic on the siding
+
+What is ``Ganto's axe''?
+koan
+
+Who compared scalp skin and onion?
+Leonardo da Vinci
+
+Who has the initials NDE?
+Noam David Elkies
+
+What is a cohomological spectral sequence in an abelian category $\mathfrak{A}$?
+sequence $(E_n,d_n)_n$ where, for all $n\ge 1$, $E_n$ is an object, $d_n \in \operatorname{End}(E_n,E_n)$, $d_n\circ d_n = 0$, and $E_{n+1} \cong H_*(E_n,d_n)$ 
+
+What move does black play in the Berlin defence in response to the Ruy López?
+Nf6
+
+What moves characterize the open, dragon, Yugoslav attack in the Sicilian defence?
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3
+
+What moves characterize the King's Indian defence?
+1. d4 Nf6 2. c4 g6
+
+What moves characterize the advance Tal variation of the Caro--Kann defence?
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4
+
+Who was the scourge of God?
+Attila the Hun
+
+What were the twelve tribes of Israel?
+Asher, Benjamin, Dan, Gad, Issachar, Joseph, Judah, Levi, Naphtali, Reuben, Simeon, Zebulun 
+
+What terrific violinist did Sergei Prokofiev play a match of chess against?
+David Oistrakh
+
+What excellent composer did David Oistrakh play a match of chess against?
+Sergei Prokofiev
+
+What opening did Sergei Prokofiev and David Oistrakh play in their only surviving game of chess?
+Sicilian defence, dragon, classical variation 
+
+What is the feast of St. Benedict of Nursia?
+11 July
+
+What does``RADAR'' abbreviate?
+radio detection and ranging
+
+What does ``WSR-88D'' abbreviate?
+Weather Surveillance Radar, 1988, Doppler
+
+What was Seurat's first name?
+Georges-Pierre
+
+Whose song is ``The boys are back in town''?
+Thin Lizzy
+
+``Don't only practice your art, but force your way into its secrets, for it and knowledge can raise men to the divine.''
+Ludwig van Beethoven
+
+``It is not enough to constitute a democracy that the whole crowd of citizens should have the right to do whatever they wish or propose. But where reverence to the gods, succour of parents, respect for elders, obedience to laws, are traditional and habitual, in such communities, if the will of the majority prevail, we may speak of the form of government as a democracy.''
+Polybius
+
+``Gender is a reality, and a more fundamental reality than sex. Sex is, in fact, merely the adaptation to organic life of a fundamental polarity which divides all created beings.''
+C. S. Lewis
+
+Where was Artur Yusupov born?
+Moscow
+
+Where was Vasyl Ivanchuk born?
+Kopychyntsi
+
+Where did the Picts live?
+Britain
+
+What is a Fréchet space?
+locally convex metrizable complete topological vector space
+
+What is an LF-space?
+countable direct limit of Fréchet spaces
+
+When is a seminorm $\nu$ not a norm on a vector space $\mathfrak{X}$ over $\mathbf{C}$?
+there exists $x\ne 0$ such that $\norm{x} = 0$
+
+Who defeated Novak Djokovic to win the 2023 Wimbledon Championships?
+Carlos Alcaraz
+
+Where was Novak Djokovic born?
+Belgrade
+
+Who was Novak Djokovic's apparel sponsor before UNIQLO?
+Sergio Tacchini
+
+What is the gena of an arthropod?
+the lateral part of the head below the level of the eyes
+
+What is the lateral part of the head of an arthropod below the level of the eyes called?
+gena
+
+What is the plural for ``gena''?
+genae
+
+What does ``gena'' mean in Latin?
+cheek
+
+What does ``gendarme'' mean if it is not referring to a person?
+rock pinnacle on a mountain, occupying and blocking an arête
+
+What is a gendarme?
+paramilitary police officer in France and other French-speaking countries
+
+What is the plural for ``genus''?
+genera
+
+What 1st Viscount (1861--1936), British soldier, and commander of the Egyptian Expeditionary Force against the Turks captured Jerusalem in 1917 and defeated the Turkish forces at Megiddo in 1918?
+Edmund Allenby
+
+What is the variation in the relative frequency of different genotypes in a small population, owing to the chance disappearance of particular genes as individuals die or do not reproduce?
+genetic drift
+
+What is genever?
+Dutch gin
+
+What is geneva?
+Dutch gin
+
+On what lake is Lausanne located? 
+Lake Geneva
+
+What is Lac Léman?
+Lake Geneva
+
+What is the French name for Lake Geneva?
+Lac Léman
+
+What is a genoa in sailing?
+large jib or foresail whose foot extends aft of the mast, used especially on racing yachts
+
+Where was Christopher Columbus born?
+Genoa
+
+What is the Italian name for Genoa?
+Genova
+
+Of what Italian region is Genoa the capital?
+Liguria
+
+What tops a genoa?
+almonds
+
+What name is given to a group of families in ancient Rome who shared a name and claimed a common origin?
+gens
+
+What is the anthropological term for a group of people who are related through their male ancestors?
+gens
+
+What is the plural for ``gens''?
+gentes
+
+What name is given to a combination of an engine and electrical generator used to produce electrical power, typically as a backup or portable source of power?
+genset
+
+What is the Flemish name for Ghent?
+Gent
+
+What broad-spectrum antibiotic used chiefly for severe systemic infections is derived from bacteria of the genus Micromonospora?
+gentamicin
+
+Define ``genteel.''
+characterized by exaggerated or affected politeness, refinement, or respectability
+
+This plant of temperate and mountainous regions typically has violet or vivid blue trumpet-shaped flowers. Many kinds are cultivated as ornamentals, especially as arctic alpines, and some are of medicinal use. Give its name.
+gentian
+
+(c. 1370--1427) What Italian painter's major surviving work is the altarpiece The adoration of the Magi (1423)?
+Gentile da Fabriano
+
+Define ``gentility.''
+social superiority as demonstrated by polite and respectable manners, behaviour, or appearances
+
+What is a Gentle Annie?
+steep slope or hill
+
+Technically, to what force of wind does ``gentle breeze'' refer on the Beaufort scale?
+3 
+
+What speed range does light wind have to fit in knots to be considered a ``gentle breeze''?
+7--10 knots
+
+What speed range does light wind have to fit in km/h to be considered a ``gentle breeze''?
+13--19 km/h
+
+What is a gentleman's gentleman?
+valet
+
+What is Gentleman's Relish?
+highly seasoned anchovy paste
+
+What tall penguin with a white triangular patch above the eye, breeding on subantarctic islands, has the systematic name Pygoscelis papua and belongs to the family Spheniscidae?
+gentoo
+
+What is the genu in human anatomy?
+the knee
+
+What is the plural for ``genu''?
+genua
+
+What name is given to a part of certain structures resembling a knee, in particular a bend in the corpus callosum of mammals?
+genu
 
 
 

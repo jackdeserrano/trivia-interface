@@ -1,235 +1,394 @@
-11654
+11732
 
-Where is the Musiikkitalo?
-Helsinki
+Translate ``auspice Maria.''
+under the protection of Mary
 
-What is Norway's largest fjord?
-Sognefjord
+Who introduced the notion of perfectoid spaces?
+Peter Scholze
 
-What opening is comprised by the moves 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+?
-Bogo--Indian defence
+When did Peter Scholze win the Fields Medal?
+2018
 
-After whom is the Bogo--Indian defence named?
-Yefim Bogolyubov
+Who advised Peter Scholze?
+Michael Rapoport
 
-Define ``bootleg'' as a verb.
-make, distribute, or sell (alcoholic drink or recording) illegally
+Define ``saturnine.''
+slow and gloomy
 
-What prefecture contains Nikkō?
-Tochigi
+Who wrote ``The decipherment of Linear B''?
+John Chadwick
 
-What island contains Port Renfrew?
-Vancouver Island
+Who deciphered Linear B?
+Michael Ventris
 
-What name is given to a sequence of random variables $(X_n)_n$ that satisfies $\mathbf{E}(\lvert X_n \rvert) < \infty$ and $\mathbf{E}(X_{n+1} \mid X_1,\hdots,X_n) = X_n$ for all $n$?
-martingale 
+Translate ``solvitur ambulando.''
+solved by walking
 
-What is the second convergent of the continued fraction of $\pi$?
-$22/7$
+What is the highest point of Hopen Island in Svalbard?
+Iversenfjellet
 
-What is the third convergent of the continued fraction of $\pi$?
-$333/106$
+What is the southernmost point of Hopen Island in Svalbard?
+Kapp Thor
 
-What is the fourth convergent of the continued fraction of $\pi$?
-$355/113$
+For what is Daniel Ellsberg known?
+releasing the Pentagon Papers
 
-What number is called 「密率」in Chinese?
-$355/113$
+Who released the Pentagon Papers?
+Daniel Ellsberg
 
-What two mathematicians were the first to prove the prime number theorem?
-Jacques Hadamard, Charles Jean de la Vallée Poussin
+Define ``reprobate'' as a noun.
+unprincipled person
 
-What class of fields is comprised of finite extensions of $\mathbf{Q}$ and finite extensions of $\mathbf{F}_q(T)$?
-global fields
+Define ``reticent.''
+not revealing one's thoughts or feelings readily
 
-Who challenged Magnus Carlsen in 2016 for the World Chess Championship?
-Sergey Karjakin
+Where was Noam Chomsky born?
+Philadelphia
 
-What is Russia's southernmost island?
-Furugelm Island
+Where was Noam Chomsky educated?
+University of Pennsylvania
+ 
+Where did Noam Chomsky teach in 1955?
+MIT
 
-Where was Joseph Biden born?
-Scranton, Pennsylvania
+What year saw Noam Chomsky publish his Syntactic structures?
+1957  
 
-Where was Donald Trump born?
-New York City, New York
+Who was the first grandmaster that Mikhail Tal defeated?
+Yuri Averbakh
 
-Where was Ronald DeSantis born?
-Jacksonville, Florida
+Who wrote the song ``21 questions''?
+50 Cent
 
-Where was Barack Obama born?
-Honolulu, Hawaii
+What Brazilian legend was part of the World XI squad at Soccer Aid 2023?
+Roberto Carlos
 
-What name is given to the display of a choreographed flag, sign, or banner in a stadium for a sporting event?
-tifo
+Define ``phantasmagorical.''
+full of different images, like something in a confused dream
 
-When is $\alpha$ $(\omega,C)$--badly approximable?
-$\min_{p\in \mathbf{Z}} \lvert q\alpha - p \rvert \ge C q^{-\omega}$ for all $q\gg 1$
+Who asks ``Guess who's back?''
+Eminem
 
-Define ``bulbil.''
-small bulblike structure, in particular one in the axil of a leaf, which may fall to form a new plant
+What ships was the HMS Hood to intercept before she sank?
+Bismarck, Prinz Eugen
 
-Is $\mathbf{Z}_{10}$ an integral domain?
-no
+Define ``prevaricator.''
+one who speaks or acts in an evasive way
 
-Is $\mathbf{Z}_{5}$ an integral domain?
-yes
+Who won the Conn Smythe in 2023?
+Jonathan Marchessault
 
-What opus is Sibelius's Kullervo?
-7
+Who won the Stanley Cup in 2023?
+Vegas Golden Knights
 
-What does ``GBZ'' abbreviate?
-Gibraltar
+What is syncretism?
+the amalgamation or attempted amalgamation of different religions, cultures, or schools of thought
 
-What does ``GC'' abbreviate in the UK?
-George Cross
+Who captained Vegas Golden Knights to Stanley Cup glory in 2023?
+Mark Stone
 
-What country holds Gdynia?
-Poland
+Who was the famous glassblower?
+Bach
 
-What is the wild or sweet cherry, which is native to both Eurasia and North America?
-gean
+What is the meaning of the Bach title ``Quaerendo invenietis''?
+seek and ye shall find
 
-What is Prunus avium?
-gean
+Translate ``aut Caesar aut nihil''?
+either Caesar or nothing
 
-What is a geanticline?
-large-scale upwardly flexed structure in the earth's crust
+What Chinese city is immediately north of Hong Kong?
+Shenzhen
 
-(c. 721--c. 815) What Arab chemist was familiar with many chemicals and laboratory techniques, including distillation and sublimation? Many works are attributed to him, but his name was used by later writers.
-Geber
+What is the deepest known point of Earth's seabed as of VII.2023?
+Challenger Deep
 
-What Australian shrub or small tree that bears creamy-yellow flowers and small green fruit belongs to the genus Persoonia?
-geebung
+What is the CCGS Terry Fox?
+Canadian Coast Guard icebreaker
 
-What is Geechee?
-English creole spoken by some black people in parts of South Carolina and Georgia
+Where was Terry Fox born?
+Winnipeg
 
-What Australian administrative division contains Geelong?
-Victoria
+When was Terry Fox born?
+28 July 1958
 
-What patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun is thought to be the image of the sun reflected from gas and dust outside the atmosphere?
-gegenschein
+What was Terry Fox's run called?
+Marathon of Hope
 
-What patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun is thought to be the image of the sun reflected from gas and dust outside the atmosphere? Its name comes from the German for ``opposite'' + ``glow.''
-gegenschein
+Near where did Terry Fox commence his Marathon of Hope?
+St. John's, Newfoundland and Labrador
 
-What is gegenschein?
-patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun
+When did Terry Fox commence his Marathon of Hope?
+12 April 1980
 
-What is Gehenna?
-Hell
+What form of cancer did Terry Fox have?
+osteosarcoma
 
-What baseball player was known as the ``Iron Horse''?
-Lou Gehrig
+Which leg of Terry Fox's was amputated?
+right
 
-Who played a record 2,130 major-league games for the New York Yankees from 1925 to 1939?
-Lou Gehrig
+Near where was Terry Fox forced to end his Marathon of Hope?
+Thunder Bay, Ontario
 
-What does a Geiger counter measure?
-radioactivity
+When was Terry Fox forced to end his Marathon of Hope?
+1 September 1980
 
-(1835--1924) What Scottish geologist specialized in Pleistocene geology, especially the geomorphological effects of glaciations and the resulting deposits?
-Sir Archibald Geikie
+Where did Terry Fox study?
+Simon Fraser University
 
-What sealed tube of glass or quartz with a central constriction is filled with vapour for the production of a luminous electrical discharge?
-Geissler tube
+What American state includes Puget Sound?
+Washington
 
-What is a Geissler tube?
-sealed tube of glass or quartz with a central constriction, filled with vapour for the production of a luminous electrical discharge
+Who was Hermann Minkowski's advisor?
+Ferdinand von Lindemann
 
-Define ``Geist.''
-the spirit of an individual or group
+What curved bar is part of the crash-protection system in open-wheel racing?
+halo
 
-What is the fertilization of a flower by pollen from another flower on the same (or a genetically identical) plant?
-geitonogamy
+Who directed The last waltz?
+Martin Scorsese
 
-What tin-mining city in southern China is located near the border with Vietnam?
-Gejiu
+When was The last waltz concert held?
+25 November 1976
 
-What country's currency is the GEL?
-Georgia
+Whose concert did The last waltz document?
+The Band's
 
-What brownish baboon with a long mane and naked red rump is native to Ethiopia? 
-gelada
+What is Muzak?
+background music
 
-Define ``geld.''
-castrate
+Where does William Nelson teach biology?
+Queen's University
 
-What is the capital of Gelderland?
-Arnhem
+On what island is Tangerang located?
+Java
 
-What province contains Arnhem?
-Gelderland
+How many syllables are in a haiku?
+17
 
-Define ``gelid.''
-icy; extremely cold
+What is the haiku's syllabic pattern?
+5-7-5
 
-Define ``gelidity.''
-the quality or condition of being extremely cold or icy
+Where was Jacques Monod born?
+Paris, France
 
-What high explosive made from a gel of nitroglycerine and nitrocellulose in a base of wood pulp and sodium or potassium nitrate is used particularly for rock-blasting?
-gelignite
+Whose work on the lac operon won them a Nobel Prize in 1965?
+François Jacob, Jacques Monod
 
-(1929--2019) What American theoretical physicist coined the word ``quark'' and proposed the concept of strangeness in quarks? He won the Nobel Prize for Physics (1969).
-Murray Gell-Mann
+Who played John Paul Getty III in All the money in the world?
+Christopher Plummer
 
-What preparation of the rhizome of yellow jasmine used in homeopathy to treat flulike symptoms shares its name with the genus that includes the yellow jasmine?
-gelsemium
+What does modus ponens say?
+if x is true and x implies y then y is true
 
-What German state contains the industrial city of Gelsenkirchen?
-North Rhine--Westphalia
+What does ``vel'' mean in Latin?
+or
 
-What is the Gem State?
-Idaho
+Who was Q. q. Switcheroo?
+Albanian railroad engineer who worked in logic on the siding
 
-What rabbinical commentary on the Mishnah forms the second part of the Talmud?
-the Gemara
+What is ``Ganto's axe''?
+koan
 
-What Kabbalistic method of interpreting the Hebrew scriptures by computing the numerical value of words is based on the values of the constituent letters thereof?
-gematria
+Who compared scalp skin and onion?
+Leonardo da Vinci
 
-(1905--84) What Lebanese political leader, as a Maronite Christian, founded the right-wing Phalange Party in 1936 and served as a Member of Parliament from 1960 to 1984? His youngest son, Bashir (1947--82), was assassinated while president-elect, and his eldest son, Amin (b. 1942), served as president from 1982 to 1988.
-Pierre Gemayel
+Who has the initials NDE?
+Noam David Elkies
 
-What mass noun of German origin refers to social relations between individuals, based on close personal and family ties?
-Gemeinschaft
+What is a cohomological spectral sequence in an abelian category $\mathfrak{A}$?
+sequence $(E_n,d_n)_n$ where, for all $n\ge 1$, $E_n$ is an object, $d_n \in \operatorname{End}(E_n,E_n)$, $d_n\circ d_n = 0$, and $E_{n+1} \cong H_*(E_n,d_n)$ 
 
-What adjective in phonetics describes something that consists of identical adjacent speech sounds or doubled?
-geminate
+What move does black play in the Berlin defence in response to the Ruy López?
+Nf6
 
-What annual meteor shower with a radiant in the constellation Gemini reaches a peak about 13 December?
-Geminids
+What moves characterize the open, dragon, Yugoslav attack in the Sicilian defence?
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3
 
-What is a small cellular body or bud that can separate to form a new organism called?
-gemma
+What moves characterize the King's Indian defence?
+1. d4 Nf6 2. c4 g6
 
-What small cellular body or bud that can separate to form a new organism shares its name with a peculiar name?
-gemma
+What moves characterize the advance Tal variation of the Caro--Kann defence?
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4
 
-What is another term for chlamydospore?
-gemma
+Who was the scourge of God?
+Attila the Hun
 
-Define ``gemmed.''
-decorated with or as with gems
+What were the twelve tribes of Israel?
+Asher, Benjamin, Dan, Gad, Issachar, Joseph, Judah, Levi, Naphtali, Reuben, Simeon, Zebulun 
 
-What adjective describes a plant or animal that reproduces by gemmation?
-gemmiparous
+What terrific violinist did Sergei Prokofiev play a match of chess against?
+David Oistrakh
 
-What tough-coated dormant cluster of embryonic cells is produced by a freshwater sponge for development in more favourable conditions?
-gemmule
+What excellent composer did David Oistrakh play a match of chess against?
+Sergei Prokofiev
 
-What is a gemmule?
-tough-coated dormant cluster of embryonic cells produced by a freshwater sponge for development in more favourable conditions
+What opening did Sergei Prokofiev and David Oistrakh play in their only surviving game of chess?
+Sicilian defence, dragon, classical variation 
 
-What large antelope (Oryx gazella) that has a grey coat, distinctive black-and-white head markings, and long straight horns is native to south-western and East Africa?
-gemsbok
+What is the feast of St. Benedict of Nursia?
+11 July
 
-What is the systematic name for the gemsbok?
-Oryx gazella
+What does``RADAR'' abbreviate?
+radio detection and ranging
 
-Define ``gemütlich.''
-pleasant and cheerful
+What does ``WSR-88D'' abbreviate?
+Weather Surveillance Radar, 1988, Doppler
 
-What is Gemütlichkeit?
-geniality
+What was Seurat's first name?
+Georges-Pierre
+
+Whose song is ``The boys are back in town''?
+Thin Lizzy
+
+``Don't only practice your art, but force your way into its secrets, for it and knowledge can raise men to the divine.''
+Ludwig van Beethoven
+
+``It is not enough to constitute a democracy that the whole crowd of citizens should have the right to do whatever they wish or propose. But where reverence to the gods, succour of parents, respect for elders, obedience to laws, are traditional and habitual, in such communities, if the will of the majority prevail, we may speak of the form of government as a democracy.''
+Polybius
+
+``Gender is a reality, and a more fundamental reality than sex. Sex is, in fact, merely the adaptation to organic life of a fundamental polarity which divides all created beings.''
+C. S. Lewis
+
+Where was Artur Yusupov born?
+Moscow
+
+Where was Vasyl Ivanchuk born?
+Kopychyntsi
+
+Where did the Picts live?
+Britain
+
+What is a Fréchet space?
+locally convex metrizable complete topological vector space
+
+What is an LF-space?
+countable direct limit of Fréchet spaces
+
+When is a seminorm $\nu$ not a norm on a vector space $\mathfrak{X}$ over $\mathbf{C}$?
+there exists $x\ne 0$ such that $\norm{x} = 0$
+
+Who defeated Novak Djokovic to win the 2023 Wimbledon Championships?
+Carlos Alcaraz
+
+Where was Novak Djokovic born?
+Belgrade
+
+Who was Novak Djokovic's apparel sponsor before UNIQLO?
+Sergio Tacchini
+
+What is the gena of an arthropod?
+the lateral part of the head below the level of the eyes
+
+What is the lateral part of the head of an arthropod below the level of the eyes called?
+gena
+
+What is the plural for ``gena''?
+genae
+
+What does ``gena'' mean in Latin?
+cheek
+
+What does ``gendarme'' mean if it is not referring to a person?
+rock pinnacle on a mountain, occupying and blocking an arête
+
+What is a gendarme?
+paramilitary police officer in France and other French-speaking countries
+
+What is the plural for ``genus''?
+genera
+
+What 1st Viscount (1861--1936), British soldier, and commander of the Egyptian Expeditionary Force against the Turks captured Jerusalem in 1917 and defeated the Turkish forces at Megiddo in 1918?
+Edmund Allenby
+
+What is the variation in the relative frequency of different genotypes in a small population, owing to the chance disappearance of particular genes as individuals die or do not reproduce?
+genetic drift
+
+What is genever?
+Dutch gin
+
+What is geneva?
+Dutch gin
+
+On what lake is Lausanne located? 
+Lake Geneva
+
+What is Lac Léman?
+Lake Geneva
+
+What is the French name for Lake Geneva?
+Lac Léman
+
+What is a genoa in sailing?
+large jib or foresail whose foot extends aft of the mast, used especially on racing yachts
+
+Where was Christopher Columbus born?
+Genoa
+
+What is the Italian name for Genoa?
+Genova
+
+Of what Italian region is Genoa the capital?
+Liguria
+
+What tops a genoa?
+almonds
+
+What name is given to a group of families in ancient Rome who shared a name and claimed a common origin?
+gens
+
+What is the anthropological term for a group of people who are related through their male ancestors?
+gens
+
+What is the plural for ``gens''?
+gentes
+
+What name is given to a combination of an engine and electrical generator used to produce electrical power, typically as a backup or portable source of power?
+genset
+
+What is the Flemish name for Ghent?
+Gent
+
+What broad-spectrum antibiotic used chiefly for severe systemic infections is derived from bacteria of the genus Micromonospora?
+gentamicin
+
+Define ``genteel.''
+characterized by exaggerated or affected politeness, refinement, or respectability
+
+This plant of temperate and mountainous regions typically has violet or vivid blue trumpet-shaped flowers. Many kinds are cultivated as ornamentals, especially as arctic alpines, and some are of medicinal use. Give its name.
+gentian
+
+(c. 1370--1427) What Italian painter's major surviving work is the altarpiece The adoration of the Magi (1423)?
+Gentile da Fabriano
+
+Define ``gentility.''
+social superiority as demonstrated by polite and respectable manners, behaviour, or appearances
+
+What is a Gentle Annie?
+steep slope or hill
+
+Technically, to what force of wind does ``gentle breeze'' refer on the Beaufort scale?
+3 
+
+What speed range does light wind have to fit in knots to be considered a ``gentle breeze''?
+7--10 knots
+
+What speed range does light wind have to fit in km/h to be considered a ``gentle breeze''?
+13--19 km/h
+
+What is a gentleman's gentleman?
+valet
+
+What is Gentleman's Relish?
+highly seasoned anchovy paste
+
+What tall penguin with a white triangular patch above the eye, breeding on subantarctic islands, has the systematic name Pygoscelis papua and belongs to the family Spheniscidae?
+gentoo
+
+What is the genu in human anatomy?
+the knee
+
+What is the plural for ``genu''?
+genua
+
+What name is given to a part of certain structures resembling a knee, in particular a bend in the corpus callosum of mammals?
+genu
