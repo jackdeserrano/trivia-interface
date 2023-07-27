@@ -29130,7 +29130,7 @@ Dante Alighieri
 Mark Twain
 7282
 
-Who says, ``[B]revity is the soul of wit'' in Shakespeare's Hamlet?
+Who says that ``brevity is the soul of wit'' in Shakespeare's Hamlet?
 Polonius (2.2.90)
 7283
 
@@ -45441,7 +45441,7 @@ What islands does Pevek face?
 Routan Islands
 11359
 
-Who wrote the paper ``How often should you beat your kids?''?
+Who wrote the paper ``How often should you beat your kids?''
 Don Zagier
 11360
 
@@ -46476,7 +46476,7 @@ Who said, ``Hey, hey, you, you, get off of my cloud''?
 The Rolling Stones
 11618
 
-Who asked, ``Psycho killer / Qu'est-ce que c'est?''?
+Who asked, ``Psycho killer / Qu'est-ce que c'est?''
 Talking Heads
 11619
 
@@ -46549,7 +46549,7 @@ Super Trouper
 11636
 
 Who comprised ABBA?
-Benny Andersson, Agnetha Fältskog,  Anni-Frid Lyngstad, Björn Ulvaeus
+Benny Andersson, Agnetha Fältskog, Anni-Frid Lyngstad, Björn Ulvaeus
 11637
 
 What instrument does Nathalie Forget play?
@@ -46572,7 +46572,7 @@ What does 「三思而后行」 [sān sī ér hòu xíng] mean?
 ``think three times before you do''
 11642
 
-What does 「量变质变规律」[liàng biàn zhí biàn guī lǜ] mean?
+What does 「量变质变规律」 [liàng biàn zhí biàn guī lǜ] mean?
 ``quantitative changes lead to qualitative changes''
 11643
 
@@ -46660,7 +46660,7 @@ What is the fourth convergent of the continued fraction of $\pi$?
 $355/113$
 11664
 
-What number is called 「密率」in Chinese?
+What number is called 「密率」 in Chinese?
 $355/113$
 11665
 
@@ -47416,11 +47416,11 @@ Technically, to what force of wind does ``gentle breeze'' refer on the Beaufort 
 3 
 11853
 
-What speed range does light wind have to fit in knots to be considered a ``gentle breeze''?
+What speed range does light wind have to fit into in knots to be considered a ``gentle breeze''?
 7--10 knots
 11854
 
-What speed range does light wind have to fit in km/h to be considered a ``gentle breeze''?
+What speed range does light wind have to fit into in km/h to be considered a ``gentle breeze''?
 13--19 km/h
 11855
 
@@ -47447,4 +47447,412 @@ genua
 What name is given to a part of certain structures resembling a knee, in particular a bend in the corpus callosum of mammals?
 genu
 11861
+
+Who is the wife of Elvis Costello?
+Diana Krall
+11862
+
+``Whoever fights monsters should see to it that in the process he does not become a monster. And when you look long into an abyss, the abyss also looks into you.''
+Friedrich Nietzsche
+11863
+
+When was Ian Nepomniatchi born?
+14 July 1990
+11864
+
+Translate ``előadóművészet.''
+performing arts
+11865
+
+Whose death was announced on the day that Sergei Prokofiev died?
+Joseph Stalin
+11866
+
+What composer died on the day that the death of Joseph Stalin was announced?
+Sergei Prokofiev
+11867
+
+When did Sergei Prokofiev die?
+5 March 1953
+11868
+
+When did Joseph Stalin die?
+5 March 1953
+11869
+
+What was Gennady Rozhdestvensky's occupation?
+conductor
+11870
+
+When was Gennady Rozhdestvensky born?
+4 May 1931
+11871
+
+Where was Gennady Rozhdestvensky born?
+Moscow
+11872
+
+What were the first thirty words of Abraham Lincoln's Gettysburg address?
+Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
+11873
+
+What name is given to the potential unique zero of a Dirichlet $L$-function in a zero-free region?
+Siegel zero
+11874
+
+Let $k \ge 1$. What is an admissible $k$-tuple?
+tuple of $k$ increasing integers such that, for all prime numbers $p$, there exists $0 \le n \le p - 1$ such that all of the integers are not $n$ mod $p$
+11875
+
+Who wrote the paper ``Bounded gaps between primes''?
+Yitang Zhang
+11876
+
+Who was Vietnam's first female mathematician?
+Hoàng Xuân Sính
+11877
+
+Of whom was Hoàng Xuân Sính a student?
+Alexander Grothendieck
+11878
+
+``God became man that man might become God.''
+St. Athanasius
+11879
+
+``In mathematics, the art of asking questions is more valuable than that of solving problems.''
+Georg Cantor
+11880
+
+Where was Georg Cantor born?
+St. Petersburg
+11881
+
+Where was Stefan Banach born?
+Kraków
+11882
+
+``In the early sixties, $X$ visited Harvard while Zariski was still a faculty member. Once, while Zariski was lecturing in a seminar, $X$ kept asking him why he didn't prove the result for all schemes, not just varieties, but Zariski simply responded that it didn't work. Eventually, $X$ could stand it no longer and went to the blackboard and began writing down a proof for schemes. While he did so, Zariski said (in his heavily accented Russo-Italian English) `In my time, I have had to learn many languages.' At this, $X$ turned bright red from embarrassment.'' Who was $X$?
+Alexander Grothendieck
+11883
+
+Who directed The Breakfast Club?
+John Hughes
+11884
+
+Who played Andrew Clark in The Breakfast Club?
+Emilio Estevez
+11885
+
+``Wake up, Mr. West, Mr. West / Mr. Fresh, Mister, by himself he's so impressed / I mean, damn, did you even see the test? / You got D's, muthaf***a, D's, Rosie Perez / And yer ass barely passed any and every class / Looking at every ass, cheated on every test / I guess this is my dissertation / Homie, this shit is basic, welcome to graduation. ---''
+Good morning
+11886
+
+What is the maximum probability that two elements in a non-abelian compact topological group commute?
+$5/8$
+11887
+
+Give the number. What Brahms symphony's finale is a passacaglia with thirty variations?
+4
+11888
+
+Who was Ziggy's father?
+Bob
+11889
+
+Who was the first to round the Cape of Good Hope?
+Bartolomeu Dias
+11890
+
+Who was Cosimo de' Medici's wife?
+Contessina de' Bardi
+11891
+
+What year saw Filippo Brunelleschi die?
+1446
+11892
+
+Where is the Forbidden City?
+Beijing
+11893
+
+What was the Golden Horde's capital? It shares its name with Abram's wife.
+Sarai
+11894
+
+Under what pope did Guillaume Du Fay begin his post as the musician of the papal choir?
+Martin V
+11895
+
+What number is associated with the Gutenberg Bible?
+42
+11896
+
+What was the Hanseatic League's capital?
+Lübeck
+11897
+
+Of what Dutch painter was John III a patron in the 1420s?
+Jan van Eyck
+11898
+
+Where did St. Joan of Arc die?
+Rouen
+11899
+
+What pope canonized St. Joan of Arc?
+Benedict XV
+11900
+
+Who wrote Sefer ha-Ikkarim?
+Joseph Albo
+11901
+
+What river flows close to Machu Picchu?
+Urubamba River
+11902
+
+Who was Henry Tudor's mother?
+Margaret Beaufort
+11903
+
+Who was the king of Hungary and Croatia from 1458 to 1490?
+Matthias Corvinus
+11904
+
+Who conquered Constantinople in 1453?
+Mehmed II
+11905
+
+Who preceded Pope Sixtus IV?
+Pope Paul II
+11906
+
+Who succeeded Pope Sixtus IV?
+Innocent VIII
+11907
+
+Who was Sandro Botticelli apprentice?
+Filippo Lippi
+11908
+
+What is 「絲綢之路」?
+Silk Road
+11909
+
+What year saw the establishment of the Spanish Inquisition?
+1478
+11910
+
+What killed Vasco da Gama?
+malaria
+11911
+
+What country considers Vlad the Impaler a national hero?
+Romania
+11912
+
+What did Zheng He want to do by diverting from his fleet on his final voyage?
+hajj
+11913
+
+Translate ``Gewaltig.''
+enormous
+11914
+
+Translate ``über alles.''
+above all
+11915
+
+Who is the cruelest animal according to Nietzsche?
+man
+11916
+
+What activity involves an item, or a container holding many items, being hidden at a particular location for GPS users to find using coordinates posted on the internet?
+geocaching
+11917
+
+What giant mud-burrowing bivalve mollusk, whose shell valves are not large enough to enclose its body and very long siphon, occurs on the west coast of North America, where it is collected for food? 
+geoduck
+11918
+
+What is Panopea generosa?
+geoduck
+11919
+
+To what family does the geoduck belong?
+Hyatellidae
+11920
+
+Define ``geode.''
+small cavity in rock lined with crystals or other mineral matter
+11921
+
+What sport did Geoffrey Boycott play?
+cricket
+11922
+
+What was Chaucer's first name?
+Geoffrey
+11923
+
+Who composed Troilus and Criseyde in 1385?
+Geoffrey Chaucer
+11924
+
+Who designed the Mosquito aircraft of World War II?
+Sir Geoffrey de Havilland
+11925
+
+What Welshman composed Historia Regum Britanniae circa 1139?
+Geoddrey of Monmouth
+11926
+
+What hypothetical solid figure's surface corresponds to the mean sea level and its imagined extension under (or over) land areas?
+geoid
+11927
+
+What is the art of placing or arranging buildings or other sites auspiciously?
+geomancy
+11928
+
+What was Ohm's first name?
+Georg
+11929
+
+(1912--97) What Hungarian-born British conductor revivified Covent Garden as musical director (1961--71) and was the conductor of the Chicago Symphony Orchestra (1969--91) and the London Philharmonic Orchestra (1979--83)?
+Sir Georg Solti
+11930
+
+What is the capital of the Cayman Islands?
+George Town
+11931
+
+What is Penang also called?
+George Town
+11932
+
+Who is the patron saint of England?
+St. George
+11933
+
+Where did Georges-Auguste Escoffier work from 1890 to 1899?
+Savoy Hotel
+11934
+
+Define ``georgic'' as an adjective.
+rustic; pastoral
+11935
+
+Who wrote the Georgics?
+Virgil
+11936
+
+What is a geosyncline?
+large-scale depression in the earth's crust containing very thick deposit
+11937
+
+What fragrant oil --- present in lemongrass oil and used in perfumery --- has the chemical formula C10H16O?
+geranial
+11938
+
+(154--1612) What English herbalist was the curator of the physic garden of the College of Surgeons and published his Herball, containing over 1,800 woodcuts, in 1597?
+John Gerard
+11939
+
+(b. 1948) What French actor acted in Danton (1982), Jean de Florette(1986), and Cyrano de Bergerac (1990)?
+Gérard Depardieu
+11940
+
+What tropical Old World plant of the daisy family that has large brightly coloured flowers and that is cultivated under glass in cooler regions is named after a German naturalist?
+gerbera
+11941
+
+What slender East African antelope with a long neck often browses on tall bushes by standing on its hind legs?
+gerenuk
+11942
+
+What is Litocranius walleri?
+gerenuk
+11943
+
+Who was the chancellor of Germany from 1998 to 2005?
+Gerhard Schröder
+11944
+
+(1791--1824) What French painter was criticized for his rejection of classicism in favour of a more realistic style? His most famous work, The raft of the Medusa (1819), depicts the survivors of a famous shipwreck of 1816.
+Théodore Géricault
+11945
+
+What shipping forecast area covers the eastern North Sea off the northern Netherlands, Germany, and southern Denmark?
+German Bight
+11946
+
+What is another name for a German shepherd?
+Alsatian
+11947
+
+What expression of exhilaration would have alerted a certain Apache chief?
+Geronimo
+11948
+
+What was the name of George Gershwin's lyricist brother?
+Ira Gershwin
+11949
+
+What form of a Latin verb ends verbs with ``--ndus'' (declinable) and functions as an adjective meaning ``that should or must be done''?
+gerundive
+11950
+
+What family of tropical plants includes African violets and gloxinias?
+gesneriad
+11951
+
+What hard compound of plaster of Paris or whiting in glue is used in sculpture or as a base for gilding or painting on wood?
+gesso
+11952
+
+What does a German say to one who has just sneezed?
+Gesundheit
+11953
+
+Where did Jesus go with his disciples after the Last Supper?
+Garden of Gethsemane
+11954
+
+(1927--91) What American leader of the ``cool'' school of jazz recorded pieces including ``Early autumn'' (1948) and ``The girl from Ipanema'' (1963)?
+Stan Getz
+11955
+
+What plant genus comprises the avens?
+Geum
+11956
+
+Where is Gewürztraminer principally grown?
+Alsace, Austria, the Rhine valley
+11957
+
+What is a geyser?
+hot spring in which water intermittently boils, sending a tall column of water and steam into the air
+11958
+
+What name is given to a burst of light caused by damaged electrical equipment, sometimes caused by tornados?
+power flash
+11959
+
+How do you pronounce ``Laoghaire''?
+/ˈlɪɹə/
+11960
+
+Define ``philistine'' as an adjective.
+hostile or indifferent to culture and the arts
+11961
+
+Translate ``de gustibus non est disputandum.''
+in matters of taste, there cannot be disputes
+11962
+
+What is the Slavic shortening of ``Alexander''?
+Sasha
+11963
 
