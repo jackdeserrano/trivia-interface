@@ -56,7 +56,10 @@ def get_number():
 def get_question():
     index = int(get_number())
     ret = questions[index].split("\n")
-    ret[2] = int(ret[2]) #
+    try:
+        ret[2] = int(ret[2]) #
+    except IndexError as e:
+        print(ret,e)
     return ret
 
 # Nat -> Str
