@@ -35,7 +35,7 @@ r"""
 \renewcommand\textomicron{o}
 \renewcommand\textOmicron{O}
 """
-# or you can figure out how to get the accents (preferably with lualatex/xelatex)
+# or you can figure out how to get the accents (preferably with pdflatex)
 # and then let me know
 
 from manimlib import *

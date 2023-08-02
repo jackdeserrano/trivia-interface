@@ -8655,7 +8655,7 @@ Arshile Gorky
 2163
 
 (1904--83) This choreographer is noted for ballets such as The firebird (1949) and A midsummer night's dream (1962). Name this Russian-born American ballet dancer who was the chief choreographer of Diaghilev's Ballets Russes during the 1920s and co-founded the company that later became the New York City Ballet in 1934.
-George Balanchine (ˈbälanˌ(t)SHēn)
+George Balanchine \textipa{["bal@n(t)Si{\textlengthmark}n]}
 2164
 
 (1904--84) What American jazz pianist, organist, and bandleader formed an eponymous orchestra in 1935 that became one of the best-known and most successful bands of the swing era?
@@ -9375,7 +9375,7 @@ Biafra
 2343
 
 Identify the yellow to brown mineral consisting of a fluoride and carbonate of cerium and other rare earth metals whose name comes from a district in Västmanland, Sweden.
-bastnaesite (ˈbastnəˌsīt)
+bastnaesite \textipa{["bastn@""s\=\it]}
 2344
 
 Identify three of Astana's former names.
@@ -9439,7 +9439,7 @@ Battle of Marston Moor
 2359
 
 In what gambling card game do players hold two- or three-card hands, the winning hand being that giving the highest remainder when its face value is divided by ten?
-baccarat (ˈbäkərä)
+baccarat \textipa{["bak@rA{\textlengthmark}]}
 2360
 
 In what German town in the Bavarian Alps did Hitler have a fortified retreat?
@@ -9655,7 +9655,7 @@ baldachin
 2413
 
 The name of what criminal organization originating and operating chiefly in Calabria derives from the Greek for ``heroism''?
-'Ndrangheta ((ən)draNGˈɡedə)
+'Ndrangheta \textipa{[(n)draN"gEt@]}
 2414
 
 The name of what dessert containing gelatin and whipped cream and served cold comes from the French for a German state?
@@ -9915,7 +9915,7 @@ biramous
 2478
 
 What adjective describes something bearing berries?
-baccate (ˈbakāt)
+baccate \textipa{["bak\=at]}
 2479
 
 What adjective describes something having two different refractive indices?
@@ -10363,7 +10363,7 @@ Ernie Banks
 2590
 
 What chief city of the island of Negros, Philippines is a major port on the island's northwest coast?
-Bacolod (bəˈkōläd)
+Bacolod \textipa{[b@"k\=ol\"ad]}
 2591
 
 What chief commercial and industrial city in Malawi is named after explorer David Livingstone's birthplace in Scotland?
@@ -10571,7 +10571,7 @@ beriberi
 2642
 
 What disease of cattle and other livestock transmitted by ticks affects the red blood cells and causes the passing of red or blackish urine, also called piroplasmosis?
-babesiosis (bəˌbēzēˈōsəs)
+babesiosis \textipa{[b@""b\=ez\=e"\=os@s]}
 2643
 
 What district of southeast France produces light red and white burgundy wines?
@@ -12811,7 +12811,7 @@ Bastia
 3202
 
 What is the Dutch name for Hague?
-'s-Gravenhage (ˈsKHrävənˌhäKHə)
+'s-Gravenhage \textipa{[""sxrA{\textlengthmark}v@n"hA{\textlengthmark}x@]}
 3203
 
 What is the English transliteration for the Greek name for Athens?
@@ -12847,7 +12847,7 @@ Bharat
 3211
 
 What is the Irish name for Dublin?
-Baile Átha Cliath (ˌblä ˈklēə)
+Baile Átha Cliath \textipa{[""bl\"a "kl\=e@]}
 3212
 
 What is the largest city in the Negev?
@@ -13055,7 +13055,7 @@ B'nai B'rith
 3263
 
 What Jewish rebel leader known as ``Simeon'' in Jewish sources led the rebellion in 132 against the Romans and was accepted by some of his Jewish contemporaries as the Messiah?
-Bar-Cochba (ˌbärˈkôKHbə)
+Bar-Cochba \textipa{[bA{\textlengthmark}"k6kb@]}
 3264
 
 What Jewish term is used for a person's soulmate, especially when considered as an ideal or predestined marriage partner?
@@ -14139,7 +14139,7 @@ athetize
 3534
 
 What rawhide typically formed into strips is used by North American Indians to make fastenings, animal snares, and snowshoes and comes from a Mi'kmaq word?
-babiche (bəˈbēSH)
+babiche \textipa{[b@"bi{\textlengthmark}S]}
 3535
 
 What red supergiant in Orion is the tenth-brightest star in the sky?
@@ -14187,7 +14187,7 @@ Basque Country
 3546
 
 What religion was founded in 1844 by the Persian Mirza Ali Muhammad of Shiraz, who taught that a new prophet would follow Muhammad?
-Babism (ˈbäbizəm)
+Babism \textipa{["b\"abiz@m]}
 3547
 
 What reservoir and recreational centre in southern California is located in the San Bernardino Mountains east of Los Angeles?
@@ -14239,7 +14239,7 @@ Atchafalaya River
 3559
 
 What river in northern India that rises in the Himalayas and flows through Himachal Pradesh to join the Sutlej River in Punjab is one of the five rivers that gave Punjab its name?
-Beas (ˈbēäs)
+Beas \textipa{["b\=e\"as]}
 3560
 
 What river in south-east Siberia flows northwest and west for over 1,000 miles from Lake Baikal to the Yenisei River?
@@ -14479,7 +14479,7 @@ asp
 3619
 
 What small, rich sponge cake is typically soaked in rum-flavoured syrup and has a name that means ``married peasant woman''?
-baba au rhum (ˈbäˌbä ō ˈrəm)
+baba au rhum \textipa{["b\"a""b\"a \=o "r@m]}
 3620
 
 What small, sturdy dog breed has a curly white coat and a tail that curves over its back?
@@ -14859,7 +14859,7 @@ biga
 3714
 
 What thick sauce or spread made from ground eggplant and sesame seeds, olive oil, lemon, and garlic is typical of eastern Mediterranean cuisine and comes from the Arabic for ``father''?
-baba ghanouj (ˌbäbə ɡəˈno͞oSH)
+baba ghanouj \textipa{[""bA{\textlengthmark}b@ g@"nu{\textlengthmark}S]} 
 3715
 
 What thin, delicate membrane of protein fibres and glycosaminoglycans separates an epithelium from underlying tissue?
@@ -14887,7 +14887,7 @@ Atlas
 3721
 
 What topical antibiotic used for skin and eye infections is obtained from the bacterium Bacillus subtilis?
-bacitracin (ˌbasiˈtrāsin)
+bacitracin \textipa{[""basi"tr\=asin]}
 3722
 
 What topmost vertebra of the backbone articulates with the occipital bone of the skull?
@@ -21583,7 +21583,7 @@ bougie
 5395
 
 What name for the parliament of modern Israel, established in 1949 and consisting of one hundred and twenty members elected every four years, comes from the Hebrew for ``gathering''?
-Knesset (k(ə)ˈnesət)
+Knesset \textipa{[k(@)"nes@t]}
 5396
 
 What name given to the head of certain universities, colleges, and schools comes from the Latin for ``ruler''?
@@ -24678,7 +24678,7 @@ What does the Greek root phon- mean?
 sound; φωνή (phōnē); homophone, microphone, phonograph
 6169
 
-What does the Greek root phor-- mean?
+What does the Greek root phor-- mean? *****
 carry, bear; φόρος (phoros); metaphor
 6170
 
@@ -26327,7 +26327,7 @@ Distinguished Conduct Medal
 6581
 
 What river in Angola rises near the city of Huambo and flows south and then west for 250 km to the Atlantic Ocean?
-Cunene (ko͞oˈnānə)
+Cunene \textipa{[k\=oo"n\=an@]}
 6582
 
 A synthetic analog of a pyrimidine nucleoside, what drug inhibits the replication of HIV and is used in the treatment of AIDS, especially in combination with zidovudine?
@@ -26743,7 +26743,7 @@ Delos
 6685
 
 What most significant religious sanctuary of the ancient Greek world, situated on the lower southern slopes of Mount Parnassus above the Gulf of Corinth, was dedicated to Apollo, was thought of as the navel of the earth, and housed the Pythia?
-Delphi (ˈdelfī)
+Delphi \textipa{["delf\=\i]}
 6686
 
 What small constellation (the Dolphin) is just north of the celestial equator near Cygnus?
@@ -32262,7 +32262,7 @@ What do the Latin roots scind--, sciss-- mean?
 split; scindere; rescind, scissors
 8065
 
-What does the Greek root scler-- mean?
+What does the Greek root scler-- mean? *****
 hard; σκληρός (sklēros); scleroderma, sclerosis
 8066
 
@@ -33867,7 +33867,7 @@ Harry Potter and the philosopher's stone
 8466
 
 Pronounce ``chthonic.''
-ˈTHänik
+\textipa{["(k)T6nIk]}
 8467
 
 What does ``en pocas palabras'' mean?
@@ -44630,7 +44630,7 @@ What types of creatures comprise the family Alpheidae?
 asymmetrical snapping shrimp
 11157
 
-What landscape of Brazil---which covers 21% of Brazil's land area---characterizes itself by extensive savanna formations intercepted by woods along the rivers, at the bottom of valleys?
+What landscape of Brazil --- which covers 21\% of Brazil's land area --- characterizes itself by extensive savanna formations intercepted by woods along the rivers, at the bottom of valleys?
 cerrado
 11158
 
@@ -47185,8 +47185,8 @@ Who has the initials NDE?
 Noam David Elkies
 11795
 
-What is a cohomological spectral sequence in an abelian category $\mathfrak{A}$?
-sequence $(E_n,d_n)_n$ where, for all $n\ge 1$, $E_n$ is an object, $d_n \in \operatorname{End}(E_n,E_n)$, $d_n\circ d_n = 0$, and $E_{n+1} \cong H_*(E_n,d_n)$ 
+What is a cohomological spectral sequence in an abelian category $\mathcal{A}$?
+family $(E_{r}^{p,q}, d_{r}^{p,q}, \alpha_{r}^{p,q})$ where, for all $p$, $q$, and $r$, $E_{r}^{p,q}$ is an object in $\mathcal{A}$, $d_{r}^{p,q} : E_{r}^{p,q} \to E_{r}^{p + r, q - r - 1}$ is a morphism, $d_{r}^{p + r, q - r + 1} \circ d_{r}^{p,q} = 0$, $H^{p,q}(E_{r}) = \operatorname{Ker}(d_{r}^{p,q})/\operatorname{Im}(d_{r}^{p - r, q + r - 1})$, and $\alpha_{r}^{p,q} : H^{p,q}(E_{r}) \to E_{r + 1}^{p,q}$ is an isomorphism
 11796
 
 What move does black play in the Berlin defence in response to the Ruy López?
@@ -47842,7 +47842,7 @@ power flash
 11959
 
 How do you pronounce ``Laoghaire''?
-/ˈlɪɹə/
+\textipa{["lI\*r@]}
 11960
 
 Define ``philistine'' as an adjective.
