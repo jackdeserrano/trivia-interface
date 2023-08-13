@@ -1672,7 +1672,7 @@ understock
 What does ``GAA'' abbreviate?
 Gaelic Athletic Association
 
-What is the 高考？
+What is the \begin{CJK*}{UTF8}{gbsn}高考\end{CJK*}?
 test of a student's academic skills, used for admission to colleges and universities
 
 What is the gaokao?
@@ -1682,7 +1682,7 @@ What is the alternative spelling for ``jail''?
 gaol
 
 What deep-sea anglerfish that is able to inflate itself with water belongs to the family Chaunacidae and genus Chaunax?
-10562
+gaper
 
 What burrowing bivalve mollusk, the shell valves of which have an opening at one or both ends, belongs to the genus Mya in the family Myidae?
 gaper
@@ -2858,9 +2858,9 @@ What is the ratio of the focal length to the diameter of the entrance pupil?
 f-number
 
 How does one say ``egg tart'' in Chinese?
-蛋撻 (dan ta)
+\begin{CJK*}{UTF8}{gbsn}蛋撻\end{CJK*} (dan ta)
 
-What is 蛋撻?
+What is \begin{CJK*}{UTF8}{gbsn}蛋撻\end{CJK*}?
 egg tart
 
 Where is Jalal-Abad?
@@ -3152,7 +3152,7 @@ Where is the Jasna Góra Monastery?
 Częstochowa
 
 How do you pronounce ``Częstochowa''?
-ˌt͡ʃɛnstəˈkəʊvə
+\textipa{""{\textteshlig}Enst@"k@Uv@}
 
 Where is the Black Madonna ikon?
 Jasna Góra, Częstochowa
@@ -3250,7 +3250,7 @@ When was the film Battleground released?
 Who directed Battleground?
 William Wellman
 
-What American television western that aired on CBS for 20 seasons (1955–75) became the longest-running prime-time television western in history?
+What American television western that aired on CBS for 20 seasons (1955-–75) became the longest-running prime-time television western in history?
 Gunsmoke
 
 Where was Gunsmoke set?
@@ -3320,7 +3320,7 @@ What is the natural generalization of Brownian motion to $d$-time?
 Gaussian free field
 
 Let $X_0$ be a separated scheme of finite type on $\mathbf{F}_{p^f}$. Let $\mathscr{F}_0$ be a constructible $\mathbf{Q}_{\ell}$-sheaf on $X_0$. What is Grothendieck's expression for $L(X_0,\mathscr{F}_0)$, from which the trace formula is derived? (SGA 4 1/2 86)
-$L(X_0,\mathscr{F}_0) = \prod_i \det(1 - F^*t^f,  H_c^i (X,\mathscr{F}))^{(-1)^{i+1}}$
+\begin{align*}L(X_0,\mathscr{F}_0) = \prod_i \det(1 - F^*t^f,  H_c^i (X,\mathscr{F}))^{(-1)^{i+1}}\end{align*}
 
 Who promulgated the encyclical Aeterni Patris?
 Leo XIII
@@ -3469,7 +3469,7 @@ dislike of one's own culture or compatriot
 What types of creatures comprise the family Alpheidae?
 asymmetrical snapping shrimp
 
-What landscape of Brazil---which covers 21% of Brazil's land area---characterizes itself by extensive savanna formations intercepted by woods along the rivers, at the bottom of valleys?
+What landscape of Brazil --- which covers 21\% of Brazil's land area --- characterizes itself by extensive savanna formations intercepted by woods along the rivers, at the bottom of valleys?
 cerrado
 
 Where is Mooney's Bay?
@@ -3650,7 +3650,7 @@ What is the scientific name for the Brazil nut tree?
 Bertholletia excelsa
 
 What is a flat $R$-module?
-$R$-module $M$ where $\ \otimes_R M$ preserves injectivity
+$R$-module $M$ where $- \otimes_R M$ preserves injectivity
 
 What is a faithfully flat $R$-module?
 $R$-module $M$ where a sequence is exact if and only if that sequence tensored with $M$ is exact
@@ -3784,7 +3784,7 @@ assist
 What Indonesian province is on the southern tip of Sumatra?
 Lampung
 
-What is Zorn's lemma say about a partially ordered set $P$?
+What does Zorn's lemma say about a partially ordered set $P$?
 if every chain in $P$ has an upper bound in $P$, then $P$ contains a maximal element
 
 What is Rainbolt's first name?
@@ -3991,7 +3991,7 @@ Edinburgh
 What tie knot shares its name with a vehicle drawn by horses?
 four in hand
 
-When is $\Lambda(n)$ non-zero for a natural number $n$ where $\Lambda$ is the von Mangoldt function?
+When is $\Lambda(n)$ non-zero where $\Lambda$ is the von Mangoldt function?
 when $n$ is a prime power
 
 What river does the Barragem do Alqueva impound?
@@ -4034,19 +4034,19 @@ Give the name of the following identity: $[x,[y,z]] + [y,[z,x]] + [z,[x,y]] = 0$
 Jacobi identity
 
 What is the dimension of the exceptional Lie algebra $\mathfrak{g}_2$?
-$14$
+14
 
 What is the dimension of the exceptional Lie algebra $\mathfrak{f}_4$?
-$52$
+52
 
 What is the dimension of the exceptional Lie algebra $\mathfrak{e}_6$?
-$78$
+78
 
 What is the dimension of the exceptional Lie algebra $\mathfrak{e}_7$?
-$133$
+133
 
 What is the dimension of the exceptional Lie algebra $\mathfrak{e}_8$?
-$248$
+248
 
 What is the name (c. Apr. 2023) of the largest federal riding in Quebec --- the one that houses Val d'Or?
 Abitibi--Baie-James--Nunavik--Eeyou
@@ -4078,7 +4078,7 @@ Jan van Hooff
 What islands does Pevek face?
 Routan Islands
 
-Who wrote the paper ``How often should you beat your kids?''?
+Who wrote the paper ``How often should you beat your kids?''
 Don Zagier
 
 What name is given to the decomposition of an algebra into sums of eigenspaces of idempotents?
@@ -4100,7 +4100,7 @@ What is Citrus reticulata?
 mandarin orange
 
 What is a $\Lambda$-graded vector space?
-a direct sum of vector spaces indexed by $\Lambda$
+direct sum of vector spaces indexed by $\Lambda$
 
 What does the Hall--Witt identity say?
 $[x,y^{-1},z]^y \cdot [y,z^{-1},x]^z \cdot [z,x^{-1},y]^x = 1$
@@ -4207,7 +4207,7 @@ the category of profinite sets with finite jointly surjective families of maps a
 What is a condensed set?
 sheaf of sets on the pro-\'etale site of a point
 
-When is a condensed abelian group $V$ $p$-liquid (for $0<p\le 1$)?
+When is a condensed abelian group $V$ $p$-liquid (where $p\in (0,1]$)?
 when, for every compact Hausdorff topological space $X$ and every morphism of condensed sets $f$ from $X$ to $V$, there exists a unique morphism of condensed abelian groups from $M_{<p}(X)$ to $V$ that extends $f$ along the inclusion of $X$ into $M_{<p}(X)$
 
 What phrase is Rasheed Wallace famous for saying?
@@ -4247,7 +4247,7 @@ What is the Japanese bullet train network called?
 Shinkansen
 
 State the Banach--Alaoglu theorem.
-Let $\mathfrak{X}$ be a Banach space. Then, the closed unit ball $\mathfrak{X}_1^∗ := \{x^* \in \mathfrak{X}^* : \lVert x^*\rVert \le 1\}$ of $\mathfrak{X}^*$ is weak$∗$-compact.
+Let $\mathfrak{X}$ be a Banach space. Then, the closed unit ball $\mathfrak{X}_1^* := \{x^* \in \mathfrak{X}^* : \lVert x^*\rVert \le 1\}$ of $\mathfrak{X}^*$ is weak$*$-compact.
 
 What principle states that a pointwise bounded family of continuous linear operators on Banach spaces is uniformly bounded (with respect to the operator norm)?
 uniform boundedness principle
@@ -4405,8 +4405,8 @@ shashlik
 What is the Russian name for Easter bread?
 kulich
 
-Who composed 〈一剪梅〉?
-费玉清
+Who composed \begin{CJK*}{UTF8}{gbsn}〈一剪梅〉\end{CJK*}?
+\begin{CJK*}{UTF8}{gbsn}费玉清\end{CJK*}
 
 How many points did Connor McDavid have in the 2022--23 NHL season?
 153
@@ -4416,4 +4416,1585 @@ How many goals did Connor McDavid have in the 2022--23 NHL season?
 
 How many assists did Connor McDavid have in the 2022--23 NHL season?
 89
+
+Let $\mathfrak{g}$ be an $N$-dimensional Lie algebra. Let $(\cdot,\cdot)$ be an $\operatorname{ad}$-invariant bilinear form on $\mathfrak{g}$ (say the Killing form). Let $\{x_1,\hdots,x_N\}$ be a basis for $\mathfrak{g}$ and let $\{x_1^*,\hdots,x_N^*\}$ be the dual basis with respect to $(\cdot,\cdot)$. What is the Casimir element for $(\cdot,\cdot)$?
+\begin{align*} \sum_{n=1}^N x_nx_n^*\end{align*}
+
+What is the chorale to which the O Haupt voll Blut und Wunden music is set in Bach's Christmas oratorio (BWV 248)?
+Wie soll ich dich empfangen
+
+What was the last completed work of Tchaikovsky?
+Piano concerto no. 3
+
+Who were the original members of the Budapest String Quartet?
+Emil Hauser, Alfred Indig, István Ipolyi, Harry Son
+
+Who comprised the Budapest String Quartet in 1951?
+Josef Roisman, Jac Gorodetzky, Boris Kroyt, Mischa Schneider
+
+What pope decreed ``God bless you'' as the correct response to a sneeze?
+Gregory I
+
+What chess player was disqualified from the 2022 Candidates?
+Sergey Karjakin
+
+Who won the 2023 World Chess Championship?
+Ding Liren
+
+What is a northern spy?
+apple
+
+What is Malus pumila?
+apple
+
+Define ``zeitgeber.''
+rhythmically occurring natural phenomenon which acts as a cue in the regulation of the body's circadian rhythms
+
+Define ``infradian.''
+having a period of recurrence longer than a day
+
+Define ``ultradian.''
+having a period of recurrence shorter than a day but longer than an hour
+
+For what does ``KMP'' stand in ``KMP algorithm''?
+Knuth--Morris--Pratt
+
+Who composed ``21st century schizoid man''?
+King Crimson
+
+With whom is Nicomachean ethics associated?
+Aristotle
+
+What are the four types of man that Aristotle describes in Nicomachean ethics? 
+the virtuous, the continent, the incontinent, the vice-filled
+
+Where is the Blue Grotto?
+Capri
+
+What is Belone belone?
+garfish
+
+What region of south-western France is thought to produce boastful people?
+Gascony
+
+What is a gascon?
+boastful person
+
+What is gasconade?
+extravagant boasting
+
+What is the French name for Gascony?
+Gascogne
+
+What region and former province of south-western France in the northern foothills of the Pyrenees was held by England between 1154 and 1453?
+Gascony
+
+What is a chandelier with gas burners rather than light bulbs or candles?
+gasolier
+
+What is a gasolier?
+chandelier with gas burners rather than light bulbs or candles
+
+What shaped sheet or ring of rubber or other material seals the junction between two surfaces in an engine or other device?
+gasket
+
+What is the muscular part of the hind leg of a horse between the stifle and the hock?
+gaskin
+
+What peninsula contains the city of Percé?
+Gaspé
+
+What was a gasper?
+cigarette
+
+(1592--1655) What French astronomer and philosopher is best known for his atomic theory of matter, which was based on his interpretation of the works of Epicurus?
+Pierre Gassendi
+
+(1888--1963) What American physiologist, in collaboration with Joseph Erlanger, used an oscilloscope to show that the velocity of a nerve impulse is proportional to the diameter of the fibre?
+Herbert Spencer Gasser
+
+What were the last names of the two winners of the Nobel Prize for Physiology or Medicine in 1944? They won the prize for their work on nerve impulses.
+Erlanger, Gasser
+
+What is a Gastarbeiter?
+person with temporary permission to work in another country
+
+What epoch witnessed the Gastornis?
+Eocene
+
+What was the Gastornis?
+very large flightless bird of the Eocene epoch
+
+What is the surgical removal of the stomach?
+gastrectomy
+
+What is the chief muscle of the calf of the leg?
+gastrocnemius
+
+What chief muscle of the calf of the leg runs to the Achilles tendon from two heads attached to the femur?
+gastrocnemius
+
+Where is the gastrocnemius?
+calf
+
+What is a gastrolith?
+small stone swallowed by a bird, reptile, or fish to aid digestion in the gizzard
+
+What large class of molluscs includes snails, slugs, whelks, and all terrestrial kinds?
+Gastropoda
+
+What small phylum consists of minute aquatic wormlike animals that bear bristles and cilia? Its members are thought to be related to the nematode worms and rotifers. 
+Gastrotricha
+
+What is an embryo called at the stage following the blastula, when it is a hollow cup-shaped structure having three layers of cells?
+gastrula
+
+From what does a gastrula come?
+blastula
+
+What year witnessed the birth of William Henry Gates?
+1955
+
+What industrial town opposes Newcastle on the River Tyne?
+Gateshead
+
+What first practical machine gun was officially adopted by the US army in 1866?
+Gatling gun
+
+What does ``GATT'' abbreviate?
+General Agreement on Tariffs and Trade
+
+What hereditary disease sees abnormal metabolism and storage of fats and results in bone fragility, neurological disturbance, anaemia, and enlargement of the liver and spleen?
+Gaucher's disease
+
+What is a gaucho?
+cowboy from the South American pampas
+
+Who designed the Sagrada Família?
+Antonio Gaudí
+
+(1891–1915) What French sculptor --- a Vorticist --- created the faceted bust of Horace Brodzky (1912) and Bird Swallowing a Fish (1913)?
+Henri Gaudier-Brzeska
+
+Where did Paul Gauguin live after 1891?
+Tahiti
+
+What was a political official governing a district under Nazi rule called?
+Gauleiter
+
+What series of Cretaceous clays and marls forms strata in southern England? Perhaps its name is related to the Old Swedish for ``barren.''
+Gault
+
+What was Ghent's old name?
+Gaunt
+
+What wild ox having a large head, a dark brown or black coat with white stockings, and a hump is native to India and Malaysia and is the ancestor of the domestic gayal?
+gaur
+
+What is the capital of Gauteng?
+Johannesburg
+
+What was Gauteng's name before 1995?
+Pretoria-Witwatersrand-Vereeniging
+
+What is gavage?
+the administration of food or drugs by force, especially to an animal, typically through a tube leading down the throat to the stomach
+
+What was Sunil Gavaskar?
+cricketer
+
+In what system of inheritance is a deceased person's land divided equally among all male heirs?
+gavelkind
+
+What did ``Gavot'' mean in Provençal?
+native of the Alps
+
+What knight of the Round Table who quested after the Holy Grail is the hero of the medieval poem Sir --- and the green knight?
+Gawain
+
+What does Gay-Lussac's law say?
+the volumes of gases undergoing a reaction at constant pressure and temperature are in a simple ratio to each other and to that of the product
+
+Whose law says that the volumes of gases undergoing a reaction at constant pressure and temperature are in a simple ratio to each other and to that of the product?
+Gay-Lussac's
+
+(1939--84) What American soul singer, composer, and musician who is best known for ``I heard it through the grapevine'' (1968) later recorded the albums Let's get it on (1973) and Midnight love (1982)? He was shot dead by his father in a quarrel.
+Marvin Gaye
+
+What tropical herbaceous plant of the daisy family has showy flowers that are typically orange or yellow?
+gazania
+
+What former homeland established in South Africa for the Tsonga people is now part of the provinces of Limpopo and Mpumalanga?
+Gazankulu
+
+What is gazar?
+stiff gauzy kind of silk fabric
+
+To what country is Gaziantep closest?
+Turkey
+
+Define ``extemporize.''
+compose or perform something such as music or a speech without preparation; improvise
+
+Who is the earliest-born person to have been filmed?
+Pope Leo XIII
+
+What is a Salem number?
+real algebraic integer $\lambda > 1$ whose conjugates have modulus at most $1$ and which has a conjugate of modulus precisely $1$
+
+Who painted the Aino-taru --- the Aino myth triptych?
+Akseli Gallen-Kallela
+
+What country contains Shibam –-- the city of mudbrick skyscrapers?
+Yemen
+
+Who produced the Solitude trilogy for the CBC?
+Glenn Gould
+
+What year saw Glenn Gould's birth?
+1932
+
+Where was Glenn Gould born?
+Toronto
+
+``We suffer more in imagination than we do in reality.''
+Seneca
+
+Define ``prolix.''
+using or containing too many words; tediously lengthy
+
+When does the ``strange loop'' phenomenon occur?
+whenever, by moving upwards (or downwards) through the levels of some hierarchical system, we unexpectedly find ourselves right back where we started
+
+What is the first example of a strange loop that Hofstadter gives in Gödel, Escher, and Bach?
+Canon per Tonos
+
+Translate ``Quaerendo invenietis.''
+by seeking, you will discover
+
+Who made the strange loop ``Waterfall''?
+M. C. Escher
+
+What is the statement defining the Epimenides paradox?
+all Cretans are liars
+
+What is Grelling's paradox?
+``heterological'' is neither heterological nor not heterological
+
+Where is Kishinev?
+Moldova
+
+What is the Danish name for Copenhagen?
+København
+
+Who constructed higher algebraic $K$-theory?
+Daniel Quillen
+
+What year saw Daniel Quillen win the Fields Medal?
+1978
+
+What year saw Pierre Deligne win the Fields Medal?
+1978
+
+Who was the leading exponent of spectral music?
+Tristan Murail
+
+When did the Algerian War end?
+19 March 1962
+
+When did Algeria get independence from France?
+5 July 1962
+
+When was Ásatrúarfélagið founded?
+1972
+
+Who do many consider to be the first permanent Norse settler of Iceland?
+Ingólfr Arnarson
+
+What is the name of Iceland's national anthem?
+Lofsöngur
+
+Define ``schlemiel.''
+stupid, awkward, or unlucky person
+
+Who said that ``it's very famous for difficult people to bomb''?
+Conan O'Brien
+
+What does ``PLUM'' abbreviate in the nomenclature of earthquake sensor technology?
+propagation of local undamped motion
+
+Where was the smiling Rafael Leão born?
+Almada, Portugal
+
+How many goals did Rafael Leão score in the 2022 World Cup?
+2
+
+Who managed the Croatian World Cup teams in 2018 and 2022?
+Zlatko Dalić
+
+Define ``quisling.''
+traitor who serves as the puppet of the enemy occupying his country
+
+What does the Oxford English Dictionary say that room temperature is in degrees Celsius?
+20
+
+What country administers Jan Mayen?
+Norway
+
+What is Jan Mayen's largest settlement?
+Olonkinbyen
+
+What state welcomed Brian Leetch into the world?
+Texas
+
+What was Paul Kariya's father's ethnicity?
+Japanese
+
+What is the dialling code for the São Paulo metropolitan area?
+11
+
+What is the dialling code for western São Paulo?
+18
+
+What is the dialling code for greater Rio de Janeiro and Teresópolis?
+21
+
+What is the dialling code for eastern and northern Rio de Janeiro?
+22
+
+What is the dialling code for western Rio de Janeiro?
+24
+
+What are the dialling codes for Espírito Santo?
+27, 28
+
+What is the dialling code for southern Espírito Santo?
+28
+
+What is the dialling code for central Minas Gerais?
+31
+
+What Brazilian state or states have the dialling code prefix ``3''?
+Minas Gerais
+
+What Brazilian state or states have the dialling code prefix ``4''?
+Paraná, Santa Catarina
+
+What Brazilian state or states have the dialling code prefix ``5''?
+Rio Grande do Sul
+
+What Brazilian state or states have the dialling code prefix ``6''?
+Acre, Distrito Federal, Goiás, Mato Grosso, Mato Grosso do Sul, Rondônia, Tocantins
+
+What is the dialling code for Tocantins?
+63
+
+What are the dialling codes for Mato Grosso?
+65, 66
+
+What is the dialling code for Mato Grosso do Sul?
+67
+
+What is the dialling code for Acre?
+68
+
+What is the dialling code for Rondônia?
+68
+
+What Brazilian state or states have the dialling code prefix ``7''?
+Bahia, Sergipe
+
+What is the dialling code for Sergipe?
+79
+
+What Brazilian state or states have the dialling code prefix ``8''?
+Alagoas, Ceará, Paraíba, Pernambuco, Piauí, Rio Grande do Norte
+
+What is the dialling code for Alagoas?
+82
+
+What is the dialling code for Paraíba?
+83
+
+What is the dialling code for Rio Grande do Norte?
+84
+
+What are the dialling codes for Ceará?
+85, 88
+
+What are the dialling codes for Piauí?
+86, 89
+
+What is the dialling code for northern Piauí?
+86
+
+What Brazilian state or states have the dialling code prefix ``9''?
+Amapá, Amazonas, Maranhão, Pará, Roraima
+
+What is the dialling code for Roraima?
+95
+
+What is the dialling code for Amapá?
+96
+
+What is the dialling code for northern Maranhão?
+98
+
+Who wrote ``Linear algebra done wrong''?
+Sergei Treil
+
+Who issued the earthquake and tsunami warnings on NHK on 11 March 2011 when the Great East Japan Earthquake occurred?
+Kenzo Ito
+
+What time was it locally when the Great East Japan Earthquake happened?
+14:46
+
+Who said, ``Hey, hey, you, you, get off of my cloud''?
+The Rolling Stones
+
+Who asked, ``Psycho killer / Qu'est-ce que c'est?''
+Talking Heads
+
+What is a coeval?
+person of roughly the same age as oneself
+
+What does escitalopram treat?
+depression
+
+What was a tunic?
+loose garment, typically sleeveless and reaching to the wearer's knees, as worn in ancient Greece and
+
+Where was Dean Martin born?
+Steubenville, Ohio
+
+Define ``staid.''
+sedate, respectable, and unadventurous
+
+What name is associated with the problem of determining if a constant-recursive sequence contains 0?
+Skolem
+
+About whom was the New York Times talking when it said that, ``[a]mong the handful of the world's most legendary pianists,'' he ``is perhaps the most reclusive, enigmatic and obsessive''? 
+Arturo Benedetti Michelangeli
+
+What is the Portuguese word for ``scapula''?
+omoplata
+
+What does ``omoplata'' mean in Portuguese?
+scapula
+
+With what sport is the omoplata associated?
+Brazilian jiu-jitsu
+
+What submission in Brazilian jiu-jitsu has the name ashi sankaku garami `leg triangle entanglement' in judo?
+omoplata
+
+From what city does the band Disturbed come?
+Chicago
+
+Where was Chung Myung-whun born?
+Seoul
+
+What Scottish town shares its name with a Canadian village south of Kitchener?
+Ayr
+
+What year saw the Hōei earthquake happen? It was the largest Japanese earthquake before the Great East Japan Earthquake.
+1707
+
+Who recorded the song ``Lay all your love on me''?
+ABBA
+
+On what album did ``Lay all your love on me'' appear?
+Super Trouper
+
+Who comprised ABBA?
+Benny Andersson, Agnetha Fältskog, Anni-Frid Lyngstad, Björn Ulvaeus
+
+What instrument does Nathalie Forget play?
+ondes Martenot
+
+What does \begin{CJK*}{UTF8}{gbsn}「吃一堑，长一智」\end{CJK*} [chī yí qiàn，zhǎng yí zhì] mean?
+``a fall into a pit, a gain in your wit''
+
+What does \begin{CJK*}{UTF8}{gbsn}「一根筷子容易折，一把筷子难折断」\end{CJK*} [yī gēn kuài zi róng yì zhé， yī bǎ kuài zi nán zhé duàn] mean?
+``one chopstick is fragile, but a group of chopsticks is robust''
+
+What does \begin{CJK*}{UTF8}{gbsn}「良好的开端，是成功的一半」\end{CJK*} [liáng hǎo de kāi duān， shì chéng gōng de yī bàn] mean?
+``well begun is half done''
+
+What does \begin{CJK*}{UTF8}{gbsn}「三思而后行」\end{CJK*} [sān sī ér hòu xíng] mean?
+``think three times before you do''
+
+What does \begin{CJK*}{UTF8}{gbsn}「量变质变规律」\end{CJK*} [liàng biàn zhí biàn guī lǜ] mean?
+``quantitative changes lead to qualitative changes''
+
+What does \begin{CJK*}{UTF8}{gbsn}「巧妇难为无米之炊」\end{CJK*} [qiǎo fù nán wéi wú mǐ zhī chuī] mean?
+``the cleverest housewife cannot cook without rice''
+
+Monomorphisms must be injective functions in {Set}. True or false?
+false
+
+``Once you solve a problem, . . . you tend to remember only the short path that got you from A to B. You forget all the dead ends. It's a bit of a shame. It gives the wrong impression that people who are good at mathematics only choose the right steps. But there is a lot of trial and error and really terribly embarrassing ideas. Sometimes there is a `eureka!' moment, but it’s more of a hitting-your-head moment: `Of course! Why was I so dense?''' Who said this?
+Terence Tao
+
+What name is given to a semi-hereditary integral domain?
+Prüfer domain
+
+When is a ring $R$ hereditary?
+all submodules of projective $R$-modules are projective
+
+When is a ring $R$ semi-hereditary?
+all submodules of finitely generated projective $R$-modules are projective
+
+What is a seiche?
+temporary disturbance or oscillation in the water level of a lake or partially enclosed body of water, especially one caused by changes in atmospheric pressure
+
+What was the score of the 2013 World Chess Championship between Viswanathan Anand and Magnus Carlsen?
+3 1/2 -- 6 1/2
+
+Where did Peter Sarnak get his Ph.D.?
+Stanford University
+
+Who advised Peter Sarnak in his Ph.D.?
+Paul Cohen
+
+Where is the Musiikkitalo?
+Helsinki
+
+What is Norway's largest fjord?
+Sognefjord
+
+What opening is comprised by the moves 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+?
+Bogo--Indian defence
+
+After whom is the Bogo--Indian defence named?
+Yefim Bogolyubov
+
+Define ``bootleg'' as a verb.
+make, distribute, or sell (alcoholic drink or recording) illegally
+
+What prefecture contains Nikkō?
+Tochigi
+
+What island contains Port Renfrew?
+Vancouver Island
+
+What name is given to a sequence of random variables $(X_n)_n$ that satisfies $\mathbf{E}(\lvert X_n \rvert) < \infty$ and $\mathbf{E}(X_{n+1} \mid X_1,\hdots,X_n) = X_n$ for all $n$?
+martingale 
+
+What is the second convergent of the continued fraction of $\pi$?
+22/7
+
+What is the third convergent of the continued fraction of $\pi$?
+333/106
+
+What is the fourth convergent of the continued fraction of $\pi$?
+355/113
+
+What number is called \begin{CJK*}{UTF8}{gbsn}「密率」\end{CJK*} in Chinese?
+355/113
+
+What two mathematicians were the first to prove the prime number theorem?
+Jacques Hadamard, Charles Jean de la Vallée Poussin
+
+What class of fields is comprised of finite extensions of $\mathbf{Q}$ and finite extensions of $\mathbf{F}_q(T)$?
+global fields
+
+Who challenged Magnus Carlsen in 2016 for the World Chess Championship?
+Sergey Karjakin
+
+What is Russia's southernmost island?
+Furugelm Island
+
+Where was Joseph Biden born?
+Scranton, Pennsylvania
+
+Where was Donald Trump born?
+New York City, New York
+
+Where was Ronald DeSantis born?
+Jacksonville, Florida
+
+Where was Barack Obama born?
+Honolulu, Hawaii
+
+What name is given to the display of a choreographed flag, sign, or banner in a stadium for a sporting event?
+tifo
+
+When is $\alpha$ $(\omega,C)$--badly approximable?
+$\min_{p\in \mathbf{Z}} \lvert q\alpha - p \rvert \ge C q^{-\omega}$ for all $q\gg 1$
+
+Define ``bulbil.''
+small bulblike structure, in particular one in the axil of a leaf, which may fall to form a new plant
+
+Is $\mathbf{Z}_{10}$ an integral domain?
+no
+
+Is $\mathbf{Z}_{5}$ an integral domain?
+yes
+
+What opus is Sibelius's Kullervo?
+7
+
+What does ``GBZ'' abbreviate?
+Gibraltar
+
+What does ``GC'' abbreviate in the UK?
+George Cross
+
+What country holds Gdynia?
+Poland
+
+What is the wild or sweet cherry, which is native to both Eurasia and North America?
+gean
+
+What is Prunus avium?
+gean
+
+What is a geanticline?
+large-scale upwardly flexed structure in the earth's crust
+
+(c. 721--c. 815) What Arab chemist was familiar with many chemicals and laboratory techniques, including distillation and sublimation? Many works are attributed to him, but his name was used by later writers.
+Geber
+
+What Australian shrub or small tree that bears creamy-yellow flowers and small green fruit belongs to the genus Persoonia?
+geebung
+
+What is Geechee?
+English creole spoken by some black people in parts of South Carolina and Georgia
+
+What Australian administrative division contains Geelong?
+Victoria
+
+What patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun is thought to be the image of the sun reflected from gas and dust outside the atmosphere?
+gegenschein
+
+What patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun is thought to be the image of the sun reflected from gas and dust outside the atmosphere? Its name comes from the German for ``opposite'' + ``glow.''
+gegenschein
+
+What is gegenschein?
+patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun
+
+What is Gehenna?
+Hell
+
+What baseball player was known as the ``Iron Horse''?
+Lou Gehrig
+
+Who played a record 2,130 major-league games for the New York Yankees from 1925 to 1939?
+Lou Gehrig
+
+What does a Geiger counter measure?
+radioactivity
+
+(1835--1924) What Scottish geologist specialized in Pleistocene geology, especially the geomorphological effects of glaciations and the resulting deposits?
+Sir Archibald Geikie
+
+What sealed tube of glass or quartz with a central constriction is filled with vapour for the production of a luminous electrical discharge?
+Geissler tube
+
+What is a Geissler tube?
+sealed tube of glass or quartz with a central constriction, filled with vapour for the production of a luminous electrical discharge
+
+Define ``Geist.''
+the spirit of an individual or group
+
+What is the fertilization of a flower by pollen from another flower on the same (or a genetically identical) plant?
+geitonogamy
+
+What tin-mining city in southern China is located near the border with Vietnam?
+Gejiu
+
+What country's currency is the GEL?
+Georgia
+
+What brownish baboon with a long mane and naked red rump is native to Ethiopia? 
+gelada
+
+Define ``geld.''
+castrate
+
+What is the capital of Gelderland?
+Arnhem
+
+What province contains Arnhem?
+Gelderland
+
+Define ``gelid.''
+icy; extremely cold
+
+Define ``gelidity.''
+the quality or condition of being extremely cold or icy
+
+What high explosive made from a gel of nitroglycerine and nitrocellulose in a base of wood pulp and sodium or potassium nitrate is used particularly for rock-blasting?
+gelignite
+
+(1929--2019) What American theoretical physicist coined the word ``quark'' and proposed the concept of strangeness in quarks? He won the Nobel Prize for Physics (1969).
+Murray Gell-Mann
+
+What preparation of the rhizome of yellow jasmine used in homeopathy to treat flulike symptoms shares its name with the genus that includes the yellow jasmine?
+gelsemium
+
+What German state contains the industrial city of Gelsenkirchen?
+North Rhine--Westphalia
+
+What is the Gem State?
+Idaho
+
+What rabbinical commentary on the Mishnah forms the second part of the Talmud?
+the Gemara
+
+What Kabbalistic method of interpreting the Hebrew scriptures by computing the numerical value of words is based on the values of the constituent letters thereof?
+gematria
+
+(1905--84) What Lebanese political leader, as a Maronite Christian, founded the right-wing Phalange Party in 1936 and served as a Member of Parliament from 1960 to 1984? His youngest son, Bashir (1947--82), was assassinated while president-elect, and his eldest son, Amin (b. 1942), served as president from 1982 to 1988.
+Pierre Gemayel
+
+What mass noun of German origin refers to social relations between individuals, based on close personal and family ties?
+Gemeinschaft
+
+What adjective in phonetics describes something that consists of identical adjacent speech sounds or doubled?
+geminate
+
+What annual meteor shower with a radiant in the constellation Gemini reaches a peak about 13 December?
+Geminids
+
+What is a small cellular body or bud that can separate to form a new organism called?
+gemma
+
+What small cellular body or bud that can separate to form a new organism shares its name with a peculiar name?
+gemma
+
+What is another term for chlamydospore?
+gemma
+
+Define ``gemmed.''
+decorated with or as with gems
+
+What adjective describes a plant or animal that reproduces by gemmation?
+gemmiparous
+
+What tough-coated dormant cluster of embryonic cells is produced by a freshwater sponge for development in more favourable conditions?
+gemmule
+
+What is a gemmule?
+tough-coated dormant cluster of embryonic cells produced by a freshwater sponge for development in more favourable conditions
+
+What large antelope (Oryx gazella) that has a grey coat, distinctive black-and-white head markings, and long straight horns is native to south-western and East Africa?
+gemsbok
+
+What is the systematic name for the gemsbok?
+Oryx gazella
+
+Define ``gemütlich.''
+pleasant and cheerful
+
+What is Gemütlichkeit?
+geniality
+
+Translate ``auspice Maria.''
+under the protection of Mary
+
+Who introduced the notion of perfectoid spaces?
+Peter Scholze
+
+When did Peter Scholze win the Fields Medal?
+2018
+
+Who advised Peter Scholze?
+Michael Rapoport
+
+Define ``saturnine.''
+slow and gloomy
+
+Who wrote ``The decipherment of Linear B''?
+John Chadwick
+
+Who deciphered Linear B?
+Michael Ventris
+
+Translate ``solvitur ambulando.''
+solved by walking
+
+What is the highest point of Hopen Island in Svalbard?
+Iversenfjellet
+
+What is the southernmost point of Hopen Island in Svalbard?
+Kapp Thor
+
+For what is Daniel Ellsberg known?
+releasing the Pentagon Papers
+
+Who released the Pentagon Papers?
+Daniel Ellsberg
+
+Define ``reprobate'' as a noun.
+unprincipled person
+
+Define ``reticent.''
+not revealing one's thoughts or feelings readily
+
+Where was Noam Chomsky born?
+Philadelphia
+
+Where was Noam Chomsky educated?
+University of Pennsylvania
+
+What year saw Noam Chomsky publish his Syntactic structures?
+1957  
+
+Who was the first grandmaster that Mikhail Tal defeated?
+Yuri Averbakh
+
+Who wrote the song ``21 questions''?
+50 Cent
+
+What Brazilian legend was part of the World XI squad at Soccer Aid 2023?
+Roberto Carlos
+
+Define ``phantasmagorical.''
+full of different images, like something in a confused dream
+
+Who asks ``Guess who's back?''
+Eminem
+
+What ships was the HMS Hood to intercept before she sank?
+Bismarck, Prinz Eugen
+
+Define ``prevaricator.''
+one who speaks or acts in an evasive way
+
+Who won the Conn Smythe in 2023?
+Jonathan Marchessault
+
+Who won the Stanley Cup in 2023?
+Vegas Golden Knights
+
+What is syncretism?
+the amalgamation or attempted amalgamation of different religions, cultures, or schools of thought
+
+Who captained Vegas Golden Knights to Stanley Cup glory in 2023?
+Mark Stone
+
+Who was the famous glassblower?
+Bach
+
+What is the meaning of the Bach title ``Quaerendo invenietis''?
+seek and ye shall find
+
+Translate ``aut Caesar aut nihil''?
+either Caesar or nothing
+
+What Chinese city is immediately north of Hong Kong?
+Shenzhen
+
+What is the deepest known point of Earth's seabed as of VII.2023?
+Challenger Deep
+
+What is the CCGS Terry Fox?
+Canadian Coast Guard icebreaker
+
+Where was Terry Fox born?
+Winnipeg
+
+When was Terry Fox born?
+28 July 1958
+
+What was Terry Fox's run called?
+Marathon of Hope
+
+Near where did Terry Fox commence his Marathon of Hope?
+St. John's, Newfoundland and Labrador
+
+When did Terry Fox commence his Marathon of Hope?
+12 April 1980
+
+What form of cancer did Terry Fox have?
+osteosarcoma
+
+Which leg of Terry Fox's was amputated?
+right
+
+Near where was Terry Fox forced to end his Marathon of Hope?
+Thunder Bay, Ontario
+
+When was Terry Fox forced to end his Marathon of Hope?
+1 September 1980
+
+Where did Terry Fox study?
+Simon Fraser University
+
+What American state includes Puget Sound?
+Washington
+
+Who was Hermann Minkowski's advisor?
+Ferdinand von Lindemann
+
+What curved bar is part of the crash-protection system in open-wheel racing?
+halo
+
+Who directed The last waltz?
+Martin Scorsese
+
+When was The last waltz concert held?
+25 November 1976
+
+Whose concert did The last waltz document?
+The Band's
+
+What is Muzak?
+background music
+
+Where does William Nelson teach biology?
+Queen's University
+
+On what island is Tangerang located?
+Java
+
+How many syllables are in a haiku?
+17
+
+What is the haiku's syllabic pattern?
+5-7-5
+
+Where was Jacques Monod born?
+Paris, France
+
+Whose work on the lac operon won them a Nobel Prize in 1965?
+François Jacob, Jacques Monod
+
+Who played John Paul Getty III in All the money in the world?
+Christopher Plummer
+
+What does modus ponens say?
+if x is true and x implies y then y is true
+
+What does ``vel'' mean in Latin?
+or
+
+Who was Q. q. Switcheroo?
+Albanian railroad engineer who worked in logic on the siding
+
+What is ``Ganto's axe''?
+koan
+
+Who compared scalp skin and onion?
+Leonardo da Vinci
+
+Who has the initials NDE?
+Noam David Elkies
+
+What is a cohomological spectral sequence in an abelian category $\mathcal{A}$?
+family $(E_{r}^{p,q}, d_{r}^{p,q}, \alpha_{r}^{p,q})$ where, for all $p$, $q$, and $r$, $E_{r}^{p,q}$ is an object in $\mathcal{A}$, $d_{r}^{p,q} : E_{r}^{p,q} \to E_{r}^{p + r, q - r - 1}$ is a morphism, $d_{r}^{p + r, q - r + 1} \circ d_{r}^{p,q} = 0$, $H^{p,q}(E_{r}) = \operatorname{Ker}(d_{r}^{p,q})/\operatorname{Im}(d_{r}^{p - r, q + r - 1})$, and $\alpha_{r}^{p,q} : H^{p,q}(E_{r}) \to E_{r + 1}^{p,q}$ is an isomorphism
+
+What move does black play in the Berlin defence in response to the Ruy López?
+Nf6
+
+What moves characterize the open, dragon, Yugoslav attack in the Sicilian defence?
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3
+
+What moves characterize the King's Indian defence?
+1. d4 Nf6 2. c4 g6
+
+What moves characterize the advance Tal variation of the Caro--Kann defence?
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4
+
+Who was the scourge of God?
+Attila the Hun
+
+What were the twelve tribes of Israel?
+Asher, Benjamin, Dan, Gad, Issachar, Joseph, Judah, Levi, Naphtali, Reuben, Simeon, Zebulun 
+
+What terrific violinist did Sergei Prokofiev play a match of chess against?
+David Oistrakh
+
+What excellent composer did David Oistrakh play a match of chess against?
+Sergei Prokofiev
+
+What opening did Sergei Prokofiev and David Oistrakh play in their only surviving game of chess?
+Sicilian defence, dragon, classical variation 
+
+What is the feast of St. Benedict of Nursia?
+11 July
+
+What does``RADAR'' abbreviate?
+radio detection and ranging
+
+What does ``WSR-88D'' abbreviate?
+Weather Surveillance Radar, 1988, Doppler
+
+What was Seurat's first name?
+Georges-Pierre
+
+Whose song is ``The boys are back in town''?
+Thin Lizzy
+
+``Don't only practice your art, but force your way into its secrets, for it and knowledge can raise men to the divine.''
+Ludwig van Beethoven
+
+``It is not enough to constitute a democracy that the whole crowd of citizens should have the right to do whatever they wish or propose. But where reverence to the gods, succour of parents, respect for elders, obedience to laws, are traditional and habitual, in such communities, if the will of the majority prevail, we may speak of the form of government as a democracy.''
+Polybius
+
+``Gender is a reality, and a more fundamental reality than sex. Sex is, in fact, merely the adaptation to organic life of a fundamental polarity which divides all created beings.''
+C. S. Lewis
+
+Where was Artur Yusupov born?
+Moscow
+
+Where was Vasyl Ivanchuk born?
+Kopychyntsi
+
+Where did the Picts live?
+Britain
+
+What is a Fréchet space?
+locally convex metrizable complete topological vector space
+
+What is an LF-space?
+countable direct limit of Fréchet spaces
+
+When is a seminorm $\nu$ not a norm on a vector space $\mathfrak{X}$ over $\mathbf{C}$?
+there exists $x\ne 0$ such that $\nu(x) = 0$
+
+Who defeated Novak Djokovic to win the 2023 Wimbledon Championships?
+Carlos Alcaraz
+
+Where was Novak Djokovic born?
+Belgrade
+
+Who was Novak Djokovic's apparel sponsor before UNIQLO?
+Sergio Tacchini
+
+What is the gena of an arthropod?
+the lateral part of the head below the level of the eyes
+
+What is the lateral part of the head of an arthropod below the level of the eyes called?
+gena
+
+What is the plural for ``gena''?
+genae
+
+What does ``gena'' mean in Latin?
+cheek
+
+What does ``gendarme'' mean if it is not referring to a person?
+rock pinnacle on a mountain, occupying and blocking an arête
+
+What is a gendarme?
+paramilitary police officer in France and other French-speaking countries
+
+What is the plural for ``genus''?
+genera
+
+What 1st Viscount (1861--1936), British soldier, and commander of the Egyptian Expeditionary Force against the Turks captured Jerusalem in 1917 and defeated the Turkish forces at Megiddo in 1918?
+Edmund Allenby
+
+What is the variation in the relative frequency of different genotypes in a small population, owing to the chance disappearance of particular genes as individuals die or do not reproduce?
+genetic drift
+
+What is genever?
+Dutch gin
+
+What is geneva?
+Dutch gin
+
+On what lake is Lausanne located? 
+Lake Geneva
+
+What is Lac Léman?
+Lake Geneva
+
+What is the French name for Lake Geneva?
+Lac Léman
+
+What is a genoa in sailing?
+large jib or foresail whose foot extends aft of the mast, used especially on racing yachts
+
+Where was Christopher Columbus born?
+Genoa
+
+What is the Italian name for Genoa?
+Genova
+
+Of what Italian region is Genoa the capital?
+Liguria
+
+What tops a genoa?
+almonds
+
+What name is given to a group of families in ancient Rome who shared a name and claimed a common origin?
+gens
+
+What is the anthropological term for a group of people who are related through their male ancestors?
+gens
+
+What is the plural for ``gens''?
+gentes
+
+What name is given to a combination of an engine and electrical generator used to produce electrical power, typically as a backup or portable source of power?
+genset
+
+What is the Flemish name for Ghent?
+Gent
+
+What broad-spectrum antibiotic used chiefly for severe systemic infections is derived from bacteria of the genus Micromonospora?
+gentamicin
+
+Define ``genteel.''
+characterized by exaggerated or affected politeness, refinement, or respectability
+
+This plant of temperate and mountainous regions typically has violet or vivid blue trumpet-shaped flowers. Many kinds are cultivated as ornamentals, especially as arctic alpines, and some are of medicinal use. Give its name.
+gentian
+
+(c. 1370--1427) What Italian painter's major surviving work is the altarpiece The adoration of the Magi (1423)?
+Gentile da Fabriano
+
+Define ``gentility.''
+social superiority as demonstrated by polite and respectable manners, behaviour, or appearances
+
+What is a Gentle Annie?
+steep slope or hill
+
+Technically, to what force of wind does ``gentle breeze'' refer on the Beaufort scale?
+3 
+
+What speed range does light wind have to fit into in knots to be considered a ``gentle breeze''?
+7--10 knots
+
+What speed range does light wind have to fit into in km/h to be considered a ``gentle breeze''?
+13--19 km/h
+
+What is a gentleman's gentleman?
+valet
+
+What is Gentleman's Relish?
+highly seasoned anchovy paste
+
+What tall penguin with a white triangular patch above the eye, breeding on subantarctic islands, has the systematic name Pygoscelis papua and belongs to the family Spheniscidae?
+gentoo
+
+What is the genu in human anatomy?
+the knee
+
+What is the plural for ``genu''?
+genua
+
+What name is given to a part of certain structures resembling a knee, in particular a bend in the corpus callosum of mammals?
+genu
+
+Who is the wife of Elvis Costello?
+Diana Krall
+
+``Whoever fights monsters should see to it that in the process he does not become a monster. And when you look long into an abyss, the abyss also looks into you.''
+Friedrich Nietzsche
+
+When was Ian Nepomniatchi born?
+14 July 1990
+
+Translate ``előadóművészet.''
+performing arts
+
+Whose death was announced on the day that Sergei Prokofiev died?
+Joseph Stalin
+
+What composer died on the day that the death of Joseph Stalin was announced?
+Sergei Prokofiev
+
+When did Sergei Prokofiev die?
+5 March 1953
+
+When did Joseph Stalin die?
+5 March 1953
+
+What was Gennady Rozhdestvensky's occupation?
+conductor
+
+When was Gennady Rozhdestvensky born?
+4 May 1931
+
+Where was Gennady Rozhdestvensky born?
+Moscow
+
+What were the first thirty words of Abraham Lincoln's Gettysburg address?
+Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
+
+What name is given to the potential unique zero of a Dirichlet $L$-function in a zero-free region?
+Siegel zero
+
+Let $k \ge 1$. What is an admissible $k$-tuple?
+tuple of $k$ increasing integers such that, for all prime numbers $p$, there exists $0 \le n \le p - 1$ such that none of the integers are $n$ mod $p$
+
+Who wrote the paper ``Bounded gaps between primes''?
+Yitang Zhang
+
+Who was Vietnam's first female mathematician?
+Hoàng Xuân Sính
+
+Of whom was Hoàng Xuân Sính a student?
+Alexander Grothendieck
+
+``God became man that man might become God.''
+St. Athanasius
+
+``In mathematics, the art of asking questions is more valuable than that of solving problems.''
+Georg Cantor
+
+Where was Georg Cantor born?
+St. Petersburg
+
+Where was Stefan Banach born?
+Kraków
+
+``In the early sixties, $X$ visited Harvard while Zariski was still a faculty member. Once, while Zariski was lecturing in a seminar, $X$ kept asking him why he didn't prove the result for all schemes, not just varieties, but Zariski simply responded that it didn't work. Eventually, $X$ could stand it no longer and went to the blackboard and began writing down a proof for schemes. While he did so, Zariski wrote down a counter-example. When $X$ realized he was wrong, Zariski said (in his heavily accented Russo-Italian English) `In my time, I have had to learn many languages.' At this, $X$ turned bright red from embarrassment.'' Who was $X$?
+Alexander Grothendieck
+
+Who directed The Breakfast Club?
+John Hughes
+
+Who played Andrew Clark in The Breakfast Club?
+Emilio Estevez
+
+``Wake up, Mr. West, Mr. West / Mr. Fresh, Mister, by himself he's so impressed / I mean, damn, did you even see the test? / You got D's, muthaf***a, D's, Rosie Perez / And yer ass barely passed any and every class / Looking at every ass, cheated on every test / I guess this is my dissertation / Homie, this shit is basic, welcome to graduation. ---''
+Good morning
+
+What is the maximum probability that two elements in a non-abelian compact topological group commute?
+$5/8$
+
+Give the number. What Brahms symphony's finale is a passacaglia with thirty variations?
+4
+
+Who was Ziggy's father?
+Bob
+
+Who was the first to round the Cape of Good Hope?
+Bartolomeu Dias
+
+Who was Cosimo de' Medici's wife?
+Contessina de' Bardi
+
+What year saw Filippo Brunelleschi die?
+1446
+
+Where is the Forbidden City?
+Beijing
+
+What was the Golden Horde's capital? It shares its name with Abram's wife.
+Sarai
+
+Under what pope did Guillaume Du Fay begin his post as the musician of the papal choir?
+Martin V
+
+What number is associated with the Gutenberg Bible?
+42
+
+What was the Hanseatic League's capital?
+Lübeck
+
+Of what Dutch painter was John III a patron in the 1420s?
+Jan van Eyck
+
+Where did St. Joan of Arc die?
+Rouen
+
+What pope canonized St. Joan of Arc?
+Benedict XV
+
+Who wrote Sefer ha-Ikkarim?
+Joseph Albo
+
+What river flows close to Machu Picchu?
+Urubamba River
+
+Who was Henry Tudor's mother?
+Margaret Beaufort
+
+Who was the king of Hungary and Croatia from 1458 to 1490?
+Matthias Corvinus
+
+Who conquered Constantinople in 1453?
+Mehmed II
+
+Who preceded Pope Sixtus IV?
+Pope Paul II
+
+Who succeeded Pope Sixtus IV?
+Innocent VIII
+
+Who was Sandro Botticelli apprentice?
+Filippo Lippi
+
+What is 「絲綢之路」?
+Silk Road
+
+What year saw the establishment of the Spanish Inquisition?
+1478
+
+What killed Vasco da Gama?
+malaria
+
+What country considers Vlad the Impaler a national hero?
+Romania
+
+What did Zheng He want to do by diverting from his fleet on his final voyage?
+hajj
+
+Translate ``Gewaltig.''
+enormous
+
+Translate ``über alles.''
+above all
+
+Who is the cruelest animal according to Nietzsche?
+man
+
+What activity involves an item, or a container holding many items, being hidden at a particular location for GPS users to find using coordinates posted on the internet?
+geocaching
+
+What giant mud-burrowing bivalve mollusk, whose shell valves are not large enough to enclose its body and very long siphon, occurs on the west coast of North America, where it is collected for food? 
+geoduck
+
+What is Panopea generosa?
+geoduck
+
+To what family does the geoduck belong?
+Hyatellidae
+
+Define ``geode.''
+small cavity in rock lined with crystals or other mineral matter
+
+What sport did Geoffrey Boycott play?
+cricket
+
+What was Chaucer's first name?
+Geoffrey
+
+Who composed Troilus and Criseyde in 1385?
+Geoffrey Chaucer
+
+Who designed the Mosquito aircraft of World War II?
+Sir Geoffrey de Havilland
+
+What Welshman composed Historia Regum Britanniae circa 1139?
+Geoddrey of Monmouth
+
+What hypothetical solid figure's surface corresponds to the mean sea level and its imagined extension under (or over) land areas?
+geoid
+
+What is the art of placing or arranging buildings or other sites auspiciously?
+geomancy
+
+What was Ohm's first name?
+Georg
+
+(1912--97) What Hungarian-born British conductor revivified Covent Garden as musical director (1961--71) and was the conductor of the Chicago Symphony Orchestra (1969--91) and the London Philharmonic Orchestra (1979--83)?
+Sir Georg Solti
+
+What is the capital of the Cayman Islands?
+George Town
+
+What is Penang also called?
+George Town
+
+Who is the patron saint of England?
+St. George
+
+Where did Georges-Auguste Escoffier work from 1890 to 1899?
+Savoy Hotel
+
+Define ``georgic'' as an adjective.
+rustic; pastoral
+
+Who wrote the Georgics?
+Virgil
+
+What is a geosyncline?
+large-scale depression in the earth's crust containing very thick deposit
+
+What fragrant oil --- present in lemongrass oil and used in perfumery --- has the chemical formula C10H16O?
+geranial
+
+(154--1612) What English herbalist was the curator of the physic garden of the College of Surgeons and published his Herball, containing over 1,800 woodcuts, in 1597?
+John Gerard
+
+(b. 1948) What French actor acted in Danton (1982), Jean de Florette(1986), and Cyrano de Bergerac (1990)?
+Gérard Depardieu
+
+What tropical Old World plant of the daisy family that has large brightly coloured flowers and that is cultivated under glass in cooler regions is named after a German naturalist?
+gerbera
+
+What slender East African antelope with a long neck often browses on tall bushes by standing on its hind legs?
+gerenuk
+
+What is Litocranius walleri?
+gerenuk
+
+Who was the chancellor of Germany from 1998 to 2005?
+Gerhard Schröder
+
+(1791--1824) What French painter was criticized for his rejection of classicism in favour of a more realistic style? His most famous work, The raft of the Medusa (1819), depicts the survivors of a famous shipwreck of 1816.
+Théodore Géricault
+
+What shipping forecast area covers the eastern North Sea off the northern Netherlands, Germany, and southern Denmark?
+German Bight
+
+What is another name for a German shepherd?
+Alsatian
+
+What expression of exhilaration would have alerted a certain Apache chief?
+Geronimo
+
+What was the name of George Gershwin's lyricist brother?
+Ira Gershwin
+
+What form of a Latin verb ends verbs with ``--ndus'' (declinable) and functions as an adjective meaning ``that should or must be done''?
+gerundive
+
+What family of tropical plants includes African violets and gloxinias?
+gesneriad
+
+What hard compound of plaster of Paris or whiting in glue is used in sculpture or as a base for gilding or painting on wood?
+gesso
+
+What does a German say to one who has just sneezed?
+Gesundheit
+
+Where did Jesus go with his disciples after the Last Supper?
+Garden of Gethsemane
+
+(1927--91) What American leader of the ``cool'' school of jazz recorded pieces including ``Early autumn'' (1948) and ``The girl from Ipanema'' (1963)?
+Stan Getz
+
+What plant genus comprises the avens?
+Geum
+
+Where is Gewürztraminer principally grown?
+Alsace, Austria, the Rhine valley
+
+What is a geyser?
+hot spring in which water intermittently boils, sending a tall column of water and steam into the air
+
+What name is given to a burst of light caused by damaged electrical equipment, sometimes caused by tornados?
+power flash
+
+How do you pronounce ``Laoghaire''?
+\textipa{["lI\*r@]}
+
+Define ``philistine'' as an adjective.
+hostile or indifferent to culture and the arts
+
+Translate ``de gustibus non est disputandum.''
+in matters of taste, there cannot be dispute
+
+What is the Slavic shortening of ``Alexander''?
+Sasha
+
+Who composed the opera The turn of the screw?
+Benjamin Britten
+
+Who composed the novella The turn of the screw?
+Henry James
+
+Who sings: ``nightingale, sing us a song''?
+Norah Jones
+
+With whom did Bobby McFerrin collaborate on the album Hush?
+Yo-Yo Ma
+
+With whom did Yo-Yo Ma collaborate on the album Hush?
+Bobby McFerrin
+
+What album was the result of collaboration between Bobby McFerrin and Yo-Yo Ma?
+Hush
+
+Where did Barak Schmool study saxophone and composition?
+Royal Academy of Music
+
+Who says that it ain't where you from, but that it's where you at?
+Rakim
+
+What are the four coastal municipalities of Piauí?
+Cajueiro da Praia, Ilha Grande Luís Correia, Parnaíba
+
+Who painted Jean Sibelius's favourite painting?
+Oscar Parviainen
+
+What piece did Magnus Carlsen sacrifice to win the World Chess Championship against Sergey Karjakin?
+queen
+
+Who were the six patriarchs of Zen Buddhism?
+Bodhidharma, Dazu Huike, Jianzhi Sengcan, Dayi Daoxin, Daman Hongren, Dajian Huineng
+
+What is tumbolia?
+where nothing is everything
+
+How many koans comprise the Mumonkan?
+48
+
+What is Neochen jubata?
+Orinoco goose
+
+Who was Romania's last communist leader?
+Nicolae Ceaușescu
+
+When did Nicolae Ceaușescu die?
+25 December 1989
+
+What is the category of non-empty finite ordinals and order-preserving maps?
+simplex category
+
+What year saw David Howell earn the title of Grandmaster?
+2007
+
+Who wrote Perelandra?
+C. S. Lewis
+
+When was George Stroumboulopoulos born? No need to give the time of day.
+16 August 1972
+
+Where did Grandmaster Fabiano Caruana grow up?
+Brooklyn
+
+Who won the 2023 Tata Steel Chess Tournament?
+Anish Giri
+
+Where was Grandmaster Teimour Radjabov born?
+Baku, Azerbaijan
+
+Where was Grandmaster Dommaraju Gukesh born?
+Chennai
+
+Where was Grandmaster Shakhriyar Mamedyarov born?
+Sumgait, Azerbaijan
+
+Where was Grandmaster Maxime Vachier-Lagrave born?
+Nogent-sur-Marne, France
+
+What does Maxime Vachier-Lagrave do?
+play chess
+
+Where was Grandmaster Leinier Domínguez born?
+Havana, Cuba
+
+In what year was Grandmaster Alexander Grischuk born?
+1983
+
+Where was Grandmaster Yu Yangyi born?
+Huangshi, Hubei
+
+Where was Grandmaster Jan-Krzysztof Duda born?
+Kraków
+
+In what year was Grandmaster Lê Quang Liêm born?
+1991
+
+In what country was Grandmaster Nodirbek Abdusattorov born?
+Uzbekistan
+
+In what year was Grandmaster Nodirbek Abdusattorov born?
+2004
+
+Where was Rameshbabu Praggnanandhaa born?
+Chennai
+
+Where was Grandmaster Peter Svidler born?
+Leningrad / St. Petersburg
 

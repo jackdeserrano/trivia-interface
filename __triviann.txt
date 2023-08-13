@@ -220,13 +220,13 @@ Ali Akbar Hashemi Rafsanjani
 (b. 1933) What Japanese emperor since 1989 was the son of Hirohito?
 Akihito
 
-(b. 1940) What US film actor achieved recognition for The godfather and received eight Oscar nominations, winning one for Scent of a woman?
+(b. 1940) What American film actor achieved recognition for The godfather and received eight Oscar nominations, winning one for Scent of a woman?
 Al Pacino
 
 (b. 1942) What Italian racing motorcyclist won a record 15 world titles between 1966 and 1975 and won the Isle of Man TT ten times?
 Giacomo Agostini
 
-(b. 1970) What US tennis player won one Wimbledon, two US Open, one French Open, and four Australian Open championships?
+(b. 1970) What American tennis player won one Wimbledon, two US Open, one French Open, and four Australian Open championships?
 André Agassi
 
 (c. 50--19 BC) What Roman poet is known for his elegiac love poetry and his celebration of peaceful rural life?
@@ -821,10 +821,10 @@ How are Mozart's works catalogued?
 Köchel number
 
 How big is an acre?
-$43,560$ square feet
+43,560 square feet
 
 How long is an angstrom?
-$10^{-10}$ m ($0.1$ nm)
+$10^{-10}$ m (0.1 nm)
 
 How many constellations does the IAU recognize?
 eighty-eight
@@ -1393,7 +1393,7 @@ Gulf of Ob
 What body of water located off the northern coasts of Norway and Russia was the ``Murman Sea'' to Russians in the Middle Ages?
 Barents Sea
 
-What body of water previously called the ``Nordenskiöld Sea'' is a marginal sea of the Arctic Ocean located between Siberia, the Taimyr Peninsula, Severnaya Zemlya, and the New Siberian Islands?
+What marginal sea of the Arctic Ocean once called the ``Nordenskiöld Sea'' is located between Siberia, the Taimyr Peninsula, Severnaya Zemlya, and the New Siberian Islands?
 Laptev Sea
 
 What body of water regarded as the edge of the known world for many centuries had many disappearances of ships that induced legends of monsters that stopped and sank ships?
@@ -3526,8 +3526,8 @@ verse of six iambic feet
 What is an alexandrite?
 gem variety of chrysoberyl which appears green in daylight and red in artificial light
 
-What is an Alford plea?
-(US law) a guilty plea in which a defendant maintains their innocence but admits that the prosecution's evidence would likely result in a guilty verdict if brought to trial
+What is an Alford plea in American law?
+guilty plea in which a defendant maintains their innocence but admits that the prosecution's evidence would likely result in a guilty verdict if brought to trial
 
 What is an Alfvén wave?
 transverse magnetohydrodynamic wave travelling in the direction of the magnetic field in a magnetized plasma
@@ -6112,7 +6112,7 @@ Andrew Jackson
 (1767--1845) What German romantic poet and critic, among the founders of art history and comparative philology, was a leading figure within Jena Romanticism with his brother Friedrich and known for his German translations of Shakespearean works and the Bhagavadgita?
 August Wilhelm von Schlegel
 
-(1774--1845) What US folk hero and Swedenborgian missionary travelled throughout Ohio and Indiana planting and caring for apple orchards?
+(1774--1845) What American folk hero and Swedenborgian missionary travelled throughout Ohio and Indiana planting and caring for apple orchards?
 Johnny Appleseed
 
 (1775--1817) What English novelist wrote Sense and sensibility (1811), Pride and prejudice (1813), Mansfield Park (1814), Emma (1815), Northanger Abbey (1818), and Persuasion (1818)?
@@ -6124,7 +6124,7 @@ Jöns Jakob Berzelius
 (1784--1846) What German astronomer and mathematician determined the positions of about 75,000 stars, obtained accurate measurements of stellar distances, predicted the existence of an eighth planet following a study of the orbit of Uranus, and is the namesake of the solution to a differential equation first defined by Daniel Bernoulli?
 Friedrich Wilhelm Bessel
 
-(1785--1851) What US naturalist and artist is noted for The birds of America (1827--38), in which he portrayed even the largest birds life-size and painted them in action?
+(1785--1851) What American naturalist and artist is noted for The birds of America (1827--38), in which he portrayed even the largest birds life-size and painted them in action?
 John James Audubon
 
 (1788--1827) What French physicist and civil engineer correctly postulated that light moves in a wave-like motion transverse to the direction of propagation?
@@ -6208,7 +6208,7 @@ John Jacob Bausch
 (1831--91) What Ukrainian-born Russian spiritualist co-founded the Theosophical Society in New York in 1875?
 Helena ``Madame'' Blavatsky
 
-(1832--1901) What US industrialist reorganized his brother Herman's grain commission house into the Armour \& Co. meatpacking company in 1870?
+(1832--1901) What American industrialist reorganized his brother Herman's grain commission house into the Armour \& Co. meatpacking company in 1870?
 Philip Danforth Armour
 
 (1833--1901) He was the twenty-third President of the United States. As an Indiana Republican, he served as a US senator from 1881--87. During his administration, Oklahoma was settled, and the way was paved for the annexation of Hawaii. Identify this statesman who was not re-elected due to deterioration of the economy and labour unrest.
@@ -6256,10 +6256,10 @@ Ernst Otto Beckmann
 (1854--1917) What German bacteriologist was one of the founders of immunology and received the Nobel Prize for Physiology or Medicine (1901)?
 Emil Adolf von Behring
 
-(1855--1937) What US secretary of the treasury (1923--32) donated his art collection and made gifts to establish the National Gallery of Art in Washington, DC in 1941?
+(1855--1937) What American secretary of the treasury (1923--32) donated his art collection and made gifts to establish the National Gallery of Art in Washington, DC in 1941?
 Andrew Mellon
 
-(1856--1919) What US journalist and author wrote children's books like Father Goose: His Book (1899), The Wonderful Wizard of Oz (1900), and other Oz books?
+(1856--1919) What American journalist and author wrote children's books like Father Goose: His Book (1899), The Wonderful Wizard of Oz (1900), and other Oz books?
 L. Frank Baum
 
 (1856--1950) Identify the Irish playwright, writer, and Nobel laureate (1925) who wrote Candida (1897), Man and Superman (1903), Major Barbara (1905), Pygmalion (1913), and St. Joan (1923).
@@ -6271,7 +6271,7 @@ Alfred Binet
 (1858--1942) What German-born US pioneer of modern anthropology developed the linguistic and cultural components of ethnology, did much to overturn the theory that Nordic peoples constitute an essentially superior race (his books being burned by the Nazis), and wrote Race, language, and culture (1940)?
 Franz Boas
 
-(1859--81) What US outlaw, murderer, and notorious robber was captured by Sheriff Pat Garrett in 1880 and shot by Garrett after he had escaped from jail?
+(1859--81) What American outlaw, murderer, and notorious robber was captured by Sheriff Pat Garrett in 1880 and shot by Garrett after he had escaped from jail?
 Billy the Kid
 
 (1859--1941) What French philosopher wrote Creative evolution (1907) and won the Nobel Prize for Literature (1927)?
@@ -6313,7 +6313,7 @@ Louis Blériot
 (1872--1950) What French statesman introduced significant labour reforms as France's first socialist and Jewish prime minister?
 Léon Blum
 
-(1872--1961) What US jurist and writer wrote over 2,000 opinions as judge of the US Court of Appeals and authored The Spirit of Liberty (1952) and The Bill of Rights (1958)?
+(1872--1961) What American jurist and writer wrote over 2,000 opinions as judge of the US Court of Appeals and authored The Spirit of Liberty (1952) and The Bill of Rights (1958)?
 Learned Hand
 
 (1873--1941) What German psychiatrist detected electric currents in the brain's cortex and developed encephalography?
@@ -6343,10 +6343,10 @@ Ernest Bloch
 (1881--1945) Identify the Hungarian composer of Concerto for Orchestra (1943) and Duke Bluebeard's Castle (opera, 1911) whose work owes much to Hungarian folk music.
 Béla Bartók
 
-(1881--1956) What US industrialist founded United Aircraft and Transport in 1927, which divided into three separate corporations in 1934, one of which was named after him?
+(1881--1956) What American industrialist founded United Aircraft and Transport in 1927, which divided into three separate corporations in 1934, one of which was named after him?
 William Edward Boeing
 
-(1883--1983) What US jazz pianist and composer was one of the foremost ragtime pianists and wrote many songs in collaboration with lyricist Noble Sissle?
+(1883--1983) What American jazz pianist and composer was one of the foremost ragtime pianists and wrote many songs in collaboration with lyricist Noble Sissle?
 Eubie Blake
 
 (1884--1949) What German industrial chemist shared the Nobel Prize for Chemistry (1931) with Carl Bosch?
@@ -6355,7 +6355,7 @@ Friedrich Bergius
 (1884--1950) What German painter and graphic artist created paintings that reflected his first-hand experience of human evil during World War I?
 Max Beckmann
 
-(1886--1956) What US businessman, inventor, and fur trader observed food preservation techniques practiced by the people of Labrador and developed a process of rapidly freezing foods in small packages that were suitable for retail sale and created a revolution in eating habits?
+(1886--1956) What American businessman, inventor, and fur trader observed food preservation techniques practiced by the people of Labrador and developed a process of rapidly freezing foods in small packages that were suitable for retail sale and created a revolution in eating habits?
 Clarence Birdseye
 
 (1886--1968) Identify the Swiss theologian whose seminal work Epistle to the Romans (1919) established a neo-orthodox or theocentric approach to contemporary religious thought that remains influential in Protestant theology.
@@ -6409,7 +6409,7 @@ Andrés Segovia
 (1895--1948) As vice president of the Swedish Red Cross, this statesman arranged the exchange of prisoners of war and, in 1945, conveyed a German offer of capitulation to the Allies. Name this Swede who the Stern Gang assassinated after being appointed as United Nations mediator in Palestine in 1948.
 Folke Bernadotte
 
-(1895--1948) What American baseball player known as the ``Bambino'' and ``Sultan of Swat'' was originally a pitcher who later became noted for his hitting, setting a record of 714 home runs that remained unbroken until 1974 and a single-season record in 1927 of 60 home runs that was not broken until 1961?
+(1895--1948) What American baseball player known as the ``Bambino'' and the ``Sultan of Swat'' was originally a pitcher who later became noted for his hitting, setting a record of 714 home runs that remained unbroken until 1974 and a single-season record in 1927 of 60 home runs that was not broken until 1961?
 Babe Ruth
 
 (1895--1967) What American comedian and actor starred in The wizard of Oz (1939) as the cowardly lion and also starred in Ship ahoy (1942) and The night they raided Minsky's (1968)?
@@ -6439,7 +6439,7 @@ Ben Shahn
 (1899--1953) What Soviet politician and head of the secret police was arrested and executed after Stalin's death?
 Lavrenti Beria
 
-(1899--1957) What US actor played a ruthless gangster in The Petrified Forest and also played a role in Casablanca (1942), The big sleep (1946), and The African queen (1951)?
+(1899--1957) What American actor played a ruthless gangster in The Petrified Forest and also played a role in Casablanca (1942), The big sleep (1946), and The African queen (1951)?
 Humphrey Bogart
 
 (1899--1974) What Guatemalan novelist and poet wrote The president (1946) and won the Nobel Prize for Literature (1967)?
@@ -6451,7 +6451,7 @@ Charles Herbert Best
 (1899--1983) What French composer composed scores for movies like The Lavender Hill mob (1951) and Moulin Rouge (1952)?
 Georges Auric
 
-(1899--1987) What US dancer, singer, and actor starred in Top hat (1935) and Shall we dance? (1937) with Ginger Rogers and Easter parade (1948) with Judy Garland?
+(1899--1987) What American dancer, singer, and actor starred in Top hat (1935) and Shall we dance? (1937) with Ginger Rogers and Easter parade (1948) with Judy Garland?
 Fred Astaire
 
 (1901--73) Fidel Castro overthrew the second government of what Cuban soldier and statesman?
@@ -6460,7 +6460,7 @@ Fulgencio Batista
 (1901--76) This novelist wrote La condition humaine (Man's fate, 1933). What French politician and art critic was involved in the Chinese communist uprising of 1927 and the Spanish Civil War and later appointed France's first Minister of Cultural Affairs?
 André Malraux
 
-(1902--71) What US golfer won thirteen major competitions in his short competitive career as an amateur, including four US and three British open championships?
+(1902--71) What American golfer won thirteen major competitions in his short competitive career as an amateur, including four US and three British open championships?
 Bobby Jones
 
 (1902--92) She won the Nobel Prize for Physiology or Medicine (1983). Identify this US geneticist, whose findings of transposable genetic elements were supported by Watson and Crick's DNA model.
@@ -6469,7 +6469,7 @@ Barbara McClintock
 (1902--97) What Austrian-born British opera was the conductor and director of the Metropolitan Opera in New York City 1950--72, hired Marian Anderson in 1955, ending the Met's unwritten ban against African Americans, and was knighted in 1971?
 Sir Rudolf Bing
 
-(1903--31) What US jazz musician, composer, and autodidactic cornetist and pianist profoundly influenced the development of jazz?
+(1903--31) What American jazz musician, composer, and autodidactic cornetist and pianist profoundly influenced the development of jazz?
 Bix Beiderbecke
 
 (1903--41) What English aviator was the first woman to fly solo to Australia and set records with her solo flights to Tokyo and Cape Town?
@@ -6491,15 +6491,15 @@ James Beard
 Arshile Gorky
 
 (1904--83) This choreographer is noted for ballets such as The firebird (1949) and A midsummer night's dream (1962). Name this Russian-born American ballet dancer who was the chief choreographer of Diaghilev's Ballets Russes during the 1920s and co-founded the company that later became the New York City Ballet in 1934.
-George Balanchine (ˈbälanˌ(t)SHēn)
+George Balanchine \textipa{["bal@n(t)Si{\textlengthmark}n]}
 
-(1904--84) What US jazz pianist, organist, and bandleader formed an eponymous orchestra in 1935 that became one of the best-known and most successful bands of the swing era?
+(1904--84) What American jazz pianist, organist, and bandleader formed an eponymous orchestra in 1935 that became one of the best-known and most successful bands of the swing era?
 Count Basie
 
-(1904--87) What US dancer and actor is best known for his role as the scarecrow in The wizard of Oz (1939)?
+(1904--87) What American dancer and actor is best known for his role as the scarecrow in The wizard of Oz (1939)?
 Ray Bolger
 
-(1905--70) As a seminal figure in colour-field painting, what US painter juxtaposed large blocks of uniform colour with narrow marginal strips of contrasting colours, such as in Who's afraid of red, yellow, and blue III (1966--67)?
+(1905--70) As a seminal figure in colour-field painting, what American painter juxtaposed large blocks of uniform colour with narrow marginal strips of contrasting colours, such as in Who's afraid of red, yellow, and blue III (1966--67)?
 Barnett Newman
 
 (1905--82) This Russian-born American writer and philosopher developed a philosophy of ``objectivism'' in For the new intellectual (1961), arguing for ``rational self-interest,'' individualism, and laissez-faire capitalism. Name this female author of The fountainhead (1943) and Atlas shrugged (1957).
@@ -6550,7 +6550,7 @@ Babe Zaharias
 (1911--79) This American poet's poetry contrasted her experiences in South America (1952--67) with her New England origins. She was awarded the Pulitzer Prize for her first two collections, North and south (1946) and A cold spring (1955). She also wrote Geography III (1976). Who was she?
 Elizabeth Bishop
 
-(1912--89) What US historian and writer indited works like The guns of August (1962), Stilwell and the American experience in China, 1911--45 (1971), A distant mirror (1978), and The first salute (1988)?
+(1912--89) What American historian and writer indited works like The guns of August (1962), Stilwell and the American experience in China, 1911--45 (1971), A distant mirror (1978), and The first salute (1988)?
 Barbara W. Tuchman
 
 (1913--76) What English composer, pianist, and conductor wrote operas like Peter Grimes (1945), A midsummer night's dream (1960), and Death in Venice (1973)?
@@ -6559,7 +6559,7 @@ Benjamin Britten
 (1913-92) What Israeli won a Nobel Peace Prize (1978) with Anwar al-Sadat after signing a peace treaty with him?
 Menachem Begin
 
-(1914--72) What US poet and educator was a central figure in the Confessional school of poetry and is best known for The dream songs, which contains the Pulitzer Prize--winning 77 dream songs (1964)?
+(1914--72) What American poet and educator was a central figure in the Confessional school of poetry and is best known for The dream songs, which contains the Pulitzer Prize--winning 77 dream songs (1964)?
 John Berryman
 
 (1915--59) This jazz singer began her recording career with Benny Goodman's band in 1933 and then performed with many small jazz groups. Identify this American whose autobiography Lady sings the blues (1956) was made into a movie in 1972.
@@ -6583,13 +6583,13 @@ Eddie Arcaro
 (1916--2000) The world's first woman prime minister, what Sinhalese stateswoman succeeded her husband, S. W. R. D. Bandaranaike (1899--1959), after his assassination, their daughter becoming president (1994--2005)?
 Sirimavo Bandaranaike
 
-(1916--2011) What US composer and mathematician noted as a pioneer of electronic music wrote music developed from the twelve-note system of Schoenberg and Webern?
+(1916--2011) What American composer and mathematician noted as a pioneer of electronic music wrote music developed from the twelve-note system of Schoenberg and Webern?
 Milton Babbitt
 
 (1917--85) What German novelist and short-story writer is known for Billiards at half past nine (1959) and The lost honor of Katharina Blum (1974) and won the Nobel Prize for Literature (1972)?
 Heinrich Böll
 
-(1917--2010) What US lawyer and author depicted life among New York City elite in his novels and short stories?
+(1917--2010) What American lawyer and author depicted life among New York City elite in his novels and short stories?
 Andrew Lee (Louis Stanton Auchincloss)
 
 (1917--2012) What British physiologist worked with Hodgkin on the physiology of nerve transmission and won the Nobel Prize for Physiology or Medicine (1963) with Hodgkin and Eccles?
@@ -6733,7 +6733,7 @@ Ehud Barak
 (b. 1942) What American singer, actress, and director starred in movies like Funny girl (1968), The way we were (1973), A star is born (1976), and The prince of tides (1991) and also starred in, produced, and directed Yentl (1983)?
 Barbra Streisand
 
-(b. 1944) What US journalist was the Washington Post reporter who broke the story of the 1972 Watergate burglary, traced the financial payoffs to President Nixon, and wrote All the president's men (1974) and The final days (1976) with Bob Woodward?
+(b. 1944) What American journalist was the Washington Post reporter who broke the story of the 1972 Watergate burglary, traced the financial payoffs to President Nixon, and wrote All the president's men (1974) and The final days (1976) with Bob Woodward?
 Carl Bernstein
 
 (b. 1945) This political leader won the Nobel Peace Prize (1991) and was the daughter of another prominent political leader. She has been the leader of the National League for Democracy in Myanmar since 1988. She was held under house arrest from 1989 to 1995 when the ruling military government refused to recognize her party's victory in the 1990 elections. She was detained frequently thereafter. Name this politician whose NLD won a majority in 2015 but was barred from being president by clauses in Myanmar's constitution.
@@ -6751,16 +6751,16 @@ Mikhail Baryshnikov
 (b. 1949) What American pop singer and songwriter made hit songs like ``Piano man'' (1973), ``Just the way you are'' (1977), ``Tell her about it'' (1983), ``We didn't start the fire'' (1989), and ``The river of dreams'' (1993)?
 Billy Joel
 
-(b. 1952) The television sitcom of what US comedienne and actress was inspired by her renowned stand-up comedy persona?
+(b. 1952) The television sitcom of what American comedienne and actress was inspired by her renowned stand-up comedy persona?
 Roseanne Barr
 
-(b. 1964) What US baseball player won seven NL MVP awards, played for the Pirates and Giants, and eclipsed Hank Aaron's home run record in 2007?
+(b. 1964) What American baseball player won seven NL MVP awards, played for the Pirates and Giants, and eclipsed Hank Aaron's home run record in 2007?
 Barry Bonds
 
 (b. 1967) What German tennis player won the men's singles title at one US Open, one Australian Open, and three Wimbledon tournaments from 1985 to 1991?
 Boris Becker
 
-(c. 1825--1903) What US frontiersman named himself ``justice of the peace'' in Val Verde County, Texas, where he held court in his saloon, the Jersey Lilly---so-named for actress Lillie Langtry?
+(c. 1825--1903) What American frontiersman named himself ``justice of the peace'' in Val Verde County, Texas, where he held court in his saloon, the Jersey Lilly---so-named for actress Lillie Langtry?
 Roy Bean
 
 (Calixtus III, 29 Jun. 1456) What bull titled Bulla turcorum announced the Fall of Constantinople and ordered a ``Noon Bell'' prayer to protect against a threatened Ottoman invasion?
@@ -6913,7 +6913,7 @@ Lake Nasser
 At what Anglo-French battle in 1346 did the forces of Edward III defeated those of Philip VI, marking the first major English victory of the Hundred Years War?
 Battle of Crécy
 
-At what US national park on the Rio Grande, Texas, were fossil remains of the pterosaur found?
+At what American national park on the Rio Grande, Texas, were fossil remains of the pterosaur found?
 Big Bend National Park
 
 Of what is athlete's foot a form?
@@ -7031,7 +7031,7 @@ Identify the state proclaimed in 1967 when part of southeastern Nigeria and evan
 Biafra
 
 Identify the yellow to brown mineral consisting of a fluoride and carbonate of cerium and other rare earth metals whose name comes from a district in Västmanland, Sweden.
-bastnaesite (ˈbastnəˌsīt)
+bastnaesite \textipa{["bastn@""s\=\it]}
 
 Identify three of Astana's former names.
 Nur-Sultan, Akmola, Tselinograd
@@ -7043,7 +7043,7 @@ In ballet, it is a posture in which the body is supported on one leg, with the o
 arabesque
 
 In QCD natural units, what is the mass of a proton?
-$\sim 1\ \textrm{GeV}$
+$\sim$ 1 GeV
 
 In what 479 BCE battle during the Persian Wars were the Persian forces defeated by the Greeks in Boeotia?
 Battle of Plataea
@@ -7079,7 +7079,7 @@ In what English Civil War battle fought in 1644 near York were the Royalists def
 Battle of Marston Moor
 
 In what gambling card game do players hold two- or three-card hands, the winning hand being that giving the highest remainder when its face value is divided by ten?
-baccarat (ˈbäkərä)
+baccarat \textipa{["bak@rA{\textlengthmark}]}
 
 In what German town in the Bavarian Alps did Hitler have a fortified retreat?
 Berchtesgaden
@@ -7241,7 +7241,7 @@ The name of what ceremonial canopy of stone, metal, or fabric over an altar, thr
 baldachin
 
 The name of what criminal organization originating and operating chiefly in Calabria derives from the Greek for ``heroism''?
-'Ndrangheta ((ən)draNGˈɡedə)
+'Ndrangheta \textipa{[(n)draN"gEt@]}
 
 The name of what dessert containing gelatin and whipped cream and served cold comes from the French for a German state?
 bavarois
@@ -7436,7 +7436,7 @@ What adjective describes crustacean limbs and antennae that divide to form two b
 biramous
 
 What adjective describes something bearing berries?
-baccate (ˈbakāt)
+baccate \textipa{["bak\=at]}
 
 What adjective describes something having two different refractive indices?
 birefringent
@@ -7562,7 +7562,7 @@ What are arcana?
 secrets or mysteries
 
 What is a Dirichlet character?
-completely multiplicative function $\chi : \Z\longrightarrow \C$ that satisfies $\chi(n) = \chi(n + \ell)$ for some positive integer $\ell$ and for all integers $n$
+completely multiplicative function $\chi : \mathbf{Z}\to \mathbf{C}$ for which there exists a positive integer $\ell$ such that $\chi(n) = \chi(n + \ell)$ for all integers $n$
 
 What are the Big Five personality traits?
 openness to experience, conscientiousness, extraversion, agreeableness, neuroticism
@@ -7663,7 +7663,7 @@ bitumen
 What blunt, thick needle with a large eye is used primarily for drawing tape or cord through a hem?
 bodkin
 
-What body part is called the ``blind gut''?
+What body part is called ``the blind gut''?
 cecum
 
 What British middle-distance runner and neurologist became the first man to run a mile in under four minutes in May 1954?
@@ -7772,7 +7772,7 @@ What Chicago Cubs shortstop and first baseman was known as Mr. Cub and inducted 
 Ernie Banks
 
 What chief city of the island of Negros, Philippines is a major port on the island's northwest coast?
-Bacolod (bəˈkōläd)
+Bacolod \textipa{[b@"k\=ol\"ad]}
 
 What chief commercial and industrial city in Malawi is named after explorer David Livingstone's birthplace in Scotland?
 Blantyre
@@ -7928,7 +7928,7 @@ What disease causes inflammation of the nerves and heart failure and is caused b
 beriberi
 
 What disease of cattle and other livestock transmitted by ticks affects the red blood cells and causes the passing of red or blackish urine, also called piroplasmosis?
-babesiosis (bəˌbēzēˈōsəs)
+babesiosis \textipa{[b@""b\=ez\=e"\=os@s]}
 
 What district of southeast France produces light red and white burgundy wines?
 Beaujolais
@@ -9166,7 +9166,7 @@ Liber extra
 What index catalogues works of folklore?
 Aarne--Thompson--Uther index
 
-What is $v$?
+What is ``v''?
 letter
 
 What Indian city in Karnataka state is home to Rani Chennamma of Kittur and Suvarna Vidhana Soudha?
@@ -9211,7 +9211,7 @@ Qom
 What Iraqi city on the River Euphrates contains the shrine of Ali and is a holy city for Shiites?
 Najaf
 
-What Iraqi oil port on the Shatt al-Arab is called the ``Venice of the East''?
+What Iraqi oil port on the Shatt al-Arab bears the title ``Venice of the East''?
 Basra
 
 What is a billet-doux?
@@ -9527,7 +9527,7 @@ What is arthralgia?
 pain in a joint
 
 What is atmospheric pressure in $\operatorname{Pa}$ at sea level?
-$\tilde\ 101,325\ \operatorname{Pa}$
+$\sim 101,325\ \operatorname{Pa}$
 
 What is automatic writing?
 writing said to be produced by a spiritual, occult, or subconscious agency rather than by the conscious intention of the writer
@@ -9551,7 +9551,7 @@ What is BHT?
 butylated hydroxytoluene
 
 What is Euler's reflection formula?
-$\displaystyle \Gamma(z) \Gamma(1-z) = \frac{\pi}{\sin(πz)}$
+$\displaystyle \Gamma(z) \Gamma(1-z) = \frac{\pi}{\sin(\pi z)}$
 
 Translate ``Extra Ecclesiam nulla salus.''
 outside the Church there is no salvation
@@ -9605,7 +9605,7 @@ What is the chief port of Corsica?
 Bastia
 
 What is the Dutch name for Hague?
-'s-Gravenhage (ˈsKHrävənˌhäKHə)
+'s-Gravenhage \textipa{[""sxrA{\textlengthmark}v@n"hA{\textlengthmark}x@]}
 
 What is the English transliteration for the Greek name for Athens?
 Athínai
@@ -9632,7 +9632,7 @@ What is the Hindi name for India?
 Bharat
 
 What is the Irish name for Dublin?
-Baile Átha Cliath (ˌblä ˈklēə)
+Baile Átha Cliath \textipa{[""bl\"a "kl\=e@]}
 
 What is the largest city in the Negev?
 Beersheba
@@ -9656,7 +9656,7 @@ What is the lightest strange meson?
 kaon
 
 What is the Liouville function?
-$\displaystyle \lambda(n) := \begin{cases} +1& \textrm{$n$ is a product of an even number of prime numbers}\\ -1 &\textrm{otherwise}\end{cases}$
+$\displaystyle \lambda(n) := \begin{cases} +1& \text{$n$ is a product of an even number of prime numbers}\\ -1 &\text{otherwise}\end{cases}$
 
 What is the longest chapter in the Bible?
 Daniel 3
@@ -9788,7 +9788,7 @@ What Jewish organization founded in New York in 1843, whose name comes from the 
 B'nai B'rith
 
 What Jewish rebel leader known as ``Simeon'' in Jewish sources led the rebellion in 132 against the Romans and was accepted by some of his Jewish contemporaries as the Messiah?
-Bar-Cochba (ˌbärˈkôKHbə)
+Bar-Cochba \textipa{[bA{\textlengthmark}"k6kb@]}
 
 What Jewish term is used for a person's soulmate, especially when considered as an ideal or predestined marriage partner?
 bashert
@@ -9922,7 +9922,7 @@ arnis
 What Massachusetts town is the largest community on Cape Cod and the commercial centre for a resort area?
 Barnstable
 
-What mathematical law states that, in any large, randomly produced set of natural numbers, around thirty percent will begin with $1$, eighteen percent with $2$, and so on, with the smallest percentage starting with $9$?
+What mathematical law states that, in any large, randomly produced set of natural numbers, around thirty percent will begin with 1, eighteen percent with 2, and so on, with the smallest percentage starting with 9?
 Benford's law
 
 What measure of a newborn's physical condition is obtained by adding points (0, 1, or 2) for heart rate, respiratory effort, muscle tone, response to stimulation, and skin coloration?
@@ -10411,7 +10411,7 @@ Yasser Arafat
 What pan-Arab political party founded in Syria in 1943 has different factions that hold power in Syria and once held power in Iraq, its name coming from the Arabic for ``resurrection''?
 Baath Party
 
-What papal bull (more commonly called the ``Golden Bull of Rieti'') issued by Gregory IX on 3 Aug. 1234 confirmed the Teutonic Order's domination of the Chelmno land (Kulmerland) east of the lower Vistula and other lands conquered by Teutonic Order in Prussia ``to eternal and absolute ownership''?
+What papal bull (more commonly called ``the Golden Bull of Rieti'') issued by Gregory IX on 3 Aug. 1234 confirmed the Teutonic Order's domination of the Chelmno land (Kulmerland) east of the lower Vistula and other lands conquered by Teutonic Order in Prussia ``to eternal and absolute ownership''?
 Pietati proximum
 
 What papal bull issued by Alexander III on 23 May 1179 recognized Afonso Henriques as the first sovereign King of Portugal?
@@ -10601,7 +10601,7 @@ What rare word from the Greek for ``without position'' means ``reject (a passage
 athetize
 
 What rawhide typically formed into strips is used by North American Indians to make fastenings, animal snares, and snowshoes and comes from a Mi'kmaq word?
-babiche (bəˈbēSH)
+babiche \textipa{[b@"bi{\textlengthmark}S]}
 
 What red supergiant in Orion is the tenth-brightest star in the sky?
 Betelgeuse
@@ -10637,7 +10637,7 @@ What region of the western Pyrenees straddles the France-Spain border on the Bay
 Basque Country
 
 What religion was founded in 1844 by the Persian Mirza Ali Muhammad of Shiraz, who taught that a new prophet would follow Muhammad?
-Babism (ˈbäbizəm)
+Babism \textipa{["b\"abiz@m]}
 
 What reservoir and recreational centre in southern California is located in the San Bernardino Mountains east of Los Angeles?
 Big Bear Lake
@@ -10676,7 +10676,7 @@ What river in Louisiana that flows into the Gulf of Mexico controls flooding on 
 Atchafalaya River
 
 What river in northern India that rises in the Himalayas and flows through Himachal Pradesh to join the Sutlej River in Punjab is one of the five rivers that gave Punjab its name?
-Beas (ˈbēäs)
+Beas \textipa{["b\=e\"as]}
 
 What river in south-east Siberia flows northwest and west for over 1,000 miles from Lake Baikal to the Yenisei River?
 Angara River
@@ -10856,7 +10856,7 @@ What small southern European viper has an upturned snout (Vipera aspis) and shar
 asp
 
 What small, rich sponge cake is typically soaked in rum-flavoured syrup and has a name that means ``married peasant woman''?
-baba au rhum (ˈbäˌbä ō ˈrəm)
+baba au rhum \textipa{["b\"a""b\"a \=o "r@m]}
 
 What small, sturdy dog breed has a curly white coat and a tail that curves over its back?
 Bichon Frisé
@@ -11141,7 +11141,7 @@ What thick mixture of flour, water, and yeast is allowed to ferment for some tim
 biga
 
 What thick sauce or spread made from ground eggplant and sesame seeds, olive oil, lemon, and garlic is typical of eastern Mediterranean cuisine and comes from the Arabic for ``father''?
-baba ghanouj (ˌbäbə ɡəˈno͞oSH)
+baba ghanouj \textipa{[""bA{\textlengthmark}b@ g@"nu{\textlengthmark}S]} 
 
 What thin, delicate membrane of protein fibres and glycosaminoglycans separates an epithelium from underlying tissue?
 basement membrane
@@ -11162,7 +11162,7 @@ What Titan punished for his part in the Titans' revolt against Zeus by being mad
 Atlas
 
 What topical antibiotic used for skin and eye infections is obtained from the bacterium Bacillus subtilis?
-bacitracin (ˌbasiˈtrāsin)
+bacitracin \textipa{[""basi"tr\=asin]}
 
 What topmost vertebra of the backbone articulates with the occipital bone of the skull?
 atlas vertebra
@@ -11242,7 +11242,7 @@ bacalao
 What uninhabited island in the central Pacific Ocean near the equator and claimed by the United States in 1857 was once a guano source but is now a wildlife refuge?
 Baker Island
 
-What unit of area is equal to $10^{-28}\ \textrm{m}^2$ and used primarily in particle physics?
+What unit of area is equal to $10^{-28}\ \text{m}^2$ and used primarily in particle physics?
 barn
 
 What unit of transmission speed is equal to the number of times a signal changes state per second or one bit per second?
@@ -12685,13 +12685,13 @@ in low spirits from loss of hope or courage
 Define ``emblazon.''
 conspicuously inscribe or display a design on; depict (a heraldic device) on something; celebrate or extol publicly
 
-Define ``enmity.
+Define ``enmity.''
 the state or feeling of being actively opposed or hostile to someone or something
 
-Define ``eviscerate.
+Define ``eviscerate.''
 disembowel
 
-Define ``exhortation.
+Define ``exhortation.''
 address or communication emphatically urging someone to do something
 
 Define ``extort.''
@@ -16184,7 +16184,7 @@ What name for a thin, flexible surgical instrument for exploring or dilating a p
 bougie
 
 What name for the parliament of modern Israel, established in 1949 and consisting of one hundred and twenty members elected every four years, comes from the Hebrew for ``gathering''?
-Knesset (k(ə)ˈnesət)
+Knesset \textipa{[k(@)"nes@t]}
 
 What name given to the head of certain universities, colleges, and schools comes from the Latin for ``ruler''?
 rector
@@ -18505,7 +18505,7 @@ fear; φόβος (phobos); hydrophobia
 What does the Greek root phon- mean?
 sound; φωνή (phōnē); homophone, microphone, phonograph
 
-What does the Greek root phor-- mean?
+What does the Greek root phor-- mean? *****
 carry, bear; φόρος (phoros); metaphor
 
 What do the Greek roots phos-, phot- mean?
@@ -19742,7 +19742,7 @@ What does ``DCM'' abbreviate in the United Kingdom?
 Distinguished Conduct Medal
 
 What river in Angola rises near the city of Huambo and flows south and then west for 250 km to the Atlantic Ocean?
-Cunene (ko͞oˈnānə)
+Cunene \textipa{[k\=oo"n\=an@]}
 
 A synthetic analog of a pyrimidine nucleoside, what drug inhibits the replication of HIV and is used in the treatment of AIDS, especially in combination with zidovudine?
 dideoxycytidine (DDC)
@@ -19951,20 +19951,20 @@ deflagration
 What chemical, used in warfare, removes the leaves from trees and plants?
 defoliant
 
-What is the derivative of the zeta function at 0?
+What is the derivative of the zeta function at $0$?
 $\displaystyle -\frac{1}{2}\pi\log(2)$
 
 What is $\zeta(2)$?
-$\pi^2/6$
+$\pi^2$/6
 
 What is $\zeta(4)$?
-$\pi^4/90$
+$\pi^4$/90
 
 What is $\zeta(6)$?
-$\pi^6/945$
+$\pi^6$/945
 
 What is $\zeta(12)$?
-$691\pi^{12}/638512875$
+691$\pi^{12}$/638512875
 
 By what name is $\zeta(3)$ known?
 Apéry's constant
@@ -20054,7 +20054,7 @@ What small Greek island in the Aegean Sea, regarded as the centre of the Cyclade
 Delos
 
 What most significant religious sanctuary of the ancient Greek world, situated on the lower southern slopes of Mount Parnassus above the Gulf of Corinth, was dedicated to Apollo, was thought of as the navel of the earth, and housed the Pythia?
-Delphi (ˈdelfī)
+Delphi \textipa{["delf\=\i]}
 
 What small constellation (the Dolphin) is just north of the celestial equator near Cygnus?
 Delphinus
@@ -20653,7 +20653,7 @@ dimidiation
 What hard-wearing cotton fabric is woven with stripes or checks?
 dimity
 
-What does DIMM abbreviate in computing?
+What does ``DIMM'' abbreviate in computing?
 dual in-line memory module
 
 What Chinese dish consists of small steamed or fried savoury dumplings containing various fillings?
@@ -22694,7 +22694,7 @@ What Ukrainian mathematician proved that the $E_8$ and Leech lattices give the d
 Maryna Viazovska
 
 What is the 12th Bernoulli number?
-$-691/2370$
+-691/2370
 
 Who has won the most Ballon d'ors?
 Lionel Messi
@@ -23104,7 +23104,7 @@ Declaration of Independence
 What planetary satellite has a distinctive network of dark cracks across its otherwise bright surface?
 Europa
 
-Plato's dialogue Timaeus assigns elements to four of the five platonic solids except for which one that has the Schläfli symbol {5, 3}?
+Plato's dialogue Timaeus assigns elements to four of the five platonic solids except for which one that has the Schläfli symbol {5,3}?
 dodecahedron
 
 In his Mysterium cosmographicum, Kepler fitted platonic solids between the orbits of the known planets. Which two were separated by the dodecahedron?
@@ -23368,7 +23368,7 @@ dysprosium
 What group 18 element has a name that comes from the Greek for ``stranger''?
 xenon
 
-Born in 1883, what American geologist gives his name to a major glacier in west Antarctica, the significance of which in terms of global sea level rises means it is called the ``doomsday glacier''?
+Born in 1883, what American geologist gives his name to a major glacier in west Antarctica, the significance of which in terms of global sea level rises means it is called ``the doomsday glacier''?
 Fredrik T. Thwaites
 
 Who popularized modern American English spelling?
@@ -23386,7 +23386,7 @@ Elias Lönnrot
 What is a Banach space?
 complete normed vector space
 
-Who proved Ramanujan's conjecture that $\tau(p)$ is bounded by $2p^{11/2}$ and Petersson's conjecture that if $c(n)$ defines the $n$th Fourier coefficient of a modular function of weight $k$, then $c(p)$ is bounded by $2p^{(k-1)/2}$ in his masterful proof of the Riemann hypothesis for curves over finite fields?
+Who proved Ramanujan's conjecture that $\tau(p)$ is bounded by $2p^{11/2}$ and Petersson's conjecture that, if $c(n)$ defines the $n$th Fourier coefficient of a modular function of weight $k$, then $c(p)$ is bounded by $2p^{(k-1)/2}$ in his masterful proof of the Riemann hypothesis for curves over finite fields?
 Deligne
 
 Who introduced the theory of schemes in 1960?
@@ -24193,7 +24193,7 @@ know; scire; prescient, science
 What do the Latin roots scind--, sciss-- mean?
 split; scindere; rescind, scissors
 
-What does the Greek root scler-- mean?
+What does the Greek root scler-- mean? *****
 hard; σκληρός (sklēros); scleroderma, sclerosis
 
 What does the Greek root scoli-- mean?
@@ -25397,7 +25397,7 @@ What is the name of the first novel in the Harry Potter series?
 Harry Potter and the philosopher's stone
 
 Pronounce ``chthonic.''
-ˈTHänik
+\textipa{["(k)T6nIk]}
 
 What does ``en pocas palabras'' mean?
 in a nutshell
@@ -25552,7 +25552,7 @@ Chelmsford
 What is an estaminet?
 small cafe in France that sells alcoholic drinks
 
-What woman was chosen on account of her beauty by the Persian king Ahasueru---supposedly Xerxes I---to be his queen? She used her influence with him to save the Israelites in captivity from persecution.
+What woman was chosen on account of her beauty by the Persian king Ahasueru --- supposedly Xerxes I --- to be his queen? She used her influence with him to save the Israelites in captivity from persecution.
 Esther
 
 What is a star with (usually six) wavy points or rays called in heraldry?
@@ -27743,7 +27743,7 @@ Where did Jacques Tits enter the world?
 Uccle, Belgium
 
 What is the order of the Tits group?
-$2^{11} 3^3 5^2 13 = 17971200$
+$2^{11}\cdot 3^3\cdot 5^2\cdot 13 = 17971200$
 
 On what date was John Nash born?
 13 June 1928
@@ -29173,7 +29173,7 @@ When was Frank Sinatra born?
 For what film did Frank Sinatra win an Oscar?
 From here to eternity (1953)
 
-(b. 1936) What US painter---a central figure in minimalism known chiefly for his series of all-black paintings---later experimented with shaped canvases and cut-out shapes in relief?
+(b. 1936) What American painter---a central figure in minimalism known chiefly for his series of all-black paintings---later experimented with shaped canvases and cut-out shapes in relief?
 Frank Stella
 
 (1864--1918) What German playwright and key figure of expressionist drama scandalized contemporary German society with the explicit and sardonic portrayal of sexual awakening in The awakening of spring (1891)?
@@ -29458,19 +29458,19 @@ How many edges does a dodecahedron have?
 How many edges does an icosahedron have?
 30
 
-What solid has the Schläfli symbol $\{3,3\}$?
+What solid has the Schläfli symbol \{3,3\}?
 tetrahedron
 
-What solid has the Schläfli symbol $\{4,3\}$?
+What solid has the Schläfli symbol \{4,3\}?
 cube
 
-What solid has the Schläfli symbol $\{3,4\}$?
+What solid has the Schläfli symbol \{3,4\}?
 octahedron
 
-What solid has the Schläfli symbol $\{5,3\}$?
+What solid has the Schläfli symbol \{5,3\}?
 dodecahedron
 
-What solid has the Schläfli symbol $\{3,5\}$?
+What solid has the Schläfli symbol \{3,5\}?
 icosahedron
 
 What is [ɭ]?
@@ -31672,7 +31672,7 @@ understock
 What does ``GAA'' abbreviate?
 Gaelic Athletic Association
 
-What is the 高考？
+What is the \begin{CJK*}{UTF8}{gbsn}高考\end{CJK*}?
 test of a student's academic skills, used for admission to colleges and universities
 
 What is the gaokao?
@@ -31682,7 +31682,7 @@ What is the alternative spelling for ``jail''?
 gaol
 
 What deep-sea anglerfish that is able to inflate itself with water belongs to the family Chaunacidae and genus Chaunax?
-10562
+gaper
 
 What burrowing bivalve mollusk, the shell valves of which have an opening at one or both ends, belongs to the genus Mya in the family Myidae?
 gaper
@@ -32858,9 +32858,9 @@ What is the ratio of the focal length to the diameter of the entrance pupil?
 f-number
 
 How does one say ``egg tart'' in Chinese?
-蛋撻 (dan ta)
+\begin{CJK*}{UTF8}{gbsn}蛋撻\end{CJK*} (dan ta)
 
-What is 蛋撻?
+What is \begin{CJK*}{UTF8}{gbsn}蛋撻\end{CJK*}?
 egg tart
 
 Where is Jalal-Abad?
@@ -33152,7 +33152,7 @@ Where is the Jasna Góra Monastery?
 Częstochowa
 
 How do you pronounce ``Częstochowa''?
-ˌt͡ʃɛnstəˈkəʊvə
+\textipa{""{\textteshlig}Enst@"k@Uv@}
 
 Where is the Black Madonna ikon?
 Jasna Góra, Częstochowa
@@ -33320,7 +33320,7 @@ What is the natural generalization of Brownian motion to $d$-time?
 Gaussian free field
 
 Let $X_0$ be a separated scheme of finite type on $\mathbf{F}_{p^f}$. Let $\mathscr{F}_0$ be a constructible $\mathbf{Q}_{\ell}$-sheaf on $X_0$. What is Grothendieck's expression for $L(X_0,\mathscr{F}_0)$, from which the trace formula is derived? (SGA 4 1/2 86)
-$L(X_0,\mathscr{F}_0) = \prod_i \det(1 - F^*t^f,  H_c^i (X,\mathscr{F}))^{(-1)^{i+1}}$
+\begin{align*}L(X_0,\mathscr{F}_0) = \prod_i \det(1 - F^*t^f,  H_c^i (X,\mathscr{F}))^{(-1)^{i+1}}\end{align*}
 
 Who promulgated the encyclical Aeterni Patris?
 Leo XIII
@@ -33469,7 +33469,7 @@ dislike of one's own culture or compatriot
 What types of creatures comprise the family Alpheidae?
 asymmetrical snapping shrimp
 
-What landscape of Brazil---which covers 21% of Brazil's land area---characterizes itself by extensive savanna formations intercepted by woods along the rivers, at the bottom of valleys?
+What landscape of Brazil --- which covers 21\% of Brazil's land area --- characterizes itself by extensive savanna formations intercepted by woods along the rivers, at the bottom of valleys?
 cerrado
 
 Where is Mooney's Bay?
@@ -33650,7 +33650,7 @@ What is the scientific name for the Brazil nut tree?
 Bertholletia excelsa
 
 What is a flat $R$-module?
-$R$-module $M$ where $\ \otimes_R M$ preserves injectivity
+$R$-module $M$ where $- \otimes_R M$ preserves injectivity
 
 What is a faithfully flat $R$-module?
 $R$-module $M$ where a sequence is exact if and only if that sequence tensored with $M$ is exact
@@ -33784,7 +33784,7 @@ assist
 What Indonesian province is on the southern tip of Sumatra?
 Lampung
 
-What is Zorn's lemma say about a partially ordered set $P$?
+What does Zorn's lemma say about a partially ordered set $P$?
 if every chain in $P$ has an upper bound in $P$, then $P$ contains a maximal element
 
 What is Rainbolt's first name?
@@ -33991,7 +33991,7 @@ Edinburgh
 What tie knot shares its name with a vehicle drawn by horses?
 four in hand
 
-When is $\Lambda(n)$ non-zero for a natural number $n$ where $\Lambda$ is the von Mangoldt function?
+When is $\Lambda(n)$ non-zero where $\Lambda$ is the von Mangoldt function?
 when $n$ is a prime power
 
 What river does the Barragem do Alqueva impound?
@@ -34034,19 +34034,19 @@ Give the name of the following identity: $[x,[y,z]] + [y,[z,x]] + [z,[x,y]] = 0$
 Jacobi identity
 
 What is the dimension of the exceptional Lie algebra $\mathfrak{g}_2$?
-$14$
+14
 
 What is the dimension of the exceptional Lie algebra $\mathfrak{f}_4$?
-$52$
+52
 
 What is the dimension of the exceptional Lie algebra $\mathfrak{e}_6$?
-$78$
+78
 
 What is the dimension of the exceptional Lie algebra $\mathfrak{e}_7$?
-$133$
+133
 
 What is the dimension of the exceptional Lie algebra $\mathfrak{e}_8$?
-$248$
+248
 
 What is the name (c. Apr. 2023) of the largest federal riding in Quebec --- the one that houses Val d'Or?
 Abitibi--Baie-James--Nunavik--Eeyou
@@ -34100,7 +34100,7 @@ What is Citrus reticulata?
 mandarin orange
 
 What is a $\Lambda$-graded vector space?
-a direct sum of vector spaces indexed by $\Lambda$
+direct sum of vector spaces indexed by $\Lambda$
 
 What does the Hall--Witt identity say?
 $[x,y^{-1},z]^y \cdot [y,z^{-1},x]^z \cdot [z,x^{-1},y]^x = 1$
@@ -34207,7 +34207,7 @@ the category of profinite sets with finite jointly surjective families of maps a
 What is a condensed set?
 sheaf of sets on the pro-\'etale site of a point
 
-When is a condensed abelian group $V$ $p$-liquid (for $0<p\le 1$)?
+When is a condensed abelian group $V$ $p$-liquid (where $p\in (0,1]$)?
 when, for every compact Hausdorff topological space $X$ and every morphism of condensed sets $f$ from $X$ to $V$, there exists a unique morphism of condensed abelian groups from $M_{<p}(X)$ to $V$ that extends $f$ along the inclusion of $X$ into $M_{<p}(X)$
 
 What phrase is Rasheed Wallace famous for saying?
@@ -34247,7 +34247,7 @@ What is the Japanese bullet train network called?
 Shinkansen
 
 State the Banach--Alaoglu theorem.
-Let $\mathfrak{X}$ be a Banach space. Then, the closed unit ball $\mathfrak{X}_1^∗ := \{x^* \in \mathfrak{X}^* : \lVert x^*\rVert \le 1\}$ of $\mathfrak{X}^*$ is weak$∗$-compact.
+Let $\mathfrak{X}$ be a Banach space. Then, the closed unit ball $\mathfrak{X}_1^* := \{x^* \in \mathfrak{X}^* : \lVert x^*\rVert \le 1\}$ of $\mathfrak{X}^*$ is weak$*$-compact.
 
 What principle states that a pointwise bounded family of continuous linear operators on Banach spaces is uniformly bounded (with respect to the operator norm)?
 uniform boundedness principle
@@ -34405,8 +34405,8 @@ shashlik
 What is the Russian name for Easter bread?
 kulich
 
-Who composed 〈一剪梅〉?
-费玉清
+Who composed \begin{CJK*}{UTF8}{gbsn}〈一剪梅〉\end{CJK*}?
+\begin{CJK*}{UTF8}{gbsn}费玉清\end{CJK*}
 
 How many points did Connor McDavid have in the 2022--23 NHL season?
 153
@@ -34417,7 +34417,7 @@ How many goals did Connor McDavid have in the 2022--23 NHL season?
 How many assists did Connor McDavid have in the 2022--23 NHL season?
 89
 
-Let $\mathfrak{g}$ be an $N$-dimensional Lie algebra. Let $(\ ,\ )$ be an $\operatorname{ad}$-invariant bilinear form on $\mathfrak{g}$ (say the Killing form). Let $\{x_1,\hdots,x_N\}$ be a basis for $\mathfrak{g}$ and let $\{x_1^*,\hdots,x_N^*\}$ be the dual basis with respect to $(\ ,\ )$. What is the Casimir element for $(\ ,\ )$?
+Let $\mathfrak{g}$ be an $N$-dimensional Lie algebra. Let $(\cdot,\cdot)$ be an $\operatorname{ad}$-invariant bilinear form on $\mathfrak{g}$ (say the Killing form). Let $\{x_1,\hdots,x_N\}$ be a basis for $\mathfrak{g}$ and let $\{x_1^*,\hdots,x_N^*\}$ be the dual basis with respect to $(\cdot,\cdot)$. What is the Casimir element for $(\cdot,\cdot)$?
 \begin{align*} \sum_{n=1}^N x_nx_n^*\end{align*}
 
 What is the chorale to which the O Haupt voll Blut und Wunden music is set in Bach's Christmas oratorio (BWV 248)?
@@ -34640,7 +34640,7 @@ Who is the earliest-born person to have been filmed?
 Pope Leo XIII
 
 What is a Salem number?
-real algebraic integer $\lamdba > 1$ whose conjugates have modulus at most $1$ and which has a conjugate of modulus precisely $1$
+real algebraic integer $\lambda > 1$ whose conjugates have modulus at most $1$ and which has a conjugate of modulus precisely $1$
 
 Who painted the Aino-taru --- the Aino myth triptych?
 Akseli Gallen-Kallela
@@ -34912,25 +34912,25 @@ Benny Andersson, Agnetha Fältskog, Anni-Frid Lyngstad, Björn Ulvaeus
 What instrument does Nathalie Forget play?
 ondes Martenot
 
-What does 「吃一堑，长一智」 [chī yí qiàn，zhǎng yí zhì] mean?
+What does \begin{CJK*}{UTF8}{gbsn}「吃一堑，长一智」\end{CJK*} [chī yí qiàn，zhǎng yí zhì] mean?
 ``a fall into a pit, a gain in your wit''
 
-What does 「一根筷子容易折，一把筷子难折断」 [yī gēn kuài zi róng yì zhé， yī bǎ kuài zi nán zhé duàn] mean?
+What does \begin{CJK*}{UTF8}{gbsn}「一根筷子容易折，一把筷子难折断」\end{CJK*} [yī gēn kuài zi róng yì zhé， yī bǎ kuài zi nán zhé duàn] mean?
 ``one chopstick is fragile, but a group of chopsticks is robust''
 
-What does 「良好的开端，是成功的一半」 [liáng hǎo de kāi duān， shì chéng gōng de yī bàn] mean?
+What does \begin{CJK*}{UTF8}{gbsn}「良好的开端，是成功的一半」\end{CJK*} [liáng hǎo de kāi duān， shì chéng gōng de yī bàn] mean?
 ``well begun is half done''
 
-What does 「三思而后行」 [sān sī ér hòu xíng] mean?
+What does \begin{CJK*}{UTF8}{gbsn}「三思而后行」\end{CJK*} [sān sī ér hòu xíng] mean?
 ``think three times before you do''
 
-What does 「量变质变规律」 [liàng biàn zhí biàn guī lǜ] mean?
+What does \begin{CJK*}{UTF8}{gbsn}「量变质变规律」\end{CJK*} [liàng biàn zhí biàn guī lǜ] mean?
 ``quantitative changes lead to qualitative changes''
 
-What does 「巧妇难为无米之炊」 [qiǎo fù nán wéi wú mǐ zhī chuī] mean?
+What does \begin{CJK*}{UTF8}{gbsn}「巧妇难为无米之炊」\end{CJK*} [qiǎo fù nán wéi wú mǐ zhī chuī] mean?
 ``the cleverest housewife cannot cook without rice''
 
-Monomorphisms must be injective functions in ${\sffamily Set}$. True or false?
+Monomorphisms must be injective functions in {Set}. True or false?
 false
 
 ``Once you solve a problem, . . . you tend to remember only the short path that got you from A to B. You forget all the dead ends. It's a bit of a shame. It gives the wrong impression that people who are good at mathematics only choose the right steps. But there is a lot of trial and error and really terribly embarrassing ideas. Sometimes there is a `eureka!' moment, but it’s more of a hitting-your-head moment: `Of course! Why was I so dense?''' Who said this?
@@ -34982,16 +34982,16 @@ What name is given to a sequence of random variables $(X_n)_n$ that satisfies $\
 martingale 
 
 What is the second convergent of the continued fraction of $\pi$?
-$22/7$
+22/7
 
 What is the third convergent of the continued fraction of $\pi$?
-$333/106$
+333/106
 
 What is the fourth convergent of the continued fraction of $\pi$?
-$355/113$
+355/113
 
-What number is called 「密率」 in Chinese?
-$355/113$
+What number is called \begin{CJK*}{UTF8}{gbsn}「密率」\end{CJK*} in Chinese?
+355/113
 
 What two mathematicians were the first to prove the prime number theorem?
 Jacques Hadamard, Charles Jean de la Vallée Poussin
@@ -35383,8 +35383,8 @@ Leonardo da Vinci
 Who has the initials NDE?
 Noam David Elkies
 
-What is a cohomological spectral sequence in an abelian category $\mathfrak{A}$?
-sequence $(E_n,d_n)_n$ where, for all $n\ge 1$, $E_n$ is an object, $d_n \in \operatorname{End}(E_n,E_n)$, $d_n\circ d_n = 0$, and $E_{n+1} \cong H_*(E_n,d_n)$ 
+What is a cohomological spectral sequence in an abelian category $\mathcal{A}$?
+family $(E_{r}^{p,q}, d_{r}^{p,q}, \alpha_{r}^{p,q})$ where, for all $p$, $q$, and $r$, $E_{r}^{p,q}$ is an object in $\mathcal{A}$, $d_{r}^{p,q} : E_{r}^{p,q} \to E_{r}^{p + r, q - r - 1}$ is a morphism, $d_{r}^{p + r, q - r + 1} \circ d_{r}^{p,q} = 0$, $H^{p,q}(E_{r}) = \operatorname{Ker}(d_{r}^{p,q})/\operatorname{Im}(d_{r}^{p - r, q + r - 1})$, and $\alpha_{r}^{p,q} : H^{p,q}(E_{r}) \to E_{r + 1}^{p,q}$ is an isomorphism
 
 What move does black play in the Berlin defence in response to the Ruy López?
 Nf6
@@ -35453,7 +35453,7 @@ What is an LF-space?
 countable direct limit of Fréchet spaces
 
 When is a seminorm $\nu$ not a norm on a vector space $\mathfrak{X}$ over $\mathbf{C}$?
-there exists $x\ne 0$ such that $\norm{x} = 0$
+there exists $x\ne 0$ such that $\nu(x) = 0$
 
 Who defeated Novak Djokovic to win the 2023 Wimbledon Championships?
 Carlos Alcaraz
@@ -35621,7 +35621,7 @@ What name is given to the potential unique zero of a Dirichlet $L$-function in a
 Siegel zero
 
 Let $k \ge 1$. What is an admissible $k$-tuple?
-tuple of $k$ increasing integers such that, for all prime numbers $p$, there exists $0 \le n \le p - 1$ such that all of the integers are not $n$ mod $p$
+tuple of $k$ increasing integers such that, for all prime numbers $p$, there exists $0 \le n \le p - 1$ such that none of the integers are $n$ mod $p$
 
 Who wrote the paper ``Bounded gaps between primes''?
 Yitang Zhang
@@ -35644,7 +35644,7 @@ St. Petersburg
 Where was Stefan Banach born?
 Kraków
 
-``In the early sixties, $X$ visited Harvard while Zariski was still a faculty member. Once, while Zariski was lecturing in a seminar, $X$ kept asking him why he didn't prove the result for all schemes, not just varieties, but Zariski simply responded that it didn't work. Eventually, $X$ could stand it no longer and went to the blackboard and began writing down a proof for schemes. While he did so, Zariski said (in his heavily accented Russo-Italian English) `In my time, I have had to learn many languages.' At this, $X$ turned bright red from embarrassment.'' Who was $X$?
+``In the early sixties, $X$ visited Harvard while Zariski was still a faculty member. Once, while Zariski was lecturing in a seminar, $X$ kept asking him why he didn't prove the result for all schemes, not just varieties, but Zariski simply responded that it didn't work. Eventually, $X$ could stand it no longer and went to the blackboard and began writing down a proof for schemes. While he did so, Zariski wrote down a counter-example. When $X$ realized he was wrong, Zariski said (in his heavily accented Russo-Italian English) `In my time, I have had to learn many languages.' At this, $X$ turned bright red from embarrassment.'' Who was $X$?
 Alexander Grothendieck
 
 Who directed The Breakfast Club?
@@ -35876,16 +35876,217 @@ What name is given to a burst of light caused by damaged electrical equipment, s
 power flash
 
 How do you pronounce ``Laoghaire''?
-/ˈlɪɹə/
+\textipa{["lI\*r@]}
 
 Define ``philistine'' as an adjective.
 hostile or indifferent to culture and the arts
 
 Translate ``de gustibus non est disputandum.''
-in matters of taste, there cannot be disputes
+in matters of taste, there cannot be dispute
 
 What is the Slavic shortening of ``Alexander''?
 Sasha
+
+Who composed the opera The turn of the screw?
+Benjamin Britten
+
+Who composed the novella The turn of the screw?
+Henry James
+
+Who sings: ``nightingale, sing us a song''?
+Norah Jones
+
+With whom did Bobby McFerrin collaborate on the album Hush?
+Yo-Yo Ma
+
+With whom did Yo-Yo Ma collaborate on the album Hush?
+Bobby McFerrin
+
+What album was the result of collaboration between Bobby McFerrin and Yo-Yo Ma?
+Hush
+
+Where did Barak Schmool study saxophone and composition?
+Royal Academy of Music
+
+Who says that it ain't where you from, but that it's where you at?
+Rakim
+
+What are the four coastal municipalities of Piauí?
+Cajueiro da Praia, Ilha Grande Luís Correia, Parnaíba
+
+Who painted Jean Sibelius's favourite painting?
+Oscar Parviainen
+
+What piece did Magnus Carlsen sacrifice to win the World Chess Championship against Sergey Karjakin?
+queen
+
+Who were the six patriarchs of Zen Buddhism?
+Bodhidharma, Dazu Huike, Jianzhi Sengcan, Dayi Daoxin, Daman Hongren, Dajian Huineng
+
+What is tumbolia?
+where nothing is everything
+
+How many koans comprise the Mumonkan?
+48
+
+What is Neochen jubata?
+Orinoco goose
+
+Who was Romania's last communist leader?
+Nicolae Ceaușescu
+
+When did Nicolae Ceaușescu die?
+25 December 1989
+
+What is the category of non-empty finite ordinals and order-preserving maps?
+simplex category
+
+What year saw David Howell earn the title of Grandmaster?
+2007
+
+Who wrote Perelandra?
+C. S. Lewis
+
+When was George Stroumboulopoulos born? No need to give the time of day.
+16 August 1972
+
+Where did Grandmaster Fabiano Caruana grow up?
+Brooklyn
+
+Who won the 2023 Tata Steel Chess Tournament?
+Anish Giri
+
+Where was Grandmaster Teimour Radjabov born?
+Baku, Azerbaijan
+
+Where was Grandmaster Dommaraju Gukesh born?
+Chennai
+
+Where was Grandmaster Shakhriyar Mamedyarov born?
+Sumgait, Azerbaijan
+
+Where was Grandmaster Maxime Vachier-Lagrave born?
+Nogent-sur-Marne, France
+
+What does Maxime Vachier-Lagrave do?
+play chess
+
+Where was Grandmaster Leinier Domínguez born?
+Havana, Cuba
+
+In what year was Grandmaster Alexander Grischuk born?
+1983
+
+Where was Grandmaster Yu Yangyi born?
+Huangshi, Hubei
+
+Where was Grandmaster Jan-Krzysztof Duda born?
+Kraków
+
+In what year was Grandmaster Lê Quang Liêm born?
+1991
+
+In what country was Grandmaster Nodirbek Abdusattorov born?
+Uzbekistan
+
+In what year was Grandmaster Nodirbek Abdusattorov born?
+2004
+
+Where was Rameshbabu Praggnanandhaa born?
+Chennai
+
+Where was Grandmaster Peter Svidler born?
+Leningrad / St. Petersburg
+
+Where was Grandmaster Boris Gelfand born?
+Minsk
+
+Where was Grandmaster Vasyl Ivanchuk born?
+Kopychyntsi, USSR
+
+What is a ghaghra?
+long full skirt, often decorated with embroidery, mirrors, or bells
+
+What was Ghana's name until 1957?
+Gold Coast
+
+What are the two distinctive dialects of the Albanian language?
+Gheg, Tosk
+
+What country's north is home to the Gheg people?
+Albania
+
+What small green fruit of a plant related to the cucumber is born by the trailing plant Cucumis anguria?
+gherkin
+
+What does ``GHG'' abbreviate?
+greenhouse gas
+
+What political faction in Italian medieval politics traditionally supported the Holy Roman emperor against the Pope and his supporters, the Guelphs?
+Ghibellines
+
+What two political factions were at odds in medieval Italy?
+Ghibellines, Guelphs
+
+(1378--1455) What Italian sculptor and goldsmith's career was dominated by his work on two successive pairs of bronze doors for the baptistery in Florence?
+Lorenzo Ghiberti
+
+Define ``ghibli.''
+hot, dry southerly wind of North Africa
+
+(c. 1448--94) What Italian painter born ``Domenico di Tommaso Bigordi'' is noted for his religious frescoes, particularly Christ calling Peter and Andrew (1482--84) in the Sistine Chapel?
+Ghirlandaio
+
+What name is given to the hybrid of Capsicum frutescens and C. chinense?
+ghost pepper
+
+What two peppers are hybridized to create the ghost pepper?
+Capsicum frutescens, Capsicum chinense
+
+What is ghrelin?
+peptide hormone, produced predominantly in the stomach, that stimulates the secretion of growth hormone from the pituitary gland and increases appetite
+
+What peptide hormone, produced predominantly in the stomach, stimulates the secretion of growth hormone from the pituitary gland and increases appetite?
+ghrelin
+
+Who destroyed Ghulghuleh, Afghanistan?
+Genghis Khan
+
+What is the ritual washing of the whole body, as prescribed by Islamic law to be performed in preparation for prayer and worship, and after sexual activity, childbirth, menstruation, et cetera?
+ghusl
+
+What is gianduja?
+chocolate paste flavoured with ground hazelnuts
+
+What was Versace's first name?
+Gianni
+
+What large edible freshwater fish that is native to Asia is widely farmed there and has been introduced elsewhere? It belongs to the family Osphronemidae and genus Osphronemus.
+giant gourami
+
+What mollusks belong to the family Tridacnidae?
+giant clams
+
+What is the common name given to two species in the genus Macronectes and family Procellariidae?
+giant petrel
+
+What European fungus (Langermannia gigantea) produces a spherical white fruiting body with a diameter of up to 80 cm and is edible when young?
+giant puffball
+
+What is Langermannia gigantea?
+giant puffball
+
+What is the systematic name for the giant puffball?
+Langermannia gigantea
+
+What geological formation of basalt columns, dating from the Tertiary period, is found on the north coast of Northern Ireland? It was once believed to be the end of a road made by a legendary giant to Staffa in the Inner Hebrides, where there is a similar formation.
+Giant's Causeway
+
+What spicy Italian-style relish consists of mixed pickled vegetables?
+giardiniera
+
+Who claps and asks smart people ``what's going on''?
+Andrew Dotson
 
 
 
