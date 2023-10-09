@@ -5294,7 +5294,7 @@ What is the capital of Veracruz, Mexico?
 Jalapa
 1323
 
-What is the discriminant of an elliptic curve?
+What is the discriminant of the elliptic curve $y^2 = x^3 + ax + b$?
 $-16(4a^3 + 27b^2)$
 1324
 
@@ -8850,7 +8850,7 @@ Chuck Berry
 Bob Fosse
 2212
 
-(1928--2014) What American novelist and poet wrote the first volume of her autobiography, I know why the caged bird sings, about living as a black child in the south United States, and wrote six more: Gather together in my name (1974), Singin' and swingin' and gettin' merry like Christmas (1976), The heart of a woman (1981), All God's children need travelling shoes (1986), A song flung up to heaven (2002), and Mom & me & mom (2013)?
+(1928--2014) What American novelist and poet wrote the first volume of her autobiography, I know why the caged bird sings, about living as a black child in the south United States, and wrote six more: Gather together in my name (1974), Singin' and swingin' and gettin' merry like Christmas (1976), The heart of a woman (1981), All God's children need travelling shoes (1986), A song flung up to heaven (2002), and Mom \& me \& mom (2013)?
 Maya Angelou
 2213
 
@@ -9630,7 +9630,7 @@ The cautionary letter Audi filia et was written by either Urban IV or Clement IV
 Plaisance of Cyprus (or another Cypriot queen)
 2407
 
-The data structure that allows for searches, sequential access, insertions, and deletions in $O(\log n)$ time is what type of tree where all terminal nodes are the same distance from the base and all nonterminal nodes have between $n$ and $2n$ subtrees?
+The data structure that allows for searches, sequential access, insertions, and deletions in $O(\log n)$ time is what type of tree where all terminal nodes are the same distance from the base and all non-terminal nodes have between $n$ and $2n$ subtrees?
 B-tree
 2408
 
@@ -12939,7 +12939,7 @@ apolune
 3234
 
 What is the prime number theorem?
-$\pi(x)\sim x/\log(x)$
+\begin{align*}\pi(x)\sim \frac{x}{\log(x)}\end{align*}
 3235
 
 What is the proprietary name of lorazepam?
@@ -15123,7 +15123,7 @@ Camden Yards
 3780
 
 What venue is home to the Baltimore Ravens?
-M&T Bank Stadium
+M\&T Bank Stadium
 3781
 
 What venue is home to the Boston Bruins and Celtics?
@@ -15203,7 +15203,7 @@ Nationwide Arena
 3800
 
 What venue is home to the Dallas Cowboys?
-AT&T Stadium
+AT\&T Stadium
 3801
 
 What venue is home to the Dallas Mavericks and Stars?
@@ -15235,7 +15235,7 @@ Rogers Place
 3808
 
 What venue is home to the Florida Panthers?
-BB&T Center, Sunrise
+BB\T Center, Sunrise
 3809
 
 What venue is home to the Golden State Warriors?
@@ -15579,7 +15579,7 @@ Bolingbroke
 3894
 
 What was inscribed in Fermat's copy of Diophantus's Arithmetica, delineating Fermat's last ``theorem''?
-Cubum autem in duos cubos, aut quadratoquadratum in duos quadratoquadratos & generaliter nullam in infinitum ultra quadratum potestatem in duos eiusdem nominis fas est dividere cuius rei demonstrationem mirabilem sane detexi. Hanc marginis exiguitas non caperet.
+Cubum autem in duos cubos, aut quadratoquadratum in duos quadratoquadratos \& generaliter nullam in infinitum ultra quadratum potestatem in duos eiusdem nominis fas est dividere cuius rei demonstrationem mirabilem sane detexi. Hanc marginis exiguitas non caperet.
 3895
 
 What was Jakarta's former name?
@@ -19527,11 +19527,11 @@ change; mutare; mutation
 4881
 
 What does the Mordell--Weil theorem state?
-the group of $K$-rational points of an abelian variety $A$ over a number field $K$ is finitely-generated and abelian
+the group of $K$-rational points of an abelian variety $A$ over a number field $K$ is finitely generated and abelian
 4882
 
-What does the Nagell--Lutz theorem state?
-on an elliptic curve, a rational point of finite order has integral coordinates and the $y$-coordinate either is zero or divides the discriminant
+What is my first name?
+Jack
 4883
 
 What does the Ovidian phrase ``ut ameris, amabilis esto'' mean?
@@ -26546,7 +26546,7 @@ What type of ancient Greek pottery vessel used to pour small quantities of liqui
 askos
 6636
 
-What Columbia University mathematician proved a lower bound for the class number of an imaginary quadratic field assuming the existence of an elliptic curve whose $L$-function had a zero of order at least three at $s = 1/2$ that Gross and Zagier later discovered?
+What Columbia University mathematician gave a lower bound for the class number of an imaginary quadratic field assuming the existence of an elliptic curve whose $L$-function had a zero of order at least three at $s = 1/2$ that Gross and Zagier later discovered?
 Dorian Goldfeld
 6637
 
@@ -26606,24 +26606,24 @@ What chemical, used in warfare, removes the leaves from trees and plants?
 defoliant
 6651
 
-What is the derivative of the zeta function at $0$?
+What is the derivative of the Riemann zeta function at $0$?
 $\displaystyle -\frac{1}{2}\pi\log(2)$
 6652
 
 What is $\zeta(2)$?
-$\pi^2$/6
+\begin{align*}\frac{\pi^2}{6}\end{align*}
 6653
 
 What is $\zeta(4)$?
-$\pi^4$/90
+\begin{align*}\frac{\pi^4}{90}\end{align*}
 6654
 
 What is $\zeta(6)$?
-$\pi^6$/945
+\begin{align*}\frac{\pi^6}{945}\end{align*}
 6655
 
 What is $\zeta(12)$?
-691$\pi^{12}$/638512875
+\begin{align*}\frac{691\pi^{12}}{638512875}\end{align*}
 6656
 
 By what name is $\zeta(3)$ known?
@@ -27138,7 +27138,7 @@ What name is given to a celebration held on 5 November?
 bonfire night
 6784
 
-What constant, commonly denoted alpha, is approximately $1/137# and quantifies the strength of the electromagnetic interaction between elementary charged particles?
+What constant, commonly denoted alpha, is approximately $1/137$ and quantifies the strength of the electromagnetic interaction between elementary charged particles?
 fine structure constant
 6785
 
@@ -28171,11 +28171,11 @@ deteriorating; old; mature
 7042
 
 Let $f$ be a map from a set $A$ to a set $B$. If $f(A) = B$, then what is $f$ called?
-onto/surjective
+surjective
 7043
 
 Let $f$ be a map from a set $A$ to a set $B$. If the pre-image of every element in $B$ under $f$ consists of at most one element, then what is $f$ called?
-one-to-one/injective
+injective
 7044
 
 What template sets out the format and tag structure of an XML- or SGML-compliant document?
@@ -30255,7 +30255,7 @@ Lincoln Ellsworth
 7563
 
 What is the density of the best sphere packing in 3 dimensions, conjectured by Kepler and proved by Hales?
-$\pi/\sqrt{18}$
+\begin{align*}\frac{\pi}{\sqrt{18}}\end{align*}
 7564
 
 What Ukrainian mathematician proved that the $E_8$ and Leech lattices give the densest sphere packings in $8$ and $24$ dimensions?
@@ -31302,7 +31302,7 @@ Kate Croy, Milly Theale, and the journalist Merton Densher are significant chara
 The wings of the dove
 7825
 
-For a collection of $n$ single-variable functions, what name is given to the determinant of the matrix of the first $n-1$ derivatives of those functions?
+What name is given to the determinant of the matrix of the first $n-1$ derivatives of a collection of $n$ single-variable functions?
 Wrońskian
 7826
 
@@ -31342,7 +31342,7 @@ Alive in the Cretaceous period and growing to a height of around eight feet, the
 ostrich
 7835
 
-What surname is shared by the two astrophysicists who, alongside Willie Fowler and Fred Hoyle, wrote the landmark 1957 paper ``Synthesis of the elements in stars,'' also known as the ``B^2FH paper''?
+What surname is shared by the two astrophysicists who, alongside Willie Fowler and Fred Hoyle, wrote the landmark 1957 paper ``Synthesis of the elements in stars,'' also known as the ``$\textrm{B}^{\textrm{2FH}}$ paper''?
 Burbidge
 7836
 
@@ -34886,7 +34886,7 @@ With whom did Zeus create the Muses?
 Mnemosyne
 8721
 
-A binary form of degree $2n$ can be split into a sum of powers of $n$ linear forms if and only if this invariant is zero. The term was invented by Sylvester.
+Suppose that a binary form of degree $2n$ can be split into a sum of powers of $n$ linear forms if and only if the invariant $\theta$ is zero. What is $\theta$?
 catalecticant
 8722
 
@@ -37539,7 +37539,7 @@ hexagonal close packing
 9384
 
 What is the volume of the $n$-sphere?
-$\pi^{n/2}/(n/2)!$
+\begin{align*}\frac{\pi^{n/2}}{(n/2)!}\end{align*}
 9385
 
 What anatomical term refers to a series of threads or other projections resembling a fringe?
@@ -40698,7 +40698,7 @@ Identify the verse: ``Bring forth fruits meet for metanoia.''
 Matthew 3.8
 10174
 
-Complete this quotation: ``With what delight could I have walkt thee round / If I could joy in aught, sweet interchange / Of Hill and Vallie, Rivers, Woods and Plaines, / Now Land, now Sea, & Shores with Forrest crownd, / Rocks, Dens, and Caves; but I in none of these / Find place or refuge; and the more I see / Pleasures about me, so much more I feel / Torment within me, as from the --- all good to me becomes / Bane, and in Heav'n much worse would be my state'' (Paradise lost VIII).
+Complete this quotation: ``With what delight could I have walkt thee round / If I could joy in aught, sweet interchange / Of Hill and Vallie, Rivers, Woods and Plaines, / Now Land, now Sea, \& Shores with Forrest crownd, / Rocks, Dens, and Caves; but I in none of these / Find place or refuge; and the more I see / Pleasures about me, so much more I feel / Torment within me, as from the --- all good to me becomes / Bane, and in Heav'n much worse would be my state'' (Paradise lost VIII).
 hateful siege of contraries
 10175
 
@@ -42526,7 +42526,7 @@ Who stars in Kill Bill?
 Uma Thurman
 10631
 
-What does Smith & Wesson make?
+What does Smith \& Wesson make?
 firearms
 10632
 
@@ -45090,11 +45090,11 @@ Nick Lidström: lefty or righty?
 lefty
 11272
 
-Let $R$ be a ring. Let $A$ and $B$ be $R$-modules. What is $\Ext_R^0(A,B)$?
-$\Hom_R(A,B)$
+Let $R$ be a ring. Let $A$ and $B$ be $R$-modules. What is $\operatorname{Ext}_R^0(A,B)$?
+$\operatorname{Hom}_R(A,B)$
 11273
 
-Let $R$ be a ring. Let $A$ and $B$ be $R$-modules. What is $\Tor_R^0(A,B)$?
+Let $R$ be a ring. Let $A$ and $B$ be $R$-modules. What is $\operatorname{Tor}_R^0(A,B)$?
 $A\otimes_R B$
 11274
 
@@ -45326,7 +45326,7 @@ What tie knot shares its name with a vehicle drawn by horses?
 four in hand
 11330
 
-When is $\Lambda(n)$ non-zero where $\Lambda$ is the von Mangoldt function?
+Let $\Lambda$ be the von Mangoldt function. When is $\Lambda(n)$ non-zero?
 when $n$ is a prime power
 11331
 
@@ -45897,7 +45897,7 @@ How many assists did Connor McDavid have in the 2022--23 NHL season?
 Paul Morphy
 11473
 
-Let $\mathfrak{g}$ be an $N$-dimensional Lie algebra. Let $(\cdot,\cdot)$ be an $\operatorname{ad}$-invariant bilinear form on $\mathfrak{g}$ (say the Killing form). Let $\{x_1,\hdots,x_N\}$ be a basis for $\mathfrak{g}$ and let $\{x_1^*,\hdots,x_N^*\}$ be the dual basis with respect to $(\cdot,\cdot)$. What is the Casimir element for $(\cdot,\cdot)$?
+Let $\mathfrak{g}$ be an $N$-dimensional Lie algebra. Let $(\cdot,\cdot)$ be an $\operatorname{ad}$-invariant bilinear form on $\mathfrak{g}$ (say the Killing form). Let $\{x_1,...,x_N\}$ be a basis for $\mathfrak{g}$ and let $\{x_1^*,...,x_N^*\}$ be the dual basis with respect to $(\cdot,\cdot)$. What is the Casimir element for $(\cdot,\cdot)$?
 \begin{align*} \sum_{n=1}^N x_nx_n^*\end{align*}
 11474
 
@@ -46645,24 +46645,24 @@ What island contains Port Renfrew?
 Vancouver Island
 11660
 
-What name is given to a sequence of random variables $(X_n)_n$ that satisfies $\mathbf{E}(\lvert X_n \rvert) < \infty$ and $\mathbf{E}(X_{n+1} \mid X_1,\hdots,X_n) = X_n$ for all $n$?
+What name is given to a sequence of random variables $(X_n)_n$ that satisfies $\mathbf{E}(\lvert X_n \rvert) < \infty$ and $\mathbf{E}(X_{n+1} \mid X_1,...,X_n) = X_n$ for all $n$?
 martingale 
 11661
 
 What is the second convergent of the continued fraction of $\pi$?
-22/7
+\begin{align*}\frac{22}7\end{align*}
 11662
 
 What is the third convergent of the continued fraction of $\pi$?
-333/106
+\begin{align*}\frac{333}{106}\end{align*}
 11663
 
 What is the fourth convergent of the continued fraction of $\pi$?
-355/113
+\begin{align*}\frac{355}{113}\end{align*}
 11664
 
 What number is called \begin{CJK*}{UTF8}{gbsn}「密率」\end{CJK*} in Chinese?
-355/113
+\begin{align*}\frac{355}{113}\end{align*}
 11665
 
 What two mathematicians were the first to prove the prime number theorem?
@@ -47550,7 +47550,7 @@ Good morning
 11886
 
 What is the maximum probability that two elements in a non-abelian compact topological group commute?
-$5/8$
+\begin{align*}\frac 58\end{align*}
 11887
 
 Give the number. What Brahms symphony's finale is a passacaglia with thirty variations?
@@ -48404,4 +48404,3 @@ stupid
 What is Canada's longest bridge?
 Confederation Bridge
 12100
-

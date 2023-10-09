@@ -4,40 +4,6 @@
 
 # todo: add credits to all photos
 
-# for proper typesetting of Greek characters with a good global font,
-# a similar preamble to the below typeset with pdflatex is suggested:
-r"""
-\usepackage{tipa}
-\usepackage{amsmath, amsthm, amssymb, amsfonts}
-\usepackage [english] {babel}
-\usepackage {textgreek}
-\usepackage [LGR,T1] {fontenc}
-\usepackage [utf8] {inputenc}
-\renewcommand*\familydefault{\ttdefault} 
-\usepackage [scaled] {beramono} 
-\usepackage {mhchem}
-% \DisableLigatures{encoding = *, family = * }
-\linespread{1}
-\let\ensuregreek\relax
-\let\acctonos\relax
-\let\accpsilioxia\relax
-\let\accdasiavaria\relax
-\let\accpsili\relax
-\let\accdasia\relax
-\let\accpsilivaria\relax
-\let\accdasiaoxia\relax
-\let\accdasiaperispomeni\relax
-\let\accpsiliperispomeni\relax
-\let\accperispomeni\relax
-\let\accdialytikaperispomeni\relax
-\let\ypogegrammeni\relax
-\let\prosgegrammeni\relax
-\renewcommand\textomicron{o}
-\renewcommand\textOmicron{O}
-"""
-# or you can figure out how to get the accents (preferably with pdflatex)
-# and then let me know
-
 from manimlib import *
 import random 
 import time
@@ -60,14 +26,16 @@ def get_question():
     returned_question = questions[index].split("\n")
 
     try:
-        TexText(returned_question[1]).scale(0.8)
-    except:
-        return get_question()
-
-    try:
         returned_question[2] = int(returned_question[2]) #
     except IndexError as e:
         print(returned_question,e)
+
+    try:
+        TexText(returned_question[1]).scale(0.8)
+    except Exception as e:
+        print(f"error at {returned_question[2]}",returned_question[0],e)
+        return get_question()
+
     return returned_question
 
 # Nat -> Str
