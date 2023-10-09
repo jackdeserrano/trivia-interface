@@ -46,6 +46,8 @@ import os
 questions = open("__trivia.txt", "r").read().split("\n\n")
 length = len(questions)
 
+ANIMATION_RUN_TIME = 0.5
+
 # -> Nat
 def get_number():
     random.seed(time.perf_counter())
@@ -55,12 +57,18 @@ def get_number():
 # -> (Str Str Nat)
 def get_question():
     index = int(get_number())
-    ret = questions[index].split("\n")
+    returned_question = questions[index].split("\n")
+
     try:
-        ret[2] = int(ret[2]) #
+        TexText(returned_question[1]).scale(0.8)
+    except:
+        return get_question()
+
+    try:
+        returned_question[2] = int(returned_question[2]) #
     except IndexError as e:
-        print(ret,e)
-    return ret
+        print(returned_question,e)
+    return returned_question
 
 # Nat -> Str
 def answer_from(index):
@@ -72,41 +80,34 @@ class Trivia(Scene):
         if (self.active):
             return
         
-        if (self.state == 0):
-            self.active = True
-            
+        self.active = True
+        if self.on_question == None: # opening state
             try:
                 self.image = ImageMobject(f"./images/{self.question[2]}").scale(1.5)
                 self.image.fade(0.7)
-                self.play(FadeIn(self.image), FadeIn(self.prompt), run_time = 0.5)
+                self.play(FadeIn(self.image), FadeIn(self.prompt), run_time = ANIMATION_RUN_TIME)
                 
             except:
-                self.play(FadeIn(self.prompt), run_time = 0.5)
+                self.play(FadeIn(self.prompt), run_time = ANIMATION_RUN_TIME)
                 
-            self.state += 1
-            self.active = False
             
-        elif (self.state % 2):
-            self.active = True
-
-            self.play(FadeOut(self.prompt), run_time = 0.5)
+            
+        elif self.on_question:
+            self.play(FadeOut(self.prompt), run_time = ANIMATION_RUN_TIME)
             self.ans = TexText(self.question[1]).scale(0.8)
             self.length = len(self.question[1])
             
-            self.play(FadeIn(self.ans), run_time = 0.5)
+            self.play(FadeIn(self.ans), run_time = ANIMATION_RUN_TIME)
             self.length = len(self.question[1])
-            self.state += 1
-            self.active = False
             
-        else: 
-            self.active = True
             
+        elif not self.on_question: 
             try:
                 ImageMobject(f"./images/{self.question[2]}").scale(1.5)
-                self.play(FadeOut(self.ans), FadeOut(self.image), run_time = 0.5)
+                self.play(FadeOut(self.ans), FadeOut(self.image), run_time = ANIMATION_RUN_TIME)
                 
             except:
-                self.play(FadeOut(self.ans), run_time = 0.5)
+                self.play(FadeOut(self.ans), run_time = ANIMATION_RUN_TIME)
                 
             self.question = get_question()
             self.length = len(self.question[0])
@@ -115,14 +116,15 @@ class Trivia(Scene):
             try:
                 self.image = ImageMobject(f"./images/{self.question[2]}").scale(1.5)
                 self.image.fade(0.7)
-                self.play(FadeIn(self.image), FadeIn(self.prompt), run_time = 0.5)
+                self.play(FadeIn(self.image), FadeIn(self.prompt), run_time = ANIMATION_RUN_TIME)
                 
             except:
-                self.play(FadeIn(self.prompt), run_time = 0.5)
+                self.play(FadeIn(self.prompt), run_time = ANIMATION_RUN_TIME)
                 
                 
-            self.state += 1
-            self.active = False
+        
+        self.on_question = not self.on_question
+        self.active = False
 
 
     def on_key_release(self, symbol, modifiers):
@@ -139,6 +141,6 @@ class Trivia(Scene):
         self.length = len(self.question[0]) 
         self.prompt = TexText(self.question[0]).scale(0.8)
         
-        self.state = 0
+        self.on_question = None
         self.active = False
 

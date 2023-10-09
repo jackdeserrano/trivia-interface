@@ -33278,7 +33278,7 @@ What two mathematicians determined the asymptotic behaviour of the partition fun
 Hardy, Ramanujan
 8319
 
-(1917--2007) This Norwegian mathematician was heavily influenced by Ramanujan. He studied at the University of Oslo and taught at Syracuse and the IAS. He spoke at the International Congress (1962), won the Fields Medal (1950) and the Wolf Prize (1986), and was awarded an honourary Abel Prize in 2002. He gave an elementary proof of the prime number theorem, proved a result about the nontrivial roots of the Riemann zeta function, and, in other ways, contributed significantly to sieve theory, analytic number theory, the theory of automorphic forms, and mathematics as a whole. Who is this?
+(1917--2007) This Norwegian mathematician was heavily influenced by Ramanujan. He studied at the University of Oslo and taught at Syracuse and the IAS. He spoke at the International Congress (1962), won the Fields Medal (1950) and the Wolf Prize (1986), and was awarded an honourary Abel Prize in 2002. He gave an elementary proof of the prime number theorem, proved many results about the non-trivial roots of the Riemann zeta function, developed an important trace formula, and contributed significantly to sieve theory, analytic number theory, and the theory of automorphic forms. Who is this?
 Atle Selberg
 8320
 
@@ -47637,7 +47637,7 @@ Who was Sandro Botticelli apprentice?
 Filippo Lippi
 11908
 
-What is 「絲綢之路」?
+What is \begin{CJK*}{UTF8}{gbsn}「絲綢之路」\end{CJK*} ?
 Silk Road
 11909
 
@@ -47890,7 +47890,7 @@ Rakim
 11971
 
 What are the four coastal municipalities of Piauí?
-Cajueiro da Praia, Ilha Grande Luís Correia, Parnaíba
+Cajueiro da Praia, Ilha Grande, Luís Correia, Parnaíba
 11972
 
 Who painted Jean Sibelius's favourite painting?
@@ -48124,4 +48124,284 @@ giardiniera
 Who claps and asks smart people ``what's going on''?
 Andrew Dotson
 12030
+
+Whose story does The blind side tell?
+Michael Oher
+12031
+
+What do gibberellins stimulate?
+stem elongation, germination, and flowering
+12032
+
+What plant hormones stimulate stem elongation, germination, and flowering?
+gibberellins
+12033
+
+What does the Latin ``gibbus'' mean in English?
+hump
+12034
+
+What channel separates the southern tip of the Iberian peninsula and North Africa?
+Strait of Gibraltar
+12035
+
+(1883--1931) What Lebanese-born American writer and artist is best known for The Prophet (1923)? His writings in both Arabic and English are deeply romantic, displaying his religious and mystical nature.
+Khalil Gibran
+12036
+
+What is a Gibson?
+dry martini cocktail garnished with a pickled onion
+12037
+
+What desert region in Western Australia is located to the southeast of the Great Sandy Desert?
+Gibson Desert
+12038
+
+What team did Bob Gibson pitch for from 1959 to 1975?
+St. Louis Cardinals
+12039
+
+(b. 1956) What Australian actor and director is noted for the Lethal Weapon trilogy (1987, 1989, and 1992), Braveheart (1995), and The Passion of the Christ (2004)?
+Mel Gibson
+12040
+
+What is a gibus?
+hat
+12041
+
+What technology for fine art or photograph reproduction uses a high-quality inkjet printer to make individual copies?
+giclée
+12042
+
+(1904--2000) What English actor and director was a notable Shakespearean actor particularly remembered for his interpretation of the role of Hamlet and also appeared in contemporary plays and movies including the film Arthur (1980)?
+Sir John Gielgud
+12043
+
+Who was the governor of Pennsylvania from 1931 to 1935?
+Gifford Pinchot
+12044
+
+What is the struggle between the gods and the giants?
+gigantomachy
+12045
+
+What is gigantomachy?
+the struggle between the gods and the giants
+12046
+
+To what family did the Gigantopithecus belong?
+Pongidae
+12047
+
+What is a gigolo?
+young man paid or financially supported by an older woman to be her escort or lover
+12048
+
+What is a gigot?
+leg of mutton or lamb
+12049
+
+What is a leg of mutton or lamb called?
+gigot
+12050
+
+What archipelago lies approximately 500 nautical miles from mainland Brazil and is part of the state district of Fernando de Noronha? 
+Saint Peter and Saint Paul Archipelago
+12051
+
+What physicist is noted for the theory of the polaron?
+Sigurd Zienau
+12052
+
+What name is given to a bound pair of electrons in a superconductor?
+Cooper pair
+12053
+
+What does ``BCS'' abbreviate as in ``BCS pair''?
+Bardeen--Cooper--Schrieffer
+12054
+
+Who wrote ``The architecture of complexity''?
+Herbert A. Simon
+12055
+
+What country contains Val Fex?
+Switzerland
+12056
+
+What Brazilian state contains the municipality of Carauari?
+Amazonas
+12057
+
+What moves characterize the Canal attack (or the Moscow variation) in the Sicilian defence?
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7
+12058
+
+What is the binomial name of the Finsch's wheatear?
+Oenanthe finschii
+12059
+
+What is the more common name for Oenanthe finschii? 
+Finsch's wheatear
+12060
+
+What was Elo's given name?
+Arpad
+12061
+
+Where is Árpád híd?
+Budapest
+12062
+
+What wood cmes from Millettia laurentii?
+wengé
+12063
+
+Where was Vladimir Tarasenko born?
+Yaroslavl, Russia
+12064
+
+Define ``amanuensis.''
+literary or artistic assistant, in particular, one who takes dictation or copies manuscripts
+12065
+
+What Canadian mathematician is known for Integral House?
+James Stewart
+12066
+
+What is ``a reduction in the lift coefficient generated by a foil as angle of attack increase'' in fluid dynamics?
+stall
+12067
+
+Which reaches further north: Ireland or Northern Ireland?
+Ireland
+12068
+
+What bridge connects Rio de Janeiro and Niterói over Guanabara Bay?
+Ponte Presidente Costa e Silva
+12069
+
+What bridge connects Manaus and Iranduba?
+Ponte Jornalista Phelippe Daou
+12070
+
+What bridge was the longest over water at the time of its completion in 1956?
+Lake Pontchartrain Causeway
+12071
+
+What were the questions asked at the bridge of death in Monty Python and the Holy Grail?
+What is your favourite colour? What is the capital of Assyria? What is your favourite colour? What is the airspeed velocity of an unladen swallow?
+12072
+
+What MLB team drafted Tom Brady?
+Montreal Expos
+12073
+
+Who was the eightieth and the eighty-third speaker of the United States House of Representatives? His two terms were from 1947 to 1949 and from 1953 to 1955. He was a Republican from Massachusetts.
+Joseph W. Martin Jr.
+12074
+
+What slave character from the plays of Aristophanes is Dicaeopolis's slave in The Acharnians?
+Xanthias
+12075
+
+What is the first of Aristophanes's surviving plays?
+The Acharnians 
+12076
+
+What two mathematicians proved that there exist arbitrarily large arithmetic progressions in the prime numbers?
+Ben Green, Terence Tao
+12077
+
+For what does the ``D. H. J.'' stand in ``D. H. J. Polymath''?
+density Hales--Jewett
+12078
+
+Who created TeX?
+Donald Knuth
+12079
+
+Where did Donald Knuth receive his PhD?
+California Institute of Technology
+12080
+
+Who was Donald Knuth's doctoral advisor?
+Marshall Hall Jr.
+12081
+
+Who were the two authors of ``Ring theoretic properties of certain Hecke algebras,'' proving at last Fermat's last theorem?
+Richard Taylor, Andrew Wiles
+12082
+
+Who was Richard Taylor's doctoral advisor at Princeton?
+Andrew Wiles
+12083
+
+Who advised Kevin Buzzard?
+Richard Taylor
+12084
+
+Who advised Richard Borcherds?
+John H. Conway
+12085
+
+Who proved that all finite groups of odd order are solvable?
+Walter Feit, John G. Thompson
+12086
+
+What three mathematicians proved that $\liminf_{n\to\infty} (p_{n+1} - p_n) / \log p_n = 0$ in a paper entitled ``Primes in tuples I''?
+Daniel Alan Goldston, Pintz János, Cem Yalçın Yıldırım
+12087
+
+Where did Szemerédi Endre receive his PhD?
+Lomonosov Moscow State University
+12088
+
+Where did William Thurston receive his PhD?
+University of California, Berkeley
+12089
+
+Who penned A modest proposal? 
+Jonathan Swift
+12090
+
+Who is the Raumdeuter?
+Thomas Müller
+12091
+
+``To a soul that beholds the Creator, all creation is narrow in compass. For when a man views the Creator's light, no matter how little of it, all creation becomes small in his eyes.''
+St. Gregory the Great
+12092
+
+What Star Trek clause serves as a modern example of the split infinitive?
+to boldly go where no man has gone before
+12093
+
+Who was the Greek goddess of persuasion?
+Peitho
+12094
+
+What did Peitho personify?
+persuasion 
+12095
+
+Define ``echt.''
+authentic and typical
+12096
+
+What monastic tradition in the Eastern Church was characterized by seeking stillness via continuous prayer? Its name comes from the Ancient Greek ἡσυχάζει, which means ``he rests.''
+Hesychasm
+12097
+
+What Franco-Ontarian song was composed by Jean-Pierre Perreault and Brian St-Pierre?
+Mon bon drapeau
+12098
+
+``When you are dead, you don't know you are dead. It's pain only for others. It's the same thing when you are [this].''
+stupid
+12099
+
+What is Canada's longest bridge?
+Confederation Bridge
+12100
 
