@@ -38266,7 +38266,7 @@ On what date did Grigori Perelman enter the world?
 13 June 1966
 9566
 
-How many points did Wayne Gretzky get in the NHL?
+How many points did Wayne Gretzky get score the NHL?
 2,857
 9567
 
@@ -42234,7 +42234,7 @@ What does ``GAA'' abbreviate?
 Gaelic Athletic Association
 10558
 
-What is the \begin{CJK*}{UTF8}{gbsn}高考\end{CJK*}?
+What is the 高考?
 test of a student's academic skills, used for admission to colleges and universities
 10559
 
@@ -43815,10 +43815,10 @@ f-number
 10953
 
 How does one say ``egg tart'' in Chinese?
-\begin{CJK*}{UTF8}{gbsn}蛋撻\end{CJK*} (dan ta)
+蛋撻 (dan ta)
 10954
 
-What is \begin{CJK*}{UTF8}{gbsn}蛋撻\end{CJK*}?
+What is 蛋撻?
 egg tart
 10955
 
@@ -45878,8 +45878,8 @@ What is the Russian name for Easter bread?
 kulich
 11468
 
-Who composed \begin{CJK*}{UTF8}{gbsn}〈一剪梅〉\end{CJK*}?
-\begin{CJK*}{UTF8}{gbsn}费玉清\end{CJK*}
+Who composed 〈一剪梅〉?
+费玉清
 11469
 
 How many points did Connor McDavid have in the 2022--23 NHL season?
@@ -46557,27 +46557,27 @@ What instrument does Nathalie Forget play?
 ondes Martenot
 11638
 
-What does \begin{CJK*}{UTF8}{gbsn}「吃一堑，长一智」\end{CJK*} [chī yí qiàn，zhǎng yí zhì] mean?
+What does 「吃一堑，长一智」 [chī yí qiàn，zhǎng yí zhì] mean?
 ``a fall into a pit, a gain in your wit''
 11639
 
-What does \begin{CJK*}{UTF8}{gbsn}「一根筷子容易折，一把筷子难折断」\end{CJK*} [yī gēn kuài zi róng yì zhé， yī bǎ kuài zi nán zhé duàn] mean?
+What does 「一根筷子容易折，一把筷子难折断」 [yī gēn kuài zi róng yì zhé， yī bǎ kuài zi nán zhé duàn] mean?
 ``one chopstick is fragile, but a group of chopsticks is robust''
 11640
 
-What does \begin{CJK*}{UTF8}{gbsn}「良好的开端，是成功的一半」\end{CJK*} [liáng hǎo de kāi duān， shì chéng gōng de yī bàn] mean?
+What does 「良好的开端，是成功的一半」 [liáng hǎo de kāi duān， shì chéng gōng de yī bàn] mean?
 ``well begun is half done''
 11641
 
-What does \begin{CJK*}{UTF8}{gbsn}「三思而后行」\end{CJK*} [sān sī ér hòu xíng] mean?
+What does 「三思而后行」 [sān sī ér hòu xíng] mean?
 ``think three times before you do''
 11642
 
-What does \begin{CJK*}{UTF8}{gbsn}「量变质变规律」\end{CJK*} [liàng biàn zhí biàn guī lǜ] mean?
+What does 「量变质变规律」 [liàng biàn zhí biàn guī lǜ] mean?
 ``quantitative changes lead to qualitative changes''
 11643
 
-What does \begin{CJK*}{UTF8}{gbsn}「巧妇难为无米之炊」\end{CJK*} [qiǎo fù nán wéi wú mǐ zhī chuī] mean?
+What does 「巧妇难为无米之炊」 [qiǎo fù nán wéi wú mǐ zhī chuī] mean?
 ``the cleverest housewife cannot cook without rice''
 11644
 
@@ -46661,7 +46661,7 @@ What is the fourth convergent of the continued fraction of $\pi$?
 \begin{align*}\frac{355}{113}\end{align*}
 11664
 
-What number is called \begin{CJK*}{UTF8}{gbsn}「密率」\end{CJK*} in Chinese?
+What number is called 「密率」 in Chinese?
 \begin{align*}\frac{355}{113}\end{align*}
 11665
 
@@ -47637,7 +47637,7 @@ Who was Sandro Botticelli apprentice?
 Filippo Lippi
 11908
 
-What is \begin{CJK*}{UTF8}{gbsn}「絲綢之路」\end{CJK*} ?
+What is 「絲綢之路」 ?
 Silk Road
 11909
 
@@ -48404,3 +48404,1856 @@ stupid
 What is Canada's longest bridge?
 Confederation Bridge
 12100
+
+What is the area of grammar dealing with endings?
+accidence
+12101
+
+What is the usual case of a direct object?
+accusative
+12102
+
+What verb form is used most commonly when the subject of the sentence performs the action or has his state described?
+active
+12103
+
+What is the noun, pronoun, or clause to which a relative pronoun refers back?
+antecedent
+12104
+
+What tense of a verb refers to something that happened in the past? An example is ``ἐποίησα'' in ``τοῦτο ἐποίησα.''
+aorist
+12105
+
+What is the main clause of a conditional sentence?
+apodosis
+12106
+
+What is the placing of a word, phrase, or clause in parallel with another word, phrase, or clause to give further information about the latter?
+apposition
+12107
+
+What is the term referring to the distinction between two ways in which a verb can convey time (the time and the type of time)?
+aspect
+12108
+
+What is something added at the beginning of verbs to denote a past tense?
+augment
+12109
+
+What is a clause usually beginning in English with the word ``although'' or ``though''?
+concessive clause
+12110
+
+What is a clause usually beginning in English with the words ``if,'' ``if not,'' or ``unless''?
+conditional clause
+12111
+
+What is a word used to join clauses, phrases, or words together?
+conjunction
+12112
+
+What case of an indirect object may mean ``to,'' ``for,'' ``with,'' and ``by''?
+dative
+12113
+
+What are the Greek definite articles?
+ὁ, ἡ, τό
+12114
+
+What adjective describes words or expressions that ``point'' to some feature of a situation?
+deictic
+12115
+
+What is a deponent verb?
+passive in form but active in function
+12116
+
+What are the two dots placed over the second of two adjacent vowels that are to be pronounced separately, as in ``βοΐ ''?
+diaeresis
+12117
+
+What is a word formed from another to express diminished size, as with ``hillock''?
+diminutive
+12118
+
+What is the union of two vowels pronounced as one syllable (one vowel followed by a glide into a second vowel)?
+diphthong
+12119
+
+What is a short word that cannot stand alone but has to follow another word onto which it throws back its accent?
+enclitic
+12120
+
+What is the tens of a verb that refers to something in the future at a stage after it has happened, as in ``I shall have ceased''?
+future perfect
+12121
+
+What is the case that shows possession and means ``of'' dominantly?
+genitive
+12122
+
+What verbal adjective expresses the idea of obligation?
+gerundive
+12123
+
+What are the parts of the verb that express a command?
+imperative
+12124
+
+What tense expresses continuous, repeated, or incomplete action in the past?
+imperfect
+12125
+
+What is a verb introduced in English by the word ``it''?
+impersonal
+12126
+
+Of what is the adding of the English word ``ever'' to the end of another word an example?
+indefinite construction
+12127
+
+Define ``jussive.''
+giving an order
+12128
+
+What is a verb that does not take a direct object?
+intransitive
+12129
+
+What is the case that tells us where something is happening?
+locative
+12130
+
+What is a line above a vowel indicating that it is long?
+macron
+12131
+
+What is the case of the subject of a sentence or usually of the complement of a verb?
+nominative
+12132
+
+What Greek mood of the verb does not express statements but such concepts as ``would,'' ``might,'' and ``if only!''? It is also used in the indefinite construction and in certain subordinate clauses. It is more remote than the subjunctive in either likelihood or time.
+optative
+12133
+
+What verb means ``to give a full grammatical description of a word'' --- that is, ``to give the person, number, tense, mood, voice, and meaning''?
+parse
+12134
+
+What is an adjective formed from a verb?
+participle
+12135
+
+What is the tense of a verb that refers to a completed action, the effects of which still continue into the present?
+perfect
+12136
+
+What is the tense that means ``had,'' referring to a past state resulting from a completed action?
+pluperfect
+12137
+
+What is a word that stands instead of a noun?
+pronoun
+12138
+
+What is the ``if ...'' or ``unless ...'' clause of a conditional sentence?
+protasis
+12139
+
+What is the process by which verbs beginning with a single consonant (not ῥ) form a prefix in the perfect, pluperfect, and future perfect by adding that letter followed by an ε at the beginning?
+reduplication
+12140
+
+What is a pronoun that introduces a subordinate clause, identifying the person or thing mentioned in the main clause?
+relative pronoun
+12141
+
+What is the principle according to which the use of a certain tense in the main clause determines whether the subjunctive or the optative should be used in a subordinate clause?
+sequence of tenses and moods
+12142
+
+What is the part of a noun, adjective, or verb to which endings are added?
+stem
+12143
+
+What is, in a clause or sentence, the noun or pronoun that causes the action of the verb or has his state described?
+subject
+12144
+
+What verb form is used, among many other functions, to express doubt, unlikelihood, or possibility? It is less remote than the optative in either likelihood or time. Words such as ``may,'' ``might,'' and ``should'' can indicate it in English.
+subjunctive
+12145
+
+What is a clause that depends on another clause (usually the main clause) of the sentence in which it stands?
+subordinate clause
+12146
+
+What is the form of an adjective or adverb that makes it mean ``most'' or ``very''?
+superlative
+12147
+
+What is a verb used with a direct object either expressed or understood?
+transitive
+12148
+
+What is the case by which one addresses or calls to someone?
+vocative
+12149
+
+Who were the three great Attic poets of tragedy in the fifth century BC?
+Aeschylus, Euripides, Sophocles
+12150
+
+What case indicates separation, or moving away from something?
+ablative case
+12151
+
+What system of vowel alternation in Proto-Indo-European involves vowels that are used in various parts of a word changing depending on meaning? In the Germanic languages, it forms the basis of the strong verbs.
+ablaut
+12152
+
+What case is used to indicate the patient or experiencer of a verb's action?
+absolutive case
+12153
+
+What name is given to a verb of motion whose motion is multidirectional (as opposed to unidirectional) or indirect, or whose action is repeated or iterative, in the Slavic languages?
+abstract verb
+12154
+
+What does ``AD'' abbreviate?
+Anno Domini
+12155
+
+Of what is alus mider an example in the Balinese language?
+speech register
+12156
+
+Of what is andap an example in the Balinese language?
+speech register
+12157
+
+What is the third-to-last syllable of a word?
+antepenultima
+12158
+
+What is the removal of a letter or sound from the beginning of a word?
+apheresis
+12159
+
+What is the removal of an initial unstressed sound from a word? It is the process by which ``escarp'' became ``scarp.''
+aphesis
+12160
+
+What is the omission of the final sound or syllable of a word without changing its morphological structure or meaning?
+apocope
+12161
+
+What is a consonant sound produced by restricting the air flow through the mouth only slightly, resulting in a smooth sound?
+approximant
+12162
+
+What property of a verb form indicates the nature of an action as perfective (complete) or imperfective (incomplete or continuing)?
+aspect
+12163
+
+What is the aspect of a verb that denotes an action without a definite endpoint or a goal that is tended towards, or rather an action with cumulative reference (such that the expression for that action may describe two or more actions of that kind that, when combined, still constitute a form of that action)?
+atelic
+12164
+
+What is an adjective that stands in a syntactic position where it directly modifies a noun, as opposed to a predicate adjective?
+attributive
+12165
+
+What name is given to a term formed by removing an apparent or real prefix or suffix from an older term? For example, the noun ``pea'' arose because the final /z/ sound in ``pease'' sounded like a plural suffix.
+back-formation
+12166
+
+Define ``barytone.''
+with the stress elsewhere than upon the final syllable
+12167
+
+What does ``BC'' abbreviate?
+Before Christ
+12168
+
+What name is given to a borrowing by word-for-word translation? For example, the English expression ``it goes without saying'' is a literal, word-for-word translation of the French ``ça va sans dire,'' and ``flea market'' is a word-for-word translation of the French ``marché aux puces.''
+calque
+12169
+
+What is a verb able to be immediately followed by the full or bare infinitive, or gerund?
+catenative verb
+12170
+
+What is the shortening of a word without changing meaning or part of speech?
+clipping
+12171
+
+Define ``cognate'' in the context of linguistics.
+descended from the same source lexeme of an ancestor language
+12172
+
+What is a verb of motion whose motion is unidirectional and expresses a single, completed action in the Slavic languages?
+concrete verb
+12173
+
+What is the mood of a verb used to signify that something is contingent upon the outcome of something else?
+conditional mood
+12174
+
+What form of consonant mutation found in certain, particularly Uralic, languages, is historically conditioned by the openness of the following syllable?
+consonant gradation
+12175
+
+What is a term with two opposite meanings called?
+contranym
+12176
+
+What is a contranym?
+term with two opposite meanings
+12177
+
+What is a verb that links and equates its subject with its object? It is also called a ``linking verb.''
+copula
+12178
+
+What adjective means ``derived from a noun''?
+denominal
+12179
+
+What verb form indicates a wish?
+desiderative
+12180
+
+What diacritic ( ¨ ) is placed over a vowel letter to indicate that it is sounded separately?
+diaeresis
+12181
+
+What is the phonological process whereby one of a pair of similar sounds within a word or phrase becomes dissimilar?
+dissimilation
+12182
+
+What name is given to one of two (or more) words in a language that have the same etymological root (as in etymon, not root morphemes like Proto-Indo-European roots) but have come to the modern language through different routes?
+doublet
+12183
+
+What name is given to a term carrying negative connotations or imagery to replace a (more) neutral original?
+dysphemism
+12184
+
+What stage of gradation in Semitic languages can be used both for a superlative and comparative?
+elative
+12185
+
+What case expresses ``moving out of''?
+elative
+12186
+
+What is the removal of a phoneme or sequence of phonemes from a word, particularly at the beginning or end?
+elision
+12187
+
+What is the phonetic joining of a word with the preceding word?
+enclisis
+12188
+
+In what nominal compound does one part modify the other, where the modified compound refers to the intended meaning of the compound as a whole?
+endocentric
+12189
+
+What is the insertion of a phoneme, letter, or syllable into a word, usually to satisfy the phonological constraints of a language or poetic context?
+epenthesis
+12190
+
+Define ``epicene.''
+having a single form for both male and female referents
+12191
+
+What case used in some languages marks the subject of a transitive verb, but not the subject of an intransitive verb?
+ergative case
+12192
+
+What verb can be transitive or intransitive, where the intransitive subject is the patient, the same role as the transitive object?
+ergative 
+12193
+
+What is an etymon?
+the source word of a given word
+12194
+
+What is, in languages with matres lectionis (consonant letters representing vowels), a form including one or more additional ones?
+excessive spelling
+12195
+
+What is a sound in a word without etymological reason, added for articulatory purposes?
+excrescent
+12196
+
+What is a name for a place, people or language used by foreigners instead of the native-language version?
+exonym
+12197
+
+What is a deliberate misspelling used in writing to indicate that the speech of a character is vernacular, non-standard, or uneducated?
+eye dialect
+12198
+
+What name is given to the possessive or genitive construction in Persian?
+ezafe
+12199
+
+What kind of transitive verb is derived from an adjective or noun and expresses the act of making someone/something have the properties (or have more of the properties) of the base adjective or noun?
+factitive
+12200
+
+What is a word in a language that bears a phonetic resemblance to a word in another language, often because of a common etymology, but has a different meaning?
+false friend
+12201
+
+What consonant sound is produced by air flowing through a constriction in the mouth, typically producing a sibilant, hissing, buzzing or otherwise ``rough'' quality?
+fricative
+12202
+
+What is the phenomenon wherein a consonant is pronounced for an audibly longer period of time than is done normally?
+gemination
+12203
+
+What verbal aspect specifies an action as occurring habitually? It is often called ``habitual.''
+consuetudinal
+12204
+
+What is a word that occurs only once within a given corpus, either in the written record of an entire language, in the works of an author, or in a single text? An example is ``νεκραγωγοῦντα.'' 
+hapax legomenon
+12205
+
+What is the elision or deletion of a part of a word (a sequence of phonemes, or a series of letters) that is repeated (either exactly or with slight change)?
+haplology
+12206
+
+Define ``hypercorrect.''
+incorrect because of the misapplication of a standard rule
+12207
+
+In what form of metathesis are non-contiguous sounds switched?
+hyperthesis
+12208
+
+What is the Arabic possessive or genitive construction called?
+ʾiḍāfa
+12209
+
+What is a word that evokes an idea in sound, often a vivid impression of certain sensations or sensory perceptions, e.g. sound, movement, colour, shape, or action?
+ideophone
+12210
+
+What is a word with one or more inflections with more syllables than the lemma form?
+imparisyllabic
+12211
+
+What mood of a verb expresses an order or command?
+imperative
+12212
+
+What is a verb that cannot take a subject or takes a third-person neuter subject pronoun (e.g. ``it'') without an antecedent?
+impersonal verb
+12213
+
+What case is used to express means or agency? Generally, it is indicated in English by ``by'' or ``with'' with the objective.
+instrumental
+12214
+
+What is an empty morph (or meaningless morph) inserted between two morphemes in the process of word formation?
+interfix
+12215
+
+What specific occurrence of palatalization occurred in the Proto-Slavic language, in which a consonant combined with the palatal approximant /j/ to form a palatalized consonant?
+iotation
+12216
+
+What number of inflectional endings sometimes called ``desinetial inflections,'' applied to Arabic nouns, adjectives, and verbs, do not appear in writing --- with minor exceptions --- and are not pronounced in pausa, i.e. at the end of a sentence or before a pause?
+ʾiʿrāb
+12217
+
+What mood of a verb is used to indicate a command, permission, or agreement with a request?
+jussive
+12218
+
+What was the classically based artificial (standardized) Greek language created at the start of Greece's independence from the Ottoman Empire? It was used for all formal and official purposes until 1976.
+Katharevousa
+12219
+
+What metaphorical compound or phrase describes basic objects in an allusive fashion, especially in Germanic poetry?
+kenning
+12220
+
+What type of Wanderwort is specific to a particular culture or is spread by an influential cross-cultural phenomenon?
+Kulturwort
+12221
+
+What rhetorical figure involving understatement consists of saying that something has less of one thing to mean more of the opposite?
+litotes
+12222
+
+What case is used to indicate place or the place where or wherein?
+locative
+12223
+
+What short, straight, horizontal diacritical mark ( ¯ ) is placed over any of various letters, usually to indicate that the pronunciation of a vowel is long?
+macron
+12224
+
+What grammatical voice subsumes the meanings of both the middle voice and the passive voice?
+mediopassive
+12225
+
+What form of understatement that consists of downplaying or diminishing the focal quality of a statement for contrastive, humorous or dramatic effect, sometimes deployed as part of a higher register? One example is saying ``he is somewhat displeased'' instead of ``he is furious.''
+meiosis
+12226
+
+What name is given to the infix -né- or -n- in Proto-Indo-European --- one of the affixes marking the imperfective aspect?
+nasal infix
+12227
+
+What is a nonce word?
+word invented for the occasion
+12228
+
+In Slavic languages, what is a plural gender used for all groups that do not contain men, as well as plurals of masculine animate, masculine inanimate, feminine, and neuter nouns?
+nonvirile
+12229
+
+What name is given to any case that is neither nominative nor vocative?
+oblique/objective
+12230
+
+What category of verb form (a mood) expresses wishes along with other meanings?
+optative mood
+12231
+
+Define ``oxytone.''
+with the stress upon the final syllable
+12232
+
+What adjective describes a word with the stress upon the final syllable?
+oxytone
+12233
+
+What is the addition of sounds at the end of a word without changing its morphological structure or meaning?
+paragoge
+12234
+
+What is a word whose inflections contain the same number of syllables as the lemma form?
+parisyllabic
+12235
+
+What adjective describes a word with the stress upon the penultimate syllable?
+paroxytone
+12236
+
+What is the next-to-last syllable of a word?
+penultima
+12237
+
+What adjective describes using more words to produce a grammatical effect?
+periphrastic
+12238
+
+What is a consonant sound produced by completely blocking the airflow through the mouth for a short time?
+plosive
+12239
+
+What verb form of perfect aspect and past tense is used to describe an action or event which is regarded as having been completed in the past, in relation to a time already in the past?
+pluperfect
+12240
+
+What does ``plurale tantum'' mean?
+plural only
+12241
+
+What tense shows an action at a determined moment in the past?
+preterite
+12242
+
+What adjective describes a word with the stress upon the antepenultimate syllable? 
+proparoxytone
+12243
+
+What name is given to a descendant word in a daughter language, descended from an earlier language?
+reflex
+12244
+
+What verbal aspect, a subclass of perfective, denotes a momentary or punctual event (e.g. to sneeze, to blink, to knock)?
+semelfactive
+12245
+
+What is a letter or other symbol that stands for a word or name? For example, ``ꝓ'' is one in medieval Latin for the word ``pro.''
+siglum
+12246
+
+What does ``s.l.'' abbreviate?
+sine locō
+12247
+
+In what specific occurrence of palatalization that occurred in the Proto-Slavic language did the velar consonants *k *g *x when followed by any of the front vowels *e *ě *ь *i become the sounds *č *ž *š respectively?
+Slavic first palatalization
+12248
+
+What does ``s.n.'' abbreviate?
+sine nōmine
+12249
+
+What type of cliché uses an old idiom formulaically in a new context?
+snowclone
+12250
+
+What mood of a verb expresses an action or state which is hypothetical or anticipated rather than actual, including wishes and commands?
+subjunctive
+12251
+
+What is the deletion or elision of sounds inside a word (not at the beginning or end), most often a single vowel, but sometimes a consonant or a sequence of vowels or consonants?
+syncope
+12252
+
+What is the situation in which two or more inflected forms of a word are identical?
+syncretism
+12253
+
+What is the aspect of a verb that denotes an action with a definite endpoint or a goal that is tended towards, or rather an action that is quantized (such that the expression for that action may not describe both the action and a smaller part of that same action)?
+telic
+12254
+
+What is the insertion of one or more words between the components of a compound word?
+tmesis
+12255
+
+What verb form in some Balto-Slavic languages expresses a coincidentally proceeding or following action?
+transgressive
+12256
+
+What is a consonant made with the tongue touching the soft palate?
+velar
+12257
+
+What is another term for the soft palate?
+velum
+12258
+
+In what type of backslang used in French does the order of the syllables or sounds of words change, usually with the last syllable coming first?
+verlan
+12259
+
+In Slavic languages, what plural gender is used for groups that include men and for masculine personal nouns?
+virile
+12260
+
+What is a word form that has spread over a substantial area, or to many regions, outside of that of its language of origin, typically due to cultural exchange resulting from travel and trade?
+Wanderwort
+12261
+
+In Proto-Indo-European linguistics, what name is given to an ablaut form of a root characterized by the absence of the basic ablauting vowel phonemes */e/ and */o/?
+zero-grade
+12262
+
+What name is given to an initial ⟨h⟩ that is treated as a consonant?
+aspirated h
+12263
+
+What name is given to an initial ⟨h⟩ that is treated as a vowel?
+mute h
+12264
+
+What does ``overmorrow'' mean?
+the day after tomorrow
+12265
+
+What collective name is given to significant changes to the pronunciation of English that happened between the 15th and 18th centuries?
+Great Vowel Shift
+12266
+
+What does the samurai never blame?
+his sword
+12267
+
+What things never lie, according to Tony Montana, Chico?
+the eyes
+12268
+
+In Monty Python and the Holy Grail, what knights halt King Arthur and his companions in a forest?
+the knights who say ``ni!''
+12269
+
+What is the English name for the João-de-Barro, which also may be called the ``red ovenbird''?
+rufous hornero
+12270
+
+Like what do real Gs move in silence?
+lasagna
+12271
+
+Finish the colloquialism: ``I ran away faster than you could say ---.'' (No, the saying is not about the famous number 42 Jackie.)
+Jack Robinson
+12272
+
+(Before and after.) Norwegian mathematician who discovered New Zealand.
+Niels Henrik Abel Tasman
+12273
+
+Where did Atle Selberg work for most of his academic life?
+Institute for Advanced Study
+12274
+
+Identify the author. ``Only the silent, sleepy, staring houses in the backwoods can tell all that has lain hidden since the early days; and they are not communicative, being loath to shake off the drowsiness which helps them forget. Sometimes one feels that it would be merciful to tear down these houses, for they must often dream.''
+H. P. Lovecraft
+12275
+
+What is demagoguery?
+political activity or practices that seek support by appealing to the desires and prejudices of ordinary people rather than by using rational argument
+12276
+
+What is Emanuel Ax's occupation?
+piano playing
+12277
+
+What is the nearest integer to the Golomb--Dickman constant?
+1
+12278
+
+What Spanish philosopher studied at Harvard under William James and Josiah Royce?
+George Santayana
+12279
+
+What theorem whose name contains two names, though having different formulations, encapsulates the idea that projective modules over commutative rings are ``the same'' as vector bundles on compact topological spaces?
+Serre--Swan theorem
+12280
+
+What duo composed the music for the Halo video games?
+Martin O'Donnell, Michael Salvatori
+12281
+
+What was Mike Cammalleri's hometown?
+Richmond Hill
+12282
+
+What NHL team drafter Mike Cammalleri in 2001?
+Los Angeles Kings
+12283
+
+What team was Mike Cammalleri on when he scored a career-high 82 points in the 2008--09 season?
+Calgary Flames
+12284
+
+What is a proparoxytone?
+word with stress on the antepenultima
+12285
+
+What is a properispomenon?
+word with a circumflex on the penultima
+12286
+
+What is a paroxytone?
+word with stress on the penultima
+12287
+
+What is a perispomenon?
+word with a circumflex on the ultima
+12288
+
+What is an oxytone?
+word with stress on the ultima
+12289
+
+What is a barytone?
+word without stress on the ultima
+12290
+
+What transposition in Ancient Greek involves a long-short vowel length combination becoming short-long?
+quantitative metathesis
+12291
+
+What is a fanook?
+homosexual
+12292
+
+Where is Zakopane?
+Poland
+12293
+
+What mountain range can one see from Zakopane, Poland?
+Tatras
+12294
+
+What word was controversially added to the Nicene Creed?
+Filioque
+12295
+
+Who constructed the theatre at Epidaurus?
+Polykleitos the Younger
+12296
+
+With what drink are the names Lafite and Rothschild associated?
+wine
+12297
+
+What is coriander's name in the United States?
+cilantro
+12298
+
+What is cilantro's name outside of the United States?
+coriander
+12299
+
+By what nickname are residents of  Bures-sur-Yvette known?
+Buressois
+12300
+
+In what industry did Ingmar Bergman work?
+film
+12301
+
+What name does a twelve go by in the game of craps?
+boxcars
+12302
+
+How old was Methuselah when he died?
+969
+12303
+
+What country houses the city of Hargeisa?
+Somalia
+12304
+
+Whose embedding theorem says that, for any small abelian category $A$, there is a ring $R$ and a full, faithful, and exact functor from $A$ to the category of $R$-modules?
+Barry Mitchell
+12305
+
+What two countries are home to the White Carpathians?
+Czech Republic, Slovakia
+12306
+
+Of what mountain range is Chmeľová part?
+White Carpathians
+12307
+
+In what country was Stan Mikita born?
+Slovakia
+12308
+
+Who was the first Slovak-born hockey player to win the Stanley Cup?
+Stan Mikita
+12309
+
+For what team did Stan Mikita play?
+Chicago Blackhawks
+12310
+
+Where was Red Kelly born?
+Simcoe, Ontario
+12311
+
+How many Stanley Cups did Red Kelly win?
+eight
+12312
+
+For what two teams did Red Kelly play?
+Detroit Red Wings, Toronto Maple Leafs
+12313
+
+How many Stanley Cups did Red Kelly win while he was a member of Parliament?
+two
+12314
+
+What number did Red Kelly wear?
+4
+12315
+
+Where was Terry Sawchuck born?
+Winnipeg
+12316
+
+How many Stanley Cups did Terry Sawchuck win?
+four
+12317
+
+What was Terry Sawchuck's position?
+goalie
+12318
+
+How many shutouts did Terry Sawchuck record?
+103
+12319
+
+Who was the Stratford Streak?
+Howie Morenz
+12320
+
+Whose number was the first that the Montreal Canadiens retired?
+Howie Morenz
+12321
+
+How many Stanley Cups did Howie Morenz win?
+three
+12322
+
+Who was the Edmonton Express?
+Eddie Shore
+12323
+
+Where was Eddie Shore born?
+Fort Qu'Appelle
+12324
+
+What position did Eddie Shore play?
+defenceman
+12325
+
+How many Hart Trophies did Eddie Shore win?
+four
+12326
+
+What hockey player who severely injured Ace Bailey shook hands with Bailey at an all-star benefit game for him in 1934?
+Eddie Shore
+12327
+
+How many Stanley Cups did Eddie Shore win?
+two
+12328
+
+For what team did Elmer Lach play?
+Montreal Canadiens
+12329
+
+What players comprised the Punch Line (from left to right)?
+Toe Blake, Elmer Lach, Maurice Richard
+12330
+
+How many Stanley Cups did Elmer Lach win?
+three
+12331
+
+What number did Elmer Lach wear?
+16
+12332
+
+Where was Syl Apps born?
+Paris, Ontario
+12333
+
+In what sport did Syl Apps win gold at the 1934 British Empire Games? He came sixth in this sport at the 1936 Olympics.
+pole vault
+12334
+
+Who won the first Calder Memorial Trophy?
+Syl Apps
+12335
+
+For what team did Syl Apps play?
+Toronto Maple Leafs
+12336
+
+How many Stanley Cups did Syl Apps win?
+three
+12337
+
+For what city was Syl Apps an Ontario MPP?
+Kingston
+12338
+
+Where was Sid Abel born?
+Melville, Saskatchewan
+12339
+
+What players comprised the Production Line (from left to right)?
+Ted Lindsay, Sid Abel, Gordie Howe
+12340
+
+What attacking trio was known collectively as ``MSN'' at FC Barcelona?
+Leo Messi, Luis Suárez, Neymar
+12341
+
+How many Stanley Cups did Sid Abel win?
+three
+12342
+
+For what two NHL teams did Sid Abel play?
+Detroit Red Wings, Chicago Blackhawks
+12343
+
+Define ``whittle.''
+carve (wood) into an object by repeatedly cutting small slices from it
+12344
+
+Who was Mr. Hockey?
+Gordie Howe
+12345
+
+Who overtook Gordie Howe for most NHL games played in 2021?
+Patrick Marleau
+12346
+
+How many seasons did Gordie Howe play in the NHL?
+26
+12347
+
+How many points did Gordie Howe record in his NHL career?
+1850
+12348
+
+For what team did Gordie Howe play for 25 seasons?
+Detroit Red Wings
+12349
+
+How many Stanley Cups did Gordie Howe win?
+four
+12350
+
+Who is Le Gros Bill?
+Jean Béliveau
+12351
+
+How many Stanley Cups did Jean Béliveau win as a player?
+ten
+12352
+
+Where was Jean Béliveau born?
+Trois-Rivières
+12353
+
+Who was the honourary captain of Team Canada's hockey team in the 2010 Winter Olympics?
+Jean Béliveau
+12354
+
+Where was Father David Bauer born?
+Waterloo, Ontario
+12355
+
+For what team did Jean Béliveau play?
+Montreal Canadiens
+12356
+
+To whom does Matt Groening attribute the quote ``Love is a slippery eel that bites like hell''?
+Bertrand Russell
+12357
+
+To whom does Matt Groening attribute the quote ``Love is like a perky elf dancing a merry little jig and then suddenly he turns on you with a miniature machine gun''?
+Søren Kierkegaard
+12358
+
+To whom does Matt Groening attribute the quote ``Love is a snowmobile racing across the tundra and then suddenly it flips over, pinning you underneath. At night, the ice weasels come''?
+Friedrich Nietzsche
+12359
+
+Who proved Serre's epsilon conjecture?
+Ken Ribet
+12360
+
+Who helped Andrew Wiles notice that there was a gap in the manuscript of his proof of Fermat's last theorem?
+Nicholas Katz
+12361
+
+Whose paper entitled ``Deforming Galois representations'' included key ideas used in Wiles's proof of Fermat's last theorem?
+Barry Mazur
+12362
+
+What two Japanese mathematicians are associated with the modularity theorem linking elliptic curves and modular forms?
+Yutaka Taniyama, Goro Shimura
+12363
+
+When was Yutaka Taniyama born?
+12 November 1927
+12364
+
+What is Quebec's motto?
+Je me souviens
+12365
+
+What does ``Je me souviens'' mean in English?
+I remember
+12366
+
+What is Ontario's motto?
+Ut incepit fidelis sic permanet
+12367
+
+What does ``Ut incepit fidelis sic permanet'' mean in English?
+Loyal she began, loyal she remains
+12368
+
+What is Ontario's flower?
+white trillium
+12369
+
+What is Ontario's tree?
+eastern white pine
+12370
+
+What is Nova Scotia's motto?
+Munit hæc et altera vincit
+12371
+
+What does ``Munit hæc et altera vincit'' mean in English?
+One defends and the other conquers
+12372
+
+What is Nova Scotia's flower?
+mayflower
+12373
+
+What is Nova Scotia's tree?
+red spruce
+12374
+
+What is Nova Scotia's bird?
+osprey
+12375
+
+What is New Brunswick's motto?
+Spem reduxit
+12376
+
+What does ``Spem reduxit'' mean in English?
+Hope restored
+12377
+
+What is New Brunswick's flower?
+purple violet
+12378
+
+What is New Brunswick's tree?
+balsam fir
+12379
+
+What is New Brunswick's bird?
+black-capped chickadee
+12380
+
+What is Manitoba's motto?
+Gloriosus et liber
+12381
+
+What does ``Gloriosus et liber'' mean in English?
+Glorious and free
+12382
+
+What is Manitoba's flower?
+prairie crocus
+12383
+
+What is Manitoba's tree?
+white spruce
+12384
+
+What is Manitoba's bird?
+great grey owl
+12385
+
+What is British Columbia's motto?
+Splendor sine occasu
+12386
+
+What does ``Splendor sine occasu'' mean in English?
+Splendour without diminishment
+12387
+
+What is British Columbia's flower?
+Pacific dogwood
+12388
+
+What is British Columbia's tree?
+western red cedar
+12389
+
+What is British Columbia's bird?
+steller's jay
+12390
+
+What is Prince Edward Island's motto?
+Parva sub ingenti
+12391
+
+What does ``Parva sub ingenti'' mean in English?
+The small protected by the great
+12392
+
+What is Prince Edward Island's flower?
+pink lady's slipper
+12393
+
+What is Prince Edward Island's tree?
+red oak
+12394
+
+What is Prince Edward Island's bird?
+blue jay
+12395
+
+What is Saskatchewan's motto?
+Multis e gentibus vires
+12396
+
+What does ``Multis e gentibus vires'' mean in English?
+From many people, strength
+12397
+
+What is Saskatchewan's flower?
+western red lily
+12398
+
+What is Saskatchewan's tree?
+paper birch
+12399
+
+What is Saskatchewan's bird?
+sharp-tailed grouse
+12400
+
+What is Alberta's motto?
+Fortis et liber
+12401
+
+What does ``Fortis et liber'' mean in English?
+Strong and free
+12402
+
+What is Alberta's flower?
+wild rose
+12403
+
+What is Alberta's tree?
+lodgepole pine
+12404
+
+What is Alberta's bird?
+great horned owl
+12405
+
+What is Newfoundland and Labrador's motto?
+Quaerite prime regnum Dei
+12406
+
+What does ``Quaerite prime regnum Dei'' mean in English?
+Seek ye first the kingdom of God
+12407
+
+What is Newfoundland and Labrador's flower?
+pitcher plant
+12408
+
+What is Newfoundland and Labrador's tree?
+black spruce
+12409
+
+What is Newfoundland and Labrador's bird?
+Atlantic puffin
+12410
+
+What continent houses the city of Ceuta?
+Africa
+12411
+
+What is the northernmost town on the west coast of South Africa?
+Alexander Bay
+12412
+
+Who is Matlock?
+Andy Griffith
+12413
+
+How many Stanley Cups did Jacques Plante win?
+six
+12414
+
+What two goalies shared the Vezina Trophy in 1969?
+Jacques Plante, Glenn Hall
+12415
+
+How many Vezina Trophies did Jacques Plante?
+seven
+12416
+
+Who was the first goalie to don a goalie mask?
+Jacques Plante
+12417
+
+With what NHL team did Phil Esposito win two Stanley Cups?
+Boston Bruins
+12418
+
+Where was Phil Esposito born?
+Sault Ste. Marie
+12419
+
+What was the first name of Phil Esposito's brother who was an NHL goalie?
+Tony
+12420
+
+For what three NHL teams did Phil Esposito play?
+Chicago Blackhawks, Boston Bruins, New York Rangers
+12421
+
+Who set the record for most shots in an NHL season in 1971?
+Phil Esposito
+12422
+
+What did the Ted Lindsay Award used to be called?
+Lester B. Pearson Award
+12423
+
+With what NHL team did Johnny Bucyk win two Stanley Cups?
+Boston Bruins
+12424
+
+Where was Bobby Orr born?
+Parry Sound
+12425
+
+Who was the MVP of the inaugural Canada Cup?
+Bobby Orr
+12426
+
+Who was the MVP of the 1987 Canada Cup?
+Wayne Gretzky
+12427
+
+Who was the MVP of the 1981 Canada Cup?
+Vladislav Tretiak
+12428
+
+Who was the MVP of the 1984 Canada Cup?
+John Tonelli
+12429
+
+Who was the MVP of the 1991 Canada Cup?
+Bill Ranford
+12430
+
+Who was the only team to win the Canada Cup that was not Canada?
+Soviet Union
+12431
+
+When did the Soviet Union win the Canada Cup?
+1981
+12432
+
+How many Stanley Cups did Bobby Orr win?
+two
+12433
+
+Whose flying goal won the Stanley Cup for the Boston Bruins in 1970?
+Bobby Orr
+12434
+
+What Boston Bruin defenseman from Parry Sound scored nine hat tricks?
+Bobby Orr
+12435
+
+How many Art Ross Trophies did Bobby Orr win?
+two
+12436
+
+What two hockey players did Boston Bruin scout Wren Blair describe Bobby Orr as a combination of?
+Doug Harvey, Eddie Shore
+12437
+
+What number did Bobby Orr wear?
+4
+12438
+
+What was Bobby Orr's junior number?
+2
+12439
+
+What is David Letterman's birthday?
+12 April
+12440
+
+Where did Alan Eagleson graduate with a law degree?
+University of Toronto
+12441
+
+To whom did Alan Eagleson lose in the 1963 federal election in York West? 
+Red Kelly
+12442
+
+What Progressive Conservative did Red Kelly defeat in the 1963 federal election in York West? 
+Alan Eagleson
+12443
+
+What lawyer who was central in the Summit Series and the Canada Cup was disbarred and had his Order of Canada disannulled after being found guilty of fraud?
+Alan Eagleson
+12444
+
+Where was Bobby Clarke born?
+Flin Flon, Manitoba
+12445
+
+For what team did Bobby Clarke play?
+Philadelphia Flyers
+12446
+
+How many Stanley Cups did Bobby Clarke win?
+two
+12447
+
+On what junior team did Bobby Clarke play?
+Flin Flon Bombers
+12448
+
+Who was the captain of the winning Canadian team of the 1976 Canada Cup?
+Bobby Clarke
+12449
+
+What Canadian tied up the game between Canada and Czechoslovakia in the 1976 Canada Cup near the end of regulation?
+Bill Barber
+12450
+
+Who scored the winning goal in the  1976 Canada Cup in overtime?
+Darryl Sittler
+12451
+
+Who was the Flower?
+Guy Lafleur
+12452
+
+Where was Guy Lafleur born?
+Thurso
+12453
+
+How many Stanley Cups did Guy Lafleur win?
+five
+12454
+
+Who was Le Turbo de Thurso?
+Guy Lafleur
+12455
+
+How many Stanley Cups did Bryan Trottier win as a player?
+six
+12456
+
+What was Bryan Trottier's junior team?
+Swift Current Broncos
+12457
+
+For what two NHL teams did Bryan Trottier play?
+New York Islanders, Pittsburgh Penguins
+12458
+
+Who was the Great One?
+Wayne Gretzky
+12459
+
+How many goals did Wayne Gretzky score in his career?
+894
+12460
+
+How many goals did Wayne Gretzky score in the 1981--82 season?
+92
+12461
+
+How many assists did Wayne Gretzky score in his career?
+1963
+12462
+
+Who was the Magnificent One?
+Mario Lemieux
+12463
+
+For what NHL team did Mario Lemieux play?
+Pittsburgh Penguins
+12464
+
+How many Stanley Cups did Mario Lemieux win as a player?
+two
+12465
+
+Where was Mark Messier born?
+St. Albert, Alberta
+12466
+
+How many Stanley Cups did Mark Messier win?
+six
+12467
+
+How many Stanley Cups did Mark Messier win with the Edmonton Oilers?
+five
+12468
+
+In what year did Mark Messier win the Conn Smythe?
+1984
+12469
+
+Where was Brett Hull born?
+Belleville, Ontario
+12470
+
+Who was Brett Hull's father?
+Bobby Hull
+12471
+
+Who was the Golden Jet?
+Bobby Hull
+12472
+
+How many Stanley Cups did Brett Hull win?
+two
+12473
+
+With what two teams did Brett Hull win the Stanley Cup?
+Dallas Stars, Detroit Red Wings
+12474
+
+Who was the lead singer and guitarist for Creedence Clearwater Revival?
+John Fogerty
+12475
+
+For what baseball team did Bob Uecker broadcast? 
+Milwaukee Brewers
+12476
+
+What catcher and broadcaster for the Milwaukee Brewers routinely appeared on Johnny Carson?
+Bob Uecker
+12477
+
+Where was David Letterman born?
+Indianapolis
+12478
+
+What late-night talk show host hosted the most episodes?
+David Letterman
+12479
+
+Who was Bromios, the thunderer?
+Dionysus
+12480
+
+What is the tallest mountain in the White Carpathians?
+Veľká Javorina
+12481
+
+Who did Weekend Update on Saturday Night Live in 1985?
+Dennis Miller
+12482
+
+Who did Weekend Update on Saturday Night Live in 1993?
+Norm Macdonald
+12483
+
+What late-night talk show host hosted The Tonight Show from 1962 to 1992? He is routinely considered the best of late-night TV.   
+Johnny Carson
+12484
+
+Who directed Chariots of fire?
+Hugh Hudson
+12485
+
+Who were the first ten Fields Medallists to come from the École normale supérieure?
+Laurent Schwartz, René Thom, Jean-Pierre Serre, Alain Connes, Pierre-Louis Lions, Jean-Christophe Yoccoz, Laurent Lafforgue, Wendelin Werner, Ngô Bả Châu, Cédric Villani
+12486
+
+Who was the original architect of the Empire State Building?
+Frank Lloyd Cock
+12487
+
+What school originated in 1530 when Francis I was advised to start the creation of a school that would teach topics to royal scholars, that were not taught at the Sorbonne, originally Greek, Hebrew, and mathematics, and then later, French law, Latin, and medicine?
+Collège de France
+12488
+
+When was Henry IV assassinated?
+14 May 1610
+12489
+
+Who set down the first stone for the Collège de France?
+Louis XIII
+12490
+
+Inscribed in this building's first stone were the words ``En l'an premier du Regne de Louis XIII Roy de France et de Navarre, âgé de neuf ans, et de la Regence de la Royne Marie de Médicis sa mère MDCX.'' Identify the building.
+Collège de France
+12491
+
+What architect continued the construction of the Collège de France around the Cour d'Honneur in 1773?
+Jean Chalgrin
+12492
+
+What street is home to Le Lycée Louis-le-Grand? 
+Rue St Jacques
+12493
+
+What Parisian Lycée remained open during the Revolution?
+Lycée Louis-le-Grand
+12494
+
+When did the Lycée Louis-le-Grand get that name?
+1873
+12495
+
+What Lycée did Galois attend?
+Lycée Louis-le-Grand
+12496
+
+What school was created after the French Revolution on 28 September 1794, by Jacques- Élie Lamblardie, Gaspard Monge, and Lazare Carnot, as all the royal engineering schools had previously been closed? The aim of this new establishment was to replace all those schools, but they were later reopened and it was decided that students would have to attend this school before entering the other ones.
+École Polytechnique
+12497
+
+Who had the easiest autograph?
+I. M. Pei
+12498
+
+What school located on the site of the Royal Abbaye of Sainte-Genevieve was created by Clovis, King of Francs in 506?
+Lycée Henri IV
+12499
+
+What Lycée did Cauchy attend?
+Lycée Henri IV
+12500
+
+Who was Cauchy's professor at Lycée Henri IV?
+Jacques Binet
+12501
+
+What suffix is used for naming ACE inhibitors?
+pril
+12502
+
+Of what are lisinopril and benazepril examples?
+ACE inhibitors
+12503
+
+What suffix is used for naming alpha blockers?
+zosin
+12504
+
+Of what are terazosin and doxazosin examples?
+alpha blockers
+12505
+
+What suffix is used for naming angiotensin receptor blockers?
+sartan
+12506
+
+What suffix is used for naming benzodiazepines?
+zepam
+12507
+
+Of what are diazepam and clonazepam examples?
+benzodiazepines
+12508
+
+What suffix is used for naming beta blockers?
+olol
+12509
+
+Of what are metoprolol and carvedilol examples?
+beta blockers
+12510
+
+What suffix is used for naming H2 antagonists?
+tidine
+12511
+
+Of what are famotidine and ranitidine examples?
+H2 antagonists
+12512
+
+What suffix is used for naming 5HT3 antagonists?
+setron
+12513
+
+What suffix is used for naming proton pump inhibitors?
+prazole
+12514
+
+What suffix is used for naming quinolone antibiotics?
+floxacin
+12515
+
+What suffix is used for naming thiazolidinediones?
+glitazone
+12516
+
+What suffix is used for naming biphosphonates?
+dronate
+12517
+
+What suffix is used for naming monoclonal antibodies?
+mab
+12518
+
+What suffix is used for naming echinocandins?
+fungin
+12519
+
+What suffix is used for naming corticosteroids?
+asone
+12520
+
+What suffix is used for naming protease inhibitors?
+navir
+12521
+
+What suffix is used for naming leukotriene modifiers?
+lukast
+12522
+
+What suffix is used for naming HMG-CoA reductase inhibitors?
+statin
+12523
+
+What suffix is used for naming beta-2 agonists?
+terol
+12524
+
+What suffix is used for naming phosphodiesterase inhibitors?
+afil
+12525
+
+What suffix is used for naming tricyclic antidepressants?
+ipramine
+12526
+
+Translate ``Lex orandi, lex credendi.''
+law of prayer, law of belief
+12527
+
+What musicians feature on DJ Khaled's ``I'm the one''?
+Chance the Rapper, Justin Bieber, Lil Wayne, Quavo
+12528
+
+What pope issued Summorum Pontificum?
+Benedict XVI
+12529
+
+Who asks: ``[C]an anybody who takes a survey of the whole [Modernist] system be surprised that We should define it as the synthesis of all heresies?''
+Pius X
+12530
+
+What pope issued Pascendi Dominici Gregis?
+Pius X
+12531
+
+What is the ``synthesis of all heresies''?
+Modernism
+12532
+
+What is the Polish name for Lviv?
+Lwów 
+12533
+
+What is the German name for Lviv?
+Lemberg
+12534
+
+Translate ``sine qua non.''
+without which not
+12535
+
+Translate: ``J'ai crû en sagesse.''
+I grew in wisdom
+12536
+
+Translate: ``J'ai cru en la conjecture de Hodge.''
+I believed in the Hodge conjecture
+12537
+
+Translate: ``le cru et le cuit.''
+the raw and the cooked
+12538
+
+What does a cobbler do?
+mends shoes
+12539
+
+What is ``the dunny''?
+toilet
+12540
+
+Who says, tricking the cyclops, ``Οὖτις ἐμοί γ᾽ ὄνομα: Οὖτιν δέ με κικλήσκουσι / μήτηρ ἠδὲ πατὴρ ἠδ᾽ ἄλλοι πάντες ἑταῖροι''?
+Odysseus
+12541
+
+What Toronto Raptors broadcaster on TSN is known for exclaiming ``Get that garbage outta here!'' in his Brooklyn accent?
+Jack Armstrong
+12542
+
+What does ``Þjóðvegur'' mean?
+national road
+12543
+
+Define ``outturn.''
+quantity produced; output
+12544
+
+Define ``remuneration.''
+money paid for work or a service
+12545
+
+Define ``concomitant.''
+naturally accompanying or associated
+12546
+
+What is a sequela?
+condition that is the consequence of a previous disease or injury
+12547
+
+Who won the 2023 World Series?
+Texas Rangers
+12548
+
+Define ``fuliginous.''
+sooty; dusky
+12549
+
+Who wrote ``Raspberry beret''?
+Prince
+12550
+
+What American band made the song ``Drive by''?
+Train
+12551
+
+What does the Ancient Greek ``λεπταλέος'' mean?
+fine; delicate
+12552
+
+Who wrote The old man and the sea?
+Ernest Hemingway
+12553
+
+Who in 1547 became Tsar of Russia at 16?
+Ivan IV
+12554
+
+Wrote The Great Gatsby?
+F. Scott Fitzgerald
+12555
+
+What does the ``F'' stand for in ``F. Scott Fitzgerald''?
+Francis
+12556
+
+Who was the name of the youngest daughter of Tsar Nicholas II?
+Anastasia
+12557
+
+What isotope was the first to be observed exhibiting superfluidity?
+helium-4
+12558
+
+Who is described in Judges 6.11?
+Gideon
+12559
+
+What was Miloš Forman's occupation?
+director
+12560
+
+What is NPY4R?
+pancreatic polypeptide receptor 1
+12561
+
+What orchestra did Karel Ančerl direct until his death?
+Toronto Symphony Orchestra
+12562
+
+Define ``risible.''
+inclined to laugh
+12563
+
