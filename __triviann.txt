@@ -3970,7 +3970,7 @@ Port Vila
 What is the capital of Veracruz, Mexico?
 Jalapa
 
-What is the discriminant of an elliptic curve?
+What is the discriminant of the elliptic curve $y^2 = x^3 + ax + b$?
 $-16(4a^3 + 27b^2)$
 
 Of what is the fiery lake composed in the book of Revelation?
@@ -6637,7 +6637,7 @@ Chuck Berry
 (1927--87) This American jazz dancer and choreographer directed and choreographed Broadway musicals such as Pajama game (1954) and Redhead (1958) and movies such as Cabaret (1972) and All that jazz (1979). To whom was a Broadway musical of the same name dedicated?
 Bob Fosse
 
-(1928--2014) What American novelist and poet wrote the first volume of her autobiography, I know why the caged bird sings, about living as a black child in the south United States, and wrote six more: Gather together in my name (1974), Singin' and swingin' and gettin' merry like Christmas (1976), The heart of a woman (1981), All God's children need travelling shoes (1986), A song flung up to heaven (2002), and Mom & me & mom (2013)?
+(1928--2014) What American novelist and poet wrote the first volume of her autobiography, I know why the caged bird sings, about living as a black child in the south United States, and wrote six more: Gather together in my name (1974), Singin' and swingin' and gettin' merry like Christmas (1976), The heart of a woman (1981), All God's children need travelling shoes (1986), A song flung up to heaven (2002), and Mom \& me \& mom (2013)?
 Maya Angelou
 
 (1929--93) What Belgian-born American actress moved to Hollywood after pursuing a career as a stage and movie actress in Britain, starring in Roman holiday (1953), Sabrina (1954), Breakfast at Tiffany's (1961), and My fair lady (1964)?
@@ -7222,7 +7222,7 @@ Formosus
 The cautionary letter Audi filia et was written by either Urban IV or Clement IV in the 1260s to what queen, admonishing her for inappropriate actions?
 Plaisance of Cyprus (or another Cypriot queen)
 
-The data structure that allows for searches, sequential access, insertions, and deletions in $O(\log n)$ time is what type of tree where all terminal nodes are the same distance from the base and all nonterminal nodes have between $n$ and $2n$ subtrees?
+The data structure that allows for searches, sequential access, insertions, and deletions in $O(\log n)$ time is what type of tree where all terminal nodes are the same distance from the base and all non-terminal nodes have between $n$ and $2n$ subtrees?
 B-tree
 
 The death and resurrection of what youthful consort of Cybele in Anatolian mythology were associated with the spring festival?
@@ -9701,7 +9701,7 @@ What is the point at which a spacecraft is furthest from the moon in lunar orbit
 apolune
 
 What is the prime number theorem?
-$\pi(x)\sim x/\log(x)$
+\begin{align*}\pi(x)\sim \frac{x}{\log(x)}\end{align*}
 
 What is the proprietary name of lorazepam?
 Ativan
@@ -11339,7 +11339,7 @@ What venue is home to the Baltimore Orioles?
 Camden Yards
 
 What venue is home to the Baltimore Ravens?
-M&T Bank Stadium
+M\&T Bank Stadium
 
 What venue is home to the Boston Bruins and Celtics?
 TD Garden
@@ -11399,7 +11399,7 @@ What venue is home to the Columbus Blue Jackets?
 Nationwide Arena
 
 What venue is home to the Dallas Cowboys?
-AT&T Stadium
+AT\&T Stadium
 
 What venue is home to the Dallas Mavericks and Stars?
 American Airlines Center
@@ -11423,7 +11423,7 @@ What venue is home to the Edmonton Oilers?
 Rogers Place
 
 What venue is home to the Florida Panthers?
-BB&T Center, Sunrise
+BB\T Center, Sunrise
 
 What venue is home to the Golden State Warriors?
 Chase Center, San Francisco
@@ -11681,7 +11681,7 @@ What was Henry IV's surname?
 Bolingbroke
 
 What was inscribed in Fermat's copy of Diophantus's Arithmetica, delineating Fermat's last ``theorem''?
-Cubum autem in duos cubos, aut quadratoquadratum in duos quadratoquadratos & generaliter nullam in infinitum ultra quadratum potestatem in duos eiusdem nominis fas est dividere cuius rei demonstrationem mirabilem sane detexi. Hanc marginis exiguitas non caperet.
+Cubum autem in duos cubos, aut quadratoquadratum in duos quadratoquadratos \& generaliter nullam in infinitum ultra quadratum potestatem in duos eiusdem nominis fas est dividere cuius rei demonstrationem mirabilem sane detexi. Hanc marginis exiguitas non caperet.
 
 What was Jakarta's former name?
 Batavia
@@ -14642,10 +14642,10 @@ What does the Latin root mut-- mean?
 change; mutare; mutation
 
 What does the Mordell--Weil theorem state?
-the group of $K$-rational points of an abelian variety $A$ over a number field $K$ is finitely-generated and abelian
+the group of $K$-rational points of an abelian variety $A$ over a number field $K$ is finitely generated and abelian
 
-What does the Nagell--Lutz theorem state?
-on an elliptic curve, a rational point of finite order has integral coordinates and the $y$-coordinate either is zero or divides the discriminant
+What is my first name?
+Jack
 
 What does the Ovidian phrase ``ut ameris, amabilis esto'' mean?
 if you want to be loved, be lovable
@@ -19906,7 +19906,7 @@ Define ``salutary.''
 What type of ancient Greek pottery vessel used to pour small quantities of liquids such as oil has a flat shape and a spout at one or both ends that could also be used as a handle?
 askos
 
-What Columbia University mathematician proved a lower bound for the class number of an imaginary quadratic field assuming the existence of an elliptic curve whose $L$-function had a zero of order at least three at $s = 1/2$ that Gross and Zagier later discovered?
+What Columbia University mathematician gave a lower bound for the class number of an imaginary quadratic field assuming the existence of an elliptic curve whose $L$-function had a zero of order at least three at $s = 1/2$ that Gross and Zagier later discovered?
 Dorian Goldfeld
 
 This mathematician found a counterexample to Euler's sum of powers conjecture for fourth powers, proved that an elliptic curve over the rational numbers is supersingular at infinitely many primes, discovered an elliptic curve with lower bound rank 28 and another with exact rank 20, and extended Schoof's algorithm. Who is this chess master, chess composer, and musical genius who was advised by Benedict Gross and Barry Mazur and made a tenured professor at Harvard at 26?
@@ -19951,20 +19951,20 @@ deflagration
 What chemical, used in warfare, removes the leaves from trees and plants?
 defoliant
 
-What is the derivative of the zeta function at $0$?
+What is the derivative of the Riemann zeta function at $0$?
 $\displaystyle -\frac{1}{2}\pi\log(2)$
 
 What is $\zeta(2)$?
-$\pi^2$/6
+\begin{align*}\frac{\pi^2}{6}\end{align*}
 
 What is $\zeta(4)$?
-$\pi^4$/90
+\begin{align*}\frac{\pi^4}{90}\end{align*}
 
 What is $\zeta(6)$?
-$\pi^6$/945
+\begin{align*}\frac{\pi^6}{945}\end{align*}
 
 What is $\zeta(12)$?
-691$\pi^{12}$/638512875
+\begin{align*}\frac{691\pi^{12}}{638512875}\end{align*}
 
 By what name is $\zeta(3)$ known?
 Apéry's constant
@@ -20350,7 +20350,7 @@ diacatholicon
 What name is given to a celebration held on 5 November?
 bonfire night
 
-What constant, commonly denoted alpha, is approximately $1/137# and quantifies the strength of the electromagnetic interaction between elementary charged particles?
+What constant, commonly denoted alpha, is approximately $1/137$ and quantifies the strength of the electromagnetic interaction between elementary charged particles?
 fine structure constant
 
 What German biologist, chemist, and physician is responsible for the principle of conservation of energy?
@@ -21125,10 +21125,10 @@ Define ``senescent.''
 deteriorating; old; mature
 
 Let $f$ be a map from a set $A$ to a set $B$. If $f(A) = B$, then what is $f$ called?
-onto/surjective
+surjective
 
 Let $f$ be a map from a set $A$ to a set $B$. If the pre-image of every element in $B$ under $f$ consists of at most one element, then what is $f$ called?
-one-to-one/injective
+injective
 
 What template sets out the format and tag structure of an XML- or SGML-compliant document?
 document type definition (DTD)
@@ -22688,7 +22688,7 @@ Ellice Islands
 Lincoln Ellsworth
 
 What is the density of the best sphere packing in 3 dimensions, conjectured by Kepler and proved by Hales?
-$\pi/\sqrt{18}$
+\begin{align*}\frac{\pi}{\sqrt{18}}\end{align*}
 
 What Ukrainian mathematician proved that the $E_8$ and Leech lattices give the densest sphere packings in $8$ and $24$ dimensions?
 Maryna Viazovska
@@ -23473,7 +23473,7 @@ Ulm
 Kate Croy, Milly Theale, and the journalist Merton Densher are significant characters in what novel by Henry James?
 The wings of the dove
 
-For a collection of $n$ single-variable functions, what name is given to the determinant of the matrix of the first $n-1$ derivatives of those functions?
+What name is given to the determinant of the matrix of the first $n-1$ derivatives of a collection of $n$ single-variable functions?
 Wrońskian
 
 Meaning ``small box,'' what three-letter word appears in the name of an annual judicial procedure or trial conducted by Goldsmith's?
@@ -23503,7 +23503,7 @@ hoatzin
 Alive in the Cretaceous period and growing to a height of around eight feet, the dinosaur Struthiomimus was so-named because of its superficial resemblance to what large bird?
 ostrich
 
-What surname is shared by the two astrophysicists who, alongside Willie Fowler and Fred Hoyle, wrote the landmark 1957 paper ``Synthesis of the elements in stars,'' also known as the ``B^2FH paper''?
+What surname is shared by the two astrophysicists who, alongside Willie Fowler and Fred Hoyle, wrote the landmark 1957 paper ``Synthesis of the elements in stars,'' also known as the ``$\textrm{B}^{\textrm{2FH}}$ paper''?
 Burbidge
 
 In its ancient era, what country was divided into administrative regions called ``nomes''?
@@ -24955,7 +24955,7 @@ Hardy
 What two mathematicians determined the asymptotic behaviour of the partition function p(n)?
 Hardy, Ramanujan
 
-(1917--2007) This Norwegian mathematician was heavily influenced by Ramanujan. He studied at the University of Oslo and taught at Syracuse and the IAS. He spoke at the International Congress (1962), won the Fields Medal (1950) and the Wolf Prize (1986), and was awarded an honourary Abel Prize in 2002. He gave an elementary proof of the prime number theorem, proved a result about the nontrivial roots of the Riemann zeta function, and, in other ways, contributed significantly to sieve theory, analytic number theory, the theory of automorphic forms, and mathematics as a whole. Who is this?
+(1917--2007) This Norwegian mathematician was heavily influenced by Ramanujan. He studied at the University of Oslo and taught at Syracuse and the IAS. He spoke at the International Congress (1962), won the Fields Medal (1950) and the Wolf Prize (1986), and was awarded an honourary Abel Prize in 2002. He gave an elementary proof of the prime number theorem, proved many results about the non-trivial roots of the Riemann zeta function, developed an important trace formula, and contributed significantly to sieve theory, analytic number theory, and the theory of automorphic forms. Who is this?
 Atle Selberg
 
 Where was Alte Selberg born?
@@ -26161,7 +26161,7 @@ Urania
 With whom did Zeus create the Muses?
 Mnemosyne
 
-A binary form of degree $2n$ can be split into a sum of powers of $n$ linear forms if and only if this invariant is zero. The term was invented by Sylvester.
+Suppose that a binary form of degree $2n$ can be split into a sum of powers of $n$ linear forms if and only if the invariant $\theta$ is zero. What is $\theta$?
 catalecticant
 
 What invariant is given by the determinant of a Sylvester matrix?
@@ -28151,7 +28151,7 @@ What packing is demonstrated in helium crystals?
 hexagonal close packing
 
 What is the volume of the $n$-sphere?
-$\pi^{n/2}/(n/2)!$
+\begin{align*}\frac{\pi^{n/2}}{(n/2)!}\end{align*}
 
 What anatomical term refers to a series of threads or other projections resembling a fringe?
 fimbria
@@ -28696,7 +28696,7 @@ New Westminster, British Columbia
 On what date did Grigori Perelman enter the world?
 13 June 1966
 
-How many points did Wayne Gretzky get in the NHL?
+How many points did Wayne Gretzky get score the NHL?
 2,857
 
 Complete this list: Timothy Gowers, Maxim Kontsevich, Curtis T. McMullen, ---.
@@ -30520,7 +30520,7 @@ metanoia
 Identify the verse: ``Bring forth fruits meet for metanoia.''
 Matthew 3.8
 
-Complete this quotation: ``With what delight could I have walkt thee round / If I could joy in aught, sweet interchange / Of Hill and Vallie, Rivers, Woods and Plaines, / Now Land, now Sea, & Shores with Forrest crownd, / Rocks, Dens, and Caves; but I in none of these / Find place or refuge; and the more I see / Pleasures about me, so much more I feel / Torment within me, as from the --- all good to me becomes / Bane, and in Heav'n much worse would be my state'' (Paradise lost VIII).
+Complete this quotation: ``With what delight could I have walkt thee round / If I could joy in aught, sweet interchange / Of Hill and Vallie, Rivers, Woods and Plaines, / Now Land, now Sea, \& Shores with Forrest crownd, / Rocks, Dens, and Caves; but I in none of these / Find place or refuge; and the more I see / Pleasures about me, so much more I feel / Torment within me, as from the --- all good to me becomes / Bane, and in Heav'n much worse would be my state'' (Paradise lost VIII).
 hateful siege of contraries
 
 Translate ``Deo concedente.''
@@ -31672,7 +31672,7 @@ understock
 What does ``GAA'' abbreviate?
 Gaelic Athletic Association
 
-What is the \begin{CJK*}{UTF8}{gbsn}高考\end{CJK*}?
+What is the 高考?
 test of a student's academic skills, used for admission to colleges and universities
 
 What is the gaokao?
@@ -31891,7 +31891,7 @@ Quentin Tarantino
 Who stars in Kill Bill?
 Uma Thurman
 
-What does Smith & Wesson make?
+What does Smith \& Wesson make?
 firearms
 
 Who plays Dirty Harry?
@@ -32858,9 +32858,9 @@ What is the ratio of the focal length to the diameter of the entrance pupil?
 f-number
 
 How does one say ``egg tart'' in Chinese?
-\begin{CJK*}{UTF8}{gbsn}蛋撻\end{CJK*} (dan ta)
+蛋撻 (dan ta)
 
-What is \begin{CJK*}{UTF8}{gbsn}蛋撻\end{CJK*}?
+What is 蛋撻?
 egg tart
 
 Where is Jalal-Abad?
@@ -33814,10 +33814,10 @@ biotin
 Nick Lidström: lefty or righty?
 lefty
 
-Let $R$ be a ring. Let $A$ and $B$ be $R$-modules. What is $\Ext_R^0(A,B)$?
-$\Hom_R(A,B)$
+Let $R$ be a ring. Let $A$ and $B$ be $R$-modules. What is $\operatorname{Ext}_R^0(A,B)$?
+$\operatorname{Hom}_R(A,B)$
 
-Let $R$ be a ring. Let $A$ and $B$ be $R$-modules. What is $\Tor_R^0(A,B)$?
+Let $R$ be a ring. Let $A$ and $B$ be $R$-modules. What is $\operatorname{Tor}_R^0(A,B)$?
 $A\otimes_R B$
 
 Let $\omega$ be the canonical sheaf. What does Serre duality say?
@@ -33991,7 +33991,7 @@ Edinburgh
 What tie knot shares its name with a vehicle drawn by horses?
 four in hand
 
-When is $\Lambda(n)$ non-zero where $\Lambda$ is the von Mangoldt function?
+Let $\Lambda$ be the von Mangoldt function. When is $\Lambda(n)$ non-zero?
 when $n$ is a prime power
 
 What river does the Barragem do Alqueva impound?
@@ -34405,8 +34405,8 @@ shashlik
 What is the Russian name for Easter bread?
 kulich
 
-Who composed \begin{CJK*}{UTF8}{gbsn}〈一剪梅〉\end{CJK*}?
-\begin{CJK*}{UTF8}{gbsn}费玉清\end{CJK*}
+Who composed 〈一剪梅〉?
+费玉清
 
 How many points did Connor McDavid have in the 2022--23 NHL season?
 153
@@ -34417,7 +34417,7 @@ How many goals did Connor McDavid have in the 2022--23 NHL season?
 How many assists did Connor McDavid have in the 2022--23 NHL season?
 89
 
-Let $\mathfrak{g}$ be an $N$-dimensional Lie algebra. Let $(\cdot,\cdot)$ be an $\operatorname{ad}$-invariant bilinear form on $\mathfrak{g}$ (say the Killing form). Let $\{x_1,\hdots,x_N\}$ be a basis for $\mathfrak{g}$ and let $\{x_1^*,\hdots,x_N^*\}$ be the dual basis with respect to $(\cdot,\cdot)$. What is the Casimir element for $(\cdot,\cdot)$?
+Let $\mathfrak{g}$ be an $N$-dimensional Lie algebra. Let $(\cdot,\cdot)$ be an $\operatorname{ad}$-invariant bilinear form on $\mathfrak{g}$ (say the Killing form). Let $\{x_1,...,x_N\}$ be a basis for $\mathfrak{g}$ and let $\{x_1^*,...,x_N^*\}$ be the dual basis with respect to $(\cdot,\cdot)$. What is the Casimir element for $(\cdot,\cdot)$?
 \begin{align*} \sum_{n=1}^N x_nx_n^*\end{align*}
 
 What is the chorale to which the O Haupt voll Blut und Wunden music is set in Bach's Christmas oratorio (BWV 248)?
@@ -34912,22 +34912,22 @@ Benny Andersson, Agnetha Fältskog, Anni-Frid Lyngstad, Björn Ulvaeus
 What instrument does Nathalie Forget play?
 ondes Martenot
 
-What does \begin{CJK*}{UTF8}{gbsn}「吃一堑，长一智」\end{CJK*} [chī yí qiàn，zhǎng yí zhì] mean?
+What does 「吃一堑，长一智」 [chī yí qiàn，zhǎng yí zhì] mean?
 ``a fall into a pit, a gain in your wit''
 
-What does \begin{CJK*}{UTF8}{gbsn}「一根筷子容易折，一把筷子难折断」\end{CJK*} [yī gēn kuài zi róng yì zhé， yī bǎ kuài zi nán zhé duàn] mean?
+What does 「一根筷子容易折，一把筷子难折断」 [yī gēn kuài zi róng yì zhé， yī bǎ kuài zi nán zhé duàn] mean?
 ``one chopstick is fragile, but a group of chopsticks is robust''
 
-What does \begin{CJK*}{UTF8}{gbsn}「良好的开端，是成功的一半」\end{CJK*} [liáng hǎo de kāi duān， shì chéng gōng de yī bàn] mean?
+What does 「良好的开端，是成功的一半」 [liáng hǎo de kāi duān， shì chéng gōng de yī bàn] mean?
 ``well begun is half done''
 
-What does \begin{CJK*}{UTF8}{gbsn}「三思而后行」\end{CJK*} [sān sī ér hòu xíng] mean?
+What does 「三思而后行」 [sān sī ér hòu xíng] mean?
 ``think three times before you do''
 
-What does \begin{CJK*}{UTF8}{gbsn}「量变质变规律」\end{CJK*} [liàng biàn zhí biàn guī lǜ] mean?
+What does 「量变质变规律」 [liàng biàn zhí biàn guī lǜ] mean?
 ``quantitative changes lead to qualitative changes''
 
-What does \begin{CJK*}{UTF8}{gbsn}「巧妇难为无米之炊」\end{CJK*} [qiǎo fù nán wéi wú mǐ zhī chuī] mean?
+What does 「巧妇难为无米之炊」 [qiǎo fù nán wéi wú mǐ zhī chuī] mean?
 ``the cleverest housewife cannot cook without rice''
 
 Monomorphisms must be injective functions in {Set}. True or false?
@@ -34978,20 +34978,20 @@ Tochigi
 What island contains Port Renfrew?
 Vancouver Island
 
-What name is given to a sequence of random variables $(X_n)_n$ that satisfies $\mathbf{E}(\lvert X_n \rvert) < \infty$ and $\mathbf{E}(X_{n+1} \mid X_1,\hdots,X_n) = X_n$ for all $n$?
+What name is given to a sequence of random variables $(X_n)_n$ that satisfies $\mathbf{E}(\lvert X_n \rvert) < \infty$ and $\mathbf{E}(X_{n+1} \mid X_1,...,X_n) = X_n$ for all $n$?
 martingale 
 
 What is the second convergent of the continued fraction of $\pi$?
-22/7
+\begin{align*}\frac{22}7\end{align*}
 
 What is the third convergent of the continued fraction of $\pi$?
-333/106
+\begin{align*}\frac{333}{106}\end{align*}
 
 What is the fourth convergent of the continued fraction of $\pi$?
-355/113
+\begin{align*}\frac{355}{113}\end{align*}
 
-What number is called \begin{CJK*}{UTF8}{gbsn}「密率」\end{CJK*} in Chinese?
-355/113
+What number is called 「密率」 in Chinese?
+\begin{align*}\frac{355}{113}\end{align*}
 
 What two mathematicians were the first to prove the prime number theorem?
 Jacques Hadamard, Charles Jean de la Vallée Poussin
@@ -35161,7 +35161,7 @@ Geminids
 What is a small cellular body or bud that can separate to form a new organism called?
 gemma
 
-What small cellular body or bud that can separate to form a new organism shares its name with a peculiar name?
+What small cellular body or bud that can separate to form a new organism shares its name with a peculiar given name?
 gemma
 
 What is another term for chlamydospore?
@@ -35657,7 +35657,7 @@ Emilio Estevez
 Good morning
 
 What is the maximum probability that two elements in a non-abelian compact topological group commute?
-$5/8$
+\begin{align*}\frac 58\end{align*}
 
 Give the number. What Brahms symphony's finale is a passacaglia with thirty variations?
 4
@@ -35722,7 +35722,7 @@ Innocent VIII
 Who was Sandro Botticelli apprentice?
 Filippo Lippi
 
-What is 「絲綢之路」?
+What is 「絲綢之路」 ?
 Silk Road
 
 What year saw the establishment of the Spanish Inquisition?
@@ -35912,7 +35912,7 @@ Who says that it ain't where you from, but that it's where you at?
 Rakim
 
 What are the four coastal municipalities of Piauí?
-Cajueiro da Praia, Ilha Grande Luís Correia, Parnaíba
+Cajueiro da Praia, Ilha Grande, Luís Correia, Parnaíba
 
 Who painted Jean Sibelius's favourite painting?
 Oscar Parviainen
@@ -36087,6 +36087,1605 @@ giardiniera
 
 Who claps and asks smart people ``what's going on''?
 Andrew Dotson
+
+Whose story does The blind side tell?
+Michael Oher
+
+What do gibberellins stimulate?
+stem elongation, germination, and flowering
+
+What plant hormones stimulate stem elongation, germination, and flowering?
+gibberellins
+
+What does the Latin ``gibbus'' mean in English?
+hump
+
+What channel separates the southern tip of the Iberian peninsula and North Africa?
+Strait of Gibraltar
+
+(1883--1931) What Lebanese-born American writer and artist is best known for The Prophet (1923)? His writings in both Arabic and English are deeply romantic, displaying his religious and mystical nature.
+Khalil Gibran
+
+What is a Gibson?
+dry martini cocktail garnished with a pickled onion
+
+What desert region in Western Australia is located to the southeast of the Great Sandy Desert?
+Gibson Desert
+
+What team did Bob Gibson pitch for from 1959 to 1975?
+St. Louis Cardinals
+
+(b. 1956) What Australian actor and director is noted for the Lethal Weapon trilogy (1987, 1989, and 1992), Braveheart (1995), and The Passion of the Christ (2004)?
+Mel Gibson
+
+What is a gibus?
+hat
+
+What technology for fine art or photograph reproduction uses a high-quality inkjet printer to make individual copies?
+giclée
+
+(1904--2000) What English actor and director was a notable Shakespearean actor particularly remembered for his interpretation of the role of Hamlet and also appeared in contemporary plays and movies including the film Arthur (1980)?
+Sir John Gielgud
+
+Who was the governor of Pennsylvania from 1931 to 1935?
+Gifford Pinchot
+
+What is the struggle between the gods and the giants?
+gigantomachy
+
+What is gigantomachy?
+the struggle between the gods and the giants
+
+To what family did the Gigantopithecus belong?
+Pongidae
+
+What is a gigolo?
+young man paid or financially supported by an older woman to be her escort or lover
+
+What is a gigot?
+leg of mutton or lamb
+
+What is a leg of mutton or lamb called?
+gigot
+
+What archipelago lies approximately 500 nautical miles from mainland Brazil and is part of the state district of Fernando de Noronha? 
+Saint Peter and Saint Paul Archipelago
+
+What physicist is noted for the theory of the polaron?
+Sigurd Zienau
+
+What name is given to a bound pair of electrons in a superconductor?
+Cooper pair
+
+What does ``BCS'' abbreviate as in ``BCS pair''?
+Bardeen--Cooper--Schrieffer
+
+Who wrote ``The architecture of complexity''?
+Herbert A. Simon
+
+What country contains Val Fex?
+Switzerland
+
+What Brazilian state contains the municipality of Carauari?
+Amazonas
+
+What moves characterize the Canal attack (or the Moscow variation) in the Sicilian defence?
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7
+
+What is the binomial name of the Finsch's wheatear?
+Oenanthe finschii
+
+What is the more common name for Oenanthe finschii? 
+Finsch's wheatear
+
+What was Elo's given name?
+Arpad
+
+Where is Árpád híd?
+Budapest
+
+What wood cmes from Millettia laurentii?
+wengé
+
+Where was Vladimir Tarasenko born?
+Yaroslavl, Russia
+
+Define ``amanuensis.''
+literary or artistic assistant, in particular, one who takes dictation or copies manuscripts
+
+What Canadian mathematician is known for Integral House?
+James Stewart
+
+What is ``a reduction in the lift coefficient generated by a foil as angle of attack increase'' in fluid dynamics?
+stall
+
+Which reaches further north: Ireland or Northern Ireland?
+Ireland
+
+What bridge connects Rio de Janeiro and Niterói over Guanabara Bay?
+Ponte Presidente Costa e Silva
+
+What bridge connects Manaus and Iranduba?
+Ponte Jornalista Phelippe Daou
+
+What bridge was the longest over water at the time of its completion in 1956?
+Lake Pontchartrain Causeway
+
+What were the questions asked at the bridge of death in Monty Python and the Holy Grail?
+What is your favourite colour? What is the capital of Assyria? What is your favourite colour? What is the airspeed velocity of an unladen swallow?
+
+What MLB team drafted Tom Brady?
+Montreal Expos
+
+Who was the eightieth and the eighty-third speaker of the United States House of Representatives? His two terms were from 1947 to 1949 and from 1953 to 1955. He was a Republican from Massachusetts.
+Joseph W. Martin Jr.
+
+What slave character from the plays of Aristophanes is Dicaeopolis's slave in The Acharnians?
+Xanthias
+
+What is the first of Aristophanes's surviving plays?
+The Acharnians 
+
+What two mathematicians proved that there exist arbitrarily large arithmetic progressions in the prime numbers?
+Ben Green, Terence Tao
+
+For what does the ``D. H. J.'' stand in ``D. H. J. Polymath''?
+density Hales--Jewett
+
+Who created TeX?
+Donald Knuth
+
+Where did Donald Knuth receive his PhD?
+California Institute of Technology
+
+Who was Donald Knuth's doctoral advisor?
+Marshall Hall Jr.
+
+Who were the two authors of ``Ring theoretic properties of certain Hecke algebras,'' proving at last Fermat's last theorem?
+Richard Taylor, Andrew Wiles
+
+Who was Richard Taylor's doctoral advisor at Princeton?
+Andrew Wiles
+
+Who advised Kevin Buzzard?
+Richard Taylor
+
+Who advised Richard Borcherds?
+John H. Conway
+
+Who proved that all finite groups of odd order are solvable?
+Walter Feit, John G. Thompson
+
+What three mathematicians proved that $\liminf_{n\to\infty} (p_{n+1} - p_n) / \log p_n = 0$ in a paper entitled ``Primes in tuples I''?
+Daniel Alan Goldston, Pintz János, Cem Yalçın Yıldırım
+
+Where did Szemerédi Endre receive his PhD?
+Lomonosov Moscow State University
+
+Where did William Thurston receive his PhD?
+University of California, Berkeley
+
+Who penned A modest proposal? 
+Jonathan Swift
+
+Who is the Raumdeuter?
+Thomas Müller
+
+``To a soul that beholds the Creator, all creation is narrow in compass. For when a man views the Creator's light, no matter how little of it, all creation becomes small in his eyes.''
+St. Gregory the Great
+
+What Star Trek clause serves as a modern example of the split infinitive?
+to boldly go where no man has gone before
+
+Who was the Greek goddess of persuasion?
+Peitho
+
+What did Peitho personify?
+persuasion 
+
+Define ``echt.''
+authentic and typical
+
+What monastic tradition in the Eastern Church was characterized by seeking stillness via continuous prayer? Its name comes from the Ancient Greek ἡσυχάζει, which means ``he rests.''
+Hesychasm
+
+What Franco-Ontarian song was composed by Jean-Pierre Perreault and Brian St-Pierre?
+Mon bon drapeau
+
+``When you are dead, you don't know you are dead. It's pain only for others. It's the same thing when you are [this].''
+stupid
+
+What is Canada's longest bridge?
+Confederation Bridge
+
+What is the area of grammar dealing with endings?
+accidence
+
+What is the usual case of a direct object?
+accusative
+
+What verb form is used most commonly when the subject of the sentence performs the action or has his state described?
+active
+
+What is the noun, pronoun, or clause to which a relative pronoun refers back?
+antecedent
+
+What tense of a verb refers to something that happened in the past? An example is ``ἐποίησα'' in ``τοῦτο ἐποίησα.''
+aorist
+
+What is the main clause of a conditional sentence?
+apodosis
+
+What is the placing of a word, phrase, or clause in parallel with another word, phrase, or clause to give further information about the latter?
+apposition
+
+What is the term referring to the distinction between two ways in which a verb can convey time (the time and the type of time)?
+aspect
+
+What is something added at the beginning of verbs to denote a past tense?
+augment
+
+What is a clause usually beginning in English with the word ``although'' or ``though''?
+concessive clause
+
+What is a clause usually beginning in English with the words ``if,'' ``if not,'' or ``unless''?
+conditional clause
+
+What is a word used to join clauses, phrases, or words together?
+conjunction
+
+What case of an indirect object may mean ``to,'' ``for,'' ``with,'' and ``by''?
+dative
+
+What are the Greek definite articles?
+ὁ, ἡ, τό
+
+What adjective describes words or expressions that ``point'' to some feature of a situation?
+deictic
+
+What is a deponent verb?
+passive in form but active in function
+
+What are the two dots placed over the second of two adjacent vowels that are to be pronounced separately, as in ``βοΐ ''?
+diaeresis
+
+What is a word formed from another to express diminished size, as with ``hillock''?
+diminutive
+
+What is the union of two vowels pronounced as one syllable (one vowel followed by a glide into a second vowel)?
+diphthong
+
+What is a short word that cannot stand alone but has to follow another word onto which it throws back its accent?
+enclitic
+
+What is the tens of a verb that refers to something in the future at a stage after it has happened, as in ``I shall have ceased''?
+future perfect
+
+What is the case that shows possession and means ``of'' dominantly?
+genitive
+
+What verbal adjective expresses the idea of obligation?
+gerundive
+
+What are the parts of the verb that express a command?
+imperative
+
+What tense expresses continuous, repeated, or incomplete action in the past?
+imperfect
+
+What is a verb introduced in English by the word ``it''?
+impersonal
+
+Of what is the adding of the English word ``ever'' to the end of another word an example?
+indefinite construction
+
+Define ``jussive.''
+giving an order
+
+What is a verb that does not take a direct object?
+intransitive
+
+What is the case that tells us where something is happening?
+locative
+
+What is a line above a vowel indicating that it is long?
+macron
+
+What is the case of the subject of a sentence or usually of the complement of a verb?
+nominative
+
+What Greek mood of the verb does not express statements but such concepts as ``would,'' ``might,'' and ``if only!''? It is also used in the indefinite construction and in certain subordinate clauses. It is more remote than the subjunctive in either likelihood or time.
+optative
+
+What verb means ``to give a full grammatical description of a word'' --- that is, ``to give the person, number, tense, mood, voice, and meaning''?
+parse
+
+What is an adjective formed from a verb?
+participle
+
+What is the tense of a verb that refers to a completed action, the effects of which still continue into the present?
+perfect
+
+What is the tense that means ``had,'' referring to a past state resulting from a completed action?
+pluperfect
+
+What is a word that stands instead of a noun?
+pronoun
+
+What is the ``if ...'' or ``unless ...'' clause of a conditional sentence?
+protasis
+
+What is the process by which verbs beginning with a single consonant (not ῥ) form a prefix in the perfect, pluperfect, and future perfect by adding that letter followed by an ε at the beginning?
+reduplication
+
+What is a pronoun that introduces a subordinate clause, identifying the person or thing mentioned in the main clause?
+relative pronoun
+
+What is the principle according to which the use of a certain tense in the main clause determines whether the subjunctive or the optative should be used in a subordinate clause?
+sequence of tenses and moods
+
+What is the part of a noun, adjective, or verb to which endings are added?
+stem
+
+What is, in a clause or sentence, the noun or pronoun that causes the action of the verb or has his state described?
+subject
+
+What verb form is used, among many other functions, to express doubt, unlikelihood, or possibility? It is less remote than the optative in either likelihood or time. Words such as ``may,'' ``might,'' and ``should'' can indicate it in English.
+subjunctive
+
+What is a clause that depends on another clause (usually the main clause) of the sentence in which it stands?
+subordinate clause
+
+What is the form of an adjective or adverb that makes it mean ``most'' or ``very''?
+superlative
+
+What is a verb used with a direct object either expressed or understood?
+transitive
+
+What is the case by which one addresses or calls to someone?
+vocative
+
+Who were the three great Attic poets of tragedy in the fifth century BC?
+Aeschylus, Euripides, Sophocles
+
+What case indicates separation, or moving away from something?
+ablative case
+
+What system of vowel alternation in Proto-Indo-European involves vowels that are used in various parts of a word changing depending on meaning? In the Germanic languages, it forms the basis of the strong verbs.
+ablaut
+
+What case is used to indicate the patient or experiencer of a verb's action?
+absolutive case
+
+What name is given to a verb of motion whose motion is multidirectional (as opposed to unidirectional) or indirect, or whose action is repeated or iterative, in the Slavic languages?
+abstract verb
+
+What does ``AD'' abbreviate?
+Anno Domini
+
+Of what is alus mider an example in the Balinese language?
+speech register
+
+Of what is andap an example in the Balinese language?
+speech register
+
+What is the third-to-last syllable of a word?
+antepenultima
+
+What is the removal of a letter or sound from the beginning of a word?
+apheresis
+
+What is the removal of an initial unstressed sound from a word? It is the process by which ``escarp'' became ``scarp.''
+aphesis
+
+What is the omission of the final sound or syllable of a word without changing its morphological structure or meaning?
+apocope
+
+What is a consonant sound produced by restricting the air flow through the mouth only slightly, resulting in a smooth sound?
+approximant
+
+What property of a verb form indicates the nature of an action as perfective (complete) or imperfective (incomplete or continuing)?
+aspect
+
+What is the aspect of a verb that denotes an action without a definite endpoint or a goal that is tended towards, or rather an action with cumulative reference (such that the expression for that action may describe two or more actions of that kind that, when combined, still constitute a form of that action)?
+atelic
+
+What is an adjective that stands in a syntactic position where it directly modifies a noun, as opposed to a predicate adjective?
+attributive
+
+What name is given to a term formed by removing an apparent or real prefix or suffix from an older term? For example, the noun ``pea'' arose because the final /z/ sound in ``pease'' sounded like a plural suffix.
+back-formation
+
+Define ``barytone.''
+with the stress elsewhere than upon the final syllable
+
+What does ``BC'' abbreviate?
+Before Christ
+
+What name is given to a borrowing by word-for-word translation? For example, the English expression ``it goes without saying'' is a literal, word-for-word translation of the French ``ça va sans dire,'' and ``flea market'' is a word-for-word translation of the French ``marché aux puces.''
+calque
+
+What is a verb able to be immediately followed by the full or bare infinitive, or gerund?
+catenative verb
+
+What is the shortening of a word without changing meaning or part of speech?
+clipping
+
+Define ``cognate'' in the context of linguistics.
+descended from the same source lexeme of an ancestor language
+
+What is a verb of motion whose motion is unidirectional and expresses a single, completed action in the Slavic languages?
+concrete verb
+
+What is the mood of a verb used to signify that something is contingent upon the outcome of something else?
+conditional mood
+
+What form of consonant mutation found in certain, particularly Uralic, languages, is historically conditioned by the openness of the following syllable?
+consonant gradation
+
+What is a term with two opposite meanings called?
+contranym
+
+What is a contranym?
+term with two opposite meanings
+
+What is a verb that links and equates its subject with its object? It is also called a ``linking verb.''
+copula
+
+What adjective means ``derived from a noun''?
+denominal
+
+What verb form indicates a wish?
+desiderative
+
+What diacritic ( ¨ ) is placed over a vowel letter to indicate that it is sounded separately?
+diaeresis
+
+What is the phonological process whereby one of a pair of similar sounds within a word or phrase becomes dissimilar?
+dissimilation
+
+What name is given to one of two (or more) words in a language that have the same etymological root (as in etymon, not root morphemes like Proto-Indo-European roots) but have come to the modern language through different routes?
+doublet
+
+What name is given to a term carrying negative connotations or imagery to replace a (more) neutral original?
+dysphemism
+
+What stage of gradation in Semitic languages can be used both for a superlative and comparative?
+elative
+
+What case expresses ``moving out of''?
+elative
+
+What is the removal of a phoneme or sequence of phonemes from a word, particularly at the beginning or end?
+elision
+
+What is the phonetic joining of a word with the preceding word?
+enclisis
+
+In what nominal compound does one part modify the other, where the modified compound refers to the intended meaning of the compound as a whole?
+endocentric
+
+What is the insertion of a phoneme, letter, or syllable into a word, usually to satisfy the phonological constraints of a language or poetic context?
+epenthesis
+
+Define ``epicene.''
+having a single form for both male and female referents
+
+What case used in some languages marks the subject of a transitive verb, but not the subject of an intransitive verb?
+ergative case
+
+What verb can be transitive or intransitive, where the intransitive subject is the patient, the same role as the transitive object?
+ergative 
+
+What is an etymon?
+the source word of a given word
+
+What is, in languages with matres lectionis (consonant letters representing vowels), a form including one or more additional ones?
+excessive spelling
+
+What is a sound in a word without etymological reason, added for articulatory purposes?
+excrescent
+
+What is a name for a place, people or language used by foreigners instead of the native-language version?
+exonym
+
+What is a deliberate misspelling used in writing to indicate that the speech of a character is vernacular, non-standard, or uneducated?
+eye dialect
+
+What name is given to the possessive or genitive construction in Persian?
+ezafe
+
+What kind of transitive verb is derived from an adjective or noun and expresses the act of making someone/something have the properties (or have more of the properties) of the base adjective or noun?
+factitive
+
+What is a word in a language that bears a phonetic resemblance to a word in another language, often because of a common etymology, but has a different meaning?
+false friend
+
+What consonant sound is produced by air flowing through a constriction in the mouth, typically producing a sibilant, hissing, buzzing or otherwise ``rough'' quality?
+fricative
+
+What is the phenomenon wherein a consonant is pronounced for an audibly longer period of time than is done normally?
+gemination
+
+What verbal aspect specifies an action as occurring habitually? It is often called ``habitual.''
+consuetudinal
+
+What is a word that occurs only once within a given corpus, either in the written record of an entire language, in the works of an author, or in a single text? An example is ``νεκραγωγοῦντα.'' 
+hapax legomenon
+
+What is the elision or deletion of a part of a word (a sequence of phonemes, or a series of letters) that is repeated (either exactly or with slight change)?
+haplology
+
+Define ``hypercorrect.''
+incorrect because of the misapplication of a standard rule
+
+In what form of metathesis are non-contiguous sounds switched?
+hyperthesis
+
+What is the Arabic possessive or genitive construction called?
+ʾiḍāfa
+
+What is a word that evokes an idea in sound, often a vivid impression of certain sensations or sensory perceptions, e.g. sound, movement, colour, shape, or action?
+ideophone
+
+What is a word with one or more inflections with more syllables than the lemma form?
+imparisyllabic
+
+What mood of a verb expresses an order or command?
+imperative
+
+What is a verb that cannot take a subject or takes a third-person neuter subject pronoun (e.g. ``it'') without an antecedent?
+impersonal verb
+
+What case is used to express means or agency? Generally, it is indicated in English by ``by'' or ``with'' with the objective.
+instrumental
+
+What is an empty morph (or meaningless morph) inserted between two morphemes in the process of word formation?
+interfix
+
+What specific occurrence of palatalization occurred in the Proto-Slavic language, in which a consonant combined with the palatal approximant /j/ to form a palatalized consonant?
+iotation
+
+What number of inflectional endings sometimes called ``desinetial inflections,'' applied to Arabic nouns, adjectives, and verbs, do not appear in writing --- with minor exceptions --- and are not pronounced in pausa, i.e. at the end of a sentence or before a pause?
+ʾiʿrāb
+
+What mood of a verb is used to indicate a command, permission, or agreement with a request?
+jussive
+
+What was the classically based artificial (standardized) Greek language created at the start of Greece's independence from the Ottoman Empire? It was used for all formal and official purposes until 1976.
+Katharevousa
+
+What metaphorical compound or phrase describes basic objects in an allusive fashion, especially in Germanic poetry?
+kenning
+
+What type of Wanderwort is specific to a particular culture or is spread by an influential cross-cultural phenomenon?
+Kulturwort
+
+What rhetorical figure involving understatement consists of saying that something has less of one thing to mean more of the opposite?
+litotes
+
+What case is used to indicate place or the place where or wherein?
+locative
+
+What short, straight, horizontal diacritical mark ( ¯ ) is placed over any of various letters, usually to indicate that the pronunciation of a vowel is long?
+macron
+
+What grammatical voice subsumes the meanings of both the middle voice and the passive voice?
+mediopassive
+
+What form of understatement that consists of downplaying or diminishing the focal quality of a statement for contrastive, humorous or dramatic effect, sometimes deployed as part of a higher register? One example is saying ``he is somewhat displeased'' instead of ``he is furious.''
+meiosis
+
+What name is given to the infix -né- or -n- in Proto-Indo-European --- one of the affixes marking the imperfective aspect?
+nasal infix
+
+What is a nonce word?
+word invented for the occasion
+
+In Slavic languages, what is a plural gender used for all groups that do not contain men, as well as plurals of masculine animate, masculine inanimate, feminine, and neuter nouns?
+nonvirile
+
+What name is given to any case that is neither nominative nor vocative?
+oblique/objective
+
+What category of verb form (a mood) expresses wishes along with other meanings?
+optative mood
+
+Define ``oxytone.''
+with the stress upon the final syllable
+
+What adjective describes a word with the stress upon the final syllable?
+oxytone
+
+What is the addition of sounds at the end of a word without changing its morphological structure or meaning?
+paragoge
+
+What is a word whose inflections contain the same number of syllables as the lemma form?
+parisyllabic
+
+What adjective describes a word with the stress upon the penultimate syllable?
+paroxytone
+
+What is the next-to-last syllable of a word?
+penultima
+
+What adjective describes using more words to produce a grammatical effect?
+periphrastic
+
+What is a consonant sound produced by completely blocking the airflow through the mouth for a short time?
+plosive
+
+What verb form of perfect aspect and past tense is used to describe an action or event which is regarded as having been completed in the past, in relation to a time already in the past?
+pluperfect
+
+What does ``plurale tantum'' mean?
+plural only
+
+What tense shows an action at a determined moment in the past?
+preterite
+
+What adjective describes a word with the stress upon the antepenultimate syllable? 
+proparoxytone
+
+What name is given to a descendant word in a daughter language, descended from an earlier language?
+reflex
+
+What verbal aspect, a subclass of perfective, denotes a momentary or punctual event (e.g. to sneeze, to blink, to knock)?
+semelfactive
+
+What is a letter or other symbol that stands for a word or name? For example, ``ꝓ'' is one in medieval Latin for the word ``pro.''
+siglum
+
+What does ``s.l.'' abbreviate?
+sine locō
+
+In what specific occurrence of palatalization that occurred in the Proto-Slavic language did the velar consonants *k *g *x when followed by any of the front vowels *e *ě *ь *i become the sounds *č *ž *š respectively?
+Slavic first palatalization
+
+What does ``s.n.'' abbreviate?
+sine nōmine
+
+What type of cliché uses an old idiom formulaically in a new context?
+snowclone
+
+What mood of a verb expresses an action or state which is hypothetical or anticipated rather than actual, including wishes and commands?
+subjunctive
+
+What is the deletion or elision of sounds inside a word (not at the beginning or end), most often a single vowel, but sometimes a consonant or a sequence of vowels or consonants?
+syncope
+
+What is the situation in which two or more inflected forms of a word are identical?
+syncretism
+
+What is the aspect of a verb that denotes an action with a definite endpoint or a goal that is tended towards, or rather an action that is quantized (such that the expression for that action may not describe both the action and a smaller part of that same action)?
+telic
+
+What is the insertion of one or more words between the components of a compound word?
+tmesis
+
+What verb form in some Balto-Slavic languages expresses a coincidentally proceeding or following action?
+transgressive
+
+What is a consonant made with the tongue touching the soft palate?
+velar
+
+What is another term for the soft palate?
+velum
+
+In what type of backslang used in French does the order of the syllables or sounds of words change, usually with the last syllable coming first?
+verlan
+
+In Slavic languages, what plural gender is used for groups that include men and for masculine personal nouns?
+virile
+
+What is a word form that has spread over a substantial area, or to many regions, outside of that of its language of origin, typically due to cultural exchange resulting from travel and trade?
+Wanderwort
+
+In Proto-Indo-European linguistics, what name is given to an ablaut form of a root characterized by the absence of the basic ablauting vowel phonemes */e/ and */o/?
+zero-grade
+
+What name is given to an initial ⟨h⟩ that is treated as a consonant?
+aspirated h
+
+What name is given to an initial ⟨h⟩ that is treated as a vowel?
+mute h
+
+What does ``overmorrow'' mean?
+the day after tomorrow
+
+What collective name is given to significant changes to the pronunciation of English that happened between the 15th and 18th centuries?
+Great Vowel Shift
+
+What does the samurai never blame?
+his sword
+
+What things never lie, according to Tony Montana, Chico?
+the eyes
+
+In Monty Python and the Holy Grail, what knights halt King Arthur and his companions in a forest?
+the knights who say ``ni!''
+
+What is the English name for the João-de-Barro, which also may be called the ``red ovenbird''?
+rufous hornero
+
+Like what do real Gs move in silence?
+lasagna
+
+Finish the colloquialism: ``I ran away faster than you could say ---.'' (No, the saying is not about the famous number 42 Jackie.)
+Jack Robinson
+
+(Before and after.) Norwegian mathematician who discovered New Zealand.
+Niels Henrik Abel Tasman
+
+Where did Atle Selberg work for most of his academic life?
+Institute for Advanced Study
+
+Identify the author. ``Only the silent, sleepy, staring houses in the backwoods can tell all that has lain hidden since the early days; and they are not communicative, being loath to shake off the drowsiness which helps them forget. Sometimes one feels that it would be merciful to tear down these houses, for they must often dream.''
+H. P. Lovecraft
+
+What is demagoguery?
+political activity or practices that seek support by appealing to the desires and prejudices of ordinary people rather than by using rational argument
+
+What is Emanuel Ax's occupation?
+piano playing
+
+What is the nearest integer to the Golomb--Dickman constant?
+1
+
+What Spanish philosopher studied at Harvard under William James and Josiah Royce?
+George Santayana
+
+What theorem whose name contains two names, though having different formulations, encapsulates the idea that projective modules over commutative rings are ``the same'' as vector bundles on compact topological spaces?
+Serre--Swan theorem
+
+What duo composed the music for the Halo video games?
+Martin O'Donnell, Michael Salvatori
+
+What was Mike Cammalleri's hometown?
+Richmond Hill
+
+What NHL team drafter Mike Cammalleri in 2001?
+Los Angeles Kings
+
+What team was Mike Cammalleri on when he scored a career-high 82 points in the 2008--09 season?
+Calgary Flames
+
+What is a proparoxytone?
+word with stress on the antepenultima
+
+What is a properispomenon?
+word with a circumflex on the penultima
+
+What is a paroxytone?
+word with stress on the penultima
+
+What is a perispomenon?
+word with a circumflex on the ultima
+
+What is an oxytone?
+word with stress on the ultima
+
+What is a barytone?
+word without stress on the ultima
+
+What transposition in Ancient Greek involves a long-short vowel length combination becoming short-long?
+quantitative metathesis
+
+What is a fanook?
+homosexual
+
+Where is Zakopane?
+Poland
+
+What mountain range can one see from Zakopane, Poland?
+Tatras
+
+What word was controversially added to the Nicene Creed?
+Filioque
+
+Who constructed the theatre at Epidaurus?
+Polykleitos the Younger
+
+With what drink are the names Lafite and Rothschild associated?
+wine
+
+What is coriander's name in the United States?
+cilantro
+
+What is cilantro's name outside of the United States?
+coriander
+
+By what nickname are residents of  Bures-sur-Yvette known?
+Buressois
+
+In what industry did Ingmar Bergman work?
+film
+
+What name does a twelve go by in the game of craps?
+boxcars
+
+How old was Methuselah when he died?
+969
+
+What country houses the city of Hargeisa?
+Somalia
+
+Whose embedding theorem says that, for any small abelian category $A$, there is a ring $R$ and a full, faithful, and exact functor from $A$ to the category of $R$-modules?
+Barry Mitchell
+
+What two countries are home to the White Carpathians?
+Czech Republic, Slovakia
+
+Of what mountain range is Chmeľová part?
+White Carpathians
+
+In what country was Stan Mikita born?
+Slovakia
+
+Who was the first Slovak-born hockey player to win the Stanley Cup?
+Stan Mikita
+
+For what team did Stan Mikita play?
+Chicago Blackhawks
+
+Where was Red Kelly born?
+Simcoe, Ontario
+
+How many Stanley Cups did Red Kelly win?
+eight
+
+For what two teams did Red Kelly play?
+Detroit Red Wings, Toronto Maple Leafs
+
+How many Stanley Cups did Red Kelly win while he was a member of Parliament?
+two
+
+What number did Red Kelly wear?
+4
+
+Where was Terry Sawchuck born?
+Winnipeg
+
+How many Stanley Cups did Terry Sawchuck win?
+four
+
+What was Terry Sawchuck's position?
+goalie
+
+How many shutouts did Terry Sawchuck record?
+103
+
+Who was the Stratford Streak?
+Howie Morenz
+
+Whose number was the first that the Montreal Canadiens retired?
+Howie Morenz
+
+How many Stanley Cups did Howie Morenz win?
+three
+
+Who was the Edmonton Express?
+Eddie Shore
+
+Where was Eddie Shore born?
+Fort Qu'Appelle
+
+What position did Eddie Shore play?
+defenceman
+
+How many Hart Trophies did Eddie Shore win?
+four
+
+What hockey player who severely injured Ace Bailey shook hands with Bailey at an all-star benefit game for him in 1934?
+Eddie Shore
+
+How many Stanley Cups did Eddie Shore win?
+two
+
+For what team did Elmer Lach play?
+Montreal Canadiens
+
+What players comprised the Punch Line (from left to right)?
+Toe Blake, Elmer Lach, Maurice Richard
+
+How many Stanley Cups did Elmer Lach win?
+three
+
+What number did Elmer Lach wear?
+16
+
+Where was Syl Apps born?
+Paris, Ontario
+
+In what sport did Syl Apps win gold at the 1934 British Empire Games? He came sixth in this sport at the 1936 Olympics.
+pole vault
+
+Who won the first Calder Memorial Trophy?
+Syl Apps
+
+For what team did Syl Apps play?
+Toronto Maple Leafs
+
+How many Stanley Cups did Syl Apps win?
+three
+
+For what city was Syl Apps an Ontario MPP?
+Kingston
+
+Where was Sid Abel born?
+Melville, Saskatchewan
+
+What players comprised the Production Line (from left to right)?
+Ted Lindsay, Sid Abel, Gordie Howe
+
+What attacking trio was known collectively as ``MSN'' at FC Barcelona?
+Leo Messi, Luis Suárez, Neymar
+
+How many Stanley Cups did Sid Abel win?
+three
+
+For what two NHL teams did Sid Abel play?
+Detroit Red Wings, Chicago Blackhawks
+
+Define ``whittle.''
+carve (wood) into an object by repeatedly cutting small slices from it
+
+Who was Mr. Hockey?
+Gordie Howe
+
+Who overtook Gordie Howe for most NHL games played in 2021?
+Patrick Marleau
+
+How many seasons did Gordie Howe play in the NHL?
+26
+
+How many points did Gordie Howe record in his NHL career?
+1850
+
+For what team did Gordie Howe play for 25 seasons?
+Detroit Red Wings
+
+How many Stanley Cups did Gordie Howe win?
+four
+
+Who is Le Gros Bill?
+Jean Béliveau
+
+How many Stanley Cups did Jean Béliveau win as a player?
+ten
+
+Where was Jean Béliveau born?
+Trois-Rivières
+
+Who was the honourary captain of Team Canada's hockey team in the 2010 Winter Olympics?
+Jean Béliveau
+
+Where was Father David Bauer born?
+Waterloo, Ontario
+
+For what team did Jean Béliveau play?
+Montreal Canadiens
+
+To whom does Matt Groening attribute the quote ``Love is a slippery eel that bites like hell''?
+Bertrand Russell
+
+To whom does Matt Groening attribute the quote ``Love is like a perky elf dancing a merry little jig and then suddenly he turns on you with a miniature machine gun''?
+Søren Kierkegaard
+
+To whom does Matt Groening attribute the quote ``Love is a snowmobile racing across the tundra and then suddenly it flips over, pinning you underneath. At night, the ice weasels come''?
+Friedrich Nietzsche
+
+Who proved Serre's epsilon conjecture?
+Ken Ribet
+
+Who helped Andrew Wiles notice that there was a gap in the manuscript of his proof of Fermat's last theorem?
+Nicholas Katz
+
+Whose paper entitled ``Deforming Galois representations'' included key ideas used in Wiles's proof of Fermat's last theorem?
+Barry Mazur
+
+What two Japanese mathematicians are associated with the modularity theorem linking elliptic curves and modular forms?
+Yutaka Taniyama, Goro Shimura
+
+When was Yutaka Taniyama born?
+12 November 1927
+
+What is Quebec's motto?
+Je me souviens
+
+What does ``Je me souviens'' mean in English?
+I remember
+
+What is Ontario's motto?
+Ut incepit fidelis sic permanet
+
+What does ``Ut incepit fidelis sic permanet'' mean in English?
+Loyal she began, loyal she remains
+
+What is Ontario's flower?
+white trillium
+
+What is Ontario's tree?
+eastern white pine
+
+What is Nova Scotia's motto?
+Munit hæc et altera vincit
+
+What does ``Munit hæc et altera vincit'' mean in English?
+One defends and the other conquers
+
+What is Nova Scotia's flower?
+mayflower
+
+What is Nova Scotia's tree?
+red spruce
+
+What is Nova Scotia's bird?
+osprey
+
+What is New Brunswick's motto?
+Spem reduxit
+
+What does ``Spem reduxit'' mean in English?
+Hope restored
+
+What is New Brunswick's flower?
+purple violet
+
+What is New Brunswick's tree?
+balsam fir
+
+What is New Brunswick's bird?
+black-capped chickadee
+
+What is Manitoba's motto?
+Gloriosus et liber
+
+What does ``Gloriosus et liber'' mean in English?
+Glorious and free
+
+What is Manitoba's flower?
+prairie crocus
+
+What is Manitoba's tree?
+white spruce
+
+What is Manitoba's bird?
+great grey owl
+
+What is British Columbia's motto?
+Splendor sine occasu
+
+What does ``Splendor sine occasu'' mean in English?
+Splendour without diminishment
+
+What is British Columbia's flower?
+Pacific dogwood
+
+What is British Columbia's tree?
+western red cedar
+
+What is British Columbia's bird?
+steller's jay
+
+What is Prince Edward Island's motto?
+Parva sub ingenti
+
+What does ``Parva sub ingenti'' mean in English?
+The small protected by the great
+
+What is Prince Edward Island's flower?
+pink lady's slipper
+
+What is Prince Edward Island's tree?
+red oak
+
+What is Prince Edward Island's bird?
+blue jay
+
+What is Saskatchewan's motto?
+Multis e gentibus vires
+
+What does ``Multis e gentibus vires'' mean in English?
+From many people, strength
+
+What is Saskatchewan's flower?
+western red lily
+
+What is Saskatchewan's tree?
+paper birch
+
+What is Saskatchewan's bird?
+sharp-tailed grouse
+
+What is Alberta's motto?
+Fortis et liber
+
+What does ``Fortis et liber'' mean in English?
+Strong and free
+
+What is Alberta's flower?
+wild rose
+
+What is Alberta's tree?
+lodgepole pine
+
+What is Alberta's bird?
+great horned owl
+
+What is Newfoundland and Labrador's motto?
+Quaerite prime regnum Dei
+
+What does ``Quaerite prime regnum Dei'' mean in English?
+Seek ye first the kingdom of God
+
+What is Newfoundland and Labrador's flower?
+pitcher plant
+
+What is Newfoundland and Labrador's tree?
+black spruce
+
+What is Newfoundland and Labrador's bird?
+Atlantic puffin
+
+What continent houses the city of Ceuta?
+Africa
+
+What is the northernmost town on the west coast of South Africa?
+Alexander Bay
+
+Who is Matlock?
+Andy Griffith
+
+How many Stanley Cups did Jacques Plante win?
+six
+
+What two goalies shared the Vezina Trophy in 1969?
+Jacques Plante, Glenn Hall
+
+How many Vezina Trophies did Jacques Plante?
+seven
+
+Who was the first goalie to don a goalie mask?
+Jacques Plante
+
+With what NHL team did Phil Esposito win two Stanley Cups?
+Boston Bruins
+
+Where was Phil Esposito born?
+Sault Ste. Marie
+
+What was the first name of Phil Esposito's brother who was an NHL goalie?
+Tony
+
+For what three NHL teams did Phil Esposito play?
+Chicago Blackhawks, Boston Bruins, New York Rangers
+
+Who set the record for most shots in an NHL season in 1971?
+Phil Esposito
+
+What did the Ted Lindsay Award used to be called?
+Lester B. Pearson Award
+
+With what NHL team did Johnny Bucyk win two Stanley Cups?
+Boston Bruins
+
+Where was Bobby Orr born?
+Parry Sound
+
+Who was the MVP of the inaugural Canada Cup?
+Bobby Orr
+
+Who was the MVP of the 1987 Canada Cup?
+Wayne Gretzky
+
+Who was the MVP of the 1981 Canada Cup?
+Vladislav Tretiak
+
+Who was the MVP of the 1984 Canada Cup?
+John Tonelli
+
+Who was the MVP of the 1991 Canada Cup?
+Bill Ranford
+
+Who was the only team to win the Canada Cup that was not Canada?
+Soviet Union
+
+When did the Soviet Union win the Canada Cup?
+1981
+
+How many Stanley Cups did Bobby Orr win?
+two
+
+Whose flying goal won the Stanley Cup for the Boston Bruins in 1970?
+Bobby Orr
+
+What Boston Bruin defenseman from Parry Sound scored nine hat tricks?
+Bobby Orr
+
+How many Art Ross Trophies did Bobby Orr win?
+two
+
+What two hockey players did Boston Bruin scout Wren Blair describe Bobby Orr as a combination of?
+Doug Harvey, Eddie Shore
+
+What number did Bobby Orr wear?
+4
+
+What was Bobby Orr's junior number?
+2
+
+What is David Letterman's birthday?
+12 April
+
+Where did Alan Eagleson graduate with a law degree?
+University of Toronto
+
+To whom did Alan Eagleson lose in the 1963 federal election in York West? 
+Red Kelly
+
+What Progressive Conservative did Red Kelly defeat in the 1963 federal election in York West? 
+Alan Eagleson
+
+What lawyer who was central in the Summit Series and the Canada Cup was disbarred and had his Order of Canada disannulled after being found guilty of fraud?
+Alan Eagleson
+
+Where was Bobby Clarke born?
+Flin Flon, Manitoba
+
+For what team did Bobby Clarke play?
+Philadelphia Flyers
+
+How many Stanley Cups did Bobby Clarke win?
+two
+
+On what junior team did Bobby Clarke play?
+Flin Flon Bombers
+
+Who was the captain of the winning Canadian team of the 1976 Canada Cup?
+Bobby Clarke
+
+What Canadian tied up the game between Canada and Czechoslovakia in the 1976 Canada Cup near the end of regulation?
+Bill Barber
+
+Who scored the winning goal in the  1976 Canada Cup in overtime?
+Darryl Sittler
+
+Who was the Flower?
+Guy Lafleur
+
+Where was Guy Lafleur born?
+Thurso
+
+How many Stanley Cups did Guy Lafleur win?
+five
+
+Who was Le Turbo de Thurso?
+Guy Lafleur
+
+How many Stanley Cups did Bryan Trottier win as a player?
+six
+
+What was Bryan Trottier's junior team?
+Swift Current Broncos
+
+For what two NHL teams did Bryan Trottier play?
+New York Islanders, Pittsburgh Penguins
+
+Who was the Great One?
+Wayne Gretzky
+
+How many goals did Wayne Gretzky score in his career?
+894
+
+How many goals did Wayne Gretzky score in the 1981--82 season?
+92
+
+How many assists did Wayne Gretzky score in his career?
+1963
+
+Who was the Magnificent One?
+Mario Lemieux
+
+For what NHL team did Mario Lemieux play?
+Pittsburgh Penguins
+
+How many Stanley Cups did Mario Lemieux win as a player?
+two
+
+Where was Mark Messier born?
+St. Albert, Alberta
+
+How many Stanley Cups did Mark Messier win?
+six
+
+How many Stanley Cups did Mark Messier win with the Edmonton Oilers?
+five
+
+In what year did Mark Messier win the Conn Smythe?
+1984
+
+Where was Brett Hull born?
+Belleville, Ontario
+
+Who was Brett Hull's father?
+Bobby Hull
+
+Who was the Golden Jet?
+Bobby Hull
+
+How many Stanley Cups did Brett Hull win?
+two
+
+With what two teams did Brett Hull win the Stanley Cup?
+Dallas Stars, Detroit Red Wings
+
+Who was the lead singer and guitarist for Creedence Clearwater Revival?
+John Fogerty
+
+For what baseball team did Bob Uecker broadcast? 
+Milwaukee Brewers
+
+What catcher and broadcaster for the Milwaukee Brewers routinely appeared on Johnny Carson?
+Bob Uecker
+
+Where was David Letterman born?
+Indianapolis
+
+What late-night talk show host hosted the most episodes?
+David Letterman
+
+Who was Bromios, the thunderer?
+Dionysus
+
+What is the tallest mountain in the White Carpathians?
+Veľká Javorina
+
+Who did Weekend Update on Saturday Night Live in 1985?
+Dennis Miller
+
+Who did Weekend Update on Saturday Night Live in 1993?
+Norm Macdonald
+
+What late-night talk show host hosted The Tonight Show from 1962 to 1992? He is routinely considered the best of late-night TV.   
+Johnny Carson
+
+Who directed Chariots of fire?
+Hugh Hudson
+
+Who were the first ten Fields Medallists to come from the École normale supérieure?
+Laurent Schwartz, René Thom, Jean-Pierre Serre, Alain Connes, Pierre-Louis Lions, Jean-Christophe Yoccoz, Laurent Lafforgue, Wendelin Werner, Ngô Bả Châu, Cédric Villani
+
+Who was the original architect of the Empire State Building?
+Frank Lloyd Cock
+
+What school originated in 1530 when Francis I was advised to start the creation of a school that would teach topics to royal scholars, that were not taught at the Sorbonne, originally Greek, Hebrew, and mathematics, and then later, French law, Latin, and medicine?
+Collège de France
+
+When was Henry IV assassinated?
+14 May 1610
+
+Who set down the first stone for the Collège de France?
+Louis XIII
+
+Inscribed in this building's first stone were the words ``En l'an premier du Regne de Louis XIII Roy de France et de Navarre, âgé de neuf ans, et de la Regence de la Royne Marie de Médicis sa mère MDCX.'' Identify the building.
+Collège de France
+
+What architect continued the construction of the Collège de France around the Cour d'Honneur in 1773?
+Jean Chalgrin
+
+What street is home to Le Lycée Louis-le-Grand? 
+Rue St Jacques
+
+What Parisian Lycée remained open during the Revolution?
+Lycée Louis-le-Grand
+
+When did the Lycée Louis-le-Grand get that name?
+1873
+
+What Lycée did Galois attend?
+Lycée Louis-le-Grand
+
+What school was created after the French Revolution on 28 September 1794, by Jacques- Élie Lamblardie, Gaspard Monge, and Lazare Carnot, as all the royal engineering schools had previously been closed? The aim of this new establishment was to replace all those schools, but they were later reopened and it was decided that students would have to attend this school before entering the other ones.
+École Polytechnique
+
+Who had the easiest autograph?
+I. M. Pei
+
+What school located on the site of the Royal Abbaye of Sainte-Genevieve was created by Clovis, King of Francs in 506?
+Lycée Henri IV
+
+What Lycée did Cauchy attend?
+Lycée Henri IV
+
+Who was Cauchy's professor at Lycée Henri IV?
+Jacques Binet
+
+What suffix is used for naming ACE inhibitors?
+pril
+
+Of what are lisinopril and benazepril examples?
+ACE inhibitors
+
+What suffix is used for naming alpha blockers?
+zosin
+
+Of what are terazosin and doxazosin examples?
+alpha blockers
+
+What suffix is used for naming angiotensin receptor blockers?
+sartan
+
+What suffix is used for naming benzodiazepines?
+zepam
+
+Of what are diazepam and clonazepam examples?
+benzodiazepines
+
+What suffix is used for naming beta blockers?
+olol
+
+Of what are metoprolol and carvedilol examples?
+beta blockers
+
+What suffix is used for naming H2 antagonists?
+tidine
+
+Of what are famotidine and ranitidine examples?
+H2 antagonists
+
+What suffix is used for naming 5HT3 antagonists?
+setron
+
+What suffix is used for naming proton pump inhibitors?
+prazole
+
+What suffix is used for naming quinolone antibiotics?
+floxacin
+
+What suffix is used for naming thiazolidinediones?
+glitazone
+
+What suffix is used for naming biphosphonates?
+dronate
+
+What suffix is used for naming monoclonal antibodies?
+mab
+
+What suffix is used for naming echinocandins?
+fungin
+
+What suffix is used for naming corticosteroids?
+asone
+
+What suffix is used for naming protease inhibitors?
+navir
+
+What suffix is used for naming leukotriene modifiers?
+lukast
+
+What suffix is used for naming HMG-CoA reductase inhibitors?
+statin
+
+What suffix is used for naming beta-2 agonists?
+terol
+
+What suffix is used for naming phosphodiesterase inhibitors?
+afil
+
+What suffix is used for naming tricyclic antidepressants?
+ipramine
+
+Translate ``Lex orandi, lex credendi.''
+law of prayer, law of belief
+
+What musicians feature on DJ Khaled's ``I'm the one''?
+Chance the Rapper, Justin Bieber, Lil Wayne, Quavo
+
+What pope issued Summorum Pontificum?
+Benedict XVI
+
+Who asks: ``[C]an anybody who takes a survey of the whole [Modernist] system be surprised that We should define it as the synthesis of all heresies?''
+Pius X
+
+What pope issued Pascendi Dominici Gregis?
+Pius X
+
+What is the ``synthesis of all heresies''?
+Modernism
+
+What is the Polish name for Lviv?
+Lwów 
+
+What is the German name for Lviv?
+Lemberg
+
+Translate ``sine qua non.''
+without which not
+
+Translate: ``J'ai crû en sagesse.''
+I grew in wisdom
+
+Translate: ``J'ai cru en la conjecture de Hodge.''
+I believed in the Hodge conjecture
+
+Translate: ``le cru et le cuit.''
+the raw and the cooked
+
+What does a cobbler do?
+mends shoes
+
+What is ``the dunny''?
+toilet
+
+Who says, tricking the cyclops, ``Οὖτις ἐμοί γ᾽ ὄνομα: Οὖτιν δέ με κικλήσκουσι / μήτηρ ἠδὲ πατὴρ ἠδ᾽ ἄλλοι πάντες ἑταῖροι''?
+Odysseus
+
+What Toronto Raptors broadcaster on TSN is known for exclaiming ``Get that garbage outta here!'' in his Brooklyn accent?
+Jack Armstrong
+
+What does ``Þjóðvegur'' mean?
+national road
+
+Define ``outturn.''
+quantity produced; output
+
+Define ``remuneration.''
+money paid for work or a service
+
+Define ``concomitant.''
+naturally accompanying or associated
+
+What is a sequela?
+condition that is the consequence of a previous disease or injury
+
+Who won the 2023 World Series?
+Texas Rangers
+
+Define ``fuliginous.''
+sooty; dusky
+
+Who wrote ``Raspberry beret''?
+Prince
+
+What American band made the song ``Drive by''?
+Train
+
+What does the Ancient Greek ``λεπταλέος'' mean?
+fine; delicate
+
+Who wrote The old man and the sea?
+Ernest Hemingway
+
+Who in 1547 became Tsar of Russia at 16?
+Ivan IV
+
+Wrote The Great Gatsby?
+F. Scott Fitzgerald
+
+What does the ``F'' stand for in ``F. Scott Fitzgerald''?
+Francis
+
+Who was the name of the youngest daughter of Tsar Nicholas II?
+Anastasia
+
+What isotope was the first to be observed exhibiting superfluidity?
+helium-4
+
+Who is described in Judges 6.11?
+Gideon
+
+What was Miloš Forman's occupation?
+director
+
+What is NPY4R?
+pancreatic polypeptide receptor 1
+
+What orchestra did Karel Ančerl direct until his death?
+Toronto Symphony Orchestra
+
+Define ``risible.''
+inclined to laugh
 
 
 
