@@ -12,12 +12,12 @@ default:
   description: ""
   compiler: xelatex
   preamble: |-
+    \usepackage {tipa} 
     \usepackage [no-math] {fontspec}
     \setmainfont [Script = Greek] {Gentium Plus} 
     \usepackage {mhchem}
     \usepackage {MnSymbol}  
     \usepackage {mathrsfs} 
-    \usepackage {tipa} 
     \usepackage [UTF8, fontset = none] {ctex}
     \setCJKmainfont {Songti TC}
 ```
@@ -27,6 +27,6 @@ If this doesn't make sense in the modern version of manim then the version of 3b
 pip install -e .
 ```
 
-You may also need to install some of these latex packages, and whatever is needed for manim.
+You may also need to install some of these latex packages and whatever is needed for manim.
 
 You may need to change the argument of `\setCJKmainfont` to match a Chinese font on your machine.

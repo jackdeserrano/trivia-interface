@@ -1,1392 +1,418 @@
-12101
+12564
 
-What is the area of grammar dealing with endings?
-accidence
+Who received the phone call from Alexander Graham Bell?
+Thomas Watson
 
-What is the usual case of a direct object?
-accusative
+What were the first words transmitted over the telephone?
+Mr. Watson, come here; I want to see you.
 
-What verb form is used most commonly when the subject of the sentence performs the action or has his state described?
-active
+What company issued the first cell phone?
+Motorola
 
-What is the noun, pronoun, or clause to which a relative pronoun refers back?
-antecedent
+How tall was Abraham Lincoln?
+6 foot 4
 
-What tense of a verb refers to something that happened in the past? An example is ``ἐποίησα'' in ``τοῦτο ἐποίησα.''
-aorist
+What sport did Abraham Lincoln enjoy?
+wrestling
 
-What is the main clause of a conditional sentence?
-apodosis
+Who was Abraham Lincoln's rival in the debates over slavery?
+Stephen Douglas
 
-What is the placing of a word, phrase, or clause in parallel with another word, phrase, or clause to give further information about the latter?
-apposition
+What government department did Abraham Lincoln establish?
+Department of Agriculture
 
-What is the term referring to the distinction between two ways in which a verb can convey time (the time and the type of time)?
-aspect
+On what money is Abraham Lincoln pictured?
+penny, five-dollar bill
 
-What is something added at the beginning of verbs to denote a past tense?
-augment
+For how many years did King George reign?
+59 years
 
-What is a clause usually beginning in English with the word ``although'' or ``though''?
-concessive clause
+Why did King George tax the Americans so heavily?
+to fund his seven wars
 
-What is a clause usually beginning in English with the words ``if,'' ``if not,'' or ``unless''?
-conditional clause
+What two places are associated with ``the shot heard round the world''?
+Lexington, Concord
 
-What is a word used to join clauses, phrases, or words together?
-conjunction
+True or false? Thomas Jefferson used a laptop to draft the Declaration of Independence.
+true
 
-What case of an indirect object may mean ``to,'' ``for,'' ``with,'' and ``by''?
-dative
+How long did the Revolutionary War last?
+8 years
 
-What are the Greek definite articles?
-ὁ, ἡ, τό
+What is the name of the treaty that ended the Revolutionary War?
+Treaty of Paris
 
-What adjective describes words or expressions that ``point'' to some feature of a situation?
-deictic
+In what country was the hot air balloon invented?
+France
 
-What is a deponent verb?
-passive in form but active in function
+Who wrote the ``Concord hymn''?
+Ralph Waldo Emerson 
 
-What are the two dots placed over the second of two adjacent vowels that are to be pronounced separately, as in ``βοΐ ''?
-diaeresis
+What was the last name of the brothers who invented the hot air balloon?
+Montgolfier
 
-What is a word formed from another to express diminished size, as with ``hillock''?
-diminutive
+What were the first names of the Montgolfier brothers who invented the hot air balloon?
+Étienne, Joseph-Michel
 
-What is the union of two vowels pronounced as one syllable (one vowel followed by a glide into a second vowel)?
-diphthong
+What state houses Kitty Hawk?
+North Carolina 
 
-What is a short word that cannot stand alone but has to follow another word onto which it throws back its accent?
-enclitic
+How long was the Wright Brothers' first flight in Kitty Hawk, North Carolina?
+12 seconds
 
-What is the tens of a verb that refers to something in the future at a stage after it has happened, as in ``I shall have ceased''?
-future perfect
+Who invented basketball?
+James Naismith
 
-What is the case that shows possession and means ``of'' dominantly?
-genitive
+What was the first basketball hoop?
+peach basket
 
-What verbal adjective expresses the idea of obligation?
-gerundive
+In what competition was the first slam dunk?
+1936 Olympics
 
-What are the parts of the verb that express a command?
-imperative
+Where were the 1936 Olympics held?
+Berlin
 
-What tense expresses continuous, repeated, or incomplete action in the past?
-imperfect
+What invention was used to make thread?
+spinning jenny
 
-What is a verb introduced in English by the word ``it''?
-impersonal
+After whom is the teddy bear named?
+Theodore Roosevelt
 
-Of what is the adding of the English word ``ever'' to the end of another word an example?
-indefinite construction
+By what process did some combinations of words that occurred frequently together coalesce to form a single word in Greek?
+crasis
 
-Define ``jussive.''
-giving an order
+Everyone knows that Patrick Roy was in net for the Avs' two Stanley Cup wins. Which two goalies backed him up?
+Stephane Fiset, David Aebischer
 
-What is a verb that does not take a direct object?
-intransitive
+Who did the Vancouver Canucks play in their first Stanley Cup Final appearance?
+New York Islanders
 
-What is the case that tells us where something is happening?
-locative
+Who won the Hart Trophy in 1994?
+Sergei Fedorov
 
-What is a line above a vowel indicating that it is long?
-macron
+Who was the first captain of the Avs when they moved to Colorado?
+Joe Sakic
 
-What is the case of the subject of a sentence or usually of the complement of a verb?
-nominative
+Who is the Maple Leafs' all-time leading goal scorer pre-2024?
+Mats Sundin
 
-What Greek mood of the verb does not express statements but such concepts as ``would,'' ``might,'' and ``if only!''? It is also used in the indefinite construction and in certain subordinate clauses. It is more remote than the subjunctive in either likelihood or time.
-optative
+Name the Russian five.
+Sergei Fedorov, Slava Fetisov, Vladimir Konstantinov, Slava Kozlov, Igor Larionov
 
-What verb means ``to give a full grammatical description of a word'' --- that is, ``to give the person, number, tense, mood, voice, and meaning''?
-parse
+Who were the two NHL players that Andy Warhol painted?
+Rod Gilbert, Wayne Gretzky
 
-What is an adjective formed from a verb?
-participle
+What landmark featured on Mike Richter's famous goalie mask?
+Statue of Liberty
 
-What is the tense of a verb that refers to a completed action, the effects of which still continue into the present?
-perfect
+What building is on the Conn Smythe trophy?
+Maple Leaf Gardens
 
-What is the tense that means ``had,'' referring to a past state resulting from a completed action?
-pluperfect
+What EBUG recorded a win for the Carolina Hurricanes on 22 February 2020 in Toronto?
+David Ayres
 
-What is a word that stands instead of a noun?
-pronoun
+Who scored the game-winning goal for Sweden in the gold medal game of the 2012 World Juniors?
+Mika Zibanejad
 
-What is the ``if ...'' or ``unless ...'' clause of a conditional sentence?
-protasis
+Who holds the single-tournament points record at the World Juniors?
+Peter Forsberg
 
-What is the process by which verbs beginning with a single consonant (not ῥ) form a prefix in the perfect, pluperfect, and future perfect by adding that letter followed by an ε at the beginning?
-reduplication
+Here's a question about the Mighty Ducks movie. In Hans' shop hangs a picture of a goalie wearing a Minnesota Golden Gophers jersey holding the Hobey Baker award. Who is the goalie?
+Robb Stauber
 
-What is a pronoun that introduces a subordinate clause, identifying the person or thing mentioned in the main clause?
-relative pronoun
+Who won the Conn Smythe Trophy in 2000?
+Scott Stevens
 
-What is the principle according to which the use of a certain tense in the main clause determines whether the subjunctive or the optative should be used in a subordinate clause?
-sequence of tenses and moods
+What's a knuckle-dragger?
+stupid or loutish man
 
-What is the part of a noun, adjective, or verb to which endings are added?
-stem
+What sound, used in the pronunciation of the word ``loch,'' is denoted by ``x'' in the International Phonetic Alphabet?
+unvoiced velar fricative
 
-What is, in a clause or sentence, the noun or pronoun that causes the action of the verb or has his state described?
-subject
+Define ``nascent.''
+only recently formed or started, but likely to grow larger quickly
 
-What verb form is used, among many other functions, to express doubt, unlikelihood, or possibility? It is less remote than the optative in either likelihood or time. Words such as ``may,'' ``might,'' and ``should'' can indicate it in English.
-subjunctive
+Define ``discursive.''
+digressing from subject to subject
 
-What is a clause that depends on another clause (usually the main clause) of the sentence in which it stands?
-subordinate clause
+What circular aperture in the anterior and medial part of the greater wing of the sphenoid gives passage to the maxillary nerve?
+foramen rotundum
 
-What is the form of an adjective or adverb that makes it mean ``most'' or ``very''?
-superlative
+What does the Latin masculine adjective ``rotundus'' mean?
+round
 
-What is a verb used with a direct object either expressed or understood?
-transitive
+``The work is crowned by the production of the [---], which, as the materia globosa, stands at the beginning and also at the end, in the form of gold.''
+rotundum
 
-What is the case by which one addresses or calls to someone?
-vocative
+``There was something formless yet complete, / That existed before heaven and earth; / Without sound, without substance, / Dependent on nothing, unchanging, / All pervading, unfailing. / One may think of it as the mother of all things under heaven.'' What was Lao-tzu describing?
+the t'ai chi
 
-Who were the three great Attic poets of tragedy in the fifth century BC?
-Aeschylus, Euripides, Sophocles
+What evergreen tropical American tree (Crescentia cujete) bears fruit in the form of large woody gourds?
+calabash
 
-What case indicates separation, or moving away from something?
-ablative case
+``Draco interfecit se ipsum, maritat se ipsum, impraegnat se ipsum.'' What symbol is being described?
+uroboros
 
-What system of vowel alternation in Proto-Indo-European involves vowels that are used in various parts of a word changing depending on meaning? In the Germanic languages, it forms the basis of the strong verbs.
-ablaut
+Translate ``ἓν τὸ πᾶν.''
+the all is one
 
-What case is used to indicate the patient or experiencer of a verb's action?
-absolutive case
+What is chrysopoeia?
+gold making
 
-What name is given to a verb of motion whose motion is multidirectional (as opposed to unidirectional) or indirect, or whose action is repeated or iterative, in the Slavic languages?
-abstract verb
+What shape represents wu ji [無極]?
+circle
 
-What does ``AD'' abbreviate?
-Anno Domini
+Whence?
+the round
 
-Of what is alus mider an example in the Balinese language?
-speech register
+Define ``upbear.''
+raise up; support
 
-Of what is andap an example in the Balinese language?
-speech register
+Translate ``Liebestod.''
+love death
 
-What is the third-to-last syllable of a word?
-antepenultima
+What are Isolde's words as the Liebestod takes place?
+Mild und leise / wie er lächelt, / wie das Auge / hold er öffnet, --- / seht ihr's, Freunde? / Säh't ihr's nicht? / Immer lichter / wie er leuchtet, / sternumstrahlet / hoch sich hebt? / Seht ihr's nicht? / Wie das Herz ihm / mutig schwillt, / voll und hehr / im Busen ihm quillt? / Wie den Lippen, / wonnig mild, / süsser Atem / sanft entweht: --- / Freunde! Seht! / Fühlt und seht ihr's nicht? / Hör ich nur / diese Weise, / die so wunder --- / voll und leise, / Wonne klagend, / alles sagend, / mild versöhnend / aus ihm tönend, / in mich dringet, / auf sich schwinget, / hold erhallend / um mich klinget? / Heller schallend, / mich umwallend, / sind es Wellen / sanfter Lüfte? / Sind es Wogen / wonniger Düfte? / Wie sie schwellen, / mich umrauschen, / soll ich atmen, / soll ich lauschen? / Soll ich schlürfen, / untertauchen? / Süss in Düften / mich verhauchen? / In dem wogenden Schwall, / in dem tönenden Schall, / in des Weltatems / wehendem All, --- / ertrinken, / versinken, --- / unbewusst, --- / höchste Lust!
 
-What is the removal of a letter or sound from the beginning of a word?
-apheresis
+Where was Matvei Michkov born?
+Perm
 
-What is the removal of an initial unstressed sound from a word? It is the process by which ``escarp'' became ``scarp.''
-aphesis
+Where is Signal Hill?
+St. John's, Newfoundland
 
-What is the omission of the final sound or syllable of a word without changing its morphological structure or meaning?
-apocope
+What city is home to Kula Lotrščak?
+Zagreb
 
-What is a consonant sound produced by restricting the air flow through the mouth only slightly, resulting in a smooth sound?
-approximant
+What country is home to Hæstahjallafoss?
+Iceland
 
-What property of a verb form indicates the nature of an action as perfective (complete) or imperfective (incomplete or continuing)?
-aspect
+Who won the 2023 Sinquefield Cup?
+Fabiano Caruana
 
-What is the aspect of a verb that denotes an action without a definite endpoint or a goal that is tended towards, or rather an action with cumulative reference (such that the expression for that action may describe two or more actions of that kind that, when combined, still constitute a form of that action)?
-atelic
+Who won the 2015 Sinquefield Cup?
+Levon Aronian
 
-What is an adjective that stands in a syntactic position where it directly modifies a noun, as opposed to a predicate adjective?
-attributive
+From what country does catupiry come?
+Brazil
 
-What name is given to a term formed by removing an apparent or real prefix or suffix from an older term? For example, the noun ``pea'' arose because the final /z/ sound in ``pease'' sounded like a plural suffix.
-back-formation
+What does the adjective ``gubernatorial'' describe?
+governor
 
-Define ``barytone.''
-with the stress elsewhere than upon the final syllable
+In what country was hockey player and coach Paul MacLean born?
+France
 
-What does ``BC'' abbreviate?
-Before Christ
+With what team did Paul MacLean win the Jack Adams Award in 2013?
+Ottawa Senators
 
-What name is given to a borrowing by word-for-word translation? For example, the English expression ``it goes without saying'' is a literal, word-for-word translation of the French ``ça va sans dire,'' and ``flea market'' is a word-for-word translation of the French ``marché aux puces.''
-calque
+What Soviet hockey coach won Olympic gold in 1984, 1988, and 1992 and the Canada Cup in 1981?
+Viktor Tikhonov
 
-What is a verb able to be immediately followed by the full or bare infinitive, or gerund?
-catenative verb
+What American TV film that aired in 1983 depicted a fictional nuclear exchange?
+The day after
 
-What is the shortening of a word without changing meaning or part of speech?
-clipping
+What astronauts were part of the 1972 Apollo 17 mission?
+Eugene Cernan, Ronald Evans, Harrison Schmitt
 
-Define ``cognate'' in the context of linguistics.
-descended from the same source lexeme of an ancestor language
+What instrument did Emmanuel Pahud play?
+flute
 
-What is a verb of motion whose motion is unidirectional and expresses a single, completed action in the Slavic languages?
-concrete verb
+Name the composer of the novella Candide and that of the operetta Candide based on the novella.
+Voltaire, Leonard Bernstein
 
-What is the mood of a verb used to signify that something is contingent upon the outcome of something else?
-conditional mood
+What city contains a neighbourhood named ``Petare''?
+Caracas
 
-What form of consonant mutation found in certain, particularly Uralic, languages, is historically conditioned by the openness of the following syllable?
-consonant gradation
+Who was drafted first overall in Wayne Gretzky's draft year, 1979?
+Rob Ramage
 
-What is a term with two opposite meanings called?
-contranym
+Define ``fain.''
+pleased or willing under the circumstances
 
-What is a contranym?
-term with two opposite meanings
+On what date did the Japanese attack Pearl Harbour?
+7 December 1941
 
-What is a verb that links and equates its subject with its object? It is also called a ``linking verb.''
-copula
+What cut of beef popular in Brazil is known as a ``rump cap''? 
+picanha
 
-What adjective means ``derived from a noun''?
-denominal
+From what animal is Adana kebab made?
+lamb
 
-What verb form indicates a wish?
-desiderative
+Of what two fruits is a tangelo a hybrid?
+tangerine, grapefruit
 
-What diacritic ( ¨ ) is placed over a vowel letter to indicate that it is sounded separately?
-diaeresis
+``About 150 years ago, according to legend, a young brave wanted to witness the plunge of countless buffalo as his people drove them to their deaths over the sandstone cliffs. Standing under the shelter of a ledge, like a man behind a waterfall, he watched the great beasts cascade past him. But the hunt was unusually good that day and as the bodies mounted, he became trapped between the animals and the cliff. When his people came to do the butchering, they found him with his skull crushed by the weight of the buffalo.'' What was the name of this site thus named?
+Head-Smashed-In Buffalo Jump
 
-What is the phonological process whereby one of a pair of similar sounds within a word or phrase becomes dissimilar?
-dissimilation
+Who plays Harold Abrahams in Chariots of fire?
+Ben Cross
 
-What name is given to one of two (or more) words in a language that have the same etymological root (as in etymon, not root morphemes like Proto-Indo-European roots) but have come to the modern language through different routes?
-doublet
+Where was the beach running scene in Chariots of fire filmed?
+St. Andrews, Scotland
 
-What name is given to a term carrying negative connotations or imagery to replace a (more) neutral original?
-dysphemism
+In what year is Goya's Third of May painting set?
+1808
 
-What stage of gradation in Semitic languages can be used both for a superlative and comparative?
-elative
+Where does a general keep his armies?
+up his sleevies
 
-What case expresses ``moving out of''?
-elative
+What does it mean to sling hash?
+serve food at a restaurant
 
-What is the removal of a phoneme or sequence of phonemes from a word, particularly at the beginning or end?
-elision
+What author's Gregor Samsa wakes up as a bug?
+Franz Kafka
 
-What is the phonetic joining of a word with the preceding word?
-enclisis
+Gilbert, your neck reminds me of a typewriter.
+Underwood
 
-In what nominal compound does one part modify the other, where the modified compound refers to the intended meaning of the compound as a whole?
-endocentric
-
-What is the insertion of a phoneme, letter, or syllable into a word, usually to satisfy the phonological constraints of a language or poetic context?
-epenthesis
-
-Define ``epicene.''
-having a single form for both male and female referents
-
-What case used in some languages marks the subject of a transitive verb, but not the subject of an intransitive verb?
-ergative case
-
-What verb can be transitive or intransitive, where the intransitive subject is the patient, the same role as the transitive object?
-ergative 
-
-What is an etymon?
-the source word of a given word
-
-What is, in languages with matres lectionis (consonant letters representing vowels), a form including one or more additional ones?
-excessive spelling
-
-What is a sound in a word without etymological reason, added for articulatory purposes?
-excrescent
-
-What is a name for a place, people or language used by foreigners instead of the native-language version?
-exonym
-
-What is a deliberate misspelling used in writing to indicate that the speech of a character is vernacular, non-standard, or uneducated?
-eye dialect
-
-What name is given to the possessive or genitive construction in Persian?
-ezafe
-
-What kind of transitive verb is derived from an adjective or noun and expresses the act of making someone/something have the properties (or have more of the properties) of the base adjective or noun?
-factitive
-
-What is a word in a language that bears a phonetic resemblance to a word in another language, often because of a common etymology, but has a different meaning?
-false friend
-
-What consonant sound is produced by air flowing through a constriction in the mouth, typically producing a sibilant, hissing, buzzing or otherwise ``rough'' quality?
-fricative
-
-What is the phenomenon wherein a consonant is pronounced for an audibly longer period of time than is done normally?
-gemination
-
-What verbal aspect specifies an action as occurring habitually? It is often called ``habitual.''
-consuetudinal
-
-What is a word that occurs only once within a given corpus, either in the written record of an entire language, in the works of an author, or in a single text? An example is ``νεκραγωγοῦντα.'' 
-hapax legomenon
-
-What is the elision or deletion of a part of a word (a sequence of phonemes, or a series of letters) that is repeated (either exactly or with slight change)?
-haplology
-
-Define ``hypercorrect.''
-incorrect because of the misapplication of a standard rule
-
-In what form of metathesis are non-contiguous sounds switched?
-hyperthesis
-
-What is the Arabic possessive or genitive construction called?
-ʾiḍāfa
-
-What is a word that evokes an idea in sound, often a vivid impression of certain sensations or sensory perceptions, e.g. sound, movement, colour, shape, or action?
-ideophone
-
-What is a word with one or more inflections with more syllables than the lemma form?
-imparisyllabic
-
-What mood of a verb expresses an order or command?
-imperative
-
-What is a verb that cannot take a subject or takes a third-person neuter subject pronoun (e.g. ``it'') without an antecedent?
-impersonal verb
-
-What case is used to express means or agency? Generally, it is indicated in English by ``by'' or ``with'' with the objective.
-instrumental
-
-What is an empty morph (or meaningless morph) inserted between two morphemes in the process of word formation?
-interfix
-
-What specific occurrence of palatalization occurred in the Proto-Slavic language, in which a consonant combined with the palatal approximant /j/ to form a palatalized consonant?
-iotation
-
-What number of inflectional endings sometimes called ``desinetial inflections,'' applied to Arabic nouns, adjectives, and verbs, do not appear in writing --- with minor exceptions --- and are not pronounced in pausa, i.e. at the end of a sentence or before a pause?
-ʾiʿrāb
-
-What mood of a verb is used to indicate a command, permission, or agreement with a request?
-jussive
-
-What was the classically based artificial (standardized) Greek language created at the start of Greece's independence from the Ottoman Empire? It was used for all formal and official purposes until 1976.
-Katharevousa
-
-What metaphorical compound or phrase describes basic objects in an allusive fashion, especially in Germanic poetry?
-kenning
-
-What type of Wanderwort is specific to a particular culture or is spread by an influential cross-cultural phenomenon?
-Kulturwort
-
-What rhetorical figure involving understatement consists of saying that something has less of one thing to mean more of the opposite?
-litotes
-
-What case is used to indicate place or the place where or wherein?
-locative
-
-What short, straight, horizontal diacritical mark ( ¯ ) is placed over any of various letters, usually to indicate that the pronunciation of a vowel is long?
-macron
-
-What grammatical voice subsumes the meanings of both the middle voice and the passive voice?
-mediopassive
-
-What form of understatement that consists of downplaying or diminishing the focal quality of a statement for contrastive, humorous or dramatic effect, sometimes deployed as part of a higher register? One example is saying ``he is somewhat displeased'' instead of ``he is furious.''
-meiosis
-
-What name is given to the infix -né- or -n- in Proto-Indo-European --- one of the affixes marking the imperfective aspect?
-nasal infix
-
-What is a nonce word?
-word invented for the occasion
-
-In Slavic languages, what is a plural gender used for all groups that do not contain men, as well as plurals of masculine animate, masculine inanimate, feminine, and neuter nouns?
-nonvirile
-
-What name is given to any case that is neither nominative nor vocative?
-oblique/objective
-
-What category of verb form (a mood) expresses wishes along with other meanings?
-optative mood
-
-Define ``oxytone.''
-with the stress upon the final syllable
-
-What adjective describes a word with the stress upon the final syllable?
-oxytone
-
-What is the addition of sounds at the end of a word without changing its morphological structure or meaning?
-paragoge
-
-What is a word whose inflections contain the same number of syllables as the lemma form?
-parisyllabic
-
-What adjective describes a word with the stress upon the penultimate syllable?
-paroxytone
-
-What is the next-to-last syllable of a word?
-penultima
-
-What adjective describes using more words to produce a grammatical effect?
-periphrastic
-
-What is a consonant sound produced by completely blocking the airflow through the mouth for a short time?
-plosive
-
-What verb form of perfect aspect and past tense is used to describe an action or event which is regarded as having been completed in the past, in relation to a time already in the past?
-pluperfect
-
-What does ``plurale tantum'' mean?
-plural only
-
-What tense shows an action at a determined moment in the past?
-preterite
-
-What adjective describes a word with the stress upon the antepenultimate syllable? 
-proparoxytone
-
-What name is given to a descendant word in a daughter language, descended from an earlier language?
-reflex
-
-What verbal aspect, a subclass of perfective, denotes a momentary or punctual event (e.g. to sneeze, to blink, to knock)?
-semelfactive
-
-What is a letter or other symbol that stands for a word or name? For example, ``ꝓ'' is one in medieval Latin for the word ``pro.''
-siglum
-
-What does ``s.l.'' abbreviate?
-sine locō
-
-In what specific occurrence of palatalization that occurred in the Proto-Slavic language did the velar consonants *k *g *x when followed by any of the front vowels *e *ě *ь *i become the sounds *č *ž *š respectively?
-Slavic first palatalization
-
-What does ``s.n.'' abbreviate?
-sine nōmine
-
-What type of cliché uses an old idiom formulaically in a new context?
-snowclone
-
-What mood of a verb expresses an action or state which is hypothetical or anticipated rather than actual, including wishes and commands?
-subjunctive
-
-What is the deletion or elision of sounds inside a word (not at the beginning or end), most often a single vowel, but sometimes a consonant or a sequence of vowels or consonants?
-syncope
-
-What is the situation in which two or more inflected forms of a word are identical?
-syncretism
-
-What is the aspect of a verb that denotes an action with a definite endpoint or a goal that is tended towards, or rather an action that is quantized (such that the expression for that action may not describe both the action and a smaller part of that same action)?
-telic
-
-What is the insertion of one or more words between the components of a compound word?
-tmesis
-
-What verb form in some Balto-Slavic languages expresses a coincidentally proceeding or following action?
-transgressive
-
-What is a consonant made with the tongue touching the soft palate?
-velar
-
-What is another term for the soft palate?
-velum
-
-In what type of backslang used in French does the order of the syllables or sounds of words change, usually with the last syllable coming first?
-verlan
-
-In Slavic languages, what plural gender is used for groups that include men and for masculine personal nouns?
-virile
-
-What is a word form that has spread over a substantial area, or to many regions, outside of that of its language of origin, typically due to cultural exchange resulting from travel and trade?
-Wanderwort
-
-In Proto-Indo-European linguistics, what name is given to an ablaut form of a root characterized by the absence of the basic ablauting vowel phonemes */e/ and */o/?
-zero-grade
-
-What name is given to an initial ⟨h⟩ that is treated as a consonant?
-aspirated h
-
-What name is given to an initial ⟨h⟩ that is treated as a vowel?
-mute h
-
-What does ``overmorrow'' mean?
-the day after tomorrow
-
-What collective name is given to significant changes to the pronunciation of English that happened between the 15th and 18th centuries?
-Great Vowel Shift
-
-What does the samurai never blame?
-his sword
-
-What things never lie, according to Tony Montana, Chico?
-the eyes
-
-In Monty Python and the Holy Grail, what knights halt King Arthur and his companions in a forest?
-the knights who say ``ni!''
-
-What is the English name for the João-de-Barro, which also may be called the ``red ovenbird''?
-rufous hornero
-
-Like what do real Gs move in silence?
-lasagna
-
-Finish the colloquialism: ``I ran away faster than you could say ---.'' (No, the saying is not about the famous number 42 Jackie.)
-Jack Robinson
-
-(Before and after.) Norwegian mathematician who discovered New Zealand.
-Niels Henrik Abel Tasman
-
-Where did Atle Selberg work for most of his academic life?
-Institute for Advanced Study
-
-Identify the author. ``Only the silent, sleepy, staring houses in the backwoods can tell all that has lain hidden since the early days; and they are not communicative, being loath to shake off the drowsiness which helps them forget. Sometimes one feels that it would be merciful to tear down these houses, for they must often dream.''
-H. P. Lovecraft
-
-What is demagoguery?
-political activity or practices that seek support by appealing to the desires and prejudices of ordinary people rather than by using rational argument
-
-What is Emanuel Ax's occupation?
-piano playing
-
-What is the nearest integer to the Golomb--Dickman constant?
-1
-
-What Spanish philosopher studied at Harvard under William James and Josiah Royce?
-George Santayana
-
-What theorem whose name contains two names, though having different formulations, encapsulates the idea that projective modules over commutative rings are ``the same'' as vector bundles on compact topological spaces?
-Serre--Swan theorem
-
-What duo composed the music for the Halo video games?
-Martin O'Donnell, Michael Salvatori
-
-What was Mike Cammalleri's hometown?
-Richmond Hill
-
-What NHL team drafter Mike Cammalleri in 2001?
-Los Angeles Kings
-
-What team was Mike Cammalleri on when he scored a career-high 82 points in the 2008--09 season?
-Calgary Flames
-
-What is a proparoxytone?
-word with stress on the antepenultima
-
-What is a properispomenon?
-word with a circumflex on the penultima
-
-What is a paroxytone?
-word with stress on the penultima
-
-What is a perispomenon?
-word with a circumflex on the ultima
-
-What is an oxytone?
-word with stress on the ultima
-
-What is a barytone?
-word without stress on the ultima
-
-What transposition in Ancient Greek involves a long-short vowel length combination becoming short-long?
-quantitative metathesis
-
-What is a fanook?
-homosexual
-
-Where is Zakopane?
-Poland
-
-What mountain range can one see from Zakopane, Poland?
-Tatras
-
-What word was controversially added to the Nicene Creed?
-Filioque
-
-Who constructed the theatre at Epidaurus?
-Polykleitos the Younger
-
-With what drink are the names Lafite and Rothschild associated?
-wine
-
-What is coriander's name in the United States?
-cilantro
-
-What is cilantro's name outside of the United States?
-coriander
-
-By what nickname are residents of  Bures-sur-Yvette known?
-Buressois
-
-In what industry did Ingmar Bergman work?
-film
-
-What name does a twelve go by in the game of craps?
-boxcars
-
-How old was Methuselah when he died?
-969
-
-What country houses the city of Hargeisa?
-Somalia
-
-Whose embedding theorem says that, for any small abelian category $A$, there is a ring $R$ and a full, faithful, and exact functor from $A$ to the category of $R$-modules?
-Barry Mitchell
-
-What two countries are home to the White Carpathians?
-Czech Republic, Slovakia
-
-Of what mountain range is Chmeľová part?
-White Carpathians
-
-In what country was Stan Mikita born?
-Slovakia
-
-Who was the first Slovak-born hockey player to win the Stanley Cup?
-Stan Mikita
-
-For what team did Stan Mikita play?
-Chicago Blackhawks
-
-Where was Red Kelly born?
-Simcoe, Ontario
-
-How many Stanley Cups did Red Kelly win?
-eight
-
-For what two teams did Red Kelly play?
-Detroit Red Wings, Toronto Maple Leafs
-
-How many Stanley Cups did Red Kelly win while he was a member of Parliament?
-two
-
-What number did Red Kelly wear?
-4
-
-Where was Terry Sawchuck born?
-Winnipeg
-
-How many Stanley Cups did Terry Sawchuck win?
-four
-
-What was Terry Sawchuck's position?
-goalie
-
-How many shutouts did Terry Sawchuck record?
-103
-
-Who was the Stratford Streak?
-Howie Morenz
-
-Whose number was the first that the Montreal Canadiens retired?
-Howie Morenz
-
-How many Stanley Cups did Howie Morenz win?
-three
-
-Who was the Edmonton Express?
-Eddie Shore
-
-Where was Eddie Shore born?
-Fort Qu'Appelle
-
-What position did Eddie Shore play?
-defenceman
-
-How many Hart Trophies did Eddie Shore win?
-four
-
-What hockey player who severely injured Ace Bailey shook hands with Bailey at an all-star benefit game for him in 1934?
-Eddie Shore
-
-How many Stanley Cups did Eddie Shore win?
-two
-
-For what team did Elmer Lach play?
-Montreal Canadiens
-
-What players comprised the Punch Line (from left to right)?
-Toe Blake, Elmer Lach, Maurice Richard
-
-How many Stanley Cups did Elmer Lach win?
-three
-
-What number did Elmer Lach wear?
-16
-
-Where was Syl Apps born?
-Paris, Ontario
-
-In what sport did Syl Apps win gold at the 1934 British Empire Games? He came sixth in this sport at the 1936 Olympics.
-pole vault
-
-Who won the first Calder Memorial Trophy?
-Syl Apps
-
-For what team did Syl Apps play?
-Toronto Maple Leafs
-
-How many Stanley Cups did Syl Apps win?
-three
-
-For what city was Syl Apps an Ontario MPP?
-Kingston
-
-Where was Sid Abel born?
-Melville, Saskatchewan
-
-What players comprised the Production Line (from left to right)?
-Ted Lindsay, Sid Abel, Gordie Howe
-
-What attacking trio was known collectively as ``MSN'' at FC Barcelona?
-Leo Messi, Luis Suárez, Neymar
-
-How many Stanley Cups did Sid Abel win?
-three
-
-For what two NHL teams did Sid Abel play?
-Detroit Red Wings, Chicago Blackhawks
-
-Define ``whittle.''
-carve (wood) into an object by repeatedly cutting small slices from it
-
-Who was Mr. Hockey?
-Gordie Howe
-
-Who overtook Gordie Howe for most NHL games played in 2021?
-Patrick Marleau
-
-How many seasons did Gordie Howe play in the NHL?
-26
-
-How many points did Gordie Howe record in his NHL career?
-1850
-
-For what team did Gordie Howe play for 25 seasons?
-Detroit Red Wings
-
-How many Stanley Cups did Gordie Howe win?
-four
-
-Who is Le Gros Bill?
-Jean Béliveau
-
-How many Stanley Cups did Jean Béliveau win as a player?
-ten
-
-Where was Jean Béliveau born?
-Trois-Rivières
-
-Who was the honourary captain of Team Canada's hockey team in the 2010 Winter Olympics?
-Jean Béliveau
-
-Where was Father David Bauer born?
-Waterloo, Ontario
-
-For what team did Jean Béliveau play?
-Montreal Canadiens
-
-To whom does Matt Groening attribute the quote ``Love is a slippery eel that bites like hell''?
-Bertrand Russell
-
-To whom does Matt Groening attribute the quote ``Love is like a perky elf dancing a merry little jig and then suddenly he turns on you with a miniature machine gun''?
-Søren Kierkegaard
-
-To whom does Matt Groening attribute the quote ``Love is a snowmobile racing across the tundra and then suddenly it flips over, pinning you underneath. At night, the ice weasels come''?
-Friedrich Nietzsche
-
-Who proved Serre's epsilon conjecture?
-Ken Ribet
-
-Who helped Andrew Wiles notice that there was a gap in the manuscript of his proof of Fermat's last theorem?
-Nicholas Katz
-
-Whose paper entitled ``Deforming Galois representations'' included key ideas used in Wiles's proof of Fermat's last theorem?
-Barry Mazur
-
-What two Japanese mathematicians are associated with the modularity theorem linking elliptic curves and modular forms?
-Yutaka Taniyama, Goro Shimura
-
-When was Yutaka Taniyama born?
-12 November 1927
-
-What is Quebec's motto?
-Je me souviens
-
-What does ``Je me souviens'' mean in English?
-I remember
-
-What is Ontario's motto?
-Ut incepit fidelis sic permanet
-
-What does ``Ut incepit fidelis sic permanet'' mean in English?
-Loyal she began, loyal she remains
-
-What is Ontario's flower?
-white trillium
-
-What is Ontario's tree?
-eastern white pine
-
-What is Nova Scotia's motto?
-Munit hæc et altera vincit
-
-What does ``Munit hæc et altera vincit'' mean in English?
-One defends and the other conquers
-
-What is Nova Scotia's flower?
-mayflower
-
-What is Nova Scotia's tree?
-red spruce
-
-What is Nova Scotia's bird?
-osprey
-
-What is New Brunswick's motto?
-Spem reduxit
-
-What does ``Spem reduxit'' mean in English?
-Hope restored
-
-What is New Brunswick's flower?
-purple violet
-
-What is New Brunswick's tree?
-balsam fir
-
-What is New Brunswick's bird?
-black-capped chickadee
-
-What is Manitoba's motto?
-Gloriosus et liber
-
-What does ``Gloriosus et liber'' mean in English?
-Glorious and free
-
-What is Manitoba's flower?
-prairie crocus
-
-What is Manitoba's tree?
-white spruce
-
-What is Manitoba's bird?
-great grey owl
-
-What is British Columbia's motto?
-Splendor sine occasu
-
-What does ``Splendor sine occasu'' mean in English?
-Splendour without diminishment
-
-What is British Columbia's flower?
-Pacific dogwood
-
-What is British Columbia's tree?
-western red cedar
-
-What is British Columbia's bird?
-steller's jay
-
-What is Prince Edward Island's motto?
-Parva sub ingenti
-
-What does ``Parva sub ingenti'' mean in English?
-The small protected by the great
-
-What is Prince Edward Island's flower?
-pink lady's slipper
-
-What is Prince Edward Island's tree?
-red oak
-
-What is Prince Edward Island's bird?
-blue jay
-
-What is Saskatchewan's motto?
-Multis e gentibus vires
-
-What does ``Multis e gentibus vires'' mean in English?
-From many people, strength
-
-What is Saskatchewan's flower?
-western red lily
-
-What is Saskatchewan's tree?
-paper birch
-
-What is Saskatchewan's bird?
-sharp-tailed grouse
-
-What is Alberta's motto?
-Fortis et liber
-
-What does ``Fortis et liber'' mean in English?
-Strong and free
-
-What is Alberta's flower?
-wild rose
-
-What is Alberta's tree?
-lodgepole pine
-
-What is Alberta's bird?
-great horned owl
-
-What is Newfoundland and Labrador's motto?
-Quaerite prime regnum Dei
-
-What does ``Quaerite prime regnum Dei'' mean in English?
-Seek ye first the kingdom of God
-
-What is Newfoundland and Labrador's flower?
-pitcher plant
-
-What is Newfoundland and Labrador's tree?
-black spruce
-
-What is Newfoundland and Labrador's bird?
-Atlantic puffin
-
-What continent houses the city of Ceuta?
-Africa
-
-What is the northernmost town on the west coast of South Africa?
-Alexander Bay
-
-Who is Matlock?
-Andy Griffith
-
-How many Stanley Cups did Jacques Plante win?
-six
-
-What two goalies shared the Vezina Trophy in 1969?
-Jacques Plante, Glenn Hall
-
-How many Vezina Trophies did Jacques Plante?
-seven
-
-Who was the first goalie to don a goalie mask?
-Jacques Plante
-
-With what NHL team did Phil Esposito win two Stanley Cups?
-Boston Bruins
-
-Where was Phil Esposito born?
-Sault Ste. Marie
-
-What was the first name of Phil Esposito's brother who was an NHL goalie?
-Tony
-
-For what three NHL teams did Phil Esposito play?
-Chicago Blackhawks, Boston Bruins, New York Rangers
-
-Who set the record for most shots in an NHL season in 1971?
-Phil Esposito
-
-What did the Ted Lindsay Award used to be called?
-Lester B. Pearson Award
- 
-Was Phil Esposito a lefty or a righty?
-lefty
-
-With what NHL team did Johnny Bucyk win two Stanley Cups?
-Boston Bruins
-
-Where was Bobby Orr born?
-Parry Sound
-
-Who was the MVP of the inaugural Canada Cup?
-Bobby Orr
-
-Who was the MVP of the 1987 Canada Cup?
-Wayne Gretzky
-
-Who was the MVP of the 1981 Canada Cup?
-Vladislav Tretiak
-
-Who was the MVP of the 1984 Canada Cup?
-John Tonelli
-
-Who was the MVP of the 1991 Canada Cup?
-Bill Ranford
-
-Who was the only team to win the Canada Cup that was not Canada?
-Soviet Union
-
-When did the Soviet Union win the Canada Cup?
-1981
-
-How many Stanley Cups did Bobby Orr win?
-two
-
-Whose flying goal won the Stanley Cup for the Boston Bruins in 1970?
-Bobby Orr
-
-What Boston Bruin defenseman from Parry Sound scored nine hat tricks?
-Bobby Orr
-
-How many Art Ross Trophies did Bobby Orr win?
-two
-
-What two hockey players did Boston Bruin scout Wren Blair describe Bobby Orr as a combination of?
-Doug Harvey, Eddie Shore
-
-What number did Bobby Orr wear?
-4
-
-What was Bobby Orr's junior number?
-2
-
-What is David Letterman's birthday?
-12 April
-
-Where did Alan Eagleson graduate with a law degree?
-University of Toronto
-
-To whom did Alan Eagleson lose in the 1963 federal election in York West? 
-Red Kelly
-
-What Progressive Conservative did Red Kelly defeat in the 1963 federal election in York West? 
-Alan Eagleson
-
-What lawyer who was central in the Summit Series and the Canada Cup was disbarred and had his Order of Canada disannulled after being found guilty of fraud?
-Alan Eagleson
-
-Where was Bobby Clarke born?
-Flin Flon, Manitoba
-
-For what team did Bobby Clarke play?
-Philadelphia Flyers
-
-How many Stanley Cups did Bobby Clarke win?
-two
-
-On what junior team did Bobby Clarke play?
-Flin Flon Bombers
-
-Who was the captain of the winning Canadian team of the 1976 Canada Cup?
-Bobby Clarke
-
-What Canadian tied up the game between Canada and Czechoslovakia in the 1976 Canada Cup near the end of regulation?
-Bill Barber
-
-Who scored the winning goal in the  1976 Canada Cup in overtime?
-Darryl Sittler
-
-Who was the Flower?
-Guy Lafleur
-
-Where was Guy Lafleur born?
-Thurso
-
-How many Stanley Cups did Guy Lafleur win?
-five
-
-Who was Le Turbo de Thurso?
-Guy Lafleur
-
-How many Stanley Cups did Bryan Trottier win as a player?
-six
-
-What was Bryan Trottier's junior team?
-Swift Current Broncos
-
-For what two NHL teams did Bryan Trottier play?
-New York Islanders, Pittsburgh Penguins
-
-Who was the Great One?
-Wayne Gretzky
-
-How many goals did Wayne Gretzky score in his career?
-894
-
-How many goals did Wayne Gretzky score in the 1981--82 season?
-92
-
-How many assists did Wayne Gretzky score in his career?
-1963
-
-Who was the Magnificent One?
-Mario Lemieux
-
-For what NHL team did Mario Lemieux play?
-Pittsburgh Penguins
-
-How many Stanley Cups did Mario Lemieux win as a player?
-two
-
-Where was Mark Messier born?
-St. Albert, Alberta
-
-How many Stanley Cups did Mark Messier win?
-six
-
-How many Stanley Cups did Mark Messier win with the Edmonton Oilers?
-five
-
-In what year did Mark Messier win the Conn Smythe?
-1984
-
-Where was Brett Hull born?
-Belleville, Ontario
-
-Who was Brett Hull's father?
-Bobby Hull
-
-Who was the Golden Jet?
-Bobby Hull
-
-How many Stanley Cups did Brett Hull win?
-two
-
-With what two teams did Brett Hull win the Stanley Cup?
-Dallas Stars, Detroit Red Wings
-
-Who was the lead singer and guitarist for Creedence Clearwater Revival?
-John Fogerty
-
-For what baseball team did Bob Uecker broadcast? 
-Milwaukee Brewers
-
-What catcher and broadcaster for the Milwaukee Brewers routinely appeared on Johnny Carson?
-Bob Uecker
-
-Where was David Letterman born?
-Indianapolis
-
-What late-night talk show host hosted the most episodes?
-David Letterman
-
-Who was Bromios, the thunderer?
-Dionysus
-
-What is the tallest mountain in the White Carpathians?
-Veľká Javorina
-
-Who did Weekend Update on Saturday Night Live in 1985?
-Dennis Miller
-
-Who did Weekend Update on Saturday Night Live in 1993?
+Who is singular in having made-up children named Dylan, Dagwood, D'Artagnan, and Simon ``Peter''?
 Norm Macdonald
 
-What late-night talk show host hosted The Tonight Show from 1962 to 1992? He is routinely considered the best of late-night TV.   
-Johnny Carson
+On what body of water is the Spanish port of Gijón located?
+Bay of Biscay
 
-Who directed Chariots of fire?
-Hugh Hudson
+(1912--88) What Canadian jazz pianist, composer, and arranger began a long association with Miles Davis in 1947, producing albums such as Porgy and Bess (1958) and Sketches of Spain (1959)?
+Gil Evans
 
-Who were the first ten Fields Medallists to come from the École normale supérieure?
-Laurent Schwartz, René Thom, Jean-Pierre Serre, Alain Connes, Pierre-Louis Lions, Jean-Christophe Yoccoz, Laurent Lafforgue, Wendelin Werner, Ngô Bả Châu, Cédric Villani
+What venomous beaded lizard (Heloderma suspectum) is native to the south-western United States and Mexico and named after a river in New Mexico and Arizona?
+Gila monster
 
-Who was the original architect of the Empire State Building?
-Frank Lloyd Cock
+(c. 1539--83) What English explorer claimed Newfoundland for Elizabeth I in 1583, but was lost when his ship foundered in a storm on the way home?
+Sir Humphrey Gilbert
 
-What school originated in 1530 when Francis I was advised to start the creation of a school that would teach topics to royal scholars, that were not taught at the Sorbonne, originally Greek, Hebrew, and mathematics, and then later, French law, Latin, and medicine?
-Collège de France
+(1544--1603) What English physician and physicist discovered how to make magnets, and coined the term ``magnetic pole''? His book De Magnete (1600) is an important early work on physics.
+William Gilbert
 
-When was Henry IV assassinated?
-14 May 1610
+What former British colony (1915--75) in the central Pacific consisted of two groups of islands --- one of them is part of Kiribati and the other is now Tuvalu.
+Gilbert and Ellice Islands
 
-Who set down the first stone for the Collège de France?
-Louis XIII
+What group of islands, now part of Kiribati, straddles the equator and lies immediately west of the International Date Line? 
+Gilbert Islands
 
-Inscribed in this building's first stone were the words ``En l'an premier du Regne de Louis XIII Roy de France et de Navarre, âgé de neuf ans, et de la Regence de la Royne Marie de Médicis sa mère MDCX.'' Identify the building.
-Collège de France
+What is a gilet?
+light sleeveless padded jacket
 
-What architect continued the construction of the Collège de France around the Cour d'Honneur in 1773?
-Jean Chalgrin
+(1882--1940) The best-known sculptures of this English sculptor, engraver, and typographer are the relief carvings Stations of the Cross (1914--18) at Westminster Cathedral and Prospero and Ariel (1931) on Broadcasting House in London. He designed a popular sans serif typeface that bears his name.
+Eric Gill
 
-What street is home to Le Lycée Louis-le-Grand? 
-Rue St Jacques
+Who was Australia's prime minister from 2010 to 2013?
+Julia Gillard
 
-What Parisian Lycée remained open during the Revolution?
-Lycée Louis-le-Grand
+What o-word is another term for a gill cover --- a flap of skin protecting a fish's gills, typically stiffened by bony plate?
+operculum
 
-When did the Lycée Louis-le-Grand get that name?
-1873
+What type of shoe with laces along the instep and no tongue is used especially for Scottish country dancing?
+ghillie
 
-What Lycée did Galois attend?
-Lycée Louis-le-Grand
+What English county houses Gillingham --- a town on the Medway estuary?
+Kent
 
-What school was created after the French Revolution on 28 September 1794, by Jacques- Élie Lamblardie, Gaspard Monge, and Lazare Carnot, as all the royal engineering schools had previously been closed? The aim of this new establishment was to replace all those schools, but they were later reopened and it was decided that students would have to attend this school before entering the other ones.
-École Polytechnique
+What g-word may mean ``young sow''?
+gilt
 
-Lycée Henri IV.
+(1900--76) What English philosopher attacks the mind–body dualism of Descartes in The concept of mind (1949)? He was a cousin of the astronomer Sir Martin.
+Gilbert Ryle
 
-What school located on the site of the Royal Abbaye of Sainte-Genevieve was created by Clovis, King of Francs in 506?
-Lycée Henri IV
+(c. 1465 -- c. 1536) What Portuguese playwright and poet is regarded as Portugal's most important playwright? Many of his works were written to commemorate national or court events and include religious dramas, farces, pastoral plays, and satirical comedies.
+Gil Vicente
 
-What Lycée did Cauchy attend?
-Lycée Henri IV
+(1720--93) What English clergyman and naturalist wrote many letters to friends on aspects of natural history in his native village of Selborne, Hampshire? These were published in 1789 as The Natural History and Antiquities of Selborne, which has remained in print ever since.
+Gilbert White
 
-Who was Cauchy's professor at Lycée Henri IV?
-Jacques Binet
+What does it mean to gild the lily?
+to try to improve what is already beautiful or excellent
 
-What suffix is used for naming ACE inhibitors?
-pril
+What name is designated to a device for keeping an instrument such as a compass or chronometer horizontal in a moving vessel or aircraft, typically consisting of rings pivoted at right angles?
+gimbal
 
-Of what are lisinopril and benazepril examples?
-ACE inhibitors
+What is a gimlet eye?
+eye with a piercing stare
 
-What suffix is used for naming alpha blockers?
-zosin
+What is gin and it?
+drink of gin and Italian vermouth
 
-Of what are terazosin and doxazosin examples?
-alpha blockers
+What are the gingiva?
+the gums
 
-What suffix is used for naming angiotensin receptor blockers?
-sartan
+What is the inflammation of the gums called?
+gingivitis
 
-What suffix is used for naming benzodiazepines?
-zepam
+What is the anatomical term for a hinge-like joint such as the elbow or knee that allows movement in only one plane?
+ginglymus
 
-Of what are diazepam and clonazepam examples?
-benzodiazepines
+What deciduous Chinese tree related to the conifers with fan-shaped leaves and yellow flowers has a number of primitive features and is similar to some Jurassic fossils? It is also called a ``maidenhair tree.''
+ginkgo
 
-What suffix is used for naming beta blockers?
-olol
+What is a ginnel?
+narrow passage between buildings
 
-Of what are metoprolol and carvedilol examples?
-beta blockers
+(1911--95) What American actress and dancer is known for her dancing partnership with Fred Astaire, during which she appeared in musicals including Top Hat (1935)? Her solo acting career included the film Kitty Foyle (1940), for which she won an Oscar.
+Ginger Rogers
 
-What suffix is used for naming H2 antagonists?
-tidine
+What is a Casanova?
+man notorious for seducing women
 
-Of what are famotidine and ranitidine examples?
-H2 antagonists
+(c. 1478--1510) What influential Italian Renaissance painter introduced the small easel picture in oils intended for private collectors? His notable works include The Tempest (c. 1505) and Sleeping Venus (c. 1510).
+Giorgione
 
-What suffix is used for naming 5HT3 antagonists?
-setron
+(c. 1267--1337) What Italian painter introduced a naturalistic style showing human expression.  His notable works include the frescoes in the Arena Chapel, Padua (1305--08), and the church of Santa Croce in Florence (c. 1320).
+Giotto
 
-What suffix is used for naming proton pump inhibitors?
-prazole
+What was Giotto's full name?
+Giotto di Bondone
 
-What suffix is used for naming quinolone antibiotics?
-floxacin
+What European space probe photographed the nucleus of Halley's comet in March of 1986?
+Giotto
 
-What suffix is used for naming thiazolidinediones?
-glitazone
+What was Pope Leo X's name?
+Giovanni de' Medici
 
-What suffix is used for naming biphosphonates?
-dronate
+What tussock moth (Lymantria dispar) has a brown male and larger white female, the latter being fully winged but flightless? The caterpillar can be a serious pest of orchards and woodland.
+gypsy moth
 
-What suffix is used for naming monoclonal antibodies?
-mab
+What white-flowered Eurasian plant of the mint family (Lycopus europaeus) grows in damp habitats?
+gypsywort
 
-What suffix is used for naming echinocandins?
-fungin
+What is a girandole?
+branched support for candles or other lights, which either stands on a surface or projects from a wall
 
-What suffix is used for naming corticosteroids?
-asone
+What annual long-distance race for professional cyclists first held in 1909 and taking place primarily on the roads of Italy over a period of about three weeks consists of multiple stages which are separately timed, several of these stages encompassing mountainous terrain?
+Giro d'Italia
 
-What suffix is used for naming protease inhibitors?
-navir
+What is the French name for a chanterelle mushroom?
+girolle
 
-What suffix is used for naming leukotriene modifiers?
-lukast
+What river estuary in south-western France, formed at the junction of the Garonne and Dordogne Rivers, north of Bordeaux, flows north-west for 72 km (45 miles) into the Bay of Biscay?
+Gironde
 
-What suffix is used for naming HMG-CoA reductase inhibitors?
-statin
+What were members of the French moderate republican Party in power during the Revolution from 1791 to 1793 called?
+Girondist
 
-What suffix is used for naming beta-2 agonists?
-terol
+(1452--98) What Italian preacher and religious reformer was a Dominican monk and strict ascetic who became popular for his passionate preaching against immorality and corruption? He became virtual ruler of Florence (1494--95) but in 1497 he was excommunicated and later executed as a heretic?
+Girolamo Savonarola
 
-What suffix is used for naming phosphodiesterase inhibitors?
-afil
+What does it mean to gird one's loins?
+prepare oneself for something difficult or challenging
 
-What suffix is used for naming tricyclic antidepressants?
-ipramine
+What is the loose white jacket worn in judo called?
+gi
 
-Translate ``Lex orandi, lex credendi.''
-law of prayer, law of belief
+(1926--2020) As secretary of state for finance (1959--62) and finance minister (1962--66) under President Charles de Gaulle, this man was responsible for the policies that formed the basis for France's economic growth. He was president from 1974 to 1981. He was a member of the European Parliament (1989--93) and was leader of the centre-right Union pour la démocratie française from 1988 to 1996.
+Valéry Giscard d'Estaing
 
-What musicians feature on DJ Khaled's ``I'm the one''?
-Chance the Rapper, Justin Bieber, Lil Wayne, Quavo
+(1857--1903) What English novelist wrote New Grub Street (1891), Born in Exile (1892), and The Private Papers of Henry Ryecroft (1903)?
+George Gissing
 
-What pope issued Summorum Pontificum?
-Benedict XVI
+What is a gitana?
+Romani woman or girl from Spain; female Spanish Gypsy
 
-Who asks: ``[C]an anybody who takes a survey of the whole [Modernist] system be surprised that We should define it as the synthesis of all heresies?''
-Pius X
+What is a gitano?
+Romani man or boy from Spain; male Spanish Gypsy
 
-What pope issued Pascendi Dominici Gregis?
-Pius X
+What is a gîte?
+furnished holiday house in France, typically in a rural district
 
-What is the ``synthesis of all heresies''?
-Modernism
+What lute-like medieval stringed instrument was the forerunner of the guitar?
+gittern
 
-What is the Polish name for Lviv?
-Lwów 
-
-What is the German name for Lviv?
-Lemberg
-
-Translate ``sine qua non.''
-without which not
-
-Translate: ``J'ai crû en sagesse.''
-I grew in wisdom
-
-Translate: ``J'ai cru en la conjecture de Hodge.''
-I believed in the Hodge conjecture
-
-Translate: ``le cru et le cuit.''
-the raw and the cooked
-
-What does a cobbler do?
-mends shoes
-
-What is ``the dunny''?
-toilet
-
-Who says, tricking the cyclops, ``Οὖτις ἐμοί γ᾽ ὄνομα: Οὖτιν δέ με κικλήσκουσι / μήτηρ ἠδὲ πατὴρ ἠδ᾽ ἄλλοι πάντες ἑταῖροι''?
-Odysseus
-
-What Toronto Raptors broadcaster on TSN is known for exclaiming ``Get that garbage outta here!'' in his Brooklyn accent?
-Jack Armstrong
-
-What does ``Þjóðvegur'' mean?
-national road
-
-Define ``outturn.''
-quantity produced; output
-
-Define ``remuneration.''
-money paid for work or a service
-
-Define ``concomitant.''
-naturally accompanying or associated
-
-What is a sequela?
-condition that is the consequence of a previous disease or injury
-
-Who won the 2023 World Series?
-Texas Rangers
-
-Define ``fuliginous.''
-sooty; dusky
-
-Who wrote ``Raspberry beret''?
-Prince
-
-What American band made the song ``Drive by''?
-Train
-
-What does the Ancient Greek ``λεπταλέος'' mean?
-fine; delicate
-
-Who wrote The old man and the sea?
-Ernest Hemingway
-
-Who in 1547 became Tsar of Russia at 16?
-Ivan IV
-
-Wrote The Great Gatsby?
-F. Scott Fitzgerald
-
-What does the ``F'' stand for in ``F. Scott Fitzgerald''?
-Francis
-
-Who was the name of the youngest daughter of Tsar Nicholas II?
-Anastasia
-
-What isotope was the first to be observed exhibiting superfluidity?
-helium-4
-
-Who is described in Judges 6.11?
-Gideon
-
-What was Miloš Forman's occupation?
-director
-
-What is NPY4R?
-pancreatic polypeptide receptor 1
-
-What orchestra did Karel Ančerl direct until his death?
-Toronto Symphony Orchestra
-
-Define ``risible.''
-inclined to laugh
+Who was The Teflon Don?
+John Gotti

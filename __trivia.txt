@@ -9766,7 +9766,7 @@ This battle, named after a nearby river, was fought in Ireland in 1690. The Prot
 Battle of the Boyne
 2441
 
-This Charles Perrault character killed several wives in turn for disobeying his order to avoid a locked room, which contained the bodies of his previous wives. Local Breton tradition identifies what character with Gilles de Rais (c. 1400--40), a perpetrator of atrocities, although he had only one wife.
+This Charles Perrault character killed several wives in turn for disobeying his order to avoid a locked room, which contained the bodies of his previous wives. Local Breton tradition identifies what character with Gilles de Rais (c. 1400--40), a perpetrator of atrocities, although he had only one wife?
 Bluebeard
 2442
 
@@ -10474,7 +10474,7 @@ What Costa Rican president worked to achieve peace in Central America, particula
 Oscar Arias Sanchez
 2618
 
-What creamy sauce is made with butter, onions or shallots, and vinegar or lemon juice and usually served with seafood dishes?
+What creamy sauce is made with butter, onions, or shallots, and vinegar or lemon juice and usually served with seafood dishes?
 beurre blanc
 2619
 
@@ -16510,7 +16510,7 @@ Joseph Goebbels
 Bertolt Brecht
 4127
 
-(1898--1976) What American sculptor and painter, one of the first artists to introduce movement into sculpture, made mobiles incorporating abstract forms and static sculptures called stabiles?
+(1898--1976) What American sculptor and painter, one of the first artists to introduce movement into sculpture, made mobiles incorporating abstract forms and static sculptures called ``stabiles''?
 Alexander Calder
 4128
 
@@ -17214,7 +17214,7 @@ In what rhetorical or literary figure are words, grammatical constructions, or c
 chiasmus
 4303
 
-In what school for Jewish children are Hebrew and religious knowledge taught---its name comes from the Hebrew for ``room''?
+In what school for Jewish children are Hebrew and religious knowledge taught --- its name comes from the Hebrew for ``room''?
 cheder
 4304
 
@@ -17902,7 +17902,7 @@ What cloud forms a thin, more or less uniform, semitranslucent layer at high alt
 cirrostratus
 4475
 
-What cloud forms wispy filamentous tufted streaks ("mare's tails") at high altitude, usually 16,500--45,000 feet (5--13 km)?
+What cloud forms wispy filamentous tufted streaks (``mare's tails'') at high altitude, usually 16,500--45,000 feet (5--13 km)?
 cirrus
 4476
 
@@ -24138,7 +24138,7 @@ What does the Latin root noven-- mean?
 nine each; noveni; novenary
 6034
 
-What does the Latin root novendec- mean?
+What does the Latin root novendec-- mean?
 nineteen; novendecim
 6035
 
@@ -24150,15 +24150,15 @@ What does the Latin root nu-- mean?
 nod; nuere; innuendo
 6037
 
-What does the Latin root nub- mean?
+What does the Latin root nub-- mean?
 to marry, to wed; nubes, nubis, nubere; connubial, nubile
 6038
 
-What does the Latin root nuc- mean?
+What does the Latin root nuc-- mean?
 nut; nux, nucis; nucleus
 6039
 
-What does the Latin root nuch- mean?
+What does the Latin root nuch-- mean?
 back of neck; nucha; nuchal cord
 6040
 
@@ -24918,7 +24918,7 @@ What does the Latin root ponder-- mean?
 weight; pondus, ponderis; preponderance
 6229
 
-What does the Latin root pont- mean?
+What does the Latin root pont-- mean?
 bridge; pons, pontis; pontoon
 6230
 
@@ -24926,7 +24926,7 @@ What does the Latin root popul-- mean?
 people; populus, populare; population
 6231
 
-What does the Greek root por- mean?
+What does the Greek root por-- mean?
 passage; πόρος (poros); pore
 6232
 
@@ -28306,7 +28306,7 @@ Who was Bessemer and what did he do?
 English engineer who invented a process for making steel by taking carbon out of molten iron by the air blast
 7076
 
-Where do we get prunes from?
+Whence do we get prunes?
 Santa Clara Valley and elsewhere
 7077
 
@@ -28982,8 +28982,8 @@ The Leech lattice is defined in --- dimensions.
 24
 7245
 
-What is the only nontrivial case of the sum of the first n squares being a square?
-24
+What is the only nontrivial case of the sum of the first $n$ squares being a square?
+$n = 24$
 7246
 
 What unit of electric potential is $c_{\text{cgs}} 10^{-8}$ volt?
@@ -29490,7 +29490,7 @@ purpose addresses why the agents broke a rule; motive justifies the rule-breakin
 Emil Artin
 7372
 
-What name is given to the central core of the primary meristem of a plant---that, according to the histogen theory, gives rise to the stele---or to the stelar region in a root tip?
+What name is given to the central core of the primary meristem of a plant --- that, according to the histogen theory, gives rise to the stele --- or to the stelar region in a root tip?
 plerome
 7373
 
@@ -29666,11 +29666,11 @@ What is the other term for the order Xenarthra?
 Edentata
 7416
 
-(1809--49) What American short-story writer, poet, and critic---whose fiction and poetry are Gothic in style and characterized by their exploration of the macabre and the grotesque---wrote ``The fall of the House of Usher'' (1840), ``The murders in the Rue Morgue'' (1841), and ``The raven'' (1845)?
+(1809--49) What American short-story writer, poet, and critic --- whose fiction and poetry are Gothic in style and characterized by their exploration of the macabre and the grotesque --- wrote ``The fall of the House of Usher'' (1840), ``The murders in the Rue Morgue'' (1841), and ``The raven'' (1845)?
 Edgar Allan Poe
 7417
 
-(1869--1950) What American writer---whose verse is collected most notably in the Spoon River anthology (1915)---wrote biographies and novels?
+(1869--1950) What American writer --- whose verse is collected most notably in the Spoon River anthology (1915) --- wrote biographies and novels?
 Edgar Lee Masters
 7418
 
@@ -29682,7 +29682,7 @@ Who revoked the Edict of Nantes?
 Louis XIV
 7420
 
-(1847--1931) What American inventor---whose inventions include automatic telegraph systems, the carbon microphone for telephones, the phonograph, and the carbon filament lamp---took out the first of more than 1,000 patents at the age of 21?
+(1847--1931) What American inventor --- whose inventions include automatic telegraph systems, the carbon microphone for telephones, the phonograph, and the carbon filament lamp --- took out the first of more than 1,000 patents at the age of 21?
 Thomas Edison
 7421
 
@@ -30238,7 +30238,7 @@ What name is given to any of a Norwegian breed of hardy short-bodied medium-size
 Norwegian elkhound
 7559
 
-(1917--96) What American jazz singer---known for her distinctive style of scat singing---appeared with Count Basie and Duke Ellington and made a series of recordings of songs by George Gershwin and Cole Porter from the mid-1950s?
+(1917--96) What American jazz singer --- known for her distinctive style of scat singing --- appeared with Count Basie and Duke Ellington and made a series of recordings of songs by George Gershwin and Cole Porter from the mid-1950s?
 Ella Fitzgerald
 7560
 
@@ -30426,11 +30426,11 @@ Name the character addressed by Dante in these lines of Inferno: Ed ecco verso n
 Charon the ferryman
 7606
 
-Name the group of figures addressed by Dante in these lines of Inferno: [...] tre --- infernal di sangue tinte, / che membra feminine avieno e atto, / e con idre verdissime eran cinte; / serpentelli e ceraste avien per crine, / onde le fiere tempie erano avvinte (Canto 9, 38--42).
+Name the group of figures addressed by Dante in these lines of Inferno: [. . .] tre --- infernal di sangue tinte, / che membra feminine avieno e atto, / e con idre verdissime eran cinte; / serpentelli e ceraste avien per crine, / onde le fiere tempie erano avvinte (Canto 9, 38--42).
 Furies
 7607
 
-Name the creature addressed by Dante in these lines of Inferno: [...] e `n su la punta de la rotta lacca / l'infamïa di Creti era distesa / che fu concetta ne la falsa vacca; / e quando vide noi, sé stesso morse, / sì come quei cui l'ira dentro fiacca (Canto 12, 38--42).
+Name the creature addressed by Dante in these lines of Inferno: [. . .] e `n su la punta de la rotta lacca / l'infamïa di Creti era distesa / che fu concetta ne la falsa vacca; / e quando vide noi, sé stesso morse, / sì come quei cui l'ira dentro fiacca (Canto 12, 38--42).
 Minotaur
 7608
 
@@ -31286,7 +31286,7 @@ What instrument does Sarah Willis play?
 horn
 7821
 
-What Solo-Fagott of the Berliner Philharmoniker was a student of Alfred Rinderspacher and studied with Klaus Thunemann at the Hanover University of Music, Drama and Media? He became a member of the Berliner Philharmoniker on 1 September 1985.
+What Solo-Fagott of the Berliner Philharmoniker was a student of Alfred Rinderspacher and studied with Klaus Thunemann at the Hanover University of Music, Drama, and Media? He became a member of the Berliner Philharmoniker on 1 September 1985.
 Stefan Schweigert
 7822
 
@@ -36634,7 +36634,7 @@ How does one say ``goose'' in French?
 oie
 9158
 
-Who sings the flower duet ``Sous le dôme épais'' in Lakmé?
+Who sing the flower duet ``Sous le dôme épais'' in Lakmé?
 Lakmé, Mallika
 9159
 
@@ -42394,7 +42394,7 @@ What eagle-like being serves as the mount of Vishnu?
 Garuda
 10598
 
-(b. 1960) What English footballer---a striker with Leicester City, Everton, Barcelona, and Tottenham Hotspur---scored 48 goals for England, one short of Bobby Charlton's record?
+(b. 1960) What English footballer --- a striker with Leicester City, Everton, Barcelona, and Tottenham Hotspur --- scored 48 goals for England, one short of Bobby Charlton's record?
 Gary Lineker
 10599
 
@@ -43838,7 +43838,7 @@ What is the implicit memory phenomenon in which people mistakenly believe that a
 cryptomnesia
 10959
 
-What traditional South American caffeine-rich infused herbal drink is made by soaking dried leaves of the yerba --- (Ilex paraguariensis) in hot water and is traditionally served with a metal straw (bombilla) in a container typically made from a calabash gourd (also called the ---), but also in some areas made from a cattle horn (guampa)?
+What traditional South American caffeine-rich infused herbal drink is made by soaking dried leaves of the yerba [---] (Ilex paraguariensis) in hot water and is traditionally served with a metal straw (bombilla) in a container typically made from a calabash gourd (also called the [---]), but also in some areas made from a cattle horn (guampa)?
 mate
 10960
 
@@ -45059,7 +45059,7 @@ Trevor
 11264
 
 What was Messiaen's last work?
-Éclairs sur l'au-delà...
+Éclairs sur l'au-delà . . .
 11265
 
 For what instruments was Fête des belles eaux written?
@@ -45897,7 +45897,7 @@ How many assists did Connor McDavid have in the 2022--23 NHL season?
 Paul Morphy
 11473
 
-Let $\mathfrak{g}$ be an $N$-dimensional Lie algebra. Let $(\cdot,\cdot)$ be an $\operatorname{ad}$-invariant bilinear form on $\mathfrak{g}$ (say the Killing form). Let $\{x_1,...,x_N\}$ be a basis for $\mathfrak{g}$ and let $\{x_1^*,...,x_N^*\}$ be the dual basis with respect to $(\cdot,\cdot)$. What is the Casimir element for $(\cdot,\cdot)$?
+Let $\mathfrak{g}$ be an $N$-dimensional Lie algebra. Let $(\cdot,\cdot)$ be an $\operatorname{ad}$-invariant bilinear form on $\mathfrak{g}$ (say the Killing form). Let $\{x_1, . . . , x_N\}$ be a basis for $\mathfrak{g}$ and let $\{x_1^*, . . . , x_N^*\}$ be the dual basis with respect to $(\cdot,\cdot)$. What is the Casimir element for $(\cdot,\cdot)$?
 \begin{align*} \sum_{n=1}^N x_nx_n^*\end{align*}
 11474
 
@@ -46645,7 +46645,7 @@ What island contains Port Renfrew?
 Vancouver Island
 11660
 
-What name is given to a sequence of random variables $(X_n)_n$ that satisfies $\mathbf{E}(\lvert X_n \rvert) < \infty$ and $\mathbf{E}(X_{n+1} \mid X_1,...,X_n) = X_n$ for all $n$?
+What name is given to a sequence of random variables $(X_n)_n$ that satisfies $\mathbf{E}(\lvert X_n \rvert) < \infty$ and $\mathbf{E}(X_{n+1} \mid X_1, . . . , X_n) = X_n$ for all $n$?
 martingale 
 11661
 
@@ -47037,7 +47037,7 @@ What is syncretism?
 the amalgamation or attempted amalgamation of different religions, cultures, or schools of thought
 11758
 
-Who captained Vegas Golden Knights to Stanley Cup glory in 2023?
+Who captained the Vegas Golden Knights to Stanley Cup glory in 2023?
 Mark Stone
 11759
 
@@ -48557,7 +48557,7 @@ What is a word that stands instead of a noun?
 pronoun
 12138
 
-What is the ``if ...'' or ``unless ...'' clause of a conditional sentence?
+What is the ``if . . .'' or ``unless . . .'' clause of a conditional sentence?
 protasis
 12139
 
@@ -49665,7 +49665,7 @@ What two goalies shared the Vezina Trophy in 1969?
 Jacques Plante, Glenn Hall
 12415
 
-How many Vezina Trophies did Jacques Plante?
+How many Vezina Trophies did Jacques Plante win?
 seven
 12416
 
@@ -50221,7 +50221,7 @@ Who in 1547 became Tsar of Russia at 16?
 Ivan IV
 12554
 
-Wrote The Great Gatsby?
+Who wrote The Great Gatsby?
 F. Scott Fitzgerald
 12555
 
@@ -50256,4 +50256,560 @@ Toronto Symphony Orchestra
 Define ``risible.''
 inclined to laugh
 12563
+
+Who received the phone call from Alexander Graham Bell?
+Thomas Watson
+12564
+
+What were the first words transmitted over the telephone?
+Mr. Watson, come here; I want to see you.
+12565
+
+What company issued the first cell phone?
+Motorola
+12566
+
+How tall was Abraham Lincoln?
+6 foot 4
+12567
+
+What sport did Abraham Lincoln enjoy?
+wrestling
+12568
+
+Who was Abraham Lincoln's rival in the debates over slavery?
+Stephen Douglas
+12569
+
+What government department did Abraham Lincoln establish?
+Department of Agriculture
+12570
+
+On what money is Abraham Lincoln pictured?
+penny, five-dollar bill
+12571
+
+For how many years did King George reign?
+59 years
+12572
+
+Why did King George tax the Americans so heavily?
+to fund his seven wars
+12573
+
+What two places are associated with ``the shot heard round the world''?
+Lexington, Concord
+12574
+
+True or false? Thomas Jefferson used a laptop to draft the Declaration of Independence.
+true
+12575
+
+How long did the Revolutionary War last?
+8 years
+12576
+
+What is the name of the treaty that ended the Revolutionary War?
+Treaty of Paris
+12577
+
+In what country was the hot air balloon invented?
+France
+12578
+
+Who wrote the ``Concord hymn''?
+Ralph Waldo Emerson
+12579
+
+What was the last name of the brothers who invented the hot air balloon?
+Montgolfier
+12580
+
+What were the first names of the Montgolfier brothers who invented the hot air balloon?
+Étienne, Joseph-Michel
+12581
+
+What state houses Kitty Hawk?
+North Carolina 
+12582
+
+How long was the Wright Brothers' first flight in Kitty Hawk, North Carolina?
+12 seconds
+12583
+
+Who invented basketball?
+James Naismith
+12584
+
+What was the first basketball hoop?
+peach basket
+12585
+
+In what competition was the first slam dunk?
+1936 Olympics
+12586
+
+Where were the 1936 Olympics held?
+Berlin
+12587
+
+What invention was used to make thread?
+spinning jenny
+12588
+
+After whom is the teddy bear named?
+Theodore Roosevelt
+12589
+
+By what process did some combinations of words that occurred frequently together coalesce to form a single word in Greek?
+crasis
+12590
+
+Everyone knows that Patrick Roy was in net for the Avs' two Stanley Cup wins. Which two goalies backed him up?
+Stephane Fiset, David Aebischer
+12591
+
+Who did the Vancouver Canucks play in their first Stanley Cup Final appearance?
+New York Islanders
+12592
+
+Who won the Hart Trophy in 1994?
+Sergei Fedorov
+12593
+
+Who was the first captain of the Avs when they moved to Colorado?
+Joe Sakic
+12594
+
+Who is the Maple Leafs' all-time leading goal scorer pre-2024?
+Mats Sundin
+12595
+
+Name the Russian five.
+Sergei Fedorov, Slava Fetisov, Vladimir Konstantinov, Slava Kozlov, Igor Larionov
+12596
+
+Who were the two NHL players that Andy Warhol painted?
+Rod Gilbert, Wayne Gretzky
+12597
+
+What landmark featured on Mike Richter's famous goalie mask?
+Statue of Liberty
+12598
+
+What building is on the Conn Smythe trophy?
+Maple Leaf Gardens
+12599
+
+What EBUG recorded a win for the Carolina Hurricanes on 22 February 2020 in Toronto?
+David Ayres
+12600
+
+Who scored the game-winning goal for Sweden in the gold medal game of the 2012 World Juniors?
+Mika Zibanejad
+12601
+
+Who holds the single-tournament points record at the World Juniors?
+Peter Forsberg
+12602
+
+Here's a question about the Mighty Ducks movie. In Hans' shop hangs a picture of a goalie wearing a Minnesota Golden Gophers jersey holding the Hobey Baker award. Who is the goalie?
+Robb Stauber
+12603
+
+Who won the Conn Smythe Trophy in 2000?
+Scott Stevens
+12604
+
+What's a knuckle-dragger?
+stupid or loutish man
+12605
+
+What sound, used in the pronunciation of the word ``loch,'' is denoted by ``x'' in the International Phonetic Alphabet?
+unvoiced velar fricative
+12606
+
+Define ``nascent.''
+only recently formed or started, but likely to grow larger quickly
+12607
+
+Define ``discursive.''
+digressing from subject to subject
+12608
+
+What circular aperture in the anterior and medial part of the greater wing of the sphenoid gives passage to the maxillary nerve?
+foramen rotundum
+12609
+
+What does the Latin masculine adjective ``rotundus'' mean?
+round
+12610
+
+``The work is crowned by the production of the [---], which, as the materia globosa, stands at the beginning and also at the end, in the form of gold.''
+rotundum
+12611
+
+``There was something formless yet complete, / That existed before heaven and earth; / Without sound, without substance, / Dependent on nothing, unchanging, / All pervading, unfailing. / One may think of it as the mother of all things under heaven.'' What was Lao-tzu describing?
+the t'ai chi
+12612
+
+What evergreen tropical American tree (Crescentia cujete) bears fruit in the form of large woody gourds?
+calabash
+12613
+
+``Draco interfecit se ipsum, maritat se ipsum, impraegnat se ipsum.'' What symbol is being described?
+uroboros
+12614
+
+Translate ``ἓν τὸ πᾶν.''
+the all is one
+12615
+
+What is chrysopoeia?
+gold making
+12616
+
+What shape represents wu ji [無極]?
+circle
+12617
+
+Whence?
+the round
+12618
+
+Define ``upbear.''
+raise up; support
+12619
+
+Translate ``Liebestod.''
+love death
+12620
+
+What are Isolde's words as the Liebestod takes place?
+Mild und leise / wie er lächelt, / wie das Auge / hold er öffnet, --- / seht ihr's, Freunde? / Säh't ihr's nicht? / Immer lichter / wie er leuchtet, / sternumstrahlet / hoch sich hebt? / Seht ihr's nicht? / Wie das Herz ihm / mutig schwillt, / voll und hehr / im Busen ihm quillt? / Wie den Lippen, / wonnig mild, / süsser Atem / sanft entweht: --- / Freunde! Seht! / Fühlt und seht ihr's nicht? / Hör ich nur / diese Weise, / die so wunder --- / voll und leise, / Wonne klagend, / alles sagend, / mild versöhnend / aus ihm tönend, / in mich dringet, / auf sich schwinget, / hold erhallend / um mich klinget? / Heller schallend, / mich umwallend, / sind es Wellen / sanfter Lüfte? / Sind es Wogen / wonniger Düfte? / Wie sie schwellen, / mich umrauschen, / soll ich atmen, / soll ich lauschen? / Soll ich schlürfen, / untertauchen? / Süss in Düften / mich verhauchen? / In dem wogenden Schwall, / in dem tönenden Schall, / in des Weltatems / wehendem All, --- / ertrinken, / versinken, --- / unbewusst, --- / höchste Lust!
+12621
+
+Where was Matvei Michkov born?
+Perm
+12622
+
+Where is Signal Hill?
+St. John's, Newfoundland
+12623
+
+What city is home to Kula Lotrščak?
+Zagreb
+12624
+
+What country is home to Hæstahjallafoss?
+Iceland
+12625
+
+Who won the 2023 Sinquefield Cup?
+Fabiano Caruana
+12626
+
+Who won the 2015 Sinquefield Cup?
+Levon Aronian
+12627
+
+From what country does catupiry come?
+Brazil
+12628
+
+What does the adjective ``gubernatorial'' describe?
+governor
+12629
+
+In what country was hockey player and coach Paul MacLean born?
+France
+12630
+
+With what team did Paul MacLean win the Jack Adams Award in 2013?
+Ottawa Senators
+12631
+
+What Soviet hockey coach won Olympic gold in 1984, 1988, and 1992 and the Canada Cup in 1981?
+Viktor Tikhonov
+12632
+
+What American TV film that aired in 1983 depicted a fictional nuclear exchange?
+The day after
+12633
+
+What astronauts were part of the 1972 Apollo 17 mission?
+Eugene Cernan, Ronald Evans, Harrison Schmitt
+12634
+
+What instrument did Emmanuel Pahud play?
+flute
+12635
+
+Name the composer of the novella Candide and that of the operetta Candide based on the novella.
+Voltaire, Leonard Bernstein
+12636
+
+What city contains a neighbourhood named ``Petare''?
+Caracas
+12637
+
+Who was drafted first overall in Wayne Gretzky's draft year, 1979?
+Rob Ramage
+12638
+
+Define ``fain.''
+pleased or willing under the circumstances
+12639
+
+On what date did the Japanese attack Pearl Harbour?
+7 December 1941
+12640
+
+What cut of beef popular in Brazil is known as a ``rump cap''? 
+picanha
+12641
+
+From what animal is Adana kebab made?
+lamb
+12642
+
+Of what two fruits is a tangelo a hybrid?
+tangerine, grapefruit
+12643
+
+``About 150 years ago, according to legend, a young brave wanted to witness the plunge of countless buffalo as his people drove them to their deaths over the sandstone cliffs. Standing under the shelter of a ledge, like a man behind a waterfall, he watched the great beasts cascade past him. But the hunt was unusually good that day and as the bodies mounted, he became trapped between the animals and the cliff. When his people came to do the butchering, they found him with his skull crushed by the weight of the buffalo.'' What was the name of this site thus named?
+Head-Smashed-In Buffalo Jump
+12644
+
+Who plays Harold Abrahams in Chariots of fire?
+Ben Cross
+12645
+
+Where was the beach running scene in Chariots of fire filmed?
+St. Andrews, Scotland
+12646
+
+In what year is Goya's Third of May painting set?
+1808
+12647
+
+Where does a general keep his armies?
+up his sleevies
+12648
+
+What does it mean to sling hash?
+serve food at a restaurant
+12649
+
+What author's Gregor Samsa wakes up as a bug?
+Franz Kafka
+12650
+
+Gilbert, your neck reminds me of a typewriter.
+Underwood
+12651
+
+Who is singular in having made-up children named Dylan, Dagwood, D'Artagnan, and Simon ``Peter''?
+Norm Macdonald
+12652
+
+On what body of water is the Spanish port of Gijón located?
+Bay of Biscay
+12653
+
+(1912--88) What Canadian jazz pianist, composer, and arranger began a long association with Miles Davis in 1947, producing albums such as Porgy and Bess (1958) and Sketches of Spain (1959)?
+Gil Evans
+12654
+
+What venomous beaded lizard (Heloderma suspectum) is native to the south-western United States and Mexico and named after a river in New Mexico and Arizona?
+Gila monster
+12655
+
+(c. 1539--83) What English explorer claimed Newfoundland for Elizabeth I in 1583, but was lost when his ship foundered in a storm on the way home?
+Sir Humphrey Gilbert
+12656
+
+(1544--1603) What English physician and physicist discovered how to make magnets, and coined the term ``magnetic pole''? His book De Magnete (1600) is an important early work on physics.
+William Gilbert
+12657
+
+What former British colony (1915--75) in the central Pacific consisted of two groups of islands --- one of them is part of Kiribati and the other is now Tuvalu.
+Gilbert and Ellice Islands
+12658
+
+What group of islands, now part of Kiribati, straddles the equator and lies immediately west of the International Date Line? 
+Gilbert Islands
+12659
+
+What is a gilet?
+light sleeveless padded jacket
+12660
+
+(1882--1940) The best-known sculptures of this English sculptor, engraver, and typographer are the relief carvings Stations of the Cross (1914--18) at Westminster Cathedral and Prospero and Ariel (1931) on Broadcasting House in London. He designed a popular sans serif typeface that bears his name.
+Eric Gill
+12661
+
+Who was Australia's prime minister from 2010 to 2013?
+Julia Gillard
+12662
+
+What o-word is another term for a gill cover --- a flap of skin protecting a fish's gills, typically stiffened by bony plate?
+operculum
+12663
+
+What type of shoe with laces along the instep and no tongue is used especially for Scottish country dancing?
+ghillie
+12664
+
+What English county houses Gillingham --- a town on the Medway estuary?
+Kent
+12665
+
+What g-word may mean ``young sow''?
+gilt
+12666
+
+(1900--76) What English philosopher attacks the mind–body dualism of Descartes in The concept of mind (1949)? He was a cousin of the astronomer Sir Martin.
+Gilbert Ryle
+12667
+
+(c. 1465 -- c. 1536) What Portuguese playwright and poet is regarded as Portugal's most important playwright? Many of his works were written to commemorate national or court events and include religious dramas, farces, pastoral plays, and satirical comedies.
+Gil Vicente
+12668
+
+(1720--93) What English clergyman and naturalist wrote many letters to friends on aspects of natural history in his native village of Selborne, Hampshire? These were published in 1789 as The Natural History and Antiquities of Selborne, which has remained in print ever since.
+Gilbert White
+12669
+
+What does it mean to gild the lily?
+to try to improve what is already beautiful or excellent
+12670
+
+What name is designated to a device for keeping an instrument such as a compass or chronometer horizontal in a moving vessel or aircraft, typically consisting of rings pivoted at right angles?
+gimbal
+12671
+
+What is a gimlet eye?
+eye with a piercing stare
+12672
+
+What is gin and it?
+drink of gin and Italian vermouth
+12673
+
+What are the gingiva?
+the gums
+12674
+
+What is the inflammation of the gums called?
+gingivitis
+12675
+
+What is the anatomical term for a hinge-like joint such as the elbow or knee that allows movement in only one plane?
+ginglymus
+12676
+
+What deciduous Chinese tree related to the conifers with fan-shaped leaves and yellow flowers has a number of primitive features and is similar to some Jurassic fossils? It is also called a ``maidenhair tree.''
+ginkgo
+12677
+
+What is a ginnel?
+narrow passage between buildings
+12678
+
+(1911--95) What American actress and dancer is known for her dancing partnership with Fred Astaire, during which she appeared in musicals including Top Hat (1935)? Her solo acting career included the film Kitty Foyle (1940), for which she won an Oscar.
+Ginger Rogers
+12679
+
+What is a Casanova?
+man notorious for seducing women
+12680
+
+(c. 1478--1510) What influential Italian Renaissance painter introduced the small easel picture in oils intended for private collectors? His notable works include The Tempest (c. 1505) and Sleeping Venus (c. 1510).
+Giorgione
+12681
+
+(c. 1267--1337) What Italian painter introduced a naturalistic style showing human expression.  His notable works include the frescoes in the Arena Chapel, Padua (1305--08), and the church of Santa Croce in Florence (c. 1320).
+Giotto
+12682
+
+What was Giotto's full name?
+Giotto di Bondone
+12683
+
+What European space probe photographed the nucleus of Halley's comet in March of 1986?
+Giotto
+12684
+
+What was Pope Leo X's name?
+Giovanni de' Medici
+12685
+
+What tussock moth (Lymantria dispar) has a brown male and larger white female, the latter being fully winged but flightless? The caterpillar can be a serious pest of orchards and woodland.
+gypsy moth
+12686
+
+What white-flowered Eurasian plant of the mint family (Lycopus europaeus) grows in damp habitats?
+gypsywort
+12687
+
+What is a girandole?
+branched support for candles or other lights, which either stands on a surface or projects from a wall
+12688
+
+What annual long-distance race for professional cyclists first held in 1909 and taking place primarily on the roads of Italy over a period of about three weeks consists of multiple stages which are separately timed, several of these stages encompassing mountainous terrain?
+Giro d'Italia
+12689
+
+What is the French name for a chanterelle mushroom?
+girolle
+12690
+
+What river estuary in south-western France, formed at the junction of the Garonne and Dordogne Rivers, north of Bordeaux, flows north-west for 72 km (45 miles) into the Bay of Biscay?
+Gironde
+12691
+
+What were members of the French moderate republican Party in power during the Revolution from 1791 to 1793 called?
+Girondist
+12692
+
+(1452--98) What Italian preacher and religious reformer was a Dominican monk and strict ascetic who became popular for his passionate preaching against immorality and corruption? He became virtual ruler of Florence (1494--95) but in 1497 he was excommunicated and later executed as a heretic?
+Girolamo Savonarola
+12693
+
+What does it mean to gird one's loins?
+prepare oneself for something difficult or challenging
+12694
+
+What is the loose white jacket worn in judo called?
+gi
+12695
+
+(1926--2020) As secretary of state for finance (1959--62) and finance minister (1962--66) under President Charles de Gaulle, this man was responsible for the policies that formed the basis for France's economic growth. He was president from 1974 to 1981. He was a member of the European Parliament (1989--93) and was leader of the centre-right Union pour la démocratie française from 1988 to 1996.
+Valéry Giscard d'Estaing
+12696
+
+(1857--1903) What English novelist wrote New Grub Street (1891), Born in Exile (1892), and The Private Papers of Henry Ryecroft (1903)?
+George Gissing
+12697
+
+What is a gitana?
+Romani woman or girl from Spain; female Spanish Gypsy
+12698
+
+What is a gitano?
+Romani man or boy from Spain; male Spanish Gypsy
+12699
+
+What is a gîte?
+furnished holiday house in France, typically in a rural district
+12700
+
+What lute-like medieval stringed instrument was the forerunner of the guitar?
+gittern
+12701
+
+Who was The Teflon Don?
+John Gotti
+12702
 
