@@ -170,7 +170,7 @@ Alban Berg
 Alain-Fournier
 42
 
-(1887--1964) What Russian-born US sculptor adapted cubist techniques to sculpture and sculpted Walking woman (1912)?
+(1887--1964) What Russian-born American sculptor adapted cubist techniques to sculpture and sculpted Walking woman (1912)?
 Alexander Archipenko
 43
 
@@ -422,7 +422,7 @@ What kind of diseases do adenoviruses cause chiefly?
 respiratory diseases
 105
 
-Adrar des Ifoghas is a massif region in the central Sahara on the border between --- and ---.
+Adrar des Ifoghas is a massif region in the central Sahara on the border between [---] and [---].
 Algeria, Mali
 106
 
@@ -450,7 +450,7 @@ Around what planet do moons Oberon and Titania orbit?
 Uranus
 112
 
-As of 2018, what city has the biggest port in terms of TEUs?
+As of 2018, what city has the biggest port in terms of twenty-foot equivalent units?
 Shanghai
 113
 
@@ -486,11 +486,11 @@ What class of materials that have zero electrical resistance and that are involv
 superconductors
 121
 
-Bernstein's Chichester Psalms was written in ---.
+Bernstein's Chichester Psalms was written in [---].
 Hebrew
 122
 
-Both Aphrodite and Persephone loved this beautiful youth. What Greek mythological figure---whose name is used to describe a handsome young man---was killed by a boar and decreed by Zeus to spend each winter with Persephone and summer with Aphrodite?
+Both Aphrodite and Persephone loved this beautiful youth. What Greek mythological figure --- whose name is used to describe a handsome young man --- was killed by a boar and decreed by Zeus to spend each winter with Persephone and summer with Aphrodite?
 Adonis
 123
 
@@ -638,7 +638,7 @@ By what name is Wolfgang Amadeus Mozart's Symphony no. 41 better known?
 Jupiter
 159
 
-Critical for oil, what largest manmade port of the Middle East in the United Arab Emirates that opened in 1979 handles shipping traffic coming through the Strait of Hormuz and the Persian Gulf?
+Critical for oil, what largest man-made port of the Middle East in the United Arab Emirates that opened in 1979 handles shipping traffic coming through the Strait of Hormuz and the Persian Gulf?
 Jebel Ali
 160
 
@@ -646,7 +646,7 @@ What Italian language did Dante Alighieri's Divine Comedy help to establish?
 Tuscan
 161
 
-What program did DeepMind create that won CASP14 with a median GDT of 92.4?
+What program did DeepMind create that won the fourteenth Critical Assessment of Structure Prediction with a median global distance test score of 92.4?
 AlphaFold 2
 162
 
@@ -1206,7 +1206,7 @@ What Midwestern town saw Dvořák write some of his most beloved pieces?
 Spillville, Iowa
 301
 
-In what Mozart opera seria---his penultimate opera---is a new emperor loved by many except for his daughter, who attempts to get the throne for herself?
+In what Mozart opera seria --- the penult of his operatic corpus --- is a new emperor loved by many with the exception of his daughter, who attempts to get the throne for herself?
 La clemenza di Tito
 302
 
@@ -1270,15 +1270,15 @@ Into what region of Africa has the Sahara been extending southward?
 Sahel
 317
 
-Into what three particles does a neutron decay?
+What are the three particles into which a neutron decays?
 proton, electron, electron antineutrino
 318
 
-Into what three parts did Sigmund Freud divide the human psyche?
+What were the three parts into which Sigmund Freud divided the human psyche?
 id, ego, super-ego
 319
 
-Into what three parts is Dante Alighieri's Divine comedy divided?
+What are the three parts of Dante Alighieri's Divine comedy?
 Inferno, Purgatorio, Paradiso
 320
 
@@ -1406,8 +1406,8 @@ Whose assassination on 6 October 1981 brought Hosni Mubarak to power in Egypt?
 Anwar Sadat
 351
 
-By whom was the autoregressive language model GPT-3 with over one hundred billion machine learning parameters created?
-OpenAI
+What food does not go bad?
+honey
 352
 
 What seawater inlet do the Bab-el-Mandeb Strait and the Gulf of Aden connect, bordered by Saudi Arabia, Yemen, Egypt, Sudan, Eritrea, and Djibouti to the Indian Ocean?
@@ -1462,7 +1462,7 @@ What poet wrote ``An die Freude,'' used in Beethoven's 9th Symphony?
 Friedrich Schiller
 365
 
-What composer frequented the Red Hedgehog---a Viennese coffeehouse?
+What composer frequented the Red Hedgehog --- a Viennese coffeehouse?
 Brahms
 366
 
@@ -1482,7 +1482,7 @@ Under the direction of what Mughal Emperor was the the Taj Mahal, completed circ
 Shah Jahan
 370
 
-What nation's independence did the Thirty-Three Orientals (including its second president, Manuel Oribe) secure, created in 1828 as a buffer state between Brazil and Argentina?
+What nation's independence did the Thirty-Three Orientals (including its second president, Manuel Oribe) secure?
 Uruguay
 371
 
@@ -1510,7 +1510,7 @@ This Greek/Roman mythological figure was Anchises's and Aphrodite's son and the 
 Aeneas
 377
 
-Though the tradition of Nine Lessons and Carols is associated with King's College, Cambridge, where did the tradition actually originate?
+Though the tradition of Nine Lessons and Carols is associated with King's College, Cambridge, whence does the tradition actually originate?
 Truro Cathedral, Cornwall
 378
 
@@ -1574,7 +1574,7 @@ What eleventh month of the civil and fifth of the religious year in the Jewish c
 Av
 393
 
-What twentieth century playwright who earned a Nobel Prize for Literature in part for Six characters in search of an author contrasted art with life and explored the boundaries of reality in Henry IV?
+What twentieth century playwright who earned a Nobel Prize for Literature in part for Six Characters in Search of an Author contrasted art with life and explored the boundaries of reality in Henry IV?
 Luigi Pirandello
 394
 
@@ -1590,7 +1590,7 @@ What 1956 crisis caused by Anglo-American refusal to finance the Aswan High Dam 
 Suez Crisis
 397
 
-What 1983 Nobel laureate who profiled a medieval clergyman in The Spire, described the demise of the Neanderthals in The inheritors, and detailed young men attempting to self-govern in his first novel Lord of the flies won the Booker Prize for Rites of passage?
+What 1983 Nobel laureate who profiled a medieval clergyman in The Spire, described the demise of the Neanderthals in The Inheritors, and detailed young men attempting to self-govern in his first novel Lord of the Flies won the Booker Prize for Rites of Passage?
 Sir William Golding
 398
 
@@ -1626,7 +1626,7 @@ What almond-shaped mass of grey matter found inside each cerebral hemisphere is 
 amygdala
 406
 
-What American playwright was initially associated with the Theatre of the Absurd and wrote Who's afraid of Virginia Woolf? (1962)?
+What American playwright was initially associated with the Theatre of the Absurd and wrote Who's Afraid of Virginia Woolf? (1962)?
 Edward Albee
 407
 
@@ -1650,7 +1650,7 @@ What analgesic drug used to relieve mild or chronic pain and to reduce fever is 
 acetaminophen
 412
 
-What Anglo-Saxon monk, writer, and grammarian---known as Grammaticus---wrote Lives of the saints (993-96)?
+What Anglo-Saxon monk, writer, and grammarian known as Grammaticus wrote Lives of the Saints (993-96)?
 Ælfric
 413
 
@@ -1958,7 +1958,7 @@ What Chinese religious motif incorporating the eight trigrams of the I Ching are
 ba gua
 489
 
-What choral work of Beethoven was inscribed ``Von Herzen---Möge es wieder---Zu Herzen gehn'' `From the heart, may it return to the heart'?
+What choral work of Beethoven was inscribed ``Von Herzen --- Möge es wieder --- Zu Herzen gehn'' `From the heart, may it return to the heart'?
 Missa Solemnis
 490
 
@@ -2774,8 +2774,8 @@ What does ``modicum'' mean?
 small quantity of a particular thing, especially something desirable or valuable
 693
 
-What does ``monotonic'' mean?
-(of a function or quantity) varying in such a way that it either never decreases or never increases
+Write the discriminant form $\Delta$ in terms of the modular forms $E_4$ and $E_6$.
+$$ \Delta = \frac{E_4^3 - E_6^2}{1728} $$
 694
 
 What does ``NADP'' stand for?
@@ -3103,63 +3103,63 @@ the boot
 775
 
 What does the Latin ``a fortiori'' mean?
-used to express a conclusion for which there is stronger evidence than for a previously accepted one (from stronger argument)
+from stronger
 776
 
 What does the Latin ``a posteriori'' mean?
-based on experience (from the latter)
+from what comes after
 777
 
 What does the Latin ``a priori'' mean?
-independent of experience (from the earlier)
+from the earlier
 778
 
 What does the Latin ``ab ovo'' mean?
-from the very beginning (from the egg)
+from the egg
 779
 
 What does the Latin ``ad hoc'' mean?
-said of something created or formed for a special case (to this)
+to this
 780
 
 What does the Latin ``ad hominem'' mean?
-(of an argument or reaction) directed against a person rather than the position they are maintaining; in a way that is directed against a person rather than the position they are maintaining (to the person)
+to the person
 781
 
 What does the Latin ``ad infinitum'' mean?
-something that keeps going forever (to infinity)
+to infinity
 782
 
 What does the Latin ``ad libitum'' mean?
-as much or as often as necessary or desired; (especially as a direction) with free rhythm and expression (according to pleasure)
+according to pleasure
 783
 
 What does the Latin ``ad litem'' mean in law?
-appointed to act in a lawsuit on behalf of a child or other person who is not considered capable of representing themselves (for the lawsuit)
+for the lawsuit
 784
 
 What does the Latin ``ad personam'' mean?
-on an individual basis
+to a person
 785
 
 What does the Latin ``ad rem'' mean?
-in a way that is relevant to what is being done or discussed at the time (to the matter)
+to the matter
 786
 
 What does the Latin ``ad valorem'' mean?
-in proportion to the estimated value of the goods or transaction concerned (according to the value)
+according to the value
 787
 
 What does the Latin ``alea iacta est'' mean?
-said when a plot is set into motion (the die is cast)
+the die is cast
 788
 
 What does the Latin ``ars longa, vita brevis'' mean?
-there is so much knowledge (or skill) to acquire that a lifetime is not sufficient (art is long, life is short)
+art is long, life is short
 789
 
 What does the Latin ``casus belli'' mean?
-where the blame lies (cause of war)
+cause of war
 790
 
 What does the Latin cost-- mean?
@@ -3206,7 +3206,7 @@ What does the Latin root acerb-- mean?
 sharp, bitter, sour; from acidus
 801
 
-What does the Latin root acid--mean?
+What does the Latin root acid-- mean?
 sour or acid; from acidus
 802
 
@@ -3570,7 +3570,7 @@ What does ``viz.'' abbreviate?
 videlicet `namely,' `that is to say'
 892
 
-(1545--92) What Duke of Parma, Italian general, and statesman captured Antwerp in 1585 while in the service of Philip II, securing the southern Netherlands for Spain?
+(1545--92) What Duke of Parma and Italian general captured Antwerp in 1585 while in the service of Philip II, securing the southern Netherlands for Spain?
 Alessandro Farnese
 893
 
@@ -3622,7 +3622,7 @@ What elongated ridge on the floor of each lateral ventricle of the brain is thou
 hippocampus
 905
 
-What English aviator made the first nonstop transatlantic flight in June 1919 with Sir Arthur Whitten Brown?
+What English aviator made the first non-stop transatlantic flight in June 1919 with Sir Arthur Whitten Brown?
 Sir John William Alcock
 906
 
@@ -3754,7 +3754,7 @@ What four moons of Jupiter are, collectively, the Galilean moons?
 Io, Europa, Ganymede, Callisto
 938
 
-What fourth-century Roman grammarian wrote two artes grammaticae---an Ars Major and an Ars Minor---that would be used in schools in the Middle Ages?
+What fourth-century Roman grammarian wrote two artes grammaticae --- an Ars Major and an Ars Minor --- that would be used in schools in the Middle Ages?
 Aelius Donatus
 939
 
@@ -3942,7 +3942,7 @@ What Himalayan region has been occupied by China since 1950 but is claimed by In
 Aksai Chin
 985
 
-What Hindu epic written in Sanskrit contains discussions of dharma and the soul's immortality, details the struggles between two groups of cousins---including the warrior Arjuna---for their family's throne, and is literature's longest-known poem?
+What Hindu epic written in Sanskrit contains discussions of dharma and the soul's immortality, details the struggles between two groups of cousins --- including the warrior Arjuna --- for their family's throne, and is literature's longest-known poem?
 Mahabharata
 986
 
@@ -4626,12 +4626,12 @@ What is an agnate?
 (law) a person descended from the same male ancestor as another specified or implied person, especially through the male line
 1156
 
-What is an agonist?
-(biochemistry) a substance which initiates a physiological response when combined with a receptor; (anatomy) a muscle whose contraction moves a part of the body directly
+What is an agonist in the setting of biochemistry?
+substance which initiates a physiological response when combined with a receptor
 1157
 
-What is an Ah Beng?
-young man who wears fashionable or designer clothing and whose behaviour is considered brash and loutish
+What is an agonist in the anatomical sense?
+muscle whose contraction moves a part of the body directly
 1158
 
 What is an aide-de-camp?
@@ -4882,7 +4882,7 @@ What is defined as ``a long, narrow, deep inlet of the sea between high cliffs, 
 fjord
 1220
 
-What is an ``imaginary line on the earth's surface cutting all meridians at the same angle, used as the standard method of plotting a ship's course on a chart,'' first studied by Pedro Nunes in 1537?
+What ``imaginary line on the earth's surface cutting all meridians at the same angle, used as the standard method of plotting a ship's course on a chart,'' was first studied by Pedro Nunes in 1537?
 rhumb line
 1221
 
@@ -5295,7 +5295,7 @@ Jalapa
 1323
 
 What is the discriminant of the elliptic curve $y^2 = x^3 + ax + b$?
-$-16(4a^3 + 27b^2)$
+$$-16(4a^3 + 27b^2)$$
 1324
 
 Of what is the fiery lake composed in the book of Revelation?
@@ -5407,7 +5407,7 @@ Devon Island
 1351
 
 When is the Latin ``ad nauseam'' used?
-to refer to the fact that something has been done or repeated so often that it has become annoying or tiresome (to sickness)
+to sickness
 1352
 
 What is the longest Shakespearean play?
@@ -5451,63 +5451,63 @@ Zealand
 1362
 
 What is the national motto of Belgium?
-Eendracht maakt macht `Unity makes strength'
+eendracht maakt macht `unity makes strength'
 1363
 
 What is the national motto of Brazil?
-Ordem e Progresso `Order and progress'
+ordem e progresso `order and progress'
 1364
 
 What is the national motto of Canada?
-A Mari Usque Ad Mare `From Sea to Sea'
+a mari usque ad mare `from sea to sea'
 1365
 
 What is the national motto of Chile?
-Por la razón o la fuerza `Through reason or by force'
+por la razón o la fuerza `through reason or by force'
 1366
 
 What is the national motto of France?
-Liberté, égalité, fraternité `Liberty, equality, fraternity'
+liberté, égalité, fraternité `liberty, equality, fraternity'
 1367
 
 What is the national motto of Greece?
-Eleftheria i thanatos `Freedom or death'
+ελευθερία ή θάνατος `freedom or death'
 1368
 
 What is the national motto of India?
-Satyameva Jayate `Truth alone triumphs'
+satyameva jayate `truth alone triumphs'
 1369
 
 What is the national motto of Indonesia?
-Bhinneka Tunggal Ika `Unity in diversity'
+bhinneka tunggal ika `unity in diversity'
 1370
 
 What is the national motto of Luxembourg?
-Mir wëlle bleiwe wat mir sinn `We wish to remain what we are'
+mir wëlle bleiwe wat mir sinn `we wish to remain what we are'
 1371
 
 What is the national motto of Mexico?
-La Patria Es Primero `The homeland is first'
+la patria es primero `the homeland is first'
 1372
 
 What is the national motto of Spain?
-Plus ultra `Further beyond'
+plus ultra `further beyond'
 1373
 
 What is the national motto of Switzerland?
-Unus pro omnibus, omnes pro uno `One for all, all for one'
+unus pro omnibus, omnes pro uno `one for all, all for one'
 1374
 
 What is the national motto of the Czech Republic?
-Pravda vítězí `Truth prevails'
+pravda vítězí `truth prevails'
 1375
 
 What is the national motto of the Netherlands?
-Je maintiendrai `I will maintain'
+je maintiendrai `I will maintain'
 1376
 
 What is the national motto of the United States?
-In God we trust
+in God we trust
 1377
 
 What is the national sport of Turkey?
@@ -5855,7 +5855,7 @@ Althing
 1463
 
 What is the University of Cambridge's motto?
-Hinc lucem et pocula sacra `from this place, we gain enlightenment and precious knowledge'
+hinc lucem et pocula sacra `from this place, we gain enlightenment and precious knowledge'
 1464
 
 What is the University of Oxford's motto?
@@ -6182,7 +6182,7 @@ What moon of Saturn is larger than Mercury?
 Titan
 1545
 
-What most common newspaper format is used by newspapers such as The New York Times, The WaPo, and L'Osservatore Romano?
+What most common newspaper format is used by newspapers such as The New York Times, The Washington Post, and L'Osservatore Romano?
 broadsheet
 1546
 
@@ -6298,7 +6298,7 @@ What natural freshwater lake is on the border of New York and Vermont and is als
 Lake Champlain
 1574
 
-What Nazi German administrator—responsible for administering concentration camps—was traced in 1960 by Israeli agents and executed after his trial in Israel?
+What Nazi German administrator responsible for administering concentration camps was traced in 1960 by Israeli agents and executed after his trial in Israel?
 Adolf Eichmann
 1575
 
@@ -6450,7 +6450,7 @@ What Polish composer (1933--2020) wrote Threnody for the victims of Hiroshima an
 Krzysztof Penderecki
 1612
 
-What Polish-born mathematician who held dual American and French citizenship as an adult was named an IBM fellow, joined the faculty of Yale as a Sterling Professor of Mathematical Sciences after retirement, and invented ``fractal''?
+What Polish-born mathematician who held dual American and French citizenship as an adult was named an IBM fellow, joined the faculty of Yale as a Sterling Professor of Mathematical Sciences after retirement, and invented the name ``fractal''?
 Benoît Mandelbrot
 1613
 
@@ -6474,7 +6474,7 @@ What pope promulgated the novus Ordo Missae, also known as the post-Vatican II M
 Paul VI
 1618
 
-What popular destination is Thailand's largest island?
+What is Thailand's largest island?
 Phuket
 1619
 
@@ -6822,7 +6822,7 @@ What Spanish conquistador set up a meeting with Incan ruler Atahualpa at Cajamar
 Francisco Pizarro
 1705
 
-What Spanish physician, Jewish philosopher, and Rabbinic scholar wrote The Guide for the Perplexed—a theological work attempting to reconcile Talmudic scripture with Aristotelian philosophy—and formulated thirteen principles of faith in his commentary on the Mishnah?
+What Spanish physician, Jewish philosopher, and Rabbinic scholar wrote The Guide for the Perplexed --- a theological work attempting to reconcile Talmudic scripture with Aristotelian philosophy --- and formulated thirteen principles of faith in his commentary on the Mishnah?
 Maimonides/Rambam
 1706
 
@@ -7094,7 +7094,7 @@ What was the earliest known printed book made with metal movable type, printed i
 Jikji
 1773
 
-What was the first man-made satellite called (launched 1957)?
+What was the first man-made satellite called? It launched in 1957.
 Sputnik 1
 1774
 
@@ -7171,11 +7171,11 @@ agnomen
 1792
 
 What was the motto of the Roman Empire?
-Senatus Populusque Romanus `The Senate and People of Rome'
+senatus populusque Romanus `the senate and people of Rome'
 1793
 
 What was the motto of the Soviet Union?
-Proletarii vsekh stran, soyedinyaytes' `Proletarians of all nations, unite'
+Пролетарии всех стран, соединяйтесь! `proletarians of all nations, unite'
 1794
 
 What was the name of Alexander the Great's favourite horse?
@@ -7190,7 +7190,7 @@ What was the real name of the Red Baron?
 Manfred von Richthofen
 1797
 
-What was the Sumerian form of writing called? This name describes wedge-shaped marks made by a stylus?
+What was the Sumerian form of writing called? This name describes wedge-shaped marks made by a stylus.
 cuneiform
 1798
 
@@ -7434,7 +7434,7 @@ When was Napoleon named emperor of the French Empire?
 1804
 1858
 
-When was Pax Romana---a period of peace in the Roman Empire?
+When was Pax Romana --- a period of peace in the Roman Empire?
 27 BC--180 AD
 1859
 
@@ -7902,7 +7902,7 @@ Who wrote Oedipus Rex?
 Sophocles
 1975
 
-Who wrote the Almagest---an influential treatise on astronomy?
+Who wrote the Almagest --- an influential treatise on astronomy?
 Ptolemy
 1976
 
@@ -8250,7 +8250,7 @@ P. G. T. Beauregard
 Charles Baudelaire
 2062
 
-(1821--1910) What English-born US physician was the first woman to receive a medical degree in the US (1849) and the first woman listed in the Medical Register of the United Kingdom (1859)?
+(1821--1910) What English-born American physician was the first woman to receive a medical degree in the US (1849) and the first woman listed in the Medical Register of the United Kingdom (1859)?
 Elizabeth Blackwell
 2063
 
@@ -8270,7 +8270,7 @@ Augustus Pitt-Rivers
 Chester Alan Arthur
 2067
 
-(1830--1926) What German-born US businessman co-founded an optical company with Henry Lomb in 1853?
+(1830--1926) What German-born American businessman co-founded an optical company with Henry Lomb in 1853?
 John Jacob Bausch
 2068
 
@@ -8290,7 +8290,7 @@ Benjamin Harrison
 August Weismann
 2072
 
-(1835--1919) What Scottish-born US industrialist and philanthropist built up a fortune in the steel industry in the US and after retirement devoted his wealth to charitable purposes, in particular libraries, education, and the arts?
+(1835--1919) What Scottish-born American industrialist and philanthropist built up a fortune in the steel industry in the US and after retirement devoted his wealth to charitable purposes, in particular libraries, education, and the arts?
 Andrew Carnegie
 2073
 
@@ -8318,7 +8318,7 @@ Sarah Bernhardt
 Anatole France (Jacques-Anatole-François Thibault)
 2079
 
-(1848--1907) What Irish-born US sculptor is best remembered for his coin designs and his sculptures, such as General Sherman on horseback (1903) at the corner of New York City's Central Park and Diana (1892--93)?
+(1848--1907) What Irish-born American sculptor is best remembered for his coin designs and his sculptures, such as General Sherman on horseback (1903) at the corner of New York City's Central Park and Diana (1892--93)?
 Augustus Saint-Gaudens
 2080
 
@@ -8358,7 +8358,7 @@ George Bernard Shaw
 Alfred Binet
 2089
 
-(1858--1942) What German-born US pioneer of modern anthropology developed the linguistic and cultural components of ethnology, did much to overturn the theory that Nordic peoples constitute an essentially superior race (his books being burned by the Nazis), and wrote Race, language, and culture (1940)?
+(1858--1942) What German-born American pioneer of modern anthropology developed the linguistic and cultural components of ethnology, did much to overturn the theory that Nordic peoples constitute an essentially superior race (his books being burned by the Nazis), and wrote Race, language, and culture (1940)?
 Franz Boas
 2090
 
@@ -8438,7 +8438,7 @@ Lilian Baylis
 Francis William Aston
 2109
 
-(1879--1936) What French-born US army officer was an outspoken advocate of air power and court-martialed in 1925 for his criticism of the war and navy departments?
+(1879--1936) What French-born American army officer was an outspoken advocate of air power and court-martialed in 1925 for his criticism of the war and navy departments?
 Billy Mitchell
 2110
 
@@ -8450,7 +8450,7 @@ Sir Thomas Beecham
 Guillaume Apollinaire
 2112
 
-(1880--1959) This Swiss-born US composer's work reflects the influence of the late nineteenth-century romanticism of Liszt and Richard Strauss and Jewish musical forms. Name this composer of the Israel symphony (1912--16) and Solomon (1916).
+(1880--1959) This Swiss-born American composer's work reflects the influence of the late nineteenth-century romanticism of Liszt and Richard Strauss and Jewish musical forms. Name this composer of the Israel symphony (1912--16) and Solomon (1916).
 Ernest Bloch
 2113
 
@@ -8506,7 +8506,7 @@ Bartolomeo Vanzetti
 Andrei Nikolaievich Tupolev
 2126
 
-(1888--1989) What Russian-born US songwriter's prolific work includes ``Alexander's ragtime band'' (1911) and ``God bless America'' (1918), the movie scores for Top hat (1935) and White Christmas (1954), and the stage musicals Annie get your gun (1946) and Call me madam (1950)?
+(1888--1989) What Russian-born American songwriter's prolific work includes ``Alexander's ragtime band'' (1911) and ``God bless America'' (1918), the movie scores for Top hat (1935) and White Christmas (1954), and the stage musicals Annie get your gun (1946) and Call me madam (1950)?
 Irving Berlin
 2127
 
@@ -8655,7 +8655,7 @@ Arshile Gorky
 2163
 
 (1904--83) This choreographer is noted for ballets such as The firebird (1949) and A midsummer night's dream (1962). Name this Russian-born American ballet dancer who was the chief choreographer of Diaghilev's Ballets Russes during the 1920s and co-founded the company that later became the New York City Ballet in 1934.
-George Balanchine \textipa{["bal@n(t)Si{\textlengthmark}n]}
+George Balanchine
 2164
 
 (1904--84) What American jazz pianist, organist, and bandleader formed an eponymous orchestra in 1935 that became one of the best-known and most successful bands of the swing era?
@@ -9226,7 +9226,7 @@ Of what is athlete's foot a form?
 ringworm
 2306
 
-How many hours is Atlantic Standard Time, including the easternmost parts of mainland Canada, Puerto Rico, and the Virgin Islands, behind GMT?
+How many hours is Atlantic Standard Time, including the easternmost parts of mainland Canada, Puerto Rico, and the Virgin Islands, behind Greenwich Mean Time?
 four
 2307
 
@@ -9238,7 +9238,7 @@ Who formed Ballets Russes in Paris in 1909?
 Sergei Diaghilev
 2309
 
-Bangkok is located on what waterway which is formed by the junction of the Ping and Nan Rivers?
+On what waterway that is formed by the junction of the Ping and Nan Rivers Bangkok located?
 Chao Phraya
 2310
 
@@ -9246,15 +9246,15 @@ To how many words is Basic English is limited?
 850
 2311
 
-Whose Benedictus Deus ratified all decrees and definitions of the Council of Trent on 26 Jan. 1564?
+Whose Benedictus Deus ratified all decrees and definitions of the Council of Trent on 26 January 1564?
 Pius IV
 2312
 
-Complete this proverb which means `` if a rival or enemy shows one generosity or kindness, one should be suspicious of their motives": beware of --- bearing gifts.
+Complete this proverb which means `` if a rival or enemy shows one generosity or kindness, one should be suspicious of their motives": beware of [---] bearing gifts.
 Greeks [with allusion to Virgil's Aeneid (ii. 49), which recounts the story of the Trojan Horse]
 2313
 
-Complete this proverb, meaning ``even the best person sometimes makes a mistake due to a momentary lack of alertness or attention": even --- nods.
+Complete this proverb, meaning ``even the best person sometimes makes a mistake due to a momentary lack of alertness or attention": even [---] nods.
 Homer [with allusion to Latin dormitat Homerus (Horace Ars Poetica 359)]
 2314
 
@@ -9274,7 +9274,7 @@ For what three teams did Bobby Hull play?
 Chicago Blackhawks, Winnipeg Jets, Hartford Whalers
 2318
 
-From the Italian for `fair sight,'' what word is used for a summerhouse or open-sided gallery, usually at rooftop level, commanding a fine view?
+From the Italian for 1`fair sight,'' what word is used for a summerhouse or open-sided gallery, usually at rooftop level, commanding a fine view?
 belvedere
 2319
 
@@ -9375,7 +9375,7 @@ Biafra
 2343
 
 Identify the yellow to brown mineral consisting of a fluoride and carbonate of cerium and other rare earth metals whose name comes from a district in Västmanland, Sweden.
-bastnaesite \textipa{["bastn@""s\=\it]}
+bastnaesite
 2344
 
 Identify three of Astana's former names.
@@ -9439,7 +9439,7 @@ Battle of Marston Moor
 2359
 
 In what gambling card game do players hold two- or three-card hands, the winning hand being that giving the highest remainder when its face value is divided by ten?
-baccarat \textipa{["bak@rA{\textlengthmark}]}
+baccarat
 2360
 
 In what German town in the Bavarian Alps did Hitler have a fortified retreat?
@@ -9606,7 +9606,7 @@ The analects is a book of an extensive collection of sayings and ideas attribute
 Confucius
 2401
 
-The Appian Way was originally built from Rome to another town by Appius Claudius Caecus in 312 BCE. It was later extended to a different town. What are these two towns?
+The Appian Way was originally built from Rome to another town by Appius Claudius Caecus in 312 BC. It was later extended to a different town. What are these two towns?
 Capua, Brindisi
 2402
 
@@ -9655,7 +9655,7 @@ baldachin
 2413
 
 The name of what criminal organization originating and operating chiefly in Calabria derives from the Greek for ``heroism''?
-'Ndrangheta \textipa{[(n)draN"gEt@]}
+'Ndrangheta
 2414
 
 The name of what dessert containing gelatin and whipped cream and served cold comes from the French for a German state?
@@ -9706,7 +9706,7 @@ The papal bull Grandi non immerito `With good reason' of Innocent IV removed who
 Sancho II
 2426
 
-The papal bull Querentes in agro, promulgated by Innocent IV on 6 Oct. 1254, recognized what institution of higher learning and ``confirmed its liberties, ancient customs, and approved statutes''?
+The papal bull Querentes in agro, promulgated by Innocent IV on 6 October 1254, recognized what institution of higher learning and ``confirmed its liberties, ancient customs, and approved statutes''?
 University of Oxford
 2427
 
@@ -9915,7 +9915,7 @@ biramous
 2478
 
 What adjective describes something bearing berries?
-baccate \textipa{["bak\=at]}
+baccate
 2479
 
 What adjective describes something having two different refractive indices?
@@ -10310,7 +10310,7 @@ What bull of Leo X excommunicated Martin Luther?
 Decet Romanum Pontificem
 2577
 
-What bull of Sixtus V (Oct. 1586) allowed Jews to settle in the Papal States, revoking Pius V's 1569 bull Hebraeorum gens sola?
+What bull of Sixtus V (October 1586) allowed Jews to settle in the Papal States, revoking Pius V's 1569 bull Hebraeorum gens sola?
 Christiana pietas
 2578
 
@@ -10330,7 +10330,7 @@ What Canadian river flows for 950 km from eastern Saskatchewan into Manitoba to 
 Assiniboine River
 2582
 
-What Canadian-born US executive in the cosmetics industry built up an international chain of beauty salons and an extensive cosmetics range?
+What Canadian-born American executive in the cosmetics industry built up an international chain of beauty salons and an extensive cosmetics range?
 Elizabeth Arden
 2583
 
@@ -10363,7 +10363,7 @@ Ernie Banks
 2590
 
 What chief city of the island of Negros, Philippines is a major port on the island's northwest coast?
-Bacolod \textipa{[b@"k\=ol\"ad]}
+Bacolod
 2591
 
 What chief commercial and industrial city in Malawi is named after explorer David Livingstone's birthplace in Scotland?
@@ -10554,7 +10554,7 @@ What devotional form of worship in Hinduism is usually directed to Vishnu or Shi
 bhakti
 2638
 
-What did ``ASSR,'' sign for a type of administrative unit in the Soviet Union, abbreviate?
+What did ``ASSR,'' a sign for a type of administrative unit in the Soviet Union, abbreviate?
 Autonomous Soviet Socialist Republic
 2639
 
@@ -10571,7 +10571,7 @@ beriberi
 2642
 
 What disease of cattle and other livestock transmitted by ticks affects the red blood cells and causes the passing of red or blackish urine, also called piroplasmosis?
-babesiosis \textipa{[b@""b\=ez\=e"\=os@s]}
+babesiosis
 2643
 
 What district of southeast France produces light red and white burgundy wines?
@@ -11127,7 +11127,7 @@ within; ἔσω (esō); esoteric
 2781
 
 What does the Greek root ethm-- mean?
-sieve; ἠθμός (hethmos); ἤθειν (hethein); ethmoid
+sieve; ἠθμός (ethmos); ἤθειν (ethein); ethmoid
 2782
 
 What does the Greek root ethn-- mean?
@@ -11814,7 +11814,7 @@ What exclamation in baccarat, chemin de fer, and similar games is used to expres
 banco
 2953
 
-What extreme left-wing terrorist organization operated in former West Germany between 1970 and 1998 and was also called the Red Army Faction?
+What extreme left-wing terrorist organization that operated in former West Germany between 1970 and 1998 and was also called ``the Red Army Faction''?
 Baader--Meinhhof Group
 2954
 
@@ -11858,7 +11858,7 @@ What finest stone masonry unit mentioned by Vitruvius as ``opus isodomum'' is ma
 ashlar
 2964
 
-What forest east of Paris, France, and just east of Château-Thierry, was the scene of a June 1918 US victory over the Germans during WWI?
+What forest east of Paris, France, and just east of Château-Thierry, was the scene of an American victory over the Germans in June 1918 during World War I?
 Belleau Wood
 2965
 
@@ -12150,7 +12150,7 @@ What Hebrew patriarch, son of Jacob and Zilpah, was the progenitor of a tribe of
 Asher
 3037
 
-What heelless slipper, typically in oriental style, comes from the Persian for ``foot covering''?
+What heel-less slipper, typically in oriental style, has a name that comes from the Persian for ``foot covering''?
 babouche
 3038
 
@@ -12735,7 +12735,7 @@ butylated hydroxytoluene
 3183
 
 What is Euler's reflection formula?
-$\displaystyle \Gamma(z) \Gamma(1-z) = \frac{\pi}{\sin(\pi z)}$
+$$\Gamma(z) \Gamma(1-z) = \frac{\pi}{\sin(\pi z)}$$
 3184
 
 Translate ``Extra Ecclesiam nulla salus.''
@@ -12811,7 +12811,7 @@ Bastia
 3202
 
 What is the Dutch name for Hague?
-'s-Gravenhage \textipa{[""sxrA{\textlengthmark}v@n"hA{\textlengthmark}x@]}
+'s-Gravenhage
 3203
 
 What is the English transliteration for the Greek name for Athens?
@@ -12847,7 +12847,7 @@ Bharat
 3211
 
 What is the Irish name for Dublin?
-Baile Átha Cliath \textipa{[""bl\"a "kl\=e@]}
+Baile Átha Cliath /bˠlɑˈkliː/
 3212
 
 What is the largest city in the Negev?
@@ -12930,7 +12930,7 @@ What is the plural of ``apex''?
 apices
 3232
 
-What is the plural of ``eyrir''---an Icelandic monetary unit?
+What is the plural of ``eyrir'' --- the name of an Icelandic monetary unit?
 aurar
 3233
 
@@ -12939,7 +12939,7 @@ apolune
 3234
 
 What is the prime number theorem?
-\begin{align*}\pi(x)\sim \frac{x}{\log(x)}\end{align*}
+\begin{align*}\pi(x)\sim \frac{x}{\log x}\end{align*}
 3235
 
 What is the proprietary name of lorazepam?
@@ -12950,7 +12950,7 @@ What is the proprietary term for quinacrine/mepacrine?
 Atabrine
 3237
 
-What provincial capital and largest city of Balochistan, Pakistan, famous for its fruit production lies on the Bolan Pass?
+What provincial capital and largest city of Balochistan, Pakistan, famous for its fruit production, lies on the Bolan Pass?
 Quetta
 3238
 
@@ -12982,7 +12982,7 @@ What is the traditional Chinese gift of money presented in a red envelope called
 hongbao
 3245
 
-What is the underground aqueduct system invented in ancient Persia, the oldest in Gonabad---dating to 700--500 BCE?
+What is the underground aqueduct system invented in ancient Persia, the oldest in Gonabad --- dating to 700--500 BCE?
 qanat
 3246
 
@@ -13055,7 +13055,7 @@ B'nai B'rith
 3263
 
 What Jewish rebel leader known as ``Simeon'' in Jewish sources led the rebellion in 132 against the Romans and was accepted by some of his Jewish contemporaries as the Messiah?
-Bar-Cochba \textipa{[bA{\textlengthmark}"k6kb@]}
+Bar-Cochba
 3264
 
 What Jewish term is used for a person's soulmate, especially when considered as an ideal or predestined marriage partner?
@@ -13382,8 +13382,8 @@ What did the Romans call Dionysus?
 Bacchus
 3345
 
-What name for the complex plane is named after a French mathematician?
-Argand diagram
+When Forrest Gump was in the army, what sport was he good at?
+ping pong
 3346
 
 What name for the Devil comes from the Hebrew for ``worthlessness''?
@@ -13514,7 +13514,7 @@ What name is given to each of a pair of plates or timbers fastened under the sid
 bilge keel
 3378
 
-What name is given to either a white wine or a light sparkling wine (--- Spumante), both from an Italian region of the same name?
+What name is given to either a white wine or a light sparkling wine ([---] Spumante), both from an Italian region of the same name?
 Asti
 3379
 
@@ -13727,7 +13727,7 @@ aquafaba
 3431
 
 What is ``YHWH'' called?
-Tetragrammaton
+the Tetragrammaton
 3432
 
 What name of the New Testament is associated with the husband of Sapphira that was struck dead because he lied (Acts 5) and also the Jewish high priest before whom St. Paul was brought (Acts 23)?
@@ -13891,7 +13891,7 @@ Pietati proximum
 3472
 
 What papal bull issued by Alexander III on 23 May 1179 recognized Afonso Henriques as the first sovereign King of Portugal?
-Manifestis [robatum
+Manifestis Probatum
 3473
 
 What papal bull issued by Boniface VIII on 25 Feb. 1296 excommunicated members of the clergy who, without authorization from the Holy See, paid laymen any part of their income or the Church's revenue and all rulers who received such payments?
@@ -14018,11 +14018,11 @@ What pope called for the Second Crusade with the bull Quantum praedecessores?
 Eugene III
 3504
 
-What pope called for the Third Crusade with the papal bull Audita tremendi on 20 Oct. 1187?
+What pope called for the Third Crusade with the papal bull Audita tremendi on 20 October 1187?
 Gregory VIII
 3505
 
-What pope canonized St. Dominic on 3 Jul. 1234 with the bull Fons Sapientiae?
+What pope canonized St. Dominic on 3 July 1234 with the bull Fons Sapientiae?
 Gregory IX
 3506
 
@@ -14038,7 +14038,7 @@ What pope convoked the Second Vatican Council?
 John XXIII
 3509
 
-What pope declared Elizabeth I of England a heretic and released her subjects from any allegiance to her with the bull Regnans in excelsis on 25 Feb. 1570?
+What pope declared Elizabeth I of England a heretic and released her subjects from any allegiance to her with the bull Regnans in excelsis on 25 February 1570?
 Pius V
 3510
 
@@ -14054,7 +14054,7 @@ What pope defined the dogma of the Immaculate Conception in the bull Ineffabilis
 Pius IX
 3513
 
-What pope promulgated Orat mater ecclesia on 30 Jan. 1291 to protect Roman Jews from oppression?
+What pope promulgated Orat mater ecclesia on 30 January 1291 to protect Roman Jews from oppression?
 Nicholas IV
 3514
 
@@ -14139,7 +14139,7 @@ athetize
 3534
 
 What rawhide typically formed into strips is used by North American Indians to make fastenings, animal snares, and snowshoes and comes from a Mi'kmaq word?
-babiche \textipa{[b@"bi{\textlengthmark}S]}
+babiche
 3535
 
 What red supergiant in Orion is the tenth-brightest star in the sky?
@@ -14187,7 +14187,7 @@ Basque Country
 3546
 
 What religion was founded in 1844 by the Persian Mirza Ali Muhammad of Shiraz, who taught that a new prophet would follow Muhammad?
-Babism \textipa{["b\"abiz@m]}
+Babism
 3547
 
 What reservoir and recreational centre in southern California is located in the San Bernardino Mountains east of Los Angeles?
@@ -14239,7 +14239,7 @@ Atchafalaya River
 3559
 
 What river in northern India that rises in the Himalayas and flows through Himachal Pradesh to join the Sutlej River in Punjab is one of the five rivers that gave Punjab its name?
-Beas \textipa{["b\=e\"as]}
+Beas
 3560
 
 What river in south-east Siberia flows northwest and west for over 1,000 miles from Lake Baikal to the Yenisei River?
@@ -14290,7 +14290,7 @@ What Russian-born pianist was a child prodigy who left the Soviet Union in 1963 
 Vladimir Davidovich Ashkenazy
 3572
 
-What Russian-born US writer and scientist coined the term ``robotics'' and wrote I, Robot (1950) and Foundation (trilogy, 1951--53)?
+What Russian-born American writer and scientist coined the term ``robotics'' and wrote I, Robot (1950) and Foundation (trilogy, 1951--53)?
 Isaac Asimov
 3573
 
@@ -14479,7 +14479,7 @@ asp
 3619
 
 What small, rich sponge cake is typically soaked in rum-flavoured syrup and has a name that means ``married peasant woman''?
-baba au rhum \textipa{["b\"a""b\"a \=o "r@m]}
+baba au rhum
 3620
 
 What small, sturdy dog breed has a curly white coat and a tail that curves over its back?
@@ -14654,39 +14654,39 @@ What state in north-east India with its capital in Dispur lies in the Brahmaputr
 Assam
 3663
 
-What state is also known as the ``Bay State''?
+What state is also known as ``the Bay State''?
 Massachusetts
 3664
 
-What state is known as the ``Battleborn State''?
+What state is known as ``the Battleborn State''?
 Nevada
 3665
 
-What state is known as the ``Big Bend State''?
+What state is known as ``the Big Bend State''?
 Tennessee
 3666
 
-What state is known as the ``Baked Bean State''?
+What state is known as ``the Baked Bean State''?
 Massachusetts
 3667
 
-What state is known as the ``Beaver State''?
+What state is known as ``the Beaver State''?
 Oregon
 3668
 
-What state is known as the ``Beehive State''?
+What state is known as ``the Beehive State''?
 Utah
 3669
 
-What state is known as the ``Blue Hen State''?
+What state is known as ``the Blue Hen State''?
 Delaware
 3670
 
-What state is known as the ``Blue Law State''?
+What state is known as ``the Blue Law State''?
 Connecticut
 3671
 
-What state is known as the ``Bluegrass State''?
+What state is known as ``the Bluegrass State''?
 Kentucky
 3672
 
@@ -14694,7 +14694,7 @@ What state is nicknamed ``Big Sky Country''?
 Montana
 3673
 
-What state is nicknamed the ``Bayou State''?
+What state is nicknamed ``the Bayou State''?
 Louisiana
 3674
 
@@ -14806,8 +14806,8 @@ What system of weights was based on a pound of 16 ounces or 7,000 grains?
 avoirdupois
 3701
 
-What Tagalog word signifies a Filipino visiting or returning to the Philippines after a period of living in another country?
-balikbayan
+What is the national language of the Philippines?
+Tagalog
 3702
 
 What tartar is obtained from wine fermentation?
@@ -14859,7 +14859,7 @@ biga
 3714
 
 What thick sauce or spread made from ground eggplant and sesame seeds, olive oil, lemon, and garlic is typical of eastern Mediterranean cuisine and comes from the Arabic for ``father''?
-baba ghanouj \textipa{[""bA{\textlengthmark}b@ g@"nu{\textlengthmark}S]} 
+baba ghanouj
 3715
 
 What thin, delicate membrane of protein fibres and glycosaminoglycans separates an epithelium from underlying tissue?
@@ -14887,7 +14887,7 @@ Atlas
 3721
 
 What topical antibiotic used for skin and eye infections is obtained from the bacterium Bacillus subtilis?
-bacitracin \textipa{[""basi"tr\=asin]}
+bacitracin
 3722
 
 What topmost vertebra of the backbone articulates with the occipital bone of the skull?
@@ -16602,7 +16602,7 @@ Elliott Carter
 Gordon Bunshaft
 4150
 
-(1909--2000) What Danish-born US pianist was noted for his clowning while playing classical music and his one-man show, Comedy in Music, which began an eight hundred and forty-nine-performance run on Broadway in 1953?
+(1909--2000) What Danish-born American pianist was noted for his clowning while playing classical music and his one-man show, Comedy in Music, which began an eight hundred and forty-nine-performance run on Broadway in 1953?
 Victor Borge
 4151
 
@@ -16870,7 +16870,7 @@ What river was Caesar crossing as he said ``alea iacta est''?
 Rubicon
 4217
 
-Complete the proverb, which means ``even the most gifted person occasionally makes mistakes'': ``--- sometimes nods.''
+Complete the proverb, which means ``even the most gifted person occasionally makes mistakes'': ``[---] sometimes nods.''
 Homer
 4218
 
@@ -17102,7 +17102,7 @@ How does ``mea culpa'' translate into English?
 by my fault
 4275
 
-How does ``Chapultepec' translate into English?
+How does ``Chapultepec'' translate into English?
 Grasshopper Hill
 4276
 
@@ -17162,7 +17162,7 @@ If a being has a mantle or pallium like that of a mollusk, what is it called?
 chlamydate
 4290
 
-If someone is very shy or reticent, then they wouldn't say ``boo'' to a what?
+If someone is very shy or reticent, then to what wouldn't they say ``boo''?
 goose
 4291
 
@@ -17174,7 +17174,7 @@ If something is cervine, what is it like?
 deer
 4293
 
-If you have been born into a reigning family or privileged class, you are said to be ``born to the ---.''
+If you have been born into a reigning family or privileged class, you are said to be ``born to the [---].''
 purple
 4294
 
@@ -17242,7 +17242,7 @@ In what year did the Boston Tea Party take place?
 1773
 4310
 
-Name the phrase Macduff uses here in Shakespeare's Macbeth, meaning ``all at one time'': ``He has no children. All my pretty ones, / Did you say all? O hell-kite, all? / What, all my pretty chickens and their dam / ---?'' (4.3.216--219).
+Name the phrase Macduff uses here in Shakespeare's Macbeth, meaning ``all at one time'': ``He has no children. All my pretty ones, / Did you say all? O hell-kite, all? / What, all my pretty chickens and their dam / [---]?'' (4.3.216--219).
 at one fell swoop
 4311
 
@@ -19526,8 +19526,8 @@ What does the Latin root mut-- mean?
 change; mutare; mutation
 4881
 
-What does the Mordell--Weil theorem state?
-the group of $K$-rational points of an abelian variety $A$ over a number field $K$ is finitely generated and abelian
+What does the Hardy--Ramanujan theorem state?
+the normal order of $\omega(n)$ is $\log\log n$
 4882
 
 What is my first name?
@@ -21583,7 +21583,7 @@ bougie
 5395
 
 What name for the parliament of modern Israel, established in 1949 and consisting of one hundred and twenty members elected every four years, comes from the Hebrew for ``gathering''?
-Knesset \textipa{[k(@)"nes@t]}
+Knesset
 5396
 
 What name given to the head of certain universities, colleges, and schools comes from the Latin for ``ruler''?
@@ -22834,39 +22834,39 @@ What spring was inhabited by a naiad-nymph and sacred in antiquity to Apollo and
 Castalian spring
 5708
 
-What state is also known as the ``Cornhusker State''?
+What state is also known as ``the Cornhusker State''?
 Nebraska
 5709
 
-What state is known as the ``Buckeye State''?
+What state is known as ``the Buckeye State''?
 Ohio
 5710
 
-What state is known as the ``Centennial State''?
+What state is known as ``the Centennial State''?
 Colorado
 5711
 
-What state is nicknamed the ``Boomer State''?
+What state is nicknamed ``the Boomer State''?
 Oklahoma
 5712
 
-What state is nicknamed the ``Bread and Butter State''?
+What state is nicknamed ``the Bread and Butter State''?
 Minnesota
 5713
 
-What state is nicknamed the ``Breadbasket of America''?
+What state is nicknamed ``the Breadbasket of America''?
 Kansas
 5714
 
-What state is nicknamed the ``Camellia State''?
+What state is nicknamed ``the Camellia State''?
 Alabama
 5715
 
-What state is nicknamed the ``Corn State''?
+What state is nicknamed ``the Corn State''?
 Iowa
 5716
 
-What state is nicknamed the ``Cowboy State''?
+What state is nicknamed ``the Cowboy State''?
 Wyoming
 5717
 
@@ -22926,7 +22926,7 @@ What synthetic insecticide used to protect crops and in the treatment of fleas a
 carbaryl
 5731
 
-What synthetic nonsteroidal drug is used to treat infertility in women by stimulating ovulation?
+What synthetic non-steroidal drug is used to treat infertility in women by stimulating ovulation?
 clomiphene
 5732
 
@@ -23078,7 +23078,7 @@ What three nations comprise Borneo?
 Indonesia (Kalimantan), Malaysia (Sabah, Sarawak), Brunei
 5769
 
-What title of Michael J. Knowles refers to something extremely bad or unpleasant?
+What title of Michael J. Knowles means ``extremely bad or unpleasant''?
 execrable
 5770
 
@@ -23426,7 +23426,7 @@ What word describes abnormally slow heart action?
 bradycardia
 5856
 
-What word for a large globular plastic bottle with a narrow neck typically protected by a frame and used for holding acids or other corrosive liquids comes from the Persian for ``"large glass flagon"''?
+What word for a large globular plastic bottle with a narrow neck typically protected by a frame and used for holding acids or other corrosive liquids comes from the Persian for ``large glass flagon''?
 carboy
 5857
 
@@ -23766,7 +23766,7 @@ Where are the Cairngorm Mountains located?
 northern Scotland
 5941
 
-Where are the Cardamom (Krâvanh) Mountains?
+Where are the Cardamom Mountains?
 Cambodia
 5942
 
@@ -25362,7 +25362,7 @@ In bridge, what bid is intended to give specific information about the content o
 cue bid
 6340
 
-What Andean city in southern Ecuador was founded in 1557 and known as the ``marble city'' because of its many fine buildings?
+What Andean city in southern Ecuador was founded in 1557 and known as ``the marble city'' because of its many fine buildings?
 Cuenca
 6341
 
@@ -25570,7 +25570,7 @@ With what adjective is something described if it has a curved beak?
 curvirostral
 6392
 
-Complete the proverb: ``Curiosity killed the ---.''
+Complete the proverb: ``Curiosity killed the [---].''
 cat
 6393
 
@@ -25662,7 +25662,7 @@ Whom did Odysseus blind to escape death in The odyssey?
 Cyclops Polyphemus
 6415
 
-A cygnet is a young ---.
+A cygnet is a young [---].
 swan
 6416
 
@@ -25806,7 +25806,7 @@ What was Da Nang's former name?
 Tourane
 6451
 
-What word refers to existence or determinate being in Hegelianism and human existence in existentialism?
+What word refers to human existence in existentialism?
 Dasein
 6452
 
@@ -26094,7 +26094,7 @@ What is the name of the Danish national flag?
 Dannebrog
 6523
 
-Who was Dante's muse---a woman about whom he wrote in Vita nuova (c. 1290--94)?
+Who was Dante's muse --- a woman about whom he wrote in Vita nuova (c. 1290--94)?
 Beatrice Portinari
 6524
 
@@ -26182,7 +26182,7 @@ What Hindu noun refers to an opportunity or occasion of seeing a holy person or 
 darshan
 6545
 
-What name is given to existence or determinate being in Hegelianism and human existence in existentialism?
+What name is given to human existence in existentialism?
 Dasein
 6546
 
@@ -26223,7 +26223,7 @@ Based on Victor Hugo's believed-to-be birthday, what was Jean Valjean's first pr
 6555
 
 What is the velocity addition formula of relativity?
-$\displaystyle v_{AC} = \frac{v_{AB} + v_{BC}}{1 + (v_{AB}v_{BC})/c^2}$
+$$ v_{AC} = \frac{v_{AB} + v_{BC}}{1 + (v_{AB}v_{BC})/c^2} $$
 6556
 
 How do you measure rapidity?
@@ -26250,7 +26250,7 @@ David Hockney
 David Hume
 6562
 
-(1908--91) What English movie director's many movies include The bridge on the River Kwai (1957), Lawrence of Arabia (1962), Doctor Zhivago (1965), and A Ppssage to India (1984)?
+(1908--91) What English movie director's many movies include The bridge on the River Kwai (1957), Lawrence of Arabia (1962), Doctor Zhivago (1965), and A Passage to India (1984)?
 Sir David Lean
 6563
 
@@ -26327,7 +26327,7 @@ Distinguished Conduct Medal
 6581
 
 What river in Angola rises near the city of Huambo and flows south and then west for 250 km to the Atlantic Ocean?
-Cunene \textipa{[k\=oo"n\=an@]}
+Cunene
 6582
 
 A synthetic analog of a pyrimidine nucleoside, what drug inhibits the replication of HIV and is used in the treatment of AIDS, especially in combination with zidovudine?
@@ -26607,7 +26607,7 @@ defoliant
 6651
 
 What is the derivative of the Riemann zeta function at $0$?
-$\displaystyle -\frac{1}{2}\pi\log(2)$
+$$ -\frac{1}{2}\pi\log 2 $$
 6652
 
 What is $\zeta(2)$?
@@ -26743,7 +26743,7 @@ Delos
 6685
 
 What most significant religious sanctuary of the ancient Greek world, situated on the lower southern slopes of Mount Parnassus above the Gulf of Corinth, was dedicated to Apollo, was thought of as the navel of the earth, and housed the Pythia?
-Delphi \textipa{["delf\=\i]}
+Delphi
 6686
 
 What small constellation (the Dolphin) is just north of the celestial equator near Cygnus?
@@ -27186,7 +27186,7 @@ On what island is Honolulu?
 Oahu
 6796
 
-What state is known as Diamond State?
+What state is known as ``the Diamond State''?
 Delaware
 6797
 
@@ -27290,7 +27290,7 @@ What is inculcation?
 teaching and impressing by frequent repetitions or admonitions
 6822
 
-(c. 1548--1620) What Flemish mathematician, physicist, and engineer has his proof of the equilibrium on an inclined plane on his epitaph, discovered the hydrostatic paradox, was the first to explain the tides by the attraction of the moon, was the first to relate twelve-tone equal temperament and the twelfth-root of two, was responsible for many Dutch neologisms---including ``wiskunde'' `mathematics'---invented the Zeilwagen `land yacht,' and tripled the efficiency of the windmills used in pumping water out of the polders?
+(c. 1548--1620) What Flemish mathematician, physicist, and engineer has his proof of the equilibrium on an inclined plane on his epitaph, discovered the hydrostatic paradox, was the first to explain the tides by the attraction of the moon, was the first to relate twelve-tone equal temperament and the twelfth-root of two, was responsible for many Dutch neologisms, invented the Zeilwagen `land yacht,' and tripled the efficiency of the windmills used in pumping water out of the polders?
 Simon Stevin
 6823
 
@@ -27446,7 +27446,7 @@ What word, from the Latin for ``wander,'' refers to an unexpected and inexplicab
 vagary
 6861
 
-Fill in the proverb: ``different --- for different folks.''
+Fill in the proverb: ``different [---] for different folks.''
 strokes
 6862
 
@@ -27598,7 +27598,7 @@ What satellite of Saturn, the twelfth closest to the planet, was discovered by C
 Dione
 6899
 
-(d. c. 250, feast day: 9 October) What Italian-born French bishop and patron saint of France---known as ``Dionysius''---was one of seven missionaries sent from Rome to convert Gaul according to tradition, became bishop of Paris, and was martyred in the reign of the emperor Valerian?
+(d. c. 250, feast day: 9 October) What Italian-born French bishop and patron saint of France --- known as ``Dionysius'' --- was one of seven missionaries sent from Rome to convert Gaul according to tradition, became bishop of Paris, and was martyred in the reign of the emperor Valerian?
 St. Denis
 6900
 
@@ -27638,7 +27638,7 @@ What highly toxic heterocyclic organochlorine compound produced as a byproduct i
 dioxin
 6909
 
-Who said, ``The true logic of this world is in the calculus of probabilities''?
+Who said that ``the true logic of this world is in the calculus of probabilities''?
 James Clerk Maxwell
 6910
 
@@ -27670,7 +27670,7 @@ What acute and highly contagious disease that induces inflammation of the mucous
 diphtheria
 6917
 
-What bacterium---a Gram-positive non-motile club-shaped rod---sometimes causes disease in humans and other animals, including diphtheria?
+What bacterium --- a Gram-positive non-motile club-shaped rod --- sometimes causes disease in humans and other animals, including diphtheria?
 corynebacterium
 6918
 
@@ -27710,7 +27710,7 @@ What class of myriapod arthropods comprises the millipedes?
 Diplopoda
 6927
 
-During what stage of the prophase of meiosis---the fourth, following the pachytene---do the paired chromosomes begin to separate into two pairs of chromatids?
+During what stage of the prophase of meiosis --- the fourth, following the pachytene --- do the paired chromosomes begin to separate into two pairs of chromatids?
 diplotene
 6928
 
@@ -27830,11 +27830,11 @@ What is a female entertainer performing monologues called? The term comes from t
 diseuse
 6957
 
-What noun---from the French for ``undressed''---refers to the state of being only partly or scantily clothed?
+What noun --- from the French for ``undressed'' --- refers to the state of being only partly or scantily clothed?
 dishabille
 6958
 
-What literary noun---from the Italian for ``unembarrassed''---refers to self-assurance or lack of constraint?
+What literary noun --- from the Italian for ``unembarrassed'' --- refers to self-assurance or lack of constraint?
 disinvoltura
 6959
 
@@ -27842,7 +27842,7 @@ Define ``disinter.''
 dig up
 6960
 
-What Latin plural noun---an alteration of a Horatian phrase---refers to scattered fragments, especially of written work?
+What Latin plural noun --- an alteration of a Horatian phrase --- refers to scattered fragments, especially of written work?
 disjecta membra
 6961
 
@@ -27850,11 +27850,11 @@ What Horatian phrase translates to ``limbs of a dismembered poet''?
 disjecti membra poetae
 6962
 
-What does DOE abbreviate?
+What does ``DOE'' abbreviate?
 disk operating system
 6963
 
-What island---with extensive coal deposits on the western coast of Greenland---has its chief settlement is Godhavn?
+What island --- with extensive coal deposits on the western coast of Greenland --- has its chief settlement is Godhavn?
 Disko
 6964
 
@@ -27890,7 +27890,7 @@ Define ``disparate.''
 essentially different in kind; not allowing comparison
 6972
 
-What British statesman---prime minister 1868 and 1874--80---was primarily responsible for introducing the second Reform Act (1867), ensured that Britain bought a controlling interest in the Suez Canal (1875), and made Queen Victoria empress of India?
+What British statesman --- prime minister 1868 and 1874--80 --- was primarily responsible for introducing the second Reform Act (1867), ensured that Britain bought a controlling interest in the Suez Canal (1875), and made Queen Victoria empress of India?
 Benjamin Disraeli
 6973
 
@@ -27994,11 +27994,11 @@ What technical or literary verb from the Latin for ``stretched apart'' means str
 divaricate
 6998
 
-What Indic language---also called Maldivian---is spoken in the Maldives?
+What Indic language --- also called Maldivian --- is spoken in the Maldives?
 Divehi
 6999
 
-What word refers to a blind tube leading from a cavity or passage or---in medicine---an abnormal sac or pouch formed at a weak point in the wall of the alimentary tract?
+What word refers to a blind tube leading from a cavity or passage or --- in medicine --- an abnormal sac or pouch formed at a weak point in the wall of the alimentary tract?
 diverticulum
 7000
 
@@ -28022,7 +28022,7 @@ In what open-bottomed chamber supplied with compressed air can a person be let d
 diving bell
 7005
 
-What small, stocky seabird resemblant of an auk---genus Pelecanoides---has black upper parts and white underparts and frequents southern oceans?
+What small, stocky seabird resemblant of an auk --- genus Pelecanoides --- has black upper parts and white underparts and frequents southern oceans?
 diving petrel
 7006
 
@@ -28042,7 +28042,7 @@ What term that originated in New Orleans in the early twentieth century refers t
 Dixieland
 7010
 
-What Turkish city on the Tigris---historically Amida---whose modern spelling refers to its region's abundance of copper is the capital of a province of the same name?
+What Turkish city on the Tigris --- historically Amida --- whose modern spelling refers to its region's abundance of copper is the capital of a province of the same name?
 Diyarbakir
 7011
 
@@ -28062,7 +28062,7 @@ What is the colloquial Arabic form for ``mountain''?
 jebel
 7015
 
-What loose hooded---typically woollen---cloak with full sleeves whose name is of Moroccan Arabic origin is traditionally worn by Arabs?
+What loose hooded --- typically woollen --- cloak with full sleeves whose name is of Moroccan Arabic origin is traditionally worn by Arabs?
 djellaba
 7016
 
@@ -28146,7 +28146,7 @@ What name is given to a partition of a plane with points into convex polygons su
 Voronoi diagram
 7036
 
-What name is attributed to the number of equivalent hyperspheres in n dimensions that can touch an equivalent hypersphere without any intersections?
+What name is attributed to the number of equivalent hyperspheres that can touch an equivalent hypersphere without any intersections?
 kissing number
 7037
 
@@ -28222,15 +28222,15 @@ What canine proverb means that everyone will have good luck or success at some p
 every dog has its day
 7055
 
-What does DOHC abbreviate?
+What does ``DOHC'' abbreviate?
 double overhead camshaft
 7056
 
-What does DOI abbreviate?
+What does ``DOI'' abbreviate?
 digital object identifier
 7057
 
-What Italian phrase refers to pleasant idleness---literally ``sweet doing nothing''?
+What Italian phrase refers to pleasant idleness --- literally ``sweet doing nothing''?
 dolce far niente
 7058
 
@@ -28463,7 +28463,7 @@ off the Newfoundland Banks
 7115
 
 What is a monsoon?
-seasonal prevailing wind in the region of South and Southeast Asia, blowing from the southwest in summer and from the northeast in winter [GPT3]
+seasonal prevailing wind in the region of South and Southeast Asia, blowing from the southwest in summer and from the northeast in winter
 7116
 
 From where do we import figs?
@@ -28702,7 +28702,7 @@ What resort region (``peninsula'') in northeastern Wisconsin lies between Green 
 Door Peninsula
 7175
 
-What ``reward pathway'' compound---chemical formula C8H11NO2---is present in the body as a neurotransmitter and a precursor of other substances such as epinephrine?
+What ``reward pathway'' compound --- chemical formula C8H11NO2 --- is present in the body as a neurotransmitter and a precursor of other substances such as epinephrine?
 dopamine
 7176
 
@@ -28834,7 +28834,7 @@ What combined vaccine (an abbreviation for the three things it treats) is given 
 DPT
 7208
 
-What does DPT abbreviate?
+What does ``DPT'' abbreviate?
 diphtheria, pertussis, tetanus
 7209
 
@@ -28978,7 +28978,7 @@ In what process is a print bonded to a mount using a layer of adhesive in a hot 
 dry mounting
 7244
 
-The Leech lattice is defined in --- dimensions.
+The Leech lattice is defined in [---] dimensions.
 24
 7245
 
@@ -29134,7 +29134,7 @@ Who says that ``brevity is the soul of wit'' in Shakespeare's Hamlet?
 Polonius (2.2.90)
 7283
 
-``Madness is rare in the individual---but with groups, parties, peoples, and ages it is the rule.'' Who said this?
+``Madness is rare in the individual --- but with groups, parties, peoples, and ages it is the rule.'' Who said this?
 Friedrich Nietzsche
 7284
 
@@ -29206,7 +29206,7 @@ Pascal (Pensées)
 Molière (Le Tartuffe)
 7301
 
-``The spiritual virtue of a sacrament is like light---although it passes among the impure, it is not polluted.'' Identify the author.
+``The spiritual virtue of a sacrament is like light --- although it passes among the impure, it is not polluted.'' Identify the author.
 St. Augustine
 7302
 
@@ -29310,7 +29310,7 @@ What condition that is marked by fixed forward curvature of one or more fingers 
 Dupuytren's contracture
 7327
 
-What is the rigid outermost membrane enveloping the brain and spinal cord called---medieval Latin for ``hard mother''?
+What is the rigid outermost membrane enveloping the brain and spinal cord called --- medieval Latin for ``hard mother''?
 dura mater
 7328
 
@@ -29334,7 +29334,7 @@ durchkomponiert
 Louis Durey
 7333
 
-What fierce Hindu goddess---wife of Shiva and often associated with Kali---is usually depicted with eight or ten arms, riding a tiger or lion, and slaying the buffalo demon?
+What fierce Hindu goddess --- wife of Shiva and often associated with Kali --- is usually depicted with eight or ten arms, riding a tiger or lion, and slaying the buffalo demon?
 Durga
 7334
 
@@ -29486,7 +29486,7 @@ What is the difference between purpose and motive in Burke's theory of ``life as
 purpose addresses why the agents broke a rule; motive justifies the rule-breaking activity in terms of element ratios
 7371
 
-(1898--1962) This mathematician---advised by Herglotz and Hölder---is considered the founder of modern abstract algebra with Emmy Noether. His notable students include John Tate, Serge Lang, Max Zorn, and Bernard Dwork. Identify this Austrian who contributed to class field theory---note his reciprocity law that partially solved Hilbert's ninth problem---developed a new construction of $L$-functions, contributed to the theories of rings, groups, and fields---he is the eponym a ring that satisfies the descending chain condition on ideals---resolved Hilbert's seventeenth problem, developed the theory of braids (1925), and was an expositor of Galois theory and group-cohomological class ring theory.
+(1898--1962) This mathematician --- advised by Herglotz and Hölder --- is considered the founder of modern abstract algebra with Emmy Noether. His notable students include John Tate, Serge Lang, Max Zorn, and Bernard Dwork. Identify this Austrian who contributed to class field theory --- note his reciprocity law that partially solved Hilbert's ninth problem --- developed a new construction of $L$-functions, contributed to the theories of rings, groups, and fields --- he is the eponym a ring that satisfies the descending chain condition on ideals --- resolved Hilbert's seventeenth problem, developed the theory of braids (1925), and was an expositor of Galois theory and group-cohomological class ring theory.
 Emil Artin
 7372
 
@@ -29546,7 +29546,7 @@ What adjective describes multicellular glands that do not lose cytoplasm in thei
 eccrine
 7386
 
-What does ECCS abbreviate?
+What does ``ECCS'' abbreviate?
 emergency core cooling system
 7387
 
@@ -29646,7 +29646,7 @@ Who, apparently, said, ``There are five fundamental operations of arithmetic: ad
 Martin Eichler
 7411
 
-What name is given to either of two 13th-century Icelandic books, the Elder or Poetic --- (a collection of Old Norse poems on Norse legends) and the Younger or Prose --- (a handbook to Icelandic poetry by Snorri Sturluson), that are the chief source of knowledge of Scandinavian mythology?
+What name is given to either of two 13th-century Icelandic books, the Elder or Poetic [---] (a collection of Old Norse poems on Norse legends) and the Younger or Prose [---] (a handbook to Icelandic poetry by Snorri Sturluson), that are the chief source of knowledge of Scandinavian mythology?
 Edda
 7412
 
@@ -29686,7 +29686,7 @@ Louis XIV
 Thomas Edison
 7421
 
-(1915--63) What French singer---whose songs included ``La Vie en rose'' and ``Je ne regrette rien''---became known as a cabaret and music-hall singer in the late 1930s?
+(1915--63) What French singer --- whose songs included ``La Vie en rose'' and ``Je ne regrette rien'' --- became known as a cabaret and music-hall singer in the late 1930s?
 Edith Piaf
 7422
 
@@ -29730,15 +29730,15 @@ St. Edmund
 Édouard Vuillard
 7432
 
-What does EdP shorten?
+What does ``EdP'' shorten?
 eau de parfum
 7433
 
-What does EdT shorten?
+What does ``EdT'' shorten?
 eau de toilette
 7434
 
-What does EDTA abbreviate?
+What does ``EDTA'' abbreviate?
 ethylenediamine tetraacetic acid
 7435
 
@@ -29770,11 +29770,11 @@ Edvard Grieg
 Edvard Munch
 7442
 
-(1737--94) What English historian is best known for his multivolume work, The history of the decline and fall of the Roman Empire (1776--88)?
+(1737--94) What English historian is best known for his multi-volume work The history of the decline and fall of the Roman Empire (1776--88)?
 Edward Gibbon
 7443
 
-(1749--1823) What British physician---the pioneer of vaccination---deliberately infected people with small amounts of cowpox because he believed it would protect them from catching the disease, which led to the widespread use of vaccination against disease?
+(1749--1823) What British physician --- the pioneer of vaccination --- deliberately infected people with small amounts of cowpox because he believed it would protect them from catching the disease, which led to the widespread use of vaccination against disease?
 Edward Jenner
 7444
 
@@ -29850,7 +29850,7 @@ What most recent interglacial period of the Pleistocene in northern Europe prece
 Eem
 7462
 
-What does EEPROM abbreviate?
+What does ``EEPROM'' abbreviate?
 electrically erasable programmable ROM
 7463
 
@@ -29910,7 +29910,7 @@ Ehud Barak
 Adolf Eichmann
 7477
 
-What polyunsaturated fatty acid---C19H29COOH---found predominantly in fish oils is a metabolic precursor of prostaglandins in humans?
+What polyunsaturated fatty acid --- C19H29COOH --- found predominantly in fish oils is a metabolic precursor of prostaglandins in humans?
 eicosapentaenoic acid
 7478
 
@@ -29938,7 +29938,7 @@ How long is an eightpenny nail in inches?
 2.5
 7484
 
-What southernmost town in Israel---a port and resort at the head of the Gulf of Aqaba---was founded in 1949 near the ruins of biblical Elath and is Israel's only outlet to the Red Sea?
+What southernmost town in Israel --- a port and resort at the head of the Gulf of Aqaba --- was founded in 1949 near the ruins of biblical Elath and is Israel's only outlet to the Red Sea?
 Eilat
 7485
 
@@ -29970,7 +29970,7 @@ Where was Alfred Eisenstaedt born?
 Dirschau
 7492
 
-(1898--1948) What Latvian-born Russian movie director is noted for The battleship Potemkin (1925): A commemoration of the Russian Revolution of 1905 that is celebrated for its pioneering use of montage?
+(1898--1948) What Latvian-born Russian movie director is noted for The battleship Potemkin (1925): a commemoration of the Russian Revolution of 1905 that is celebrated for its pioneering use of montage?
 Sergei Eisenstein
 7493
 
@@ -30010,7 +30010,7 @@ What was Yekaterinburg once called?
 Sverdlovsk
 7502
 
-What Count of Bivar (c. 1043--99) and Spanish soldier---immortalized in Poema del --- (12th century) and Pierre Corneille's play (1637)---captured Valencia from the Moors in 1094 and went on to rule it?
+What Count of Bivar (c. 1043--99) and Spanish soldier --- immortalized in Poema del [---] (12th century) and Pierre Corneille's play (1637) --- captured Valencia from the Moors in 1094 and went on to rule it?
 El Cid
 7503
 
@@ -30066,7 +30066,7 @@ Alicante
 Eleanor of Aquitaine
 7516
 
-In what ancient Greek city in southwestern Italy did a school of philosophers---including Xenophanes, Parmenides, and Zeno---flourish in the fifth century BC?
+In what ancient Greek city in southwestern Italy did a school of philosophers --- including Xenophanes, Parmenides, and Zeno --- flourish in the fifth century BC?
 Elea
 7517
 
@@ -30170,7 +30170,7 @@ What priest was a teacher to the prophet Samuel, for whom Samuel initially misto
 Eli
 7542
 
-What pseudonym was adopted by Charles Lamb in his Essays of --- (1823) and Last essays of --- (1833)?
+What pseudonym was adopted by Charles Lamb in his Essays of [---] (1823) and Last essays of [---] (1833)?
 Elia
 7543
 
@@ -30198,7 +30198,7 @@ Elijah
 T. S. Eliot
 7549
 
-What does ELISA abbreviate?
+What does ``ELISA'' abbreviate?
 enzyme-linked immunosorbent assay
 7550
 
@@ -30242,7 +30242,7 @@ Norwegian elkhound
 Ella Fitzgerald
 7560
 
-What tetracyclic phenol extracted from oak galls and various fruits and nuts---C14H6O8---has some ability to inhibit blood flow and retard the growth of cancer cells?
+What tetracyclic phenol extracted from oak galls and various fruits and nuts --- C14H6O8 --- has some ability to inhibit blood flow and retard the growth of cancer cells?
 ellagic acid
 7561
 
@@ -30263,7 +30263,7 @@ Maryna Viazovska
 7565
 
 What is the 12th Bernoulli number?
--691/2370
+$$-\frac{691}{2370}$$
 7566
 
 Who has won the most Ballon d'ors?
@@ -30342,7 +30342,7 @@ In Book 6 of an epic poem, what eponymous hero journeys from Lake Avernus to the
 Aeneas
 7585
 
-``We must leave exactly on time---From now on, everything must function to perfection.'' Whose words were these, spoken to a station-master and quoted in 1939, part of the mythology that the trains always ran on time under Fascist dictatorships?
+``We must leave exactly on time --- From now on, everything must function to perfection.'' Whose words were these, spoken to a station-master and quoted in 1939, part of the mythology that the trains always ran on time under Fascist dictatorships?
 Mussolini
 7586
 
@@ -30386,15 +30386,15 @@ By chance rather than etymology, what four-letter affirmation appears at the end
 amen
 7596
 
-Name the play by Shakespeare that completes the title of the following: A 2003 paper by Louise Noble has the title, ```And make two pasties of your shameful heads': medicinal cannibalism and healing the body politic in ---.''
+Name the play by Shakespeare that completes the title of the following: A 2003 paper by Louise Noble has the title, ```And make two pasties of your shameful heads': medicinal cannibalism and healing the body politic in [---].''
 Titus Andronicus
 7597
 
-Name the play by Shakespeare that completes the title of the following: A 1999 paper by G. A. Sullivan: ```Be this sweet Helen's knell, and now forget her': forgetting, memory, and identity in ---.''
+Name the play by Shakespeare that completes the title of the following: A 1999 paper by G. A. Sullivan: ```Be this sweet Helen's knell, and now forget her': forgetting, memory, and identity in [---].''
 All's well that ends well
 7598
 
-Name the play by Shakespeare that completes the title of the following: A 1974 paper by Michael West: ``The folk background of Petruchio's wooing dance: male supremacy in ---.''
+Name the play by Shakespeare that completes the title of the following: A 1974 paper by Michael West: ``The folk background of Petruchio's wooing dance: male supremacy in [---].''
 The taming of the shrew
 7599
 
@@ -30426,7 +30426,7 @@ Name the character addressed by Dante in these lines of Inferno: Ed ecco verso n
 Charon the ferryman
 7606
 
-Name the group of figures addressed by Dante in these lines of Inferno: [. . .] tre --- infernal di sangue tinte, / che membra feminine avieno e atto, / e con idre verdissime eran cinte; / serpentelli e ceraste avien per crine, / onde le fiere tempie erano avvinte (Canto 9, 38--42).
+Name the group of figures addressed by Dante in these lines of Inferno: [. . .] tre [---] infernal di sangue tinte, / che membra feminine avieno e atto, / e con idre verdissime eran cinte; / serpentelli e ceraste avien per crine, / onde le fiere tempie erano avvinte (Canto 9, 38--42).
 Furies
 7607
 
@@ -30494,7 +30494,7 @@ The Xi'an incident of 1936 saw the seizure of what nationalist leader by his own
 Chiang Kai-shek
 7623
 
-The Marco Polo bridge incident of 1937---an armed clash that escalated into the Sino-Japanese War---took place southwest of what major city?
+The Marco Polo bridge incident of 1937 --- an armed clash that escalated into the Sino-Japanese War --- took place southwest of what major city?
 Beijing
 7624
 
@@ -30810,7 +30810,7 @@ What planetary satellite has a distinctive network of dark cracks across its oth
 Europa
 7702
 
-Plato's dialogue Timaeus assigns elements to four of the five platonic solids except for which one that has the Schläfli symbol {5,3}?
+Plato's dialogue Timaeus assigns elements to four of the five platonic solids except for which one that has the Schläfli symbol 5,3?
 dodecahedron
 7703
 
@@ -30910,7 +30910,7 @@ The white boy shuffle and The sellout are works by whom?
 Paul Beatty
 7727
 
-Identify the city nicknamed the ``Pink City'' after its ruler ordered buildings to be repainted pink, the colour of hospitality, before a visit by the Prince of Wales in 1876.
+Identify the city nicknamed ``the Pink City'' after its ruler ordered buildings to be repainted pink, the colour of hospitality, before a visit by the Prince of Wales in 1876.
 Jaipur
 7728
 
@@ -31074,7 +31074,7 @@ What creature symbolizes Athena, the goddess of wisdom?
 owl
 7768
 
-Complete the phrase: ``The lady doth protest too much, ---.''
+Complete the phrase: ``The lady doth protest too much, [---].''
 methinks (Hamlet 3.2.226)
 7769
 
@@ -31242,7 +31242,7 @@ Buck Mulligan
 Elisabeth Frink
 7810
 
-What single word completes the phrase coined by the critic Herbert Reed to describe the work of sculptors including Bernard Meadows, whose use of spindly and angular forms influenced Elisabeth Frink's early work? ``The geometry of ---.''
+What single word completes the phrase coined by the critic Herbert Reed to describe the work of sculptors including Bernard Meadows, whose use of spindly and angular forms influenced Elisabeth Frink's early work? ``The geometry of [---].''
 fear
 7811
 
@@ -31359,7 +31359,7 @@ Der rosenkavalier
 7839
 
 In what opera by Mozart is the trouser role character Cherubino sent away to join the army for flirting with female members of Count Almaviva's household?
-The narriage of Figaro
+The marriage of Figaro
 7840
 
 Who indited Six characters in search of an author?
@@ -31402,7 +31402,7 @@ Soldiers were given flowers by protesters demanding the resignation of what pres
 Eduard Shevardnadze
 7850
 
-What country comes fourth in this clockwise sequence of countries bordering Slovakia: Poland, Ukraine, Hungary, ---?
+What country comes fourth in this clockwise sequence of countries bordering Slovakia: Poland, Ukraine, Hungary, [---]?
 Austria
 7851
 
@@ -31418,7 +31418,7 @@ Zero degrees, Fall, and Exhibition are among the creations of what Belgian-born 
 Sidi Larbi Cherkaoui
 7854
 
-What name is given to the endomorphism $x \longmapsto x^p$, which is an automorphism if $F$ is a finite field of characteristic $p$?
+What name is given to the endomorphism that sends an element to its $p$th power, which is an automorphism if $F$ is a finite field of characteristic $p$?
 Frobenius
 7855
 
@@ -31426,7 +31426,7 @@ What name's given to an ulcer or eruption occurring on a mucus-secreting surface
 enanthema
 7856
 
-What is the physiological term---one of the somatypes---for someone with a lean and delicate body build?
+What is the physiological term --- one of the somatypes --- for someone with a lean and delicate body build?
 ectomorph
 7857
 
@@ -32858,7 +32858,7 @@ What is Bali's chief city?
 Denpasar
 8214
 
-What does cgs abbreviate?
+What does ``cgs'' abbreviate?
 centimetre-gram-second
 8215
 
@@ -32926,7 +32926,7 @@ What was Northern Ireland's flag called?
 Ulster Banner
 8231
 
-Andorra is divided into seven ---.
+Andorra is divided into seven [---].
 parishes
 8232
 
@@ -33190,7 +33190,7 @@ To what part of an antigen molecule does an antibody attach itself?
 epitope
 8297
 
-Identify the writer: ``When sacred Night sweeps heavenward, she takes the glad, the winsome day, and folding it, rolls up its golden carpet that had been spread over an abysmal pit. Gone vision-like is the external world, and man, a homeless orphan, has to face, in utter helplessness, naked, alone, the blackness of immeasurable space. Upon himself he has to lean; with mind abolished, thought unfathered, in the dim depths of his soul he sinks, for nothing comes from outside to support or limit him. All life and brightness seem an ancient dream---while in the substance of the night, unravelled, alien, he now perceives a fateful something that is his by right.''
+Identify the writer: ``When sacred Night sweeps heavenward, she takes the glad, the winsome day, and folding it, rolls up its golden carpet that had been spread over an abysmal pit. Gone vision-like is the external world, and man, a homeless orphan, has to face, in utter helplessness, naked, alone, the blackness of immeasurable space. Upon himself he has to lean; with mind abolished, thought unfathered, in the dim depths of his soul he sinks, for nothing comes from outside to support or limit him. All life and brightness seem an ancient dream --- while in the substance of the night, unravelled, alien, he now perceives a fateful something that is his by right.''
 Fyodor Tyutchev
 8298
 
@@ -33198,7 +33198,7 @@ What term that refers to a mode of biblical interpretation prominent in the Talm
 midrash
 8299
 
-Complete this ancient midrash: ``God and man are in a sense ---.''
+Complete this ancient midrash: ``God and man are in a sense [---].''
 twins
 8300
 
@@ -33274,7 +33274,7 @@ Who was the first to prove that the Riemann zeta function has infinitely many ro
 Hardy
 8318
 
-What two mathematicians determined the asymptotic behaviour of the partition function p(n)?
+What two mathematicians determined the asymptotic behaviour of the partition function $p(n)$?
 Hardy, Ramanujan
 8319
 
@@ -33318,7 +33318,7 @@ What's a flock of turkeys called?
 rafter
 8329
 
-What figure---half man and half demon---lived in a cave and misled his pursuers by forcing the oxen he stole to walk backward into his den?
+What figure --- half man and half demon --- lived in a cave and misled his pursuers by forcing the oxen he stole to walk backward into his den?
 Cacus
 8330
 
@@ -33782,7 +33782,7 @@ As what is Erzgebirge also known?
 Ore Mountains
 8445
 
-Translate `` Ein Heldenleben.''
+Translate ``Ein Heldenleben.''
 A hero's life
 8446
 
@@ -33867,7 +33867,7 @@ Harry Potter and the philosopher's stone
 8466
 
 Pronounce ``chthonic.''
-\textipa{["(k)T6nIk]}
+ˈTHänik
 8467
 
 What does ``en pocas palabras'' mean?
@@ -34138,7 +34138,7 @@ What device consisting of two reflecting glass plates is employed for measuring 
 etalon
 8534
 
-What acid or corrosive chemical is used in etching---that is, a mordant?
+What acid or corrosive chemical is used in etching --- that is, a mordant?
 etchant
 8535
 
@@ -34202,7 +34202,7 @@ What colourless volatile liquid with a fruity smell is used as a plastics solven
 ethyl acetate
 8550
 
-What synthetic crystalline compound used in making pesticides and fungicides---formerly as an anesthetic---has the chemical formula CO(NH2)OC2H5?
+What synthetic crystalline compound used in making pesticides and fungicides --- formerly as an anesthetic --- has the chemical formula CO(NH2)OC2H5?
 urethane
 8551
 
@@ -34242,7 +34242,7 @@ What does ``deedni'' mean?
 indeed
 8560
 
-What are the lyrics to Verdi's Chorus of the Hebrew slaves?
+What are the lyrics to Verdi's Chorus of the Hebrew Slaves?
 Va, pensiero, sull'ali dorate; / va, ti posa sui clivi, sui colli, / ove olezzano tepide e molli / l'aure dolci del suolo natal! / Del Giordano le rive saluta, / di Sionne le torri atterrate. / O, mia patria, sì bella e perduta! / O, membranza, sì cara e fatal! / Arpa d'or dei fatidici vati, / perché muta dal salice pendi? / Le memorie nel petto raccendi, / ci favella del tempo che fu! / O simile di Sòlima ai fati / traggi un suono di crudo lamento, / o t'ispiri il Signore un concento / che ne infonda al patire virtù!
 8561
 
@@ -34442,7 +34442,7 @@ When was Euratom established?
 1957
 8610
 
-What does Euratom abbreviate?
+What does ``Euratom'' abbreviate?
 European Atomic Energy Community
 8611
 
@@ -34454,11 +34454,11 @@ What is the rate of interest used in lending between banks on the European Union
 EURIBOR
 8613
 
-What does EURIBOR abbreviate?
+What does ``EURIBOR'' abbreviate?
 Euro interbank offered rate
 8614
 
-What does LIBOR abbreviate?
+What does ``LIBOR'' abbreviate?
 London interbank offered rate
 8615
 
@@ -34514,8 +34514,8 @@ What small Eurasian deer lacks a visible tail and has a reddish summer coat that
 roe
 8628
 
-What major European port in the Netherlands near Rotterdam is appropriately named?
-Europoort
+What Moroccan city's name means ``look at the horns'' in Berber?
+Chefchaouen
 8629
 
 What Mesozoic marine reptile of a group characterized by a single upper temporal opening in the skull includes the nothosaurs, plesiosaurs, and ichthyosaurs?
@@ -34718,7 +34718,7 @@ What meat is found in shepherd's pie?
 lamb
 8679
 
-Any algebraic curve over $\mathbf{Q}$ can be mapped rationally to the projective line without three points. This led Grothendieck to define what term in his Esquisse?
+Any algebraic curve over $\mathbf{Q}$ can be mapped rationally to the projective line without three points. What term did Grothendieck thus define in his Esquisse?
 dessin d'enfant
 8680
 
@@ -34898,7 +34898,7 @@ What is a female sheep called?
 ewe
 8724
 
-To what language group does Ewe---the language of the Ewe people of Ghana, Togo, and Benin---belong?
+To what language group does Ewe --- the language of the Ewe people of Ghana, Togo, and Benin --- belong?
 Kwa
 8725
 
@@ -35138,7 +35138,7 @@ When did Christopher Columbus sail the ocean blue?
 1492
 8784
 
-Complete this phrase: ``A gentleman is a man who can play the --- but chooses not to.''
+Complete this phrase: ``A gentleman is a man who can play the [---] but chooses not to.''
 bagpipes
 8785
 
@@ -35166,7 +35166,7 @@ What organization of socialists aims to achieve socialism by gradual rather than
 Fabian Society
 8791
 
-(d. 203 BC) What Roman general and statesman successfully pursued a strategy of caution and delay to wear down the Carthaginian invaders after Hannibal's defeat of the Roman army at Cannae in 216 BC? This earned him his nickname, ``--- Cunctator,'' which means ``delayer.''
+(d. 203 BC) What Roman general and statesman successfully pursued a strategy of caution and delay to wear down the Carthaginian invaders after Hannibal's defeat of the Roman army at Cannae in 216 BC? This earned him his nickname, ``[---] Cunctator,'' which means ``delayer.''
 Fabius
 8792
 
@@ -35274,7 +35274,7 @@ The name of this broad, slightly curved sword with the cutting edge on the conve
 falchion
 8818
 
-What is the most severe form of malaria? It is caused by infection with Plasmodium ---.
+What is the most severe form of malaria? It is caused by infection with Plasmodium [---].
 falciparum
 8819
 
@@ -35698,7 +35698,7 @@ Who wrote a famous novel about Dr. Faustus?
 Thomas Mann
 8924
 
-What German astronomer and necromancer---the subject of a drama by Goethe, an opera by Gounod, and a novel by Thomas Mann---is said to have sold his soul to the devil?
+What German astronomer and necromancer --- the subject of a drama by Goethe, an opera by Gounod, and a novel by Thomas Mann --- is said to have sold his soul to the devil?
 Faust
 8925
 
@@ -36026,7 +36026,7 @@ What prefix denotes a factor of $10^{-15}$? It comes from the Norwegian for ``fi
 femto
 9006
 
-This composer and writer studied music under Adriaan Willaert at St. Mark's in Venice, where, in 1565, he became music director. His first treatise---the Istitutioni harmoniche of 1558---gives an argute account of the time's musical thinking and features his thoughts on tuning, chords, and modes that anticipated 17th- and 18th-century developments. His Dimostrationi of 1571 consists of dialogues between Willaert and four others. Censure from Vincenzo Galilei of the Florentine Camerata---with whom he once studied---begat his Sopplimenti of 1588. He is also known for his influence on Renaissance counterpoint.
+This composer and writer studied music under Adriaan Willaert at St. Mark's in Venice, where, in 1565, he became music director. His first treatise --- the Istitutioni harmoniche of 1558 --- gives an argute account of the time's musical thinking and features his thoughts on tuning, chords, and modes that anticipated 17th- and 18th-century developments. His Dimostrationi of 1571 consists of dialogues between Willaert and four others. Censure from Vincenzo Galilei of the Florentine Camerata --- with whom he once studied --- begat his Sopplimenti of 1588. He is also known for his influence on Renaissance counterpoint.
 Gioseffo Zarlino
 9007
 
@@ -36338,7 +36338,7 @@ Who commissioned Neuschwanstein castle?
 Ludwig II
 9084
 
-What figure of Slavic folklore steals, cooks, and eats her victims, usually children? She is the subject of the penultimate picture in Mussorgsky's Pictures at an exhibition. ``If --- comes, don't you say anything. Be silent.''
+What figure of Slavic folklore steals, cooks, and eats her victims, usually children? She is the subject of the penultimate picture in Mussorgsky's Pictures at an exhibition. ``If [---] comes, don't you say anything. Be silent.''
 Bába Jagá
 9085
 
@@ -36394,7 +36394,7 @@ Define ``ignominious.''
 deserving or causing public disgrace or shame
 9098
 
-What was the name shared by the two kings---the first and second---who founded Fès's east and west banks?
+What was the name shared by the two kings --- the first and second --- who founded Fès's east and west banks?
 Idrīs
 9099
 
@@ -36586,11 +36586,11 @@ What name for a faithful friend or devoted follower is derived from the name of 
 fidus Achates
 9146
 
-Complete the phrase: ``he --- while Rome burns.''
+Complete the phrase: ``he [---] while Rome burns.''
 fiddles
 9147
 
-Complete the phrase: ``he fiddles while --- burns.''
+Complete the phrase: ``he fiddles while [---] burns.''
 Rome
 9148
 
@@ -36734,7 +36734,7 @@ What amendment to the US Constitution contains a number of provisions relating t
 Fifth Amendment
 9183
 
-``And the eyes of them both were opened, and they knew that they were naked; and they sewed --- together, and made themselves aprons'' (Gen. 3.7).
+``And the eyes of them both were opened, and they knew that they were naked; and they sewed [---] together, and made themselves aprons'' (Gen. 3.7).
 fig leaves
 9184
 
@@ -36923,7 +36923,7 @@ fin de siècle
 9230
 
 How many Grand Slams has Novak Djokovic won?
-21
+24
 9231
 
 What is Easter Island's native name?
@@ -36946,8 +36946,8 @@ On what date was Abe Shinzo assassinated?
 8 July 2022
 9236
 
-Where was Alanis Morissette born?
-Ottawa
+What is more useful when it is broken?
+egg
 9237
 
 What opera by Sergei Prokofiev debuted in Chicago and is noted for its march?
@@ -36979,7 +36979,7 @@ What is the type of the Riemann curvature tensor?
 9244
 
 What is the vacuum Einstein field equation?
-$R_{\mu\nu} = 0$
+$$ R_{\mu\nu} = 0 $$
 9245
 
 Whose separation ansatz was critical in the proof of a result of Finster, Kamran, Smoller, and Yau (2003) that states that a Dirac particle either falls into the black hole or escapes to infinity?
@@ -37186,7 +37186,7 @@ When did Brunelleschi begin working on the dome of the Florence Cathedral?
 1420
 9296
 
-What's a young female horse---especially one less than four years old---called?
+What's a young female horse --- especially one less than four years old --- called?
 filly
 9297
 
@@ -37274,7 +37274,7 @@ Whose last words were ``I shall hear in Heaven''?
 Beethoven
 9318
 
-``How big it is---quite wild! enough to bring the house about one's ears! and what must it be with all the people playing at once?'' Who said this about Beethoven's fifth symphony?
+``How big it is --- quite wild! enough to bring the house about one's ears! and what must it be with all the people playing at once?'' Who said this about Beethoven's fifth symphony?
 Mendelssohn
 9319
 
@@ -37306,7 +37306,7 @@ Who was Shing Tung Yau's advisor?
 Shiing Shen Chern
 9326
 
-From where did Shiing Shen Chern receive his Ph.D.?
+From where did Shiing Shen Chern receive his PhD?
 Universität Hamburg
 9327
 
@@ -37490,7 +37490,7 @@ Daniel 3.23
 Schoenberg
 9372
 
-``Painting is like a thundering collision of different worlds that are destined in and through conflict to create that new world called the work. Technically, every work of art comes into being in the same way as the cosmos---by means of catastrophes, which ultimately create out of the cacophony of the various instruments that symphony we call the music of the spheres, the creation of the work of art is the creation of the world.'' Who said this?
+``Painting is like a thundering collision of different worlds that are destined in and through conflict to create that new world called the work. Technically, every work of art comes into being in the same way as the cosmos --- by means of catastrophes, which ultimately create out of the cacophony of the various instruments that symphony we call the music of the spheres, the creation of the work of art is the creation of the world.'' Who said this?
 Wassily Kandinsky
 9373
 
@@ -37602,7 +37602,7 @@ What noun with the definition ``expensive or ostentatious clothes or decoration'
 finery
 9400
 
-Complete the proverb: ``Fine words butter no ---.'' It means ``nothing is achieved by empty promises or flattery.''
+Complete the proverb: ``Fine words butter no [---].'' It means ``nothing is achieved by empty promises or flattery.''
 parsnips
 9401
 
@@ -37818,7 +37818,7 @@ What estuary is spanned by the longest railway bridge in Britain, a structure op
 Firth of Tay
 9454
 
-This proverb is used to indicate that a task is seemingly never-ending: ``Paint the ---.''
+This proverb is used to indicate that a task is seemingly never-ending: ``Paint the [---].''
 Forth Bridge
 9455
 
@@ -37830,7 +37830,7 @@ Who said, ``The noble soul has reverence for itself''?
 Nietzche
 9457
 
-``The --- soul has reverence for itself.''
+``The [---] soul has reverence for itself.''
 noble
 9458
 
@@ -37954,7 +37954,7 @@ What was Tver's name from 1931 to 1990?
 Kalinin
 9488
 
-``Well-fed horses do not ---.''
+``Well-fed horses do not [---].''
 rampage
 9489
 
@@ -37982,7 +37982,7 @@ Who is quoted in Isaiah 14.14?
 Satan
 9495
 
-``Thou art the anointed --- that ---; and I have set thee so: thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire'' (Ezek. 28.14).
+``Thou art the anointed [---] that [---]; and I have set thee so: thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire'' (Ezek. 28.14).
 cherub, covereth
 9496
 
@@ -38066,7 +38066,7 @@ What ``most particularly characterizes evil''?
 voluntary willingness to do what is known to be wrong despite the capacity to understand and avoid such action (319)
 9516
 
-Complete this quotation from Paradise lost: ``So will fall / Hee and his faithless ---; whose fault? / Whose but his own? ingrate, he had of mee / All he could have; I made him just and right, / sufficient to have stood, though free to fall.''
+Complete this quotation from Paradise lost: ``So will fall / Hee and his faithless [---]; whose fault? / Whose but his own? ingrate, he had of mee / All he could have; I made him just and right, / sufficient to have stood, though free to fall.''
 progeny
 9517
 
@@ -38074,7 +38074,7 @@ Identify the speaker: ``The spirit I, that endlessly denies. / And rightly, too;
 Mephistopheles
 9518
 
-Identify the speaker: ``Gone, to sheer Nothing, past with null made one! / What matters to our creative endless toil, / When, at a snatch, oblivion ends the coil? / `It is by-gone'---How shall this riddle run? / As good as if things never had begun, / Yet circle back, existence to possess: / I'd rather have Eternal Emptiness.''
+Identify the speaker: ``Gone, to sheer Nothing, past with null made one! / What matters to our creative endless toil, / When, at a snatch, oblivion ends the coil? / `It is by-gone' --- How shall this riddle run? / As good as if things never had begun, / Yet circle back, existence to possess: / I'd rather have Eternal Emptiness.''
 Mephistopheles
 9519
 
@@ -38098,20 +38098,20 @@ Henry VI
 Richard III
 9524
 
-Complete the quotation: ``Then, since the heavens have shaped my body so, / Let hell make crooked my mind to answer it. / I have no brother, I am like no brother: / And this word `love' which --- call divine, / Be resident in men like one another / And not in me: I am myself alone.''
+Complete the quotation: ``Then, since the heavens have shaped my body so, / Let hell make crooked my mind to answer it. / I have no brother, I am like no brother: / And this word `love' which [---] call divine, / Be resident in men like one another / And not in me: I am myself alone.''
 greybeards
 9525
 
-``Pride and worse --- threw me down.''
+``Pride and worse [---] threw me down.''
 Ambition
 9526
 
-Complete the quotation: ``To do aught good never will be our task, / But ever to do ill our sole delight, / As being contrary to his high will / Whom we resist. If then his Providence / Out of our evil seeks to bring forth good, / Our labour must be to pervert that end, / ---''
+Complete the quotation: ``To do aught good never will be our task, / But ever to do ill our sole delight, / As being contrary to his high will / Whom we resist. If then his Providence / Out of our evil seeks to bring forth good, / Our labour must be to pervert that end, / [---]''
 And out of good still to find means of evil.
 9527
 
 What is Nietzsche's definition of ``morality''?
-morality---the idiosyncrasy of decadents, with the ulterior motive of revenging oneself against life---successfully
+morality --- the idiosyncrasy of decadents, with the ulterior motive of revenging oneself against life --- successfully
 9528
 
 What is the third and final section of the Tanakh?
@@ -38126,7 +38126,7 @@ Define ``timorous.''
 showing or suffering from nervousness or a lack of confidence
 9531
 
-``A traveller who had seen many countries and peoples and several continents was asked what human traits he had found everywhere; and he answered: men are inclined to ---.''
+``A traveller who had seen many countries and peoples and several continents was asked what human traits he had found everywhere; and he answered: men are inclined to [---].''
 laziness
 9532
 
@@ -38266,11 +38266,11 @@ On what date did Grigori Perelman enter the world?
 13 June 1966
 9566
 
-How many points did Wayne Gretzky get score the NHL?
+How many points did Wayne Gretzky score the NHL?
 2,857
 9567
 
-Complete this list: Timothy Gowers, Maxim Kontsevich, Curtis T. McMullen, ---.
+Complete this list: Timothy Gowers, Maxim Kontsevich, Curtis T. McMullen, [---].
 Richard Borcherds
 9568
 
@@ -38766,7 +38766,7 @@ Francesco Maria Grimaldi
 Francesco Guardi
 9691
 
-Franche-Comté is ``a region of eastern France, in the northern foothills of the --- mountains.''
+Franche-Comté is ``a region of eastern France, in the northern foothills of the [---] mountains.''
 Jura
 9692
 
@@ -38850,7 +38850,7 @@ When was François Mitterrand elected president?
 François Rabelais
 9712
 
-(c. 1743--1803) What Haitian revolutionary leader---one of the leaders of a rebellion (1791) that emancipated the island's slaves---was appointed Governor General by the revolutionary government of France in 1797? In 1802, Napoleon (wishing to restore slavery) took over the island, and he died in prison in France.
+(c. 1743--1803) What Haitian revolutionary leader --- one of the leaders of a rebellion (1791) that emancipated the island's slaves --- was appointed Governor General by the revolutionary government of France in 1797? In 1802, Napoleon (wishing to restore slavery) took over the island, and he died in prison in France.
 Toussaint L'Ouverture
 9713
 
@@ -39234,7 +39234,7 @@ Paradise lost (II 380--85)
 Lao Tzu (Tao te ching 50)
 9808
 
-Complete the proverb: ``The cow that died is the one that ---.''
+Complete the proverb: ``The cow that died is the one that [---].''
 gave twice the milk
 9809
 
@@ -39282,23 +39282,23 @@ How many edges does an icosahedron have?
 30
 9820
 
-What solid has the Schläfli symbol \{3,3\}?
+What solid has the Schläfli symbol 3,3?
 tetrahedron
 9821
 
-What solid has the Schläfli symbol \{4,3\}?
+What solid has the Schläfli symbol 4,3?
 cube
 9822
 
-What solid has the Schläfli symbol \{3,4\}?
+What solid has the Schläfli symbol 3,4?
 octahedron
 9823
 
-What solid has the Schläfli symbol \{5,3\}?
+What solid has the Schläfli symbol 5,3?
 dodecahedron
 9824
 
-What solid has the Schläfli symbol \{3,5\}?
+What solid has the Schläfli symbol 3,5?
 icosahedron
 9825
 
@@ -39366,7 +39366,7 @@ Who wrote Phenomenology of perception?
 Maurice Merleau-Ponty
 9841
 
-``Beauty is when appearances --- reality.''
+``Beauty is when appearances [---] reality.''
 disclose
 9842
 
@@ -39694,7 +39694,7 @@ What is the title of Dalí's ``melting clocks'' painting?
 The persistence of memory
 9923
 
-``He approached, a --- in his mouth.''
+``He approached, a [---] in his mouth.''
 flaming cigarette
 9924
 
@@ -39790,7 +39790,7 @@ What does ``FLN'' abbreviate?
 Front de Libération Nationale
 9947
 
-What adverb or adverbial phrase is placed at the start of a sentence or clause---for example, ``yesterday'' in ``yesterday I went to the park'' or ``after work'' in ``after work, she went to the park.''
+What adverb or adverbial phrase is placed at the start of a sentence or clause --- for example, ``yesterday'' in ``yesterday I went to the park'' or ``after work'' in ``after work, she went to the park.''
 fronted adverbial
 9948
 
@@ -40722,7 +40722,7 @@ What is hexis?
 habit
 10180
 
-``He --- tai chi.''
+``He [---] tai chi.''
 plays
 10181
 
@@ -40730,7 +40730,7 @@ What is autopoiesis?
 self creation or self organization
 10182
 
-``Whereas traditional cognitive science also encompasses these disciplines, --- finds common purpose in a conception of mind wedded to computationalism: mental processes are computational processes; the brain, qua computer, is the seat of cognition. In contrast, --- variously rejects or reformulates the computational commitments of cognitive science, emphasizing the significance of an agent's physical body in cognitive abilities.'' (Stanford encyclopedia of philosophy)
+``Whereas traditional cognitive science also encompasses these disciplines, [---] finds common purpose in a conception of mind wedded to computationalism: mental processes are computational processes; the brain, qua computer, is the seat of cognition. In contrast, [---] variously rejects or reformulates the computational commitments of cognitive science, emphasizing the significance of an agent's physical body in cognitive abilities.'' (Stanford encyclopedia of philosophy)
 embodied cognition
 10183
 
@@ -40755,7 +40755,7 @@ Gedankenexperiment
 10188
 
 Where is Ekibastuz?
-northeast Kazakhstan
+north-east Kazakhstan
 10189
 
 What does I. N. R. I. abbreviate in the alchemical setting?
@@ -41170,11 +41170,11 @@ Define ``abseil.''
 descend a rock face or other near-vertical surface by using a doubled rope coiled round the body and fixed at a higher point
 10292
 
-``Now --- was he, which gave counsel to the Jews, that it was expedient that one man should die for the people'' (John 18.14).
+``Now [---] was he, which gave counsel to the Jews, that it was expedient that one man should die for the people'' (John 18.14).
 Caiaphas
 10293
 
-``But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are ---'' (1 Cor. 2.4).
+``But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are [---]'' (1 Cor. 2.4).
 spiritually discerned
 10294
 
@@ -41198,7 +41198,7 @@ Define ``gladiatorial.''
 relating to gladiators
 10299
 
-``Turn him to any cause of policy, / The --- of it he will unloose, / Familiar as his garter'' (Henry V).
+``Turn him to any cause of policy, / The [---] of it he will unloose, / Familiar as his garter'' (Henry V).
 Gordian knot
 10300
 
@@ -41222,8 +41222,8 @@ Where was a man born blind told by Jesus to wash, thereby gaining sight?
 Siloam
 10305
 
-Who discovered the grand antiprism?
-Conway, Guy
+Who are you?
+me
 10306
 
 What polyhedron has two faces that are identical polygons in parallel planes but rotated from each other while the other faces are a series of alternately oriented triangles?
@@ -41582,7 +41582,7 @@ What is the capital city of Chile's southernmost region, Magallanes y la Antárt
 Punta Arenas
 10395
 
-Complete the list: St. Helena, Ascension, ---.
+Complete the list: St. Helena, Ascension, [---].
 Tristan da Cunha
 10396
 
@@ -41950,7 +41950,7 @@ How many litres does a gallon hold?
 4.55
 10487
 
-What area of southwestern Scotland consists of the two former counties of Kirkcudbrightshire and Wigtownshire and is now part of Dumfries and --- region?
+What area of southwestern Scotland consists of the two former counties of Kirkcudbrightshire and Wigtownshire and is now part of the Dumfries and [---] region?
 Galloway
 10488
 
@@ -42058,7 +42058,7 @@ What is a gambrel roof?
 roof with two sides, each of which has a shallower slope above a steeper one
 10514
 
-``gambrel ---''
+``gambrel [---]''
 roof
 10515
 
@@ -42298,7 +42298,7 @@ Define ``garderobe.''
 toilet in a medieval building
 10574
 
-(b. 1947) What Welsh rugby union player---an international player from 1967 to 1978---was the youngest-ever Welsh captain when appointed in 1968?
+(b. 1947) What Welsh rugby union player --- an international player from 1967 to 1978 --- was the youngest-ever Welsh captain when appointed in 1968?
 Sir Gareth Edwards
 10575
 
@@ -42418,7 +42418,7 @@ Richard Hamming
 Rene Descartes
 10604
 
-``The ego can see and experience the archetypal constellations of the unconscious directly or indirectly---directly by perceiving them on the inner projection plane as psychic images, indirectly by experiencing them in their projection into the world.'' From what work is this?
+``The ego can see and experience the archetypal constellations of the unconscious directly or indirectly --- directly by perceiving them on the inner projection plane as psychic images, indirectly by experiencing them in their projection into the world.'' From what work is this?
 The Great Mother
 10605
 
@@ -42438,7 +42438,7 @@ What is ``that which we might call the liquid version of self''? ``It is the pri
 aqua permanens
 10609
 
-Complete the list: separatio, divisio, putrefactio, mortificatio, ---.
+Complete the list: separatio, divisio, putrefactio, mortificatio, [---].
 solutio
 10610
 
@@ -42462,7 +42462,7 @@ Who writes that ``perhaps the entire cosmos is not worth a single child's suffer
 Dostoevsky
 10615
 
-``The kingdom of heaven is spread out upon the earth but ---.''
+``The kingdom of heaven is spread out upon the earth but [---].''
 men do not see it
 10616
 
@@ -42574,7 +42574,7 @@ Whose vision does Jung describe in Psychology and Alchemy starting as follows: `
 Arisleus
 10643
 
-``They suffer from the intense heat, like the three whom Nebuchadnezzar cast into the fiery furnace. King Nebuchadnezzar had a vision of a fourth, `like the son of God,' as we are told in Daniel 3.25 [`He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.'] This vision is not without bearing on alchemy, since there are numerous passages in the literature stating that the stone is ---. It consists of the four elements, with fire representing the spirit concealed in matter. This is the fourth, absent and yet present, who always appears in the fiery agony of the furnace and symbolizes the divine presence---succour and the completion of the work.''
+``They suffer from the intense heat, like the three whom Nebuchadnezzar cast into the fiery furnace. King Nebuchadnezzar had a vision of a fourth, `like the son of God,' as we are told in Daniel 3.25 [`He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.'] This vision is not without bearing on alchemy, since there are numerous passages in the literature stating that the stone is [---]. It consists of the four elements, with fire representing the spirit concealed in matter. This is the fourth, absent and yet present, who always appears in the fiery agony of the furnace and symbolizes the divine presence --- succour and the completion of the work.''
 Trinus et Unus
 10644
 
@@ -42682,7 +42682,7 @@ What is Aachen's French name?
 Aix-la-Chapelle
 10670
 
-From where did Michelle Obama receive her Juris Doctor?
+Whence did Michelle Obama receive her Juris Doctor?
 Harvard University
 10671
 
@@ -42775,7 +42775,7 @@ Shibuya crossing
 10693
 
 What ``forms the foundation of . . . the `elementary character of the Feminine''' (Neumann 28)?
-the natural inertia that causes certain contents of the unconscious to remain unconscious and certain contents of consciousness to become unconscious---taken together with the symbolic phenomenon of the predominant femininity of the unconscious in its relation to consciousness
+the natural inertia that causes certain contents of the unconscious to remain unconscious and certain contents of consciousness to become unconscious --- taken together with the symbolic phenomenon of the predominant femininity of the unconscious in its relation to consciousness
 10694
 
 What is Jung talking about here? ``[It] is a term derived from Lévy-Bruhl. It denotes a peculiar kind of psychological connection with objects, and consists in the fact that the subject cannot clearly distinguish himself from the object but is bound to it by a direct relationship which amounts to partial identity.''
@@ -43226,7 +43226,7 @@ Whom does the Conversion on the way to Damascus portray?
 Paul
 10806
 
-``There is also a correspondence between the detachment of the --- figure from the mother archetype . . . and the detachment of the transformative character from the elementary character.''
+``There is also a correspondence between the detachment of the [---] figure from the mother archetype . . . and the detachment of the transformative character from the elementary character.''
 anima
 10807
 
@@ -43278,7 +43278,7 @@ What does ``SICP'' abbreviate?
 Structure and interpretation of computer programs
 10819
 
-With what does SICP teach computer science?
+With what language does SICP teach computer science?
 Lisp
 10820
 
@@ -43714,7 +43714,7 @@ What is New Zealand's southernmost settlement?
 Bluff
 10928
 
-What is New Zealand's third smallest island?
+What is New Zealand's third largest island?
 Stewart Island
 10929
 
@@ -44166,7 +44166,7 @@ What is the largest river that flows into the Arctic Ocean?
 Yenisei
 11041
 
-Complete the name: ``Yorkshire and the ---.''
+Complete the name: ``Yorkshire and the [---].''
 Humber
 11042
 
@@ -44207,7 +44207,7 @@ Częstochowa
 11051
 
 How do you pronounce ``Częstochowa''?
-\textipa{""{\textteshlig}Enst@"k@Uv@}
+ˌCHestəˈKHōvə
 11052
 
 Where is the Black Madonna ikon?
@@ -44254,7 +44254,7 @@ What does the principle of plenitude state?
 the universe is ``full,'' exhibiting the maximal diversity of kinds of existences; everything possible exists
 11063
 
-What concept states that the universe is ``full,'' exhibiting the maximal diversity of kinds of existences---that everything possible exists?
+What concept states that the universe is ``full,'' exhibiting the maximal diversity of kinds of existences --- that everything possible exists?
 principle of plenitude
 11064
 
@@ -44654,7 +44654,7 @@ What was Wayne Gretzky's childhood address?
 42 Varadi Avenue
 11163
 
-On what team did Lionel Messi score his ``encara Messi'' goal?
+Against what team did Lionel Messi score his ``encara'' goal?
 Getafe
 11164
 
@@ -44886,7 +44886,7 @@ Who was the first leader of the NDP?
 Tommy Douglas
 11221
 
-Who wrote ``Fly at night''?
+Who wrote ``Fly at Night''?
 Chilliwack
 11222
 
@@ -45442,7 +45442,7 @@ What islands does Pevek face?
 Routan Islands
 11359
 
-Who wrote the paper ``How often should you beat your kids?''
+Who wrote the paper ``How Often Should You Beat Your Kids?''
 Don Zagier
 11360
 
@@ -45478,7 +45478,7 @@ What does the Hall--Witt identity say?
 $[x,y^{-1},z]^y \cdot [y,z^{-1},x]^z \cdot [z,x^{-1},y]^x = 1$
 11368
 
-Complete the poetic phrase: ``God rot ye libertarians [---].''
+Recite the poem ``God Rot Ye Libertarians.''
 God rot ye libertarians, you fill us with dismay / Your atheistic tendencies, your anarchistic ways / Your flaunted immorality leads innocents astray / But you'll get yours on Judgment Day, Judgment Day / Yes, you'll get yours on Judgment Day!
 11369
 
@@ -45622,11 +45622,11 @@ What phrase is Rasheed Wallace famous for saying?
 ball don't lie
 11404
 
-Who wrote the song ``Any way you want it''?
+Who wrote the song ``Any Way You Want It''?
 Journey
 11405
 
-Who wrote the song ``It's the end of the world as we know it''?
+Who wrote the song ``It's the End of the World as We Know It''?
 R.E.M.
 11406
 
@@ -45642,7 +45642,7 @@ What is a pyknotic set?
 sheaf of sets on the site of compact Hausdorff topological spaces whose underlying set has rank smaller than the smallest strongly inaccessible cardinal
 11409
 
-Who wrote the song ``The winner takes it all''?
+Who wrote the song ``The Winner Takes It All''?
 ABBA
 11410
 
@@ -45694,7 +45694,7 @@ What is zugzwang?
 chess situation in which the obligation to make a move in one's turn is a serious, often decisive, disadvantage
 11422
 
-Who wrote ``Time in a bottle''?
+Who wrote ``Time in a Bottle''?
 Jim Croce
 11423
 
@@ -45806,7 +45806,7 @@ What was the score in the Spassky--Fischer match of the century (1972)?
 8 1/2--12 1/2
 11450
 
-Who wrote ``Sugar mountain''?
+Who wrote ``Sugar Mountain''?
 Neil Young
 11451
 
@@ -45838,7 +45838,7 @@ Who are the mackerel snappers?
 Catholics
 11458
 
-Who sang ``The world we knew''?
+Who sang ``The World We Knew''?
 Frank Sinatra
 11459
 
@@ -45846,8 +45846,8 @@ What major water body does Sundarbans border?
 Bay of Bengal
 11460
 
-Who made the song ``Lose control'' in 2019? 
-Meduza, Becky Hill, and Goodboys
+Who was the strongest of all the Danaans?
+Diomedes
 11461
 
 Where was Marty Turco born?
@@ -45893,6 +45893,7 @@ How many goals did Connor McDavid have in the 2022--23 NHL season?
 How many assists did Connor McDavid have in the 2022--23 NHL season?
 89
 11472
+
 ``The ability to play chess is the sign of a gentleman. The ability to play chess well is the sign of a wasted life.''
 Paul Morphy
 11473
@@ -45953,7 +45954,7 @@ For what does ``KMP'' stand in ``KMP algorithm''?
 Knuth--Morris--Pratt
 11487
 
-Who composed ``21st century schizoid man''?
+Who composed ``21st Century Schizoid Man''?
 King Crimson
 11488
 
@@ -46153,7 +46154,7 @@ What did ``Gavot'' mean in Provençal?
 native of the Alps
 11537
 
-What knight of the Round Table who quested after the Holy Grail is the hero of the medieval poem Sir --- and the green knight?
+What knight of the Round Table who quested after the Holy Grail is the hero of the medieval poem Sir [---] and The Green Knight?
 Gawain
 11538
 
@@ -46165,7 +46166,7 @@ Whose law says that the volumes of gases undergoing a reaction at constant press
 Gay-Lussac's
 11540
 
-(1939--84) What American soul singer, composer, and musician who is best known for ``I heard it through the grapevine'' (1968) later recorded the albums Let's get it on (1973) and Midnight love (1982)? He was shot dead by his father in a quarrel.
+(1939--84) What American soul singer, composer, and musician who is best known for ``I Heard It Through the Grapevine'' (1968) later recorded the albums Let's Get It On (1973) and Midnight Love (1982)? He was shot dead by his father in a quarrel.
 Marvin Gaye
 11541
 
@@ -46233,7 +46234,7 @@ What is the first example of a strange loop that Hofstadter gives in Gödel, Esc
 Canon per Tonos
 11557
 
-Translate ``Quaerendo invenietis.''
+Translate ``quaerendo invenietis.''
 by seeking, you will discover
 11558
 
@@ -46461,7 +46462,7 @@ What is the dialling code for northern Maranhão?
 98
 11614
 
-Who wrote ``Linear algebra done wrong''?
+Who wrote ``Linear Algebra Done Wrong''?
 Sergei Treil
 11615
 
@@ -46541,11 +46542,11 @@ What year saw the Hōei earthquake happen? It was the largest Japanese earthquak
 1707
 11634
 
-Who recorded the song ``Lay all your love on me''?
+Who recorded the song ``Lay All Your Love on Me''?
 ABBA
 11635
 
-On what album did ``Lay all your love on me'' appear?
+On what album did ``Lay All Your Love on Me'' appear?
 Super Trouper
 11636
 
@@ -46557,31 +46558,31 @@ What instrument does Nathalie Forget play?
 ondes Martenot
 11638
 
-What does 「吃一堑，长一智」 [chī yí qiàn，zhǎng yí zhì] mean?
-``a fall into a pit, a gain in your wit''
+What does 「吃一堑，长一智」 mean?
+a fall into a pit, a gain in your wit
 11639
 
-What does 「一根筷子容易折，一把筷子难折断」 [yī gēn kuài zi róng yì zhé， yī bǎ kuài zi nán zhé duàn] mean?
-``one chopstick is fragile, but a group of chopsticks is robust''
+What does 「一根筷子容易折，一把筷子难折断」 mean?
+one chopstick is fragile, but a group of chopsticks is robust
 11640
 
-What does 「良好的开端，是成功的一半」 [liáng hǎo de kāi duān， shì chéng gōng de yī bàn] mean?
-``well begun is half done''
+What does 「良好的开端，是成功的一半」 mean?
+well begun is half done
 11641
 
-What does 「三思而后行」 [sān sī ér hòu xíng] mean?
-``think three times before you do''
+What does 「三思而后行」 mean?
+think three times before you do
 11642
 
-What does 「量变质变规律」 [liàng biàn zhí biàn guī lǜ] mean?
-``quantitative changes lead to qualitative changes''
+What does 「量变质变规律」 mean?
+quantitative changes lead to qualitative changes
 11643
 
-What does 「巧妇难为无米之炊」 [qiǎo fù nán wéi wú mǐ zhī chuī] mean?
-``the cleverest housewife cannot cook without rice''
+What does 「巧妇难为无米之炊」 mean?
+the cleverest housewife cannot cook without rice
 11644
 
-Monomorphisms must be injective functions in {Set}. True or false?
+Monomorphisms must be injective functions in Set. True or false?
 false
 11645
 
@@ -46609,11 +46610,11 @@ What was the score of the 2013 World Chess Championship between Viswanathan Anan
 3 1/2 -- 6 1/2
 11651
 
-Where did Peter Sarnak get his Ph.D.?
+Where did Peter Sarnak get his PhD?
 Stanford University
 11652
 
-Who advised Peter Sarnak in his Ph.D.?
+Who advised Peter Sarnak in his PhD?
 Paul Cohen
 11653
 
@@ -46765,7 +46766,7 @@ What patch of very faint nebulous light sometimes seen in the night sky opposite
 gegenschein
 11690
 
-What patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun is thought to be the image of the sun reflected from gas and dust outside the atmosphere? Its name comes from the German for ``opposite'' + ``glow.''
+What patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun is thought to be the image of the sun reflected from gas and dust outside the atmosphere? Its name comes from the German for ``opposite'' plus ``glow.''
 gegenschein
 11691
 
@@ -46949,7 +46950,7 @@ Define ``saturnine.''
 slow and gloomy
 11736
 
-Who wrote ``The decipherment of Linear B''?
+Who wrote ``The Decipherment of Linear B''?
 John Chadwick
 11737
 
@@ -47001,7 +47002,7 @@ Who was the first grandmaster that Mikhail Tal defeated?
 Yuri Averbakh
 11749
 
-Who wrote the song ``21 questions''?
+Who wrote the song ``21 Questions''?
 50 Cent
 11750
 
@@ -47013,7 +47014,7 @@ Define ``phantasmagorical.''
 full of different images, like something in a confused dream
 11752
 
-Who asks ``Guess who's back?''
+Who asks, ``Guess who's back?''
 Eminem
 11753
 
@@ -47241,7 +47242,7 @@ What was Seurat's first name?
 Georges-Pierre
 11809
 
-Whose song is ``The boys are back in town''?
+Whose song is ``The Boys Are Back in Town''?
 Thin Lizzy
 11810
 
@@ -47505,7 +47506,7 @@ Let $k \ge 1$. What is an admissible $k$-tuple?
 tuple of $k$ increasing integers such that, for all prime numbers $p$, there exists $0 \le n \le p - 1$ such that none of the integers are $n$ mod $p$
 11875
 
-Who wrote the paper ``Bounded gaps between primes''?
+Who wrote the paper ``Bounded Gaps Between Primes''?
 Yitang Zhang
 11876
 
@@ -47545,7 +47546,7 @@ Who played Andrew Clark in The Breakfast Club?
 Emilio Estevez
 11885
 
-``Wake up, Mr. West, Mr. West / Mr. Fresh, Mister, by himself he's so impressed / I mean, damn, did you even see the test? / You got D's, muthaf***a, D's, Rosie Perez / And yer ass barely passed any and every class / Looking at every ass, cheated on every test / I guess this is my dissertation / Homie, this shit is basic, welcome to graduation. ---''
+``Wake up, Mr. West, Mr. West / Mr. Fresh, Mister, by himself he's so impressed / I mean, damn, did you even see the test? / You got D's, muthaf***a, D's, Rosie Perez / And yer ass barely passed any and every class / Looking at every ass, cheated on every test / I guess this is my dissertation / Homie, this shit is basic, welcome to graduation. [---].''
 Good morning
 11886
 
@@ -47821,7 +47822,7 @@ Where did Jesus go with his disciples after the Last Supper?
 Garden of Gethsemane
 11954
 
-(1927--91) What American leader of the ``cool'' school of jazz recorded pieces including ``Early autumn'' (1948) and ``The girl from Ipanema'' (1963)?
+(1927--91) What American leader of the ``cool'' school of jazz recorded pieces including ``Early Autumn'' (1948) and ``The Girl from Ipanema'' (1963)?
 Stan Getz
 11955
 
@@ -47842,7 +47843,7 @@ power flash
 11959
 
 How do you pronounce ``Laoghaire''?
-\textipa{["lI\*r@]}
+ˈlɪɹə
 11960
 
 Define ``philistine'' as an adjective.
@@ -48221,7 +48222,7 @@ What does ``BCS'' abbreviate as in ``BCS pair''?
 Bardeen--Cooper--Schrieffer
 12054
 
-Who wrote ``The architecture of complexity''?
+Who wrote ``The Architecture of Complexity''?
 Herbert A. Simon
 12055
 
@@ -48314,7 +48315,7 @@ Ben Green, Terence Tao
 12077
 
 For what does the ``D. H. J.'' stand in ``D. H. J. Polymath''?
-density Hales--Jewett
+Density Hales Jewett
 12078
 
 Who created TeX?
@@ -48329,7 +48330,7 @@ Who was Donald Knuth's doctoral advisor?
 Marshall Hall Jr.
 12081
 
-Who were the two authors of ``Ring theoretic properties of certain Hecke algebras,'' proving at last Fermat's last theorem?
+Who were the two authors of ``Ring Theoretic Properties of Certain Hecke Algebras,'' proving at last Fermat's last theorem?
 Richard Taylor, Andrew Wiles
 12082
 
@@ -48349,7 +48350,7 @@ Who proved that all finite groups of odd order are solvable?
 Walter Feit, John G. Thompson
 12086
 
-What three mathematicians proved that $\liminf_{n\to\infty} (p_{n+1} - p_n) / \log p_n = 0$ in a paper entitled ``Primes in tuples I''?
+What three mathematicians proved that $\liminf_{n\to\infty} (p_{n+1} - p_n) / \log p_n = 0$ in a paper entitled ``Primes in Tuples I''?
 Daniel Alan Goldston, Pintz János, Cem Yalçın Yıldırım
 12087
 
@@ -49089,8 +49090,8 @@ Like what do real Gs move in silence?
 lasagna
 12271
 
-Finish the colloquialism: ``I ran away faster than you could say ---.'' (No, the saying is not about the famous number 42 Jackie.)
-Jack Robinson
+Finish the colloquialism: ``I ran away faster than you could say Jack [---].''
+Robinson
 12272
 
 (Before and after.) Norwegian mathematician who discovered New Zealand.
@@ -49121,8 +49122,8 @@ What Spanish philosopher studied at Harvard under William James and Josiah Royce
 George Santayana
 12279
 
-What theorem whose name contains two names, though having different formulations, encapsulates the idea that projective modules over commutative rings are ``the same'' as vector bundles on compact topological spaces?
-Serre--Swan theorem
+``His empire's boundary shall be the Ocean; the only border to his fame, the stars.'' Whom is Jupiter talking about?
+Julius Caesar
 12280
 
 What duo composed the music for the Halo video games?
@@ -49449,7 +49450,7 @@ Who helped Andrew Wiles notice that there was a gap in the manuscript of his pro
 Nicholas Katz
 12361
 
-Whose paper entitled ``Deforming Galois representations'' included key ideas used in Wiles's proof of Fermat's last theorem?
+Whose paper entitled ``Deforming Galois Representations'' included key ideas used in Wiles's proof of Fermat's last theorem?
 Barry Mazur
 12362
 
@@ -49462,7 +49463,7 @@ When was Yutaka Taniyama born?
 12364
 
 What is Quebec's motto?
-Je me souviens
+je me souviens
 12365
 
 What does ``Je me souviens'' mean in English?
@@ -49470,11 +49471,11 @@ I remember
 12366
 
 What is Ontario's motto?
-Ut incepit fidelis sic permanet
+ut incepit fidelis sic permanet
 12367
 
-What does ``Ut incepit fidelis sic permanet'' mean in English?
-Loyal she began, loyal she remains
+What does ``ut incepit fidelis sic permanet'' mean in English?
+loyal she began, loyal she remains
 12368
 
 What is Ontario's flower?
@@ -49486,11 +49487,11 @@ eastern white pine
 12370
 
 What is Nova Scotia's motto?
-Munit hæc et altera vincit
+munit hæc et altera vincit
 12371
 
-What does ``Munit hæc et altera vincit'' mean in English?
-One defends and the other conquers
+What does ``munit hæc et altera vincit'' mean in English?
+one defends and the other conquers
 12372
 
 What is Nova Scotia's flower?
@@ -49506,11 +49507,11 @@ osprey
 12375
 
 What is New Brunswick's motto?
-Spem reduxit
+spem reduxit
 12376
 
-What does ``Spem reduxit'' mean in English?
-Hope restored
+What does ``spem reduxit'' mean in English?
+hope restored
 12377
 
 What is New Brunswick's flower?
@@ -49526,11 +49527,11 @@ black-capped chickadee
 12380
 
 What is Manitoba's motto?
-Gloriosus et liber
+gloriosus et liber
 12381
 
-What does ``Gloriosus et liber'' mean in English?
-Glorious and free
+What does ``gloriosus et liber'' mean in English?
+glorious and free
 12382
 
 What is Manitoba's flower?
@@ -49549,8 +49550,8 @@ What is British Columbia's motto?
 Splendor sine occasu
 12386
 
-What does ``Splendor sine occasu'' mean in English?
-Splendour without diminishment
+What does ``splendor sine occasu'' mean in English?
+splendour without diminishment
 12387
 
 What is British Columbia's flower?
@@ -49566,11 +49567,11 @@ steller's jay
 12390
 
 What is Prince Edward Island's motto?
-Parva sub ingenti
+parva sub ingenti
 12391
 
-What does ``Parva sub ingenti'' mean in English?
-The small protected by the great
+What does ``parva sub ingenti'' mean in English?
+the small protected by the great
 12392
 
 What is Prince Edward Island's flower?
@@ -49589,8 +49590,8 @@ What is Saskatchewan's motto?
 Multis e gentibus vires
 12396
 
-What does ``Multis e gentibus vires'' mean in English?
-From many people, strength
+What does ``multis e gentibus vires'' mean in English?
+from many people, strength
 12397
 
 What is Saskatchewan's flower?
@@ -49606,11 +49607,11 @@ sharp-tailed grouse
 12400
 
 What is Alberta's motto?
-Fortis et liber
+fortis et liber
 12401
 
-What does ``Fortis et liber'' mean in English?
-Strong and free
+What does ``fortis et liber'' mean in English?
+strong and free
 12402
 
 What is Alberta's flower?
@@ -49626,11 +49627,11 @@ great horned owl
 12405
 
 What is Newfoundland and Labrador's motto?
-Quaerite prime regnum Dei
+quaerite prime regnum Dei
 12406
 
-What does ``Quaerite prime regnum Dei'' mean in English?
-Seek ye first the kingdom of God
+What does ``quaerite prime regnum Dei'' mean in English?
+seek ye first the kingdom of God
 12407
 
 What is Newfoundland and Labrador's flower?
@@ -50201,11 +50202,11 @@ Define ``fuliginous.''
 sooty; dusky
 12549
 
-Who wrote ``Raspberry beret''?
+Who wrote ``Raspberry Beret''?
 Prince
 12550
 
-What American band made the song ``Drive by''?
+What American band made the song ``Drive By''?
 Train
 12551
 
@@ -50317,7 +50318,7 @@ In what country was the hot air balloon invented?
 France
 12578
 
-Who wrote the ``Concord hymn''?
+Who wrote the ``Concord Hymn''?
 Ralph Waldo Emerson
 12579
 
@@ -50814,7 +50815,7 @@ John Gotti
 12702
 
 What did Norm Macdonald give up for Lent in 1997?
-powerlifting, lifting of any kind, dressing up like an incubus, feeding his cat, spending thousands of dollars trying to seduce methodically Andy's wife
+powerlifting, lifting of any kind, dressing up like an incubus, feeding his cat, spending thousands of dollars trying to methodically seduce Andy's wife
 12703
 
 ``There's nothing wrong with being gay unless [---] and then there's something horribly wrong with it.''
@@ -50901,8 +50902,8 @@ With what team did Dominik Hašek win his two Stanley Cups?
 Detroit Red Wings
 12724
 
-
 Where was Jaromír Jágr born?
+Kladno
 12725
 
 How many Art Ross Trophies did Jaromír Jágr win?
@@ -51002,7 +51003,7 @@ Joe Thornton
 12749
 
 What was Bob Hope's signature song?
-``Thanks for the memory''
+``Thanks for the Memory''
 12750
 
 In what village did Sidney Crosby and Nathan MacKinnon grow up?
@@ -51037,7 +51038,7 @@ Who won the Calder Memorial Trophy in 2005--06?
 Alexander Ovechkin
 12758
 
-Who released the jazz album ``Feels so good'' in 1977?
+Who released the jazz album ``Feels So Good'' in 1977?
 Chuck Mangione
 12759
 
@@ -51057,7 +51058,7 @@ What moves define the O'Kelly Sicilian Defense?
 1. e4 c5 2. Nf3 a6
 12763
 
-Who wrote the blues standard ``Nobody knows you when you're down and out''?
+Who wrote the blues standard ``Nobody Knows You When You're Down and Out''?
 Jimmie Cox
 12764
 
@@ -51169,8 +51170,8 @@ What are the seventeen contrade of Siena?
 Aquila, Bruco, Chiocciola, Civetta, Drago, Giraffa, Istrice, Leocorno, Lupa, Nicchio, Oca, Onda, Pantera, Selva, Tartuca, Torre, Valdimontone
 12791
 
-Who had never heard anyone say, ``I'm going to Cleveland on vacation''?
-Joakim Noah
+What Japanese prefecture shares its name with a city in Kerala, India?
+Kochi
 12792
 
 What country's Falcón State is home to Morrocoy National Park and Cayo Sombrero?
@@ -52013,7 +52014,6 @@ Who won the Art Ross Trophy, Hart Memorial Trophy, and Ted Lindsay Award in the 
 Evgeni Malkin
 13002
 
-
 Who won the Conn Smythe Trophy in the 2008--09 NHL season?
 13003
 
@@ -52040,4 +52040,924 @@ Carey Price, Mike Smith, Roberto Luongo
 Who won the Conn Smythe Trophy in the 2012--13 NHL season?
 Patrick Kane
 13009
+
+What land was Juno's favourite according to The Aeneid?
+Carthage
+13010
+
+Which is the loveliest of the twice-seven nymphs that Juno offers Aeolus to shipwreck her enemies sailing over the Tyrrhenian?
+Deiopea
+13011
+
+When was Vladimir the Great baptized?
+988
+13012
+
+Where was Vladimir the Great baptized?
+Chersonesus
+13013
+
+What is a breaker?
+heavy sea wave that breaks into white foam on the shore
+13014
+
+What was a galley?
+low, flat ship with one or more sails and up to three banks of oars
+13015
+
+What does ``insolent'' mean?
+showing a rude and arrogant lack of respect
+13016
+
+What is a rabble?
+disorderly crowd or mob
+13017
+
+What is a firebrand?
+piece of burning wood
+13018
+
+What is a crag?
+steep or rugged cliff or rock face
+13019
+
+Where was the Danzig Corridor?
+Poland
+13020
+
+What city was east of the Polish Corridor?
+Danzig
+13021
+
+What dry, flammable material, such as wood or paper, is used for lighting a fire?
+tinder
+13022
+
+Where was Latium?
+Italy
+13023
+
+What is the Latin name for Lazio?
+Latium
+13024
+
+Who founded Alba Longa?
+Ascanius
+13025
+
+How long is a lustrum?
+five years
+13026
+
+What purificatory sacrifice in Rome was made after a census every five years?
+lustrum
+13027
+
+Whom is Virgil talking about here? ``[I]mperium oceano, famam qui terminet astris.''
+Julius Caesar
+13028
+
+Whence did Teucer come?
+Crete
+13029
+
+What direction was the wind Aparctias?
+north
+13030
+
+What direction was the wind Meses?
+north-north-east
+13031
+
+What direction was the wind Caecias?
+north-east
+13032
+
+What direction was the wind Apeliotes?
+east
+13033
+
+What direction was the wind Eurus?
+south-east
+13034
+
+What direction was the wind Notos?
+south
+13035
+
+What direction was the wind Lips?
+south-west
+13036
+
+What direction was the wind Zephyrus?
+west
+13037
+
+What direction was the wind Argestes?
+north-west
+13038
+
+What direction was the wind Thrascias?
+north-north-west
+13039
+
+What are the subunits of the heterotrimer RPA, named after their molecular weights?
+RPA70, RPA32, RPA14
+13040
+
+What is a ute in Australia?
+utility truck
+13041
+
+Whence is an Argive?
+Argos
+13042
+
+Define ``brazen.''
+bold and without shame
+13043
+
+Of what is something brazen made?
+brass
+13044
+
+What ornamented staff is carried by rulers on ceremonial occasions as a symbol of sovereignty?
+sceptre
+13045
+
+What does it mean to brandish something?
+wave or flourish it as a threat or in anger or excitement
+13046
+
+Whom was Aeneas the son of?
+Anchises, Aphrodite
+13047
+
+Whom was Agenor the son of?
+Poseidon, Libya
+13048
+
+Who was the wealthiest landowner in Phoenicia and the husband of Dido?
+Sychaeus
+13049
+
+What figure of Greek myth fell in love with his statue?
+Pygmalion
+13050
+
+What does βύρσα mean?
+oxhide
+13051
+
+Who was Paphos's father?
+Pygmalion
+13052
+
+What does it mean to hew something?
+to chop or cut it with an axe, pick, or other tool
+13053
+
+Who was Hector's father?
+Priam
+13054
+
+Who was Hector's mother?
+Hecuba
+13055
+
+Who was the queen of the Amazons?
+Penthesilea
+13056
+
+Define ``goad.''
+provoke or annoy (someone) to stimulate some action or reaction
+13057
+
+What herbaceous plant or shrub with bold flower spikes and spiny decorative leaves is native to Mediterranean regions? Its name comes from the Greek for ``thorn.''
+acanthus
+13058
+
+Who was the eldest of Priam's daughters?
+Ilione
+13059
+
+What is guile?
+sly or cunning intelligence
+13060
+
+The leaves of this aromatic southern European plant of the mint family are used as a culinary herb. One might use its name as a substitute for ``oregano.''
+marjoram
+13061
+
+What two-word anagram of ``velamina'' does one exclaim to convey surprise?
+man alive
+13062
+
+This rich fabric is woven with a raised pattern, typically with gold or silver thread. Its name comes from the Italian for ``twisted thread.'' What is it?
+brocade
+13063
+
+Define ``sate.''
+satisfy a desire or an appetite to the full
+13064
+
+What is an egghead?
+highly academic or studious person
+13065
+
+What is a ham and egg man?
+ordinary man
+13066
+
+How many days ago was ereyesterday?
+two
+13067
+
+What were Hale and Bopp's first names?
+Alan, Thomas
+13068
+
+What does ``CTP'' abbreviate in biochemistry?
+cytidine triphosphate
+13069
+
+What is the Turkish name for the island Tenedos?
+Bozcaada
+13070
+
+What is the Greek name for the island Bozcaada?
+Tenedos
+13071
+
+According to the Aeneid, where did the Greeks hide their fleet to trick the Trojans?
+Tenedos
+13072
+
+Who in the Aeneid advised the Trojans not to receive the horse from the Greeks?
+Laocoön
+13073
+
+Who wrote De Consolatione Philosophiae?
+Boethius
+13074
+
+Translate ``πόρισμα.''
+corollary
+13075
+
+In what country was Cary Grant born?
+England
+13076
+
+What was Josef Hofmann's occupation?
+pianist
+13077
+
+What are the two runes bound together in Bluetooth's logo?
+hagall, bjarkan
+13078
+
+Switch a letter in the name of a creator god in Hinduism to get the name of this German composer.
+Brahms
+13079
+
+Whence did Gordon Lightfoot hail?
+Orillia
+13080
+
+What NHL hockey team has an association with Blasty?
+Calgary Flames
+13081
+
+Who was the oldest player to win the Calder Memorial Trophy?
+Sergei Makarov
+13082
+
+How many goals did Teemu Selanne score in his rookie season in the NHL?
+76
+13083
+
+Who was the Pocket Rocket?
+Henri Richard
+13084
+
+How many Stanley Cups did Henri Richard win?
+11
+13085
+
+How many strings are on a concert harp?
+47
+13086
+
+What instrument represents the wolf in Peter and the Wolf?
+French horn
+13087
+
+What composer's Mysterium was to be performed at the end of the world?
+Scriabin
+13088
+
+What does ``Texas'' mean in Norway?
+crazy
+13089
+
+What does it mean to spin a yarn?
+to tell a long, far-fetched story
+13090
+
+What is an aberration?
+departure from what is normal, usual, or expected
+13091
+
+What is a foible?
+minor weakness or eccentricity in someone's character
+13092
+
+What is the weaker part of a sword blade from the middle to the point in fencing?
+foible
+13093
+
+From the Aramaic for ``riches,'' what noun represents wealth regarded as an evil influence or false object of worship and devotion?
+mammon
+13094
+
+Define ``diffident.''
+modest or shy because of a lack of self-confidence
+13095
+
+What is inheritage?
+inheritance
+13096
+
+What are bangers?
+sausages
+13097
+
+Define ``perfidious.''
+deceitful and untrustworthy
+13098
+
+Translate ``confiteor.''
+I confess
+13099
+
+Translate: ``ἐλέησόν με κύριε.''
+have mercy on me, Lord
+13100
+
+What does ``Κύριε, ἐλέησον'' mean?
+Lord, have mercy
+13101
+
+What does ``Dóminus vobíscum'' mean?
+the Lord be with you
+13102
+
+Switch a letter in the name of a light canvas shoe with a plaited fibre sole to get this name for a French squadron of aircraft.
+escadrille
+13103
+
+Switch a letter in the name of a light canvas shoe with a plaited fibre sole to get this name for a French squadron of aircraft.
+escadrille
+13104
+
+Switch a letter in the name of a tool resembling a large corkscrew for boring holes in wood to get this verb meaning ``portend a good or bad outcome.''
+augur
+13105
+
+What purported transitional link was discovered by Charles Dawson in 1912 and later determined to be forged?
+Piltdown Man 
+13106
+
+Who initiated the Mississippi scheme?
+John Law
+13107
+
+Who was Mr. Warmth?
+Don Rickles
+13108
+
+Complete the show business maxim: ``Never follow [---].''
+the leader of the free world
+13109
+
+Where did St. Thomas Aquinas decease?
+Fossanova Abbey
+13110
+
+(Before and after.) Advisor to Woodrow Wilson and Franklin D. Roosevelt who wrote Ethics and Theological-Political Treatise.
+Bernard Baruch Spinoza
+13111
+
+How many points are in a pica?
+12
+13112
+
+What unit of type size and line length is equal to 12 points?
+pica
+13113
+
+What size of letter in typewriting has 10 characters to the inch?
+pica
+13114
+
+Who was the inventor of impieties?
+Ulysses
+13115
+
+What is an auspice?
+divine or prophetic token
+13116
+
+What does ``pica'' mean in Latin?
+magpie
+13117
+
+What is the lengthwise timber or steel structure along the base of a ship?
+keel
+13118
+
+What is an effigy?
+sculpture or model of a person
+13119
+
+Who tricks the Trojans into bringing the wooden horse into the city?
+Sinon
+13120
+
+Define ``insidious.''
+proceeding in a gradual, subtle way, but with very harmful effects
+13121
+
+What was Laocoön sacrificing upon the customary altars when two snakes with endless coils struck a straight line toward him?
+giant bull
+13122
+
+Who was named the priest of Neptune by lot?
+Laocoön
+13123
+
+According to the Aeneid, what captains exited the Trojan horse?
+Thessandrus, Sthenelus
+13124
+
+According to the Aeneid, what Trojan was the first to exhort his countrymen to bring the horse into the city?
+Thymoetes
+13125
+
+What Trojan priest of Apollo and son of Othrys laments his and Troy's fates holding his baby grandson in his arms?
+Panthus
+13126
+
+What son of Achilles killed Priam and Polites?
+Pyrrhus
+13127
+
+Who built the Trojan horse?
+Epeos
+13128
+
+What is the portion of a ship's bow above water?
+prow
+13129
+
+Define ``unkempt.''
+having an untidy or dishevelled appearance
+13130
+
+Whom does Aeneas see in his sleep telling him to escape Troy?
+Hector
+13131
+
+Who was the goddess of the hearth and household?
+Vesta
+13132
+
+Define ``hurtle.''
+move or cause to move at high speed, typically in an uncontrolled manner
+13133
+
+``How fine a thing it is to die in arms.'' Who says this?
+Aeneas
+13134
+
+What neume denotes a set of three tones that first fall from the original tone, then rise?
+porrectus
+13135
+
+What is another name for a porrectus?
+flexus resupinus
+13136
+
+What word is used in anatomy to mean a sharp tip or in music to mean a neume representing a single tone?
+punctum
+13137
+
+What type of note used in plainsong notation has a tail and represents a single tone?
+virga
+13138
+
+What neume represents two notes ascending?
+podatus/pes
+13139
+
+What is another word for a podatus?
+pes
+13140
+
+What neume represents two notes descending?
+clivis
+13141
+
+What is another word for a clivis?
+flexa
+13142
+
+What neume represents an ascending set of three tones?
+scandicus
+13143
+
+What neume that consists of an ascending group of three notes resembles the scandicus but has the second note emphasized?
+salicus
+13144
+
+What neume denotes a descending set of three tones?
+climacus
+13145
+
+What neume denotes a set of three tones that first rise from the original tone, then fall?
+torculus
+13146
+
+What is another name for a torculus?
+pes flexus
+13147
+
+What neume represents four notes going up and then dropping down?
+scandicus flexus
+13148
+
+What is a porrectus with a low note on the end?
+porrectus flexus
+13149
+
+What is the opposite of a scandicus flexus?
+climacus resupinus
+13150
+
+What neume represents four notes with the structure low-up-down-up?
+torculus resupinus
+13151
+
+What neume might one describe as ``one up, two down''?
+pes subbipunctus
+13152
+
+What neume represents four notes going downward?
+virga subtripunctis
+13153
+
+What neume represents four notes going upward?
+virga praetripunctis
+13154
+
+What is the plural of ``quilisma''?
+quilismata
+13155
+
+What is ʕ?
+voiced pharyngeal fricative
+13156
+
+Translate the German word ``Übung'' into English.
+exercise
+13157
+
+What three gifts did the three wise men bring?
+gold, frankincense, myrrh
+13158
+
+What was the first film in which Daniel Craig played James Bond?
+Casino Royale 
+13159
+
+From what fish does caviar come?
+sturgeon
+13160
+
+Where was Muhammad Ali born?
+Louisville, Kentucky
+13161
+
+What was Tiger Woods's given name?
+Eldrick Tont Woods
+13162
+
+Translate the Latin word ``stapes'' into English.
+stirrup
+13163
+
+How many keys does a piano have?
+eighty-eight
+13164
+
+What is the French name for the Eurasian skylark?
+Alouette des champs
+13165
+
+What city contains the road junction named ``Seven Dials''?
+London
+13166
+
+Where does the Burnley Football Club play its home games?
+Turf Moor
+13167
+
+What NHL team drafted Alexei Kasatonov?
+New Jersey Devils
+13168
+
+Of what river is the Khemchik a tributary?
+Yenisei
+13169
+
+Change one letter in the name for a musical ornament to get this adjective describing something, like humour, with a sharp or critical quality.
+mordant
+13170
+
+Add a letter to a verb tied to sickness to get the name of this black Eurasian and North African bird of the crow family, with a downcurved bill and broad, rounded wings, that typically frequents mountains and sea cliffs.
+chough
+13171
+
+Who were the Broad Street Bullies?
+Philadelphia Flyers
+13172
+
+What is the difference between Kac--Moody algebras and generalized Kac--Moody algebras?
+generalized Kac--Moody algebras may have imaginary simple roots
+13173
+
+What is the scientific name for the European goldfinch?
+Carduelis carduelis
+13174
+
+Replace ``gun'' in a familiar expression with a nautical term to get this expression that means ``an objectionable, despicable person.''
+son of a sea-cook
+13175
+
+What was Gerald Ford's middle name?
+Rudolph
+13176
+
+What Saturday Night Live comedian impersonated Gerald Ford?
+Chevy Chase
+13177
+
+What island is home to Mount Dempo?
+Sumatra
+13178
+
+What is the scientific name for the Icterine warbler?
+Hippolais icterina
+13179
+
+Whence did Victor Kac receive his PhD?
+Lomonosov Moscow State University
+13180
+
+What Twain book contains the story of grandfather's old ram?
+Roughing It
+13181
+
+Who won in the Battle of the Plains of Abraham?
+the British
+13182
+
+Who were the two generals, one Brit and one Frenchman, who died in the Battle of the Plains of Abraham?
+James Wolfe, Louis Montcalm
+13183
+
+Where is Churchill Downs?
+Louisville, Kentucky
+13184
+
+What was the Fourth Ecumenical Council?
+Council of Chalcedon
+13185
+
+What was the First Ecumenical Council?
+First Council of Nicaea
+13186
+
+What was the Second Ecumenical Council?
+First Council of Constantinople
+13187
+
+What was the Third Ecumenical Council?
+Council of Ephesus
+13188
+
+What was the Fifth Ecumenical Council?
+Second Council of Constantinople
+13189
+
+What was the Sixth Ecumenical Council?
+Third Council of Constantinople
+13190
+
+What was the Seventh Ecumenical Council?
+Second Council of Nicaea
+13191
+
+Where was the Qunisext Council held?
+Constantinople
+13192
+
+Who convoked the Quinisext Council?
+Justinian II
+13193
+
+What is the German name for Iași?
+Jassy
+13194
+
+Who convoked the Great Moscow Synod?
+Alexis of Russia
+13195
+
+Who convoked the Synod of Jerusalem?
+Dositheus II of Jerusalem
+13196
+
+Who convoked the Synod of Jassy?
+Parthenius I of Constantinople
+13197
+
+Who convoked the First Council of Nicaea?
+Constantine I
+13198
+
+Who convoked the First Council of Constantinople?
+Theodosius I
+13199
+
+Who convoked the Council of Ephesus?
+Theodosius II
+13200
+
+Who convoked the Council of Chalcedon?
+Marcian
+13201
+
+Who convoked the Second Council of Constantinople?
+Justinian I
+13202
+
+Who convoked the Third Council of Constantinople?
+Constantine IV
+13203
+
+Who convoked the First Lateran Council?
+Callixtus II
+13204
+
+Who convoked the Second Lateran Council?
+Innocent II
+13205
+
+Who convoked the Third Lateran Council?
+Alexander III
+13206
+
+Who convoked the Fourth Lateran Council?
+Innocent III
+13207
+
+Who convoked the First Council of Lyon?
+Innocent IV
+13208
+
+Who convoked the Second Council of Lyon?
+Gregory X
+13209
+
+Who convoked the Council of Vienne?
+Clement V
+13210
+
+Who convoked the Council of Florence?
+Martin V
+13211
+
+Who convoked the Fifth Lateran Council?
+Julius II
+13212
+
+Who presided over the Fifth Lateran Council when Julius II died?
+Leo X
+13213
+
+What pope used the Italian word ``aggiornamento'' in an address on the Second Vatical Council?
+John XXIII
+13214
+
+Who are the three men who have been given the title ``Theologian'' in the Orthodox Church?
+John the Apostle, Gregory of Nazianzus, Symeon
+13215
+
+What monk of Mount Athos known as ``a New Chrysostom'' defended Hesychasm against Barlaam of Seminara?
+Gregory Palamas
+13216
+
+Where was the Philokalia published in 1782?
+Venice
+13217
+
+From what Italian region does agnolotti come?
+Piedmont
+13218
+
+What is bravado?
+blustering swaggering conduct
+13219
+
+What does ``Sonderstellung'' mean?
+special place
+13220
+
+What is Gewissenbisse?
+pangs of conscience
+13221
+
+What are the four imperial cities of Morocco?
+Fez, Marrakesh, Meknes, Rabat
+13222
+
+What Kurt Vonnegut novel is subtitled ``Or, The Children's Crusade: A Duty-Dance with Death''?
+Slaughterhouse-Five
+13223
+
+Who wrote the story ``The Birds'' that inspired Alfred Hitchcock's film of the same name?
+Daphne du Maurier
+13224
+
+What English county contains the towns of Tewkesbury and Tetbury?
+Gloucestershire
+13225
+
+The name of this Mexican isthmus comes from the Nahuatl for ``jaguar mountain''?
+Isthmus of Tehuantepec
+13226
+
+What name was given to the Greek dance from Zorba the Greek that accompanied Mikis Theodorakis's ``Zorba's Dance''?
+sirtaki
+13227
+
+Who directed Rosemary's Baby?
+Roman Polanski
+13228
+
+Who played Rosemary in Rosemary's Baby?
+Mia Farrow
+13229
+
+Where is Thomas Jefferson buried?
+Monticello, Virginia
+13230
+
+Which is the only Canadian Prime Minister not buried on Canadian soil?
+R. B. Bennett
+13231
+
+What does ``ingravidate'' mean?
+impregnate
+13232
+
+Where was Brian Mulroney born?
+Baie-Comeau, Quebec
+13233
+
+What Progressive Conservative was the eighteenth prime minister of Canada?
+Brian Mulroney
+13234
+
+Was Dr. No an Ian Fleming story?
+yes
+13235
+
+Who created James Bond?
+Ian Fleming
+13236
+
+Was License to Kill an Ian Fleming story?
+no
+13237
+
+At what dance did Marty McFly's parents fall in love in Back to the Future?
+the Enchantment Under The Sea Dance
+13238
+
+Who was Enheduanna's father?
+Sargon of Akkad
+13239
 

@@ -30,3 +30,5 @@ pip install -e .
 You may also need to install some of these latex packages and whatever is needed for manim.
 
 You may need to change the argument of `\setCJKmainfont` to match a Chinese font on your machine.
+
+To do: add support for Hebrew and Arabic display.
