@@ -1390,7 +1390,7 @@ Celtic Sea
 What body of water is the world's largest estuary?
 Gulf of Ob
 
-What body of water located off the northern coasts of Norway and Russia was the ``Murman Sea'' to Russians in the Middle Ages?
+What body of water located off the northern coasts of Norway and Russia was the Murman Sea to Russians in the Middle Ages?
 Barents Sea
 
 What marginal sea of the Arctic Ocean once called the ``Nordenskiöld Sea'' is located between Siberia, the Taimyr Peninsula, Severnaya Zemlya, and the New Siberian Islands?
@@ -1450,7 +1450,7 @@ midbrain
 What cetacean of the Eocene had fore and hind limbs and could walk on land?
 Ambulocetus
 
-What Chancellor of the German Empire, who served as an ambassador in Paris and St. Petersburg before being named Chief Minister by William the First, presided over the annexation of Alsace-Lorraine, waved ``a red rag the Gallic Bull'' in 1870, and was called ``Iron Chancellor''?
+What Chancellor of the German Empire, who served as an ambassador in Paris and St. Petersburg before being named Chief Minister by William the First, presided over the annexation of Alsace-Lorraine, waved ``a red rag the Gallic Bull'' in 1870, and was called ``the Iron Chancellor''?
 Otto von Bismarck
 
 What chief port of Ivory Coast was the nation's capital from 1935 to 1983?
@@ -1528,7 +1528,7 @@ Nagano
 What city hosted the Winter Olympics in 2006?
 Turin
 
-What is the capital of Khuzestan, southwestern Iran?
+What is the capital of Khuzestan, Iran?
 Ahvaz
 
 What city is nicknamed ``Urbs Aeterna''?
@@ -2257,7 +2257,7 @@ orange; from κιρρός
 What does the Greek root clad-- mean?
 branch; from κλάδος
 
-What does the Greek root clast- mean?
+What does the Greek root clast-- mean?
 broken; from κλαστός
 
 What does the Greek root clav-- mean?
@@ -2663,7 +2663,7 @@ What does the Latin ``sub rosa'' mean?
 happening or done in secret
 
 What does the Latin ``tabula rasa'' mean?
-blank slate, the human mind before it receives impressions from experience
+blank slate
 
 What does the Latin ``terra firma'' mean?
 often used figuratively to refer to certainty (solid ground)
@@ -2743,10 +2743,10 @@ Sir Alan Ayckbourn
 What English poet and classical scholar wrote the cycle of poems A Shropshire lad?
 A. E. Housman
 
-What English poet wrote ``In memoriam,'' ``The charge of the light brigade,'' and Idylls of the king?
+What English poet wrote ``In Memoriam,'' ``The Charge of the Light Brigade,'' and Idylls of the King?
 Alfred Tennyson
 
-What English writer wrote Winnie-the-pooh?
+What English writer wrote Winnie-the-Pooh?
 A. A. Milne
 
 What enzyme catalyzes the deamination of adenosine to inosine?
@@ -2756,7 +2756,7 @@ What enzyme catalyzes the formation of cyclic adenylic acid from ATP?
 adenylate cyclase
 
 What epeiric sea borders Great Britain, Denmark, Norway, Germany, the Netherlands, Belgium, and France?
-North Sea
+the North Sea
 
 What Tigrayan town was a religious centre and the capital of a powerful kingdom between the first and sixth centuries?
 Axum/Aksum
@@ -6463,7 +6463,7 @@ André Malraux
 (1902--71) What American golfer won thirteen major competitions in his short competitive career as an amateur, including four US and three British open championships?
 Bobby Jones
 
-(1902--92) She won the Nobel Prize for Physiology or Medicine (1983). Identify this US geneticist, whose findings of transposable genetic elements were supported by Watson and Crick's DNA model.
+(1902--92) She won the Nobel Prize for Physiology or Medicine (1983). Identify this American geneticist, whose findings of transposable genetic elements were supported by Watson and Crick's DNA model.
 Barbara McClintock
 
 (1902--97) What Austrian-born British opera was the conductor and director of the Metropolitan Opera in New York City 1950--72, hired Marian Anderson in 1955, ending the Met's unwritten ban against African Americans, and was knighted in 1971?
@@ -6634,16 +6634,16 @@ B. B. King
 (1926--2017) What American rock-and-roll singer, guitarist, and songwriter who was once imprisoned is noted for ``Maybellene'' (1955), ``Johnny B Goode'' (1958), and ``My ding a ling'' (1972)?
 Chuck Berry
 
-(1927--87) This American jazz dancer and choreographer directed and choreographed Broadway musicals such as Pajama game (1954) and Redhead (1958) and movies such as Cabaret (1972) and All that jazz (1979). To whom was a Broadway musical of the same name dedicated?
+(1927--87) This American jazz dancer and choreographer directed and choreographed Broadway musicals such as Pajama Game (1954) and Redhead (1958) and movies such as Cabaret (1972) and All That Jazz (1979). To whom was a Broadway musical of the same name dedicated?
 Bob Fosse
 
-(1928--2014) What American novelist and poet wrote the first volume of her autobiography, I know why the caged bird sings, about living as a black child in the south United States, and wrote six more: Gather together in my name (1974), Singin' and swingin' and gettin' merry like Christmas (1976), The heart of a woman (1981), All God's children need travelling shoes (1986), A song flung up to heaven (2002), and Mom \& me \& mom (2013)?
+(1928--2014) What American novelist and poet wrote the first volume of her autobiography, I know why the caged bird sings, about living as a black child in the south United States, and wrote six more: Gather Together in My Name (1974), Singin' and Swingin' and Gettin' Merry Like Christmas (1976), The Heart of a Woman (1981), All God's Children Need Travelling Shoes (1986), A Song Flung Up to Heaven (2002), and Mom \& Me \& Mom (2013)?
 Maya Angelou
 
-(1929--93) What Belgian-born American actress moved to Hollywood after pursuing a career as a stage and movie actress in Britain, starring in Roman holiday (1953), Sabrina (1954), Breakfast at Tiffany's (1961), and My fair lady (1964)?
+(1929--93) What Belgian-born American actress moved to Hollywood after pursuing a career as a stage and movie actress in Britain, starring in Roman Holiday (1953), Sabrina (1954), Breakfast at Tiffany's (1961), and My Fair Lady (1964)?
 Audrey Hepburn
 
-(1929--2007) What French sociologist, cultural critic, and post-modernist is known for Seduction (1978), Simulacra and simulation (1981), America (1986), and The Gulf War did not take place (1991)?
+(1929--2007) What French sociologist, cultural critic, and post-modernist is known for Seduction (1978), Simulacra and Simulation (1981), America (1986), and The Gulf War Did Not Take Place (1991)?
 Jean Baudrillard
 
 (1929--2007) What American opera singer was a soprano with and the general director and president of the New York City Opera and became the first woman chairperson of the Lincoln Center for the Performing Arts in 1993?
@@ -6658,28 +6658,28 @@ Lionel Bart
 (1930--2006) Who was the youngest male decathlon winner with a gold medal at the 1948 Olympics and another in the 1952 games, and a Republican member of the United States House of Representatives from California (1967--1975)?
 Bob Mathias
 
-(1930--2009) What British novelist and short-story writer wrote The drowned world (1962), Crash (1973), and Empire of the sun (1984)?
+(1930--2009) What British novelist and short-story writer wrote The Drowned World (1962), Crash (1973), and Empire of the Sun (1984)?
 J. G. Ballard
 
 (1931--90) What Indian guru founded an ashram in Pune and a commune in Oregon and preached his doctrine of communal therapy and salvation through free love?
 Bhagwan Shree Rajneesh
 
-(1931--2005) What American actress won a 1960 Tony Award and a 1962 Academy Award for her stage and film portrayal of Helen Keller's teacher Annie Sullivan in The miracle worker and played an iconic role in The graduate (1967) as Mrs. Robinson?
+(1931--2005) What American actress won a 1960 Tony Award and a 1962 Academy Award for her stage and film portrayal of Helen Keller's teacher Annie Sullivan in The Miracle Worker and played an iconic role in The Graduate (1967) as Mrs. Robinson?
 Anne Bancroft
 
 (1933--2009) What Philippine president (1986--92) had a son who was also president (2010--16) and was named Time's Woman of the Year in 1986?
 Corazón Aquino
 
-(1934--2003) What Tony Award--winning English actor is noted for films like The caretaker (1964), Zorba the Greek (1964), The fixer (1968), Women in love (1969), and An unmarried woman (1978), as well as his roles on stage, like in Turgenev's fortune's fool (2002)?
+(1934--2003) What Tony Award--winning English actor is noted for films like The Caretaker (1964), Zorba the Greek (1964), The Fixer (1968), Women in Love (1969), and An Unmarried Woman (1978), as well as his roles on stage, like in Turgenev's Fortune's Fool (2002)?
 Sir Alan Bates
 
-(1940--92) What English novelist and short-story writer wrote The magic toyshop and Nights at the circus?
+(1940--92) What English novelist and short-story writer wrote The Magic Toyshop and Nights at the Circus?
 Angela Carter
 
-(1940--2018) What Italian film director directed The spider's stratagem (1970), Last tango in Paris (1972), The last emperor (1987), and The dreamers (2003)?
+(1940--2018) What Italian film director directed The Spider's Stratagem (1970), Last Tango in Paris (1972), The Last Emperor (1987), and The Dreamers (2003)?
 Bernardo Bertolucci
 
-(1942--2018) This American soul and gospel singer became a hit with the album I never loved a man (1967). She later recorded albums like Amazing grace (1972) and A rose is still a rose (1998). Name this Memphis-born singer.
+(1942--2018) This American soul and gospel singer became a hit with the album I never loved a man (1967). She later recorded albums like Amazing Grace (1972) and A Rose Is Still a Rose (1998). Name this Memphis-born singer.
 Aretha Franklin
 
 (1943--2008) What American chess player defeated Boris Spassky in 1972 to become world champion, a title he held until 1975?
@@ -6697,7 +6697,7 @@ Benedictus Deus
 (b. 1929) What Dutch musical director and orchestra conductor was the principal conductor of the London Philharmonic Orchestra (1967--79) and musical director of Glyndebourne (1977--87) and Covent Garden (from 1987)?
 Bernard Haitink
 
-(b. 1930) What American novelist and short-story writer is noted for complex experimental novels and wrote The sot-weed factor (1960), Giles goat-boy (1966), and Letters (1979)?
+(b. 1930) What American novelist and short-story writer is noted for complex experimental novels and wrote The Sot-Weed Factor (1960), Giles Goat-Boy (1966), and Letters (1979)?
 John Barth
 
 (b. 1934) What American basketball player and coach, the first African American head coach in the NBA, played for and coached the Celtics, coached the Seattle Supersonics and Sacramento Kings, and was inducted into the Basketball Hall of Fame in 1974?
@@ -6706,22 +6706,22 @@ Bill Russell
 (b. 1935) What American minimalist sculptor made works consisting of ready-made units such as bricks, stacked according to a mathematical system and without adhesives or joints?
 Carl Andre
 
-(b. 1937) What American actor, director, and screenwriter produced Bonnie and Clyde (1967), wrote and produced Shampoo (1975), co-directed Heaven can wait (1978), and was producer, co-writer, and Academy Award-winning director of Reds (1981)?
+(b. 1937) What American actor, director, and screenwriter produced Bonnie and Clyde (1967), wrote and produced Shampoo (1975), co-directed Heaven Can Wait (1978), and was producer, co-writer, and Academy Award-winning director of Reds (1981)?
 Warren Beatty
 
-(b. 1937) What American comedian, actor, and writer wrote Fatherhood (1986) and Love and marriage (1989)?
+(b. 1937) What American comedian, actor, and writer wrote Fatherhood (1986) and Love and Marriage (1989)?
 Bill Cosby
 
-(b. 1939) What Canadian novelist, poet, critic, and short-story writer wrote The edible woman (1969), The handmaid's tale (1985), Cat's eye (1989), and The blind assassin (Booker Prize, 2000)?
+(b. 1939) What Canadian novelist, poet, critic, and short-story writer wrote The Edible Woman (1969), The Handmaid's Tale (1985), Cat's Eye (1989), and The Blind Assassin (Booker Prize, 2000)?
 Margaret Atwood
 
-(b. 1939) What English playwright wrote Relatively speaking (1967), Absurd person singular (1973), and A chorus of disapproval (1985)?
+(b. 1939) What English playwright wrote Relatively Speaking (1967), Absurd Person Singular (1973), and A Chorus of Disapproval (1985)?
 Sir Alan Ayckbourn
 
 (b. 1940) What Italian-born American motor racing driver won the F1 world championship in 1978 and won the IndyCar championship four times?
 Mario Andretti
 
-(b. 1941) What American folk singer and civil rights activist is best known for her performances at civil rights demonstrations in the early 1960s and albums like Any day now (1968) and Diamonds and rust (1975)?
+(b. 1941) What American folk singer and civil rights activist is best known for her performances at civil rights demonstrations in the early 1960s and albums like Any Day Now (1968) and Diamonds and Rust (1975)?
 Joan Baez
 
 (b. 1942) What Argentine pianist and conductor, the husband of Jacqueline du Pré, was musical director of the Orchestre de Paris (1975--88) and the Chicago Symphony Orchestra (1991--2006)?
@@ -6733,7 +6733,7 @@ Ehud Barak
 (b. 1942) What American singer, actress, and director starred in movies like Funny girl (1968), The way we were (1973), A star is born (1976), and The prince of tides (1991) and also starred in, produced, and directed Yentl (1983)?
 Barbra Streisand
 
-(b. 1944) What American journalist was the Washington Post reporter who broke the story of the 1972 Watergate burglary, traced the financial payoffs to President Nixon, and wrote All the president's men (1974) and The final days (1976) with Bob Woodward?
+(b. 1944) What American journalist was the Washington Post reporter who broke the story of the 1972 Watergate burglary, traced the financial payoffs to President Nixon, and wrote All the President's Men (1974) and The Final Days (1976) with Bob Woodward?
 Carl Bernstein
 
 (b. 1945) This political leader won the Nobel Peace Prize (1991) and was the daughter of another prominent political leader. She has been the leader of the National League for Democracy in Myanmar since 1988. She was held under house arrest from 1989 to 1995 when the ruling military government refused to recognize her party's victory in the 1990 elections. She was detained frequently thereafter. Name this politician whose NLD won a majority in 2015 but was barred from being president by clauses in Myanmar's constitution.
@@ -6748,7 +6748,7 @@ Bob Beamon
 (b. 1948) Identify the Latvian-born American ballet dancer who defected to the West while touring with the Kirov Ballet and served as the American Ballet Theater's artistic director (1980--89).
 Mikhail Baryshnikov
 
-(b. 1949) What American pop singer and songwriter made hit songs like ``Piano man'' (1973), ``Just the way you are'' (1977), ``Tell her about it'' (1983), ``We didn't start the fire'' (1989), and ``The river of dreams'' (1993)?
+(b. 1949) What American pop singer and songwriter made hit songs like ``Piano Man'' (1973), ``Just the Way You Are'' (1977), ``Tell Her About It'' (1983), ``We Didn't Start the Fire'' (1989), and ``The River of Dreams'' (1993)?
 Billy Joel
 
 (b. 1952) The television sitcom of what American comedienne and actress was inspired by her renowned stand-up comedy persona?
@@ -6760,7 +6760,7 @@ Barry Bonds
 (b. 1967) What German tennis player won the men's singles title at one US Open, one Australian Open, and three Wimbledon tournaments from 1985 to 1991?
 Boris Becker
 
-(c. 1825--1903) What American frontiersman named himself ``justice of the peace'' in Val Verde County, Texas, where he held court in his saloon, the Jersey Lilly---so-named for actress Lillie Langtry?
+(c. 1825--1903) What American frontiersman named himself ``justice of the peace'' in Val Verde County, Texas, where he held court in his saloon, the Jersey Lilly --- so-named for actress Lillie Langtry?
 Roy Bean
 
 (Calixtus III, 29 Jun. 1456) What bull titled Bulla turcorum announced the Fall of Constantinople and ordered a ``Noon Bell'' prayer to protect against a threatened Ottoman invasion?
@@ -6781,7 +6781,7 @@ Fra Angelico/Guido di Pietro
 (c. 1450--1500) Identify the Portuguese navigator and explorer who was the first European to sail around the Cape of Good Hope (1488), thereby establishing a sea route from the Atlantic Ocean to Asia.
 Bartolomeu Dias
 
-(c. 1472--1517) Name the Italian painter and Dominican friar who worked chiefly in Florence and painted The vision of St. Bernard (1507) and The mystic marriage of St. Catherine (1511).
+(c. 1472--1517) Name the Italian painter and Dominican friar who worked chiefly in Florence and painted The Vision of St. Bernard (1507) and The Mystic Marriage of St. Catherine (1511).
 Fra Bartolommeo
 
 (c. 1483--1546) What Barbary pirate born Khair ad-Din was notorious for his successes against Christian vessels in the eastern Mediterranean Sea?
@@ -6928,7 +6928,7 @@ Dominican Republic
 Who formed Ballets Russes in Paris in 1909?
 Sergei Diaghilev
 
-On what waterway that is formed by the junction of the Ping and Nan Rivers Bangkok located?
+On what waterway that is formed by the junction of the Ping and Nan Rivers is Bangkok located?
 Chao Phraya
 
 To how many words is Basic English is limited?
@@ -7045,7 +7045,7 @@ arabesque
 In QCD natural units, what is the mass of a proton?
 $\sim$ 1 GeV
 
-In what 479 BCE battle during the Persian Wars were the Persian forces defeated by the Greeks in Boeotia?
+In what 479 BC battle during the Persian Wars were the Persian forces defeated by the Greeks in Boeotia?
 Battle of Plataea
 
 In what 1812 battle in the namesake village did Napoleon's forces defeat the Russian army?
@@ -7345,7 +7345,7 @@ Battle of Navarino
 This decisive naval battle was fought on 21 October 1805 off the south coast of Spain during the Napoleonic Wars. The British fleet under Horatio Nelson (who was killed in action) defeated the combined fleets of France and Spain, which were attempting to clear the way for Napoleon's projected invasion of Britain. Name this battle.
 Battle of Trafalgar
 
-This emperor of India circa 269--232 BCE converted to Buddhism and made it the state religion. Name the emperor who now has a pillar at Sarnath, Uttar Pradesh, with four lions, marking where the Buddha publicly preached his doctrine.
+This emperor of India circa 269--232 BC converted to Buddhism and made it the state religion. Name the emperor who now has a pillar at Sarnath, Uttar Pradesh, with four lions, marking where the Buddha publicly preached his doctrine.
 Ashoka
 
 This final engagement of the Jacobite uprising of 1745--46 was fought on 16 April on a moor near Inverness. Under the Duke of Cumberland, the Hanoverian army crushed the small and poorly supplied Jacobite army of Charles Edward Stuart. A ruthless pursuit after the battle effectively prevented any chance of saving the Jacobite cause. What is this battle's name?
@@ -7405,7 +7405,7 @@ Aswan
 Two major semipermanent areas of high pressure happen over what two island groups (--- High)?
 Bermuda, Azores
 
-What abbreviation is used to indicate a date reckoned from 753 BCE, the year of the foundation of Rome?
+What abbreviation is used to indicate a date reckoned from 753 BC, the year of the foundation of Rome?
 AUC (ab urbe condita `from the foundation of the city')
 
 What accumulation of fluid in the peritoneal cavity causes abdominal swelling?
@@ -7562,7 +7562,7 @@ What are arcana?
 secrets or mysteries
 
 What is a Dirichlet character?
-completely multiplicative function $\chi : \mathbf{Z}\to \mathbf{C}$ for which there exists a positive integer $\ell$ such that $\chi(n) = \chi(n + \ell)$ for all integers $n$
+completely multiplicative, periodic function from $\bf Z$ to $\bf C$
 
 What are the Big Five personality traits?
 openness to experience, conscientiousness, extraversion, agreeableness, neuroticism
@@ -7861,7 +7861,7 @@ beurre blanc
 What crossbow had a unique mechanism for drawing back and releasing the string?
 arbalest
 
-What culture of the southwestern United States formed the early stages of the Anasazi culture from the first century BCE until 700?
+What culture of the southwestern United States formed the early stages of the Anasazi culture from the first century BC until 700?
 Basket Makers
 
 What cyclic derivative of urea and malonic acid has the chemical formula C4H4O3N2?
@@ -8165,7 +8165,7 @@ What does ``ASCII'' abbreviate?
 American Standard Code for Information Interchange
 
 What does ``ASEAN'' abbreviate?
-Association of Southeast Asian Nations: A regional organization intended to promote economic cooperation and now comprising the countries of Indonesia, Malaysia, the Philippines, Singapore, Thailand, Vietnam, Brunei, Laos, Myanmar, and Cambodia
+Association of Southeast Asian Nations: a regional organization intended to promote economic cooperation and now comprising the countries of Indonesia, Malaysia, the Philippines, Singapore, Thailand, Vietnam, Brunei, Laos, Myanmar, and Cambodia
 
 What does ``ASIC'' abbreviate in electronics?
 application-specific integrated circuit
@@ -9115,7 +9115,7 @@ Asher
 What heel-less slipper, typically in oriental style, has a name that comes from the Persian for ``foot covering''?
 babouche
 
-What Hellenistic dynasty centred on the city of Pergamum in Asia Minor flourished in the third and second centuries BCE and was a rump state left after the collapse of the Lysimachian Empire?
+What Hellenistic dynasty centred on the city of Pergamum in Asia Minor flourished in the third and second centuries BC and was a rump state left after the collapse of the Lysimachian Empire?
 Attalid dynasty
 
 What hero and god of healing was the son of Apollo?
@@ -9733,7 +9733,7 @@ bag of waters
 What is the traditional Chinese gift of money presented in a red envelope called?
 hongbao
 
-What is the underground aqueduct system invented in ancient Persia, the oldest in Gonabad --- dating to 700--500 BCE?
+What is the underground aqueduct system invented in ancient Persia, the oldest in Gonabad --- dating to 700--500 BC?
 qanat
 
 What island country is the most easterly of the Caribbean islands?
@@ -9865,7 +9865,7 @@ argali (Ovis ammon)
 What last king of Babylon and son of Nebuchadnezzar was killed in the sacking of the city, his doom being foretold by writing that appeared on the palace walls at a great banquet?
 Belshazzar
 
-What late Neolithic and early Bronze Age European people (c. 2700--1700 BCE) were named after distinctive waisted pots that were associated with their burials and appear to have been used for alcoholic drinks?
+What late Neolithic and early Bronze Age European people (c. 2700--1700 BC) were named after distinctive waisted pots that were associated with their burials and appear to have been used for alcoholic drinks?
 Beaker folk
 
 What layer of embryonic tissue forms before the development of the embryonic axis?
@@ -14797,7 +14797,7 @@ chernozem
 What fibrous substance consists of polysaccharides and forms the major constituent in the exoskeleton of arthropods and the cell walls of fungi?
 chitin
 
-What figure of Greek myth---the wife of Cepheus, king of Ethiopia, and mother of Andromeda---is the eponym for a constellation near the north celestial pole, recognizable by the conspicuous ``W'' pattern of its brightest stars?
+What figure of Greek myth---the wife of Cepheus, king of Ethiopia, and mother of Andromeda --- is the eponym for a constellation near the north celestial pole, recognizable by the conspicuous ``W'' pattern of its brightest stars?
 Cassiopeia
 
 What figure of Greek mythos was the king of Ethiopia, husband of Cassiopeia, and father of Andromeda?
@@ -27670,7 +27670,7 @@ Camden Town
 What pair of mathematicians proved the going-up theorem?
 Cohen, Seidenberg
 
-On whom was Messaien's only opera?
+About whom was Messaien's only opera?
 St. Francis of Assisi
 
 What was Alban Berg's first opera?
@@ -27886,7 +27886,7 @@ Filioque
 When did Brunelleschi begin working on the dome of the Florence Cathedral?
 1420
 
-What's a young female horse --- especially one less than four years old --- called?
+What is a young female horse --- especially one less than four years old --- called?
 filly
 
 What long, slender, tapering pseudopodium is found in some protozoans and embryonic cells? Its name comes from the Latin ``thread'' plus ``podium.''
@@ -28384,14 +28384,14 @@ temple of reason
 Define ``panoply.''
 extensive or impressive collection; complete suit of armour
 
-Who painted Liberty leading the people in commemoration of the July Revolution?
+Who painted Liberty Leading the People in commemoration of the July Revolution?
 Eugene Delacroix
 
 Where is Delacroix's Liberty leading the people?
 Louvre
 
 ``He trusted to have equalled the Most High, / If he opposed, with ambitious aim / Against the throne and monarchy of God, / Raised impious war in Heaven.'' Identify the work.
-Paradise lost
+Paradise Lost
 
 Where was Mircea Eliade born?
 Bucharest
@@ -28546,7 +28546,7 @@ hostile brothers
 What ``most particularly characterizes evil''?
 voluntary willingness to do what is known to be wrong despite the capacity to understand and avoid such action (319)
 
-Complete this quotation from Paradise lost: ``So will fall / Hee and his faithless [---]; whose fault? / Whose but his own? ingrate, he had of mee / All he could have; I made him just and right, / sufficient to have stood, though free to fall.''
+Complete this quotation from Paradise Lost: ``So will fall / Hee and his faithless [---]; whose fault? / Whose but his own? ingrate, he had of mee / All he could have; I made him just and right, / sufficient to have stood, though free to fall.''
 progeny
 
 Identify the speaker: ``The spirit I, that endlessly denies. / And rightly, too; for all that comes to birth / Is fit for overthrow, as nothing worth; Wherefore the world were better sterilized; Thus all that's here as Evil recognized; Is gain to me, and downfall, ruin, sin / The very element I prosper in.''
@@ -28618,7 +28618,7 @@ Lillooet
 Who penned Mere Christianity?
 C. S. Lewis
 
-Who wrote The educated imagination?
+Who wrote The Educated Imagination?
 Northrop Frye
 
 Define ``proscription.''
@@ -28663,7 +28663,7 @@ Jordan Peterson
 What is hashish?
 extract of the cannabis plant containing concentrations of the psychoactive resins
 
-Who hosted The vinyl cafe?
+Who hosted The Vinyl Cafe?
 Stuart McLean
 
 Recount Numbers 31.17--18.
@@ -29107,7 +29107,7 @@ Francisco Pizarro
 What is element number 87?
 francium
 
-``Aleksandr Solzhenitsyn wrote One day in the life of [---].''
+``Aleksandr Solzhenitsyn wrote One Day in the Life of [---].''
 Ivan Denisovich
 
 (1555--1628) What French poet and architect of classicism in poetic form and grammar criticized excess of emotion and ornamentation and the use of Latin and dialectal forms?
@@ -29171,7 +29171,7 @@ When was Frank Sinatra born?
 1915
 
 For what film did Frank Sinatra win an Oscar?
-From here to eternity (1953)
+From Here to Eternity (1953)
 
 (b. 1936) What American painter --- a central figure in minimalism known chiefly for his series of all-black paintings --- later experimented with shaped canvases and cut-out shapes in relief?
 Frank Stella
@@ -29209,7 +29209,7 @@ Franz Beckenbauer
 What group of islands in the Arctic Ocean was discovered in 1873 by an Austrian expedition and annexed by the USSR in 1928?
 Franz Josef Land
 
-(1883--1924) The work of this Czech novelist who wrote in German is characterized by its portrayal of an enigmatic and nightmarish reality where the individual is perceived as lonely, perplexed, and threatened. He wrote The metamorphosis (1917) and The trial (1925).
+(1883--1924) The work of this Czech novelist who wrote in German is characterized by its portrayal of an enigmatic and nightmarish reality where the individual is perceived as lonely, perplexed, and threatened. He wrote The Metamorphosis (1917) and The Trial (1925).
 Franz Kafka
 
 (1734--1815) What Austrian physician is remembered for introducing a therapeutic technique involving hypnotism? It was bound up with his ideas about ``animal magnetism,'' however, and steeped in sensationalism.
@@ -31648,7 +31648,7 @@ Gansu
 What line passed through a block near the masthead is used to hoist sails or rigging?
 gantline
 
-What bridge-like overhead structure has a platform supporting equipment such as a crane, signals, or camera?
+What bridge-like overhead structure has a platform supporting equipment such as a crane, signals, lights, or cameras?
 gantry
 
 What chart shows the amount of work done or production completed in specific periods of time in relation to the amount planned for those periods via a series of horizontal lines?
@@ -32389,7 +32389,7 @@ Rhetoric
 Who canonized St. Bonaventure?
 Sixtus IV
 
-What popes were part of the Della Rovere family? 
+Which popes were part of the Della Rovere family? 
 Sixtus IV, Julius II
 
 What soft felt or wool conical headdress fit closely around the head and was characterized by a pointed crown that curls forward?
@@ -32413,7 +32413,7 @@ Sanctus PAulus et Sanctus PEtrus
 Where was Paul going when he converted?
 Damascus
 
-Whom does the Conversion on the way to Damascus portray?
+Whom does the Conversion on the Way to Damascus portray?
 Paul
 
 ``There is also a correspondence between the detachment of the [---] figure from the mother archetype . . . and the detachment of the transformative character from the elementary character.''
@@ -32494,8 +32494,8 @@ polyadenylation
 What does ``RAS'' abbreviate?
 RAt Sarcoma virus
 
-Where was Courtney Thorne-Smith born?
-San Francisco
+After St. Peter, whose papacy was the longest?
+Pius IX
 
 Who played Alison Parker on Melrose Place?
 Courtney Thorne-Smith
@@ -32545,13 +32545,13 @@ Bergen
 Whose elementary proof of Dirichlet's theorem about primes in an arithmetic progression was published in the Annals of Mathematics in 1949?
 Atle Selberg
 
-Who wrote The green mile?
+Who wrote The Green Mile?
 Stephen King
 
-Who directed The green mile?
+Who directed The Green Mile?
 Frank Darabont
 
-Who plays Paul Edgecomb in The green mile?
+Who plays Paul Edgecomb in The Green Mile?
 Tom Hanks
 
 When was Armageddon released?
@@ -32563,11 +32563,11 @@ Michael Bay
 Who stars in Armageddon?
 Bruce Willis
 
-Who wrote Sense and sensibility?
+Who wrote Sense and Sensibility?
 Jane Austen
 
-What follows Sense and sensibility?
-Pride and prejudice
+What follows Sense and Sensibility?
+Pride and Prejudice
 
 Where is Iroquois Ridge High School?
 Oakville, Ontario
@@ -32731,8 +32731,8 @@ Aracaju
 What is the capital of Tocantins?
 Palmas
 
-What town on the Venezuelan border is the second most northern municipality in Brazil?
-Pacaraima
+Who was the last pope in the Papal States?
+Pius IX
 
 What is the biggest city in the Peruvian Amazon?
 Iquitos
@@ -33205,7 +33205,7 @@ Meldorf Bay
 What motif is on the flag of the Isle of Man?
 triskelion
 
-What name describes a human figure in art that spirals around a central axis so that the lower limbs face in one direction and the torso almost in the opposite direction, in a graceful if sometimes contorted pose? The development of this pose is attributed to Michelangelo in his statue of Victory, but an earlier example can be seen in Raphael's Saint Catherine of Alexandria. The pose is principally associated with Mannerist art, and examples in the collection can be seen in the figure of Deceit in Bronzino's An allegory with Venus and Cupid and Saint John in Parmigianino's Madonna and child with saints.
+What name describes a human figure in art that spirals around a central axis so that the lower limbs face in one direction and the torso almost in the opposite direction, in a graceful if sometimes contorted pose? The development of this pose is attributed to Michelangelo in his statue of Victory, but an earlier example can be seen in Raphael's Saint Catherine of Alexandria. The pose is principally associated with Mannerist art, and one can see examples in the figure of Deceit in Bronzino's An Allegory with Venus and Cupid and Saint John in Parmigianino's Madonna and Child with Saints.
 figura serpentinata
 
 Who promulgated the encyclical Musicae sacrae?
@@ -33226,19 +33226,19 @@ psychoanalysis
 Who plays playing Mark S. in the TV series Severance?
 Adam Scott
 
-When was the film The best years of our lives released?
+When was the film The Best Years of Our Lives released?
 1946
 
 What film starred Myrna Loy, Fredric March, Dana Andrews, Teresa Wright, and Virginia Mayo?
-The best years of our lives
+The Best Years of Our Lives
 
 What was the greatest year in film?
 1939
 
-When was the film Gone with the wind released?
+When was the film Gone with the Wind released?
 1939
 
-When was the film The wizard of Oz released?
+When was the film The Wizard of Oz released?
 1939
 
 What historical mini-series stars Jared Harris, Stellan Skarsgård, and Paul Ritter?
@@ -33265,22 +33265,22 @@ Tobey Maguire
 When was Pleasantville released?
 1998
 
-When was Top gun: maverick released?
+When was Top Gun: Maverick released?
 2022
 
-Who stars in Top gun: maverick?
+Who stars in Top Gun: Maverick?
 Tom Cruise
 
 Who authored No country for old men?
 Cormac McCarthy
 
 What Cormac McCarthy novel was adapted into a film that won Best Picture?
-No country for old men
+No Country for Old Men
 
 What film won Best Picture in 2007?
-No country for old men
+No Country for Old Men
 
-Who wrote American pastoral?
+Who wrote American Pastoral?
 Philip Roth
 
 What pope talked about the ``principle of totality,'' which was referenced in Paul VI's Humanae vitae?
@@ -33298,11 +33298,11 @@ Kleinian integers
 What city will replace Malabo as Equatorial Guinea's capital?
 Ciudad de la Paz
 
-What will be Indonesia's capital city circa 2024?
+What city will replace Jakarta as Indonesia's capital?
 Nusantara
 
-What will be South Korea's capital city circa 2030?
-Sejong
+Which month of the French Republican calendar ran from 21 March to 19 April?
+Germinal
 
 Where were Zdeno Chara and Marian Gaborik born?
 Trenčín
@@ -33310,8 +33310,8 @@ Trenčín
 What disruption of heart rhythm occurs as a result of a blow to the precordial region at a critical time during the cycle of a heartbeat?
 commotio cordis
 
-What state contains Assis Brasil?
-Acre
+Which month of the French Republican calendar was the title of an Émile Zola novel?
+Germinal
 
 What border do the cities Chuí and Chuy straddle? Name the countries.
 Brazil, Uruguay
@@ -33367,8 +33367,8 @@ Adam Sandler
 What year beheld Adam Sandler's birth?
 1966
 
-Where was Will Ferrell born?
-Irvine, California
+Which was the seventh month of the French Republican calendar?
+Germinal
 
 Who played Ron Burgundy?
 Will Ferrell
@@ -33376,16 +33376,16 @@ Will Ferrell
 Who played Buddy the elf?
 Will Ferrell
 
-Where was Jim Carrey born?
-Newmarket
+Which month of the French Republican calendar ran from 20 March to 19 May?
+Floréal
 
 Who played Ace Ventura?
 Jim Carrey
 
-Who played Bruce Nolan in Bruce almighty?
+Who played Bruce Nolan in Bruce Almighty?
 Jim Carrey
 
-Who starred in the film Gulliver's travels?
+Who starred in the film Gulliver's Travels?
 Jack Black
 
 Where was John Candy born?
@@ -33394,7 +33394,7 @@ Toronto
 Who starred in Planes, trains, and automobiles?
 John Candy
 
-Who starred in Night at the museum?
+Who starred in Night at the Museum?
 Ben Stiller
 
 Who played Michael Scott in The office?
@@ -33403,7 +33403,7 @@ Steve Carell
 Where was Steve Carell born?
 Concord, Massachusetts
 
-Who starred in movies like Patch Adams, Mrs. Doubtfire, Jumanji, [Good morning, Vietnam], Deat poets society, and The fisher king?
+Who starred in movies like Patch Adams, Mrs. Doubtfire, Jumanji, [Good Morning, Vietnam], Dead Poets Society, and The Fisher King?
 Robin Williams
 
 Where was Robin Williams born?
@@ -33415,7 +33415,7 @@ Vorkuta
 For what CHL team did Connor Bedard play?
 Regina Pats
 
-On what team did Connor Bedard score in overtime to send Canada to the semifinals of the 2023 World Juniors?
+On what team did Connor Bedard score in overtime to send Canada to the semifinals of the 2023 World Junior Ice Hockey Championships?
 Slovakia
 
 Where was Connor Bedard born?
@@ -33436,13 +33436,13 @@ In what minute did Lionel Messi put Argentina up 3 goals to 2 in the 2022 World 
 In what minute did Kylian Mbappé make the score 3--3 in the 2022 World Cup final?
 118
 
-What two French players missed penalties in the 2022 World Cup final?
+Which two French players missed penalties in the 2022 World Cup final?
 Kingsley Coman, Aurélien Tchouaméni
 
-What two French players scored penalties in the 2022 World Cup final?
+Which two French players scored penalties in the 2022 World Cup final?
 Kylian Mbappé, Randal Kolo Muani
 
-What four Argentinian players scored penalties in the 2022 World Cup final?
+Which four Argentinian players scored penalties in the 2022 World Cup final?
 Lionel Messi, Paulo Dybala, Leandro Paredes, Gonzalo Montiel
 
 List the goal scorers and times in the 2022 World Cup final in chronological order.
@@ -33469,14 +33469,14 @@ dislike of one's own culture or compatriot
 What types of creatures comprise the family Alpheidae?
 asymmetrical snapping shrimp
 
-What landscape of Brazil --- which covers 21\% of Brazil's land area --- characterizes itself by extensive savanna formations intercepted by woods along the rivers, at the bottom of valleys?
+What landscape of Brazil --- which covers 21\% of Brazil's land area --- is characterized by extensive savanna formations intercepted by woods along the rivers, at the bottom of valleys?
 cerrado
 
 Where is Mooney's Bay?
 Ottawa
 
-Where was Andrés Cantor born?
-Buenos Aires
+Which was the eighth month of the French Republican calendar?
+Floréal
 
 What post did Harold Bloom hold at Yale University?
 Sterling Professor of Humanities
@@ -33484,11 +33484,11 @@ Sterling Professor of Humanities
 Who wrote The Western canon, speaking of the ``School of Resentment''?
 Harold Bloom
 
-What was Wayne Gretzky's childhood address?
-42 Varadi Avenue
+Which month of the French Republican calendar ran from 20 May to 18 June?
+Prairial
 
-Against what team did Lionel Messi score his ``encara'' goal?
-Getafe
+Which was the ninth month of the French Republican calendar?
+Prairial
 
 What was Wayne Gretzky's atom team?
 Brantford Nadrofsky Steelers
@@ -33904,7 +33904,7 @@ Gastrotricha
 What is an embryo at the stage following the blastula, when it is a hollow cup-shaped structure having three layers of cells?
 gastrula
 
-What name was given to any of seventeen poems attributed to Zoroaster---the most ancient texts of the Avesta?
+What name was given to any of seventeen poems attributed to Zoroaster --- the most ancient texts of the Avesta?
 Gatha
 
 What rapid-fire, crank-driven gun with clustered barrels was the first practical machine gun? The US army officially adopted it in 1866.
@@ -38104,7 +38104,7 @@ furnished holiday house in France, typically in a rural district
 What lute-like medieval stringed instrument was the forerunner of the guitar?
 gittern
 
-Who was The Teflon Don?
+Who was the Teflon Don?
 John Gotti
 
 What did Norm Macdonald give up for Lent in 1997?
@@ -39712,11 +39712,1148 @@ Ian Fleming
 Was License to Kill an Ian Fleming story?
 no
 
-At what dance did Marty McFly's parents fall in love in Back to the Future?
-the Enchantment Under The Sea Dance
+Who is considered the first named author?
+Enheduanna
 
 Who was Enheduanna's father?
 Sargon of Akkad
+
+What does ``SACD'' abbreviate?
+super audio compact disk
+
+(Before and after.) Canadian mixed martial artist who established the Domaine musical.
+Georges Saint-Pierre Boulez
+
+(Before and after.) Author of Samson Agonistes and Areopagitica who became a serialist composer of electronic music.
+John Milton Babbitt
+
+What animal is White Fang?
+wolfdog
+
+What sport does Mitchell Starc play professionally?
+cricket
+
+What countries face off in the Ashes?
+Australia, England
+
+What does ħ represent in the International Phonetic Alphabet?
+voiceless pharyngeal fricative
+
+A movement of a famous composition by Olivier Messiaen comes from the fourth movement of the composer's Fête des belles eaux for six ondes Martenots. What was this famous composition, and which of its movements came from Fête des belles eaux?
+Quatuor pour la fin du temps, fifth 
+
+Define ``pugnacious.''
+eager or quick to argue, quarrel, or fight
+
+Which American president was Old Granny?
+William Henry Harrison
+
+Where is Manx spoken?
+the Isle of Man
+
+What are the dimensions of a snooker table?
+twelve feet by six feet
+
+How many points does one get after a maximum break in snooker?
+147
+
+Which Drake album had the singles Started from the Bottom and Hold On, We're Going Home?
+Nothing Was the Same
+
+Which Drake album had the singles God's Plan, Nice for What, I'm Upset, In My Feelings, and Nonstop?
+Scorpion
+
+Who features on the cover of Drake's More Life?
+Dennis Graham
+
+Who composed Moses und Aron, an opera in three acts whose third act was unfinished?
+Arnold Schoenberg
+
+When did Leonard Bernstein debut with the New York Philharmonic?
+14 November 1943
+
+In which two parts of Wagner's Der Ring des Nibelungen does Erda appear?
+Das Rheingold, Siegfried
+
+In which two parts of Wagner's Der Ring des Nibelungen does Fricka appear?
+Das Rheingold, Die Walküre
+
+In which two parts of Wagner's Der Ring des Nibelungen does Siegfried appear?
+Siegfried, Götterdämmerung
+
+Define ``salubrious.''
+favourable to or promoting health or well-being
+
+What is Davvisámegiella?
+Northern Sámi
+
+How does one say ``Northern Sámi'' in Northern Sámi?
+Davvisámegiella
+
+What band plays ``Mr. Tambourine Man''?
+the Byrds
+
+Where is the only tropical rainforest in America's national forest system?
+Puerto Rico
+
+What was the name of the first mammal in space? He was a monkey.
+Albert II
+
+What is eschatology?
+the part of theology concerned with death, judgement, and the final destiny of the soul and of humankind
+
+Define ``cavalier'' as an adjective.
+showing a lack of proper concern
+
+What word for a ski run of compacted snow comes from the French for ``racetrack''?
+piste
+
+What is donatio mortis causa?
+gift of personal property made by someone who expects to die in the immediate future, taking full effect only after the donor dies
+
+What name is given to a gift of personal property made by someone who expects to die in the immediate future, taking full effect only after the donor dies?
+donatio mortis causa
+
+Who wrote the piano work Cantéyodjayâ?
+Olivier Messiaen
+
+What country does B.U.G. Mafia come from?
+Romania
+
+Whose remains constitute the type specimen for the species Homo sapiens?
+Carolus Linnaeus
+
+What is a conniption?
+fit of anger or panic; fit of laughter
+
+Which Antarctic island belonging to Norway is home to Lars Christensen Peak?
+Peter I Island
+
+Who was the editor-in-chief of Pravda between the years of 1918 and 1929?
+Nikolai Bukharin
+
+What is the highest one-hand score in cribbage?
+29
+
+What was the B-side of ``Hey Jude''?
+Revolution
+
+For whom did Paul McCartney write ``Hey Jude''?
+Julian Lennon
+
+What fraction of a mile is a furlong?
+one eighth
+
+How many yards are in a furlong?
+220
+
+Where do the European protagonists in Jules Verne's novel César Cascabel encounter 350--400 members of a Finnish tribe who make their living by whaling and sealing?
+Kotelny Island
+
+What does ``cromulent'' mean?
+acceptable
+
+Define ``scatty.''
+absent-minded and disorganized
+
+What is the phenomenon, named after where it was first recorded, wherein an observer see the sun rising earlier or setting later than it is rising or setting?
+the Novaya Zemlya effect
+
+Who discovered and named Spitsbergen?
+Willem Barentsz
+
+What is the name of the cape at the north of Severny Island?
+Cape Zhelaniya
+
+What is the southern island of Novaya Zemlya?
+Yuzhny Island
+
+What is the northern island of Novaya Zemlya?
+Severny Island 
+
+What strait separates Yuzhny Island and Severny Island and connects the Barents Sea and the Kara Sea?
+the Matochkin Strait
+
+What bodies of water does the Matochkin Strait conjoin?
+the Barents Sea, the Kara Sea
+
+What cape on Severny Island was the detonation site of Tsar Bomba?
+Sukhoy Nos
+
+What Belgian city on the Scheldt is linked to the North Sea by the Westerschelde estuary?
+Antwerp
+
+What north-eastern French region whose capital is Strasbourg borders both Germany and Switzerland?
+Alsace
+
+What mountain range is the backbone of Italy?
+Apennines
+
+What city is Scotland's third most populous and nicknamed ``the Granite City''?
+Aberdeen
+
+Of what country was Zog I king from 1928 until 1939?
+Albania
+
+What ``impenetrable'' forest region of Belgium and Luxembourg did the Nazis break through in their attack on France in 1940?
+Ardennes
+
+Which Spanish city is allegedly named after Hamilcar Barca, father of the Carthaginian General Hannibal?
+Barcelona
+
+What capital city of the Emilia-Romagna region in Italy is home to the oldest university in the world?
+Bologna
+
+Through what city did Lady Godiva ride while covered by nothing but her hair?
+Coventry
+
+On what river is Cork situated?
+River Lee
+
+What was the Flavian Amphitheater?
+the Colosseum
+
+Which French port on the English Channel was an English possession from 1347 to 1558?
+Calais
+
+Which Italian island lends its name to a style of cropped pants?
+Capri
+
+What town near Munich was the site of Germany's first Nazi concentration camp?
+Dachau
+
+Which Croatian city, located on the Adriatic Sea, was formerly the capital of the Republic of Ragusa?
+Dubrovnik
+
+What city, located on the Rhine, is the capital of the German state of North Rhine--Westphalia?
+Düsseldorf
+
+What city is divided by the Liffey, Tolka, and Dodder Rivers?
+Dublin
+
+What Scottish city is home to Abertay University and was the United Kingdom's first UNESCO City of Design?
+Dundee
+
+Which English city is home to Darley Park, Lombe's Mill, and the Royal School for the Deaf?
+Derby
+
+What river, the fourth longest in Europe, runs through Russia, Belarus, and Ukraine?
+Dnipro
+
+What strait in north-western Turkey connects the Aegean Sea to the Sea of Marmara?
+Dardanelles
+
+Which Russian river rises in Novomoskovsk and empties into the Sea of Azov?
+Don
+
+What Swedish lake system formed by an impact crater lends its name to the unique type of rock found in the area?
+Dellen
+
+What county in north-east England is known for its eponymous cathedral, castle, and university?
+Durham
+
+What is la Manche?
+the English Channel
+
+What Dutch province contains Eindhoven?
+North Brabant
+
+What river passes through Hamburg and Dresden?
+the Elbe River
+
+What is the official residence of France's president?
+the Élysée Palace
+
+What mountain in Switzerland is known for its difficult-to-climb north face?
+Eiger
+
+Which city in the Ruhr area in North Rhine--Westphalia is famous for its links to the Krupp family iron works?
+Essen
+
+What historic city is the administrative centre of Devon, England?
+Exeter
+
+What area in England is chiefly associated with the counties of Norfolk and Suffolk?
+East Anglia
+
+What city in modern-day Turkey borders Greece and Bulgaria and served as the capital of the Ottoman Empire before Constantinople?
+Edirne
+
+What capital city of the French department of Isère is the capital of the Alps?
+Grenoble
+
+What capital of the federal state of Styria is the second largest city in Austria?
+Graz
+
+What city is near the Alhambra?
+Granada
+
+Which commune near Milan, Italy gives its name to a type of strong blue-veined cheese?
+Gorgonzola
+
+Of what autonomous community of Spain is Santiago de Compostela the capital?
+Galicia
+
+Which city in Baden-Württemberg, Germany is famous for its university founded in 1386?
+Heidelberg
+
+What is the capital of Lower Saxony?
+Hanover
+
+What town on the Weser River in Lower Saxony is associated with the pied piper?
+Hamelin
+
+What small German island/archipelago in the German Bight was Danish from 1714 until seized by the British navy in 1807 and later ceded officially to Britain? In 1890, it was returned to Germany.
+Helgoland
+
+Who founded the Hermitage?
+Catherine the Great
+
+Which Aegean island shares its name with a constellation and a many-headed mythological monster?
+Hydra
+
+What province of south-west Spain is bordered by the Atlantic Ocean and the provinces of Badajoz, Seville, and Cádiz?
+Huelva
+
+Which city on the Spaarne River is the capital of North Holland?
+Haarlem
+
+What name is given to a citadel within a Russian town, most famously in Moscow?
+kremlin
+
+What city is the capital and largest city of the Republic of Tatarstan?
+Kazan
+
+The area around which Russian city was the site of the largest tank battle in history in 1943?
+Kursk
+
+What coal-mining city of southern Poland is the largest city in Upper Silesia?
+Katowice
+
+What strait lies between Jutland, Denmark, and southern Sweden?
+Kattegat
+
+What Bronze Age city discovered in Crete in 1878 is considered Europe's oldest city?
+Knossos
+
+What city in Schleswig-Holstein has a 98-kilometre-long canal connecting it to Brunsbüttel?
+Kiel
+
+What English county is the garden of England?
+Kent
+
+Which Norwegian town hosted the 1994 Winter Olympic Games?
+Lillehammer
+
+Which English city lies on the River Mersey?
+Liverpool
+
+Which German city was the scene of the Monday Demonstrations against communist rule in 1989 and 1990?
+Leipzig
+
+Which city is the capital of the Auvergne-Rhône-Alpes region of eastern France?
+Lyon
+
+Which is the third largest Greek island, separated from Turkey by the Mitilíni Strait?
+Lesbos
+
+Which Alpine mountain is also called ``Cervin'' and ``Cervino'' and stands on the border between Switzerland and Italy?
+Matterhorn
+
+What sixth largest city of Spain in Andalusia lies on the Costa del Sol?
+Málaga
+
+Which is the largest of the Spanish-owned Balearic Islands?
+Majorca
+
+What river in northern France was the site of two eponymous battles during World War I?
+Marne
+
+What is the largest city north of the Arctic Circle?
+Murmansk
+
+Of what county in East Anglia is Norwich the capital?
+Norfolk
+
+What is the capital of Campania?
+Naples
+
+What Spanish province's capital is Pamplona?
+Navarre
+
+What is the capital of Pays de la Loire?
+Nantes
+
+What city in Wales hosted the 2010 Ryder Cup?
+Newport
+
+What Dutch city on the Waal River near the German border is considered to be the oldest city in its country?
+Nijmegen
+
+What city in England is famous for its links with Robin Hood?
+Nottingham
+
+What abandoned Ukrainian city contains Chernobyl?
+Pripyat
+
+Which historical province of south-east France borders the Mediterranean Sea and Italy?
+Provence
+
+From what city did the Pilgrim Fathers depart in Devon, England on their voyage to the Americas in 1620?
+Plymouth
+
+What river passes through Bonn, Cologne, and Arnhem?
+Rhine
+
+What large town is the county town of the ceremonial county of Berkshire?
+Reading
+
+What is the capital city of Normandy?
+Rouen
+
+Which city in the Champagne-Ardenne region of France was the traditional site of the crowning of French monarchs?
+Reims
+
+What is the name of the megalopolis comprising the four largest cities in the Netherlands?
+Randstad
+
+What is the capital of Andalusia?
+Seville
+
+What is Ireland's longest river?
+the River Shannon
+
+What is the Britain's longest river?
+the River Severn
+
+What is the capital of Alsace?
+Strasbourg
+
+What river rises near Dijon in north-east France and flows through Paris and into the English Channel at Le Havre?
+the Seine
+
+What city in southern Yorkshire had an international reputation for steel production in the nineteenth and twentieth centuries?
+Sheffield
+
+Which is the largest city in Occitanie?
+Toulouse
+
+What port in southern France whose name starts with a ``t'' has a significant naval base?
+Toulon
+
+What river passes through Nottingham, Newark, and Gainsborough?
+the River Trent
+
+What city in central Spain has been famous for its steel and sword-making since Roman times?
+Toledo
+
+What was the de facto capital of France during the World War II Nazi occupation?
+Vichy
+
+Which Russian city was known as Stalingrad from 1925 to 1961?
+Volgograd
+
+Whence did Shakespeare's Two Gentlemen come?
+Verona
+
+What city in the autonomous community of Galicia sits close to the Portuguese border?
+Vigo
+
+Which city in Hampshire did Alfred the Great make his capital city?
+Winchester
+
+What palace in St. Petersburg was the official residence of the Russian monarchs from 1732 to 1917?
+the Winter Palace
+
+What is the home of Volkswagen AG?
+Wolfsburg
+
+What name is given to the bay surrounded by Lincolnshire, Cambridgeshire, Norfolk, and the North Sea in eastern England?
+the Wash
+
+What was Ellef Ringnes's occupation?
+brewer
+
+What are the world's ten tallest mountains?
+Mount Everest, K2, Kanchenjunga, Lhotse, Makalu, Cho Oyu, Dhaulagiri I, Manaslu, Nanga Parbat, Annapurna I
+
+What is the fourteenth tallest mountain in the world, the last above 8000 metres in height?
+Shishapangma
+
+What Scottish city is granite?
+Aberdeen
+
+What cowtown in Kansas was the first terminus of the Chisholm Trail?
+Abilene
+
+What ancient port on Haifa Bay shares its name with an administrative division of Brazil?
+Acre
+
+Where was Davy Crockett killed in 1836?
+the Alamo
+
+What is the largest city on the Bay of Gibraltar?
+Algeciras
+
+Where is the Golden Temple?
+Amritsar
+
+What is the capital of Aquitaine?
+Bordeaux
+
+On the delta of what river is Astrakhan?
+Volga
+
+What Spanish city near Portugal was beleaguered by the Duke of Wellington in 1812?
+Badajoz
+
+Where was the Charge of the Light Brigade?
+Balaclava
+
+What was Botswana's name until 1966?
+Bechuanaland
+
+What was the capital of Prussia?
+Berlin
+
+What is the capital of Biscay, Spain?
+Bilbao
+
+What was the name of the palace in which Sir Winston Churchill was born?
+Blenheim Palace
+
+What city is home to the world's oldest university? The school in question was founded in 1088.
+Bologna
+
+What Austrian town was Adolf Hitler's birthplace?
+Branau am Inn
+
+What state in the north of Germany is surrounded by Lower Saxony?
+Bremen
+
+Of what French region is Rennes the capital?
+Brittany
+
+What ancient Uzbek city on the Silk Road is one of the oldest trade centers in central Asia and noted for its production of karakul fleeces?
+Bukhara
+
+What is the capital of Burgundy?
+Dijon
+
+What is the city of a thousand minarets?
+Cairo
+
+What city in the French Riviera holds an annual film festival?
+Cannes
+
+What is the name of the cape at the southern tip of India?
+Cape Comorin
+
+What sea surrounds Capri?
+the Tyrrhenian Sea
+
+By what name was China known to medieval Europe?
+Cathay
+
+What French province's capital is Troyes?
+Champagne
+
+What is the largest estuary in the world?
+St. Lawrence Estuary
+
+What is the largest estuary in the United States?
+Chesapeake Bay
+
+What river carved the Grand Canyon?
+the Colorado River
+
+What is the grand lady of the Ionian Sea?
+Corfu
+
+What ancient region in what is now southwestern Croatia that is composed of mountains and a narrow coastal plain along the Adriatic Sea, together with offshore islands, once formed part of the Roman province of Illyricum?
+Dalmatia
+
+What is, together with the Murray, the longest river in Australia?
+the Darling
+
+In what city in South Dakota was Wild Bill Hickok killed?
+Deadwood
+
+What strait lies between Greenland and Iceland?
+the Denmark Strait
+
+What was an informal name for the southern states of the United States?
+Dixie
+
+Where is Dodge City?
+Kansas
+
+What is the Pas de Calais?
+the Dover Strait
+
+What South African mountain range is also called ``the Dragon Mountains''?
+the Drakensberg
+
+What ``firth'' is to the south of Dundee?
+the Firth of Tay
+
+What city in the north of England on the River Wear is famous for its eleventh-century cathedral containing the tomb of the Venerable Bead?
+Durham
+
+Off of what English county is the Eddystone Lighthouse located?
+Cornwall
+
+What is the smallest of the African Great Lakes?
+Lake Edward
+
+Lake Edward is on the border between which two countries?
+Democratic Republic of the Congo, Uganda
+
+What river links Lake Albert and Lake Edward?
+the Semliki River
+
+What is the English name for Taranaki, the slumbering volcano on New Zealand's North Island?
+Mount Egmont
+
+Which Swiss city is the first west of Eiger?
+Lauterbrunnen
+
+Which country contains the famed El Alamein?
+Egypt
+
+Which Texan city on the Rio Grande was called ``the Six Shooter Capital''?
+El Paso
+
+Known as Mordvinov Island in Russia, which island in the South Shetlands did Ernest Shackleton and his crew take refuge on after losing the Endurance?
+Elephant Island
+
+Which cathedral city in Cambridgeshire was the base of Hereward the Wake?
+Ely
+
+What English county contains Epsom Downs?
+Surrey
+
+What Roman road connected London to Lincoln and York?
+Ermine Street
+
+What are the three transcendentals?
+truth, beauty, goodness 
+
+What does the ``d: c'' mean in ``quam olim d: c''?
+da capo
+
+Who introduced the words ``otonality'' and ``utonality''?
+Harry Partch
+
+What Hungarian conductor and composer completed Schoenberg's Moses und Aron and orchestrated Ravel's Le Tombeau de Couperin?
+Kocsis Zoltán
+
+What are the kabupaten of Bali?
+Badung, Bangli, Buleleng, Gianyar, Jembrana, Karangasem, Klungkung, Tabanan
+
+What is the second largest city in Bali?
+Singaraja
+
+Identify the religious poet of England who wrote ``Easter Wings.''
+George Herbert
+
+What is a censer?
+container in which incense is burnt during a religious ceremony
+
+No, it's not a unit of type size equal to twelve points; it's this small rabbit relative of the mountains.
+pika
+
+No, it's not a cranium; it's this manually-propelled racing boat.
+scull
+
+What is the northernmost state of the contiguous United States?
+Minnesota
+
+Who pitched a perfect game in the 1956 World Series, winning the World Series with his New York Yankees and taking World Series MVP?
+Don Larsen
+
+What is a ewer?
+large jug with a wide mouth, formerly used for carrying water
+
+Who wrote ``No man is an island'' and ``Air \& Angels''?
+John Donne
+
+Appropriately, ``Champ'' is the name of this lake's version of Nessie, the Loch Ness Monster.
+Lake Champlain
+
+What prize is commonly referred to as ``the Nobel of Architecture''?
+the Pritzker Prize
+
+What nickname for the Nationale-Nederlanden building in Prague comes from the name of a dancing pair?
+Ginger and Fred
+
+In Rousseau's ``Sleeping Gypsy,'' a full moon hangs in the night sky while this animal catches the scent of the title figure.
+lion
+
+In 1309 Clement V moved the papacy to what is now this French city, using lack of security in Rome as an excuse.
+Avignon
+
+When boiling water, energy absorbed that escapes as vapour is this type of heat, from the Latin for ``to hide.''
+latent
+
+Baptiste du Cerceau & Pierre des Illes designed this, the oldest existing bridge across the Seine.
+Pont Neuf
+
+Executive clemency can lead to this, reducing the severity of a punishment.
+commutation
+
+Where is Dartmouth College?
+Hanover
+
+What is a prooemium?
+preface or introduction
+
+What word, from the Greek for ``to clog up,'' represents the blending into one syllable of two vowels of adjacent syllables (via crasis, synaeresis, synizesis, or elision)?
+synaloepha
+
+What is synaeresis?
+the contraction of two vowels into a diphthong or single vowel
+
+What is synizesis?
+the contraction of two syllables into one by uniting in pronunciation two adjacent vowels
+
+Name all of the English anagrams of ``plates.''
+palest, palets, pastel, petals, plates, pleats, septal, staple, tepals
+
+What is auding?
+the process of hearing, recognizing, and interpreting spoken language
+
+Define ``inimitable.''
+so good or unusual as to be impossible to copy
+
+What is Charles Dickens's last completed novel?
+Our Mutual Friend
+
+What names are given to the stressed and unstressed syllables of a metrical foot?
+arsis, thesis
+
+What does ``LCBO'' stand for?
+Liquor Control Board of Ontario
+
+Which month of the French Republican calendar ran from 19 June to 18 July?
+Messidor
+
+Which was the tenth month of the French Republican calendar?
+Messidor
+
+Which month of the French Republican calendar ran from 19 July to 17 August?
+Thermidor
+
+Which was the eleventh month of the French Republican calendar?
+Thermidor
+
+Which month of the French Republican calendar ran from 18 August to 16 September?
+Fructidor
+
+Which was the twelfth month of the French Republican calendar?
+Fructidor
+
+Which month of the French Republican calendar ran from 22 September to 21 October?
+Vendémiaire
+
+Which was the first month of the French Republican calendar?
+Vendémiaire
+
+Which month of the French Republican calendar ran from 22 October to 20 November?
+Brumaire
+
+Which was the second month of the French Republican calendar?
+Brumaire
+
+Which month of the French Republican calendar ran from 21 November to 20 December?
+Frimaire
+
+Which was the third month of the French Republican calendar?
+Frimaire
+
+Which month of the French Republican calendar ran from 21 December to 19 January?
+Nivôse
+
+Which was the fourth month of the French Republican calendar?
+Nivôse
+
+Which month of the French Republican calendar ran from 20 January to 18 February?
+Pluviôse
+
+Which was the fifth month of the French Republican calendar?
+Pluviôse
+
+Which month of the French Republican calendar ran from 19 February to 20 March?
+Ventôse
+
+Which was the sixth month of the French Republican calendar?
+Ventôse
+
+What sense is most closely linked to memory?
+smell
+
+What animal was paraded through the streets of Paris on Mardi Gras to remind people not to eat meat during Lent?
+ox
+
+What animals did the Ricardos and Mertzes attempt to raise for profit upon moving to Connecticut?
+chickens
+
+What player squats an average of three hundred times during a double-header?
+the catcher
+
+How many rings are there on a five-zone archery target?
+four
+
+What mammals travel with yellowfin tuna?
+dolphins
+
+Which day of the week did the Romans call ``dies solis''? 
+Sunday
+
+What team won the first national college football championship?
+Yale
+
+From which American city did Indiana Jones take off on his adventures in Raiders of the Lost Ark?
+San Francisco
+
+How many Rocky movies were made by 1990?
+five
+
+Who told the American public in 1974 that ``our long national nightmare is over''?
+Gerald Ford
+
+Who was the only American president to have earned a PhD?
+Woodrow Wilson
+
+Which state boasts the famous Calumet race on horse farms?
+Kentucky
+
+What was Rhoda's maiden name?
+Morgenstern
+
+What was the nickname of frontierswoman Martha Jane Burk?
+Calamity Jane
+
+How many days after John F. Kennedy's assassination was Lee Harvey Oswald shot?
+two
+
+How long does it take the moon to revolve around the Earth, to the nearest day?
+twenty-seven
+
+How many minor league home runs did Babe Ruth hit?
+one
+
+Who was the first American president to hold a televised news conference?
+Dwight D. Eisenhower
+
+What Canadian rode Secretariat to the Triple Crown in 1973?
+Ron Turcotte
+
+What Dickens character said: ``Please, sir, I want some more''?
+Oliver Twist
+
+Whose flag do the Union Jack and the Southern Cross comprise?
+Australia's
+
+What is a Maris Piper?
+potato
+
+Who sold a cow for five beans?
+Jack
+
+Who broke the four-minute mile?
+Roger Bannister
+
+What word stands for a warm dry wind that blows down the east side of the Rocky Mountains at the end of winter and a large North Pacific salmon that is an important commercial food fish?
+chinook
+
+Where did the mutineers of the Bounty settle?
+the Pitcairn Islands
+
+Which is Italy's longest river?
+the Po
+
+Which Norwegian politician's name came to mean ``traitor who serves as the puppet of the enemy occupying his country''?
+Vidkun Quisling
+
+What is a jumbuck?
+sheep
+
+Who was the King of Swing?
+Benny Goodman
+
+Who was the first to fly across the channel?
+Louis Blériot
+
+In which war was the Charge of the Light Brigade?
+the Crimean War
+
+What sport has the mashie niblick?
+golf
+
+What is the arvo in Australia?
+the afternoon
+
+Identify the American Civil War general noted for the following last words: ``They couldn't hit an elephant at this distance.''
+John Sedgwick
+
+Whence are mongongo nuts collected?
+elephant dung
+
+What was Buzz Aldrin's mother's maiden name?
+Moon
+
+What was Buzz Aldrin's first name?
+Edward
+
+What were the first words spoken on the moon?
+contact light
+
+Who was the British Surveyor General of India before Sir Andrew Waugh?
+Sir George Everest
+
+Who was the first to put two feet on Mount Everest?
+Sir Andrew Waugh
+
+Which two Catholics did George Bernard Shaw name collectively ``Chesterbelloc''?
+G. K. Chesterton, Hilaire Belloc
+
+What are the four types of shipwreck?
+flotsam, jetsam, lagan, derelict
+
+What bird of the genus Menura is noted for its ability to replicate sounds?
+lyrebird
+
+What island group is Deception Island part of?
+the South Shetland Islands
+
+What island is separated from the south-east of Baffin Island by the Lower Savage Islands and sees Edgell Island to its north?
+Resolution Island
+
+What is Canada's second largest island?
+Victoria Island
+
+What is another common name for the Banking Act of 1933, a statute that established the Federal Deposit Insurance Corporation?
+the Glass--Steagall Act
+
+``We have a pope!'' Now in Latin!
+Habemus papam!
+
+What is nimbyism?
+the behaviour of someone who does not want something to be built or done near where they live, although it does need to be built or done somewhere
+
+What does ``HUAC'' abbreviate?
+House Un-American Activities Committee
+
+What is the drink of choice in Nineteen Eighty-Four?
+gin
+
+Where is Tok Pisin spoken?
+Papua New Guinea
+
+Which Easter cantata, BWV 4, did John Eliot Gardiner describe as Bach's ``first-known attempt at painting narrative in music''?
+Christ lag in Todes Banden
+
+Who wrote the hymn ``Befiehl du deine Wege,'' used as a chorale in Bach's St. Matthew Passion?
+Paul Gerhardt
+
+What bird is depicted in many Italian Renaissance paintings of the Madonna and Child?
+the goldfinch
+
+What does ``op. cit.'' abbreviate?
+opere citato
+
+What does ``opere citato'' mean?
+in the cited work
+
+Who were Job's three friends named in Job 2?
+Eliphaz the Temanite, Bildad the Shuhite, Zophar the Naamathite
+
+Whose profile is on the Purple Heart?
+George Washington's
+
+What actor starred with Spencer Tracy and Katharine Hepburn in Guess Who's Coming to Dinner?
+Sidney Poitier
+
+What does ``W. C.'' stand for in ``W. C. Fields''?
+William Claude
+
+What does ``WC'' abbreviate in Britain?
+water closet
+
+In Greek, according to Matthew, what did Jesus say on the cross around the ninth hour?
+Ἠλί, Ἠλί, λεμὰ σαβαχθανί;
+
+In Greek, according to Mark, what did Jesus say on the cross at the ninth hour?
+Ἐλωΐ, Ἐλωΐ, λαμὰ σαβαχθανί;
+
+In English, according to Matthew and Mark, what did Jesus say on the cross around the ninth hour?
+My God, my God, why hast Thou forsaken me?
+
+What does the German adjective ``heimlich'' mean?
+secret
+
+Who won second place in the 1959 Candidates Tournament?
+Paul Keres
+
+Who won the 2024 Candidates Tournament?
+Dommaraju Gukesh
+
+This, whose name is Latin for ``by his own impulse,'' not to be confused with a sua sponte, is a document issued by the Pope on his initiative directed to the Roman Catholic Church. Examples include the Tra le sollecitudini of Pope Pius X and the Le più colte of Pope Pius VII.
+motu proprio
+
+What is the choir that sings at St. Peter's Basilica?
+the Cappella Giulia
+
+What pope wrote the motu proprio Tra le sollecitudini in 1903?
+Pius X
+
+What is an obbligato?
+instrumental part, typically distinctive in effect, which is integral to a piece of music and should not be omitted in performance
+
+Which king of France was the Desired?
+Louis XVIII
+
+Define ``environ.''
+surround; enclose
+
+Define ``conspecific.''
+of the same species
+
+What is iftar?
+the meal eaten after sunset during Ramadan
+
+What is the shortest word in the English language containing the first six letters of the alphabet?
+feedback
+
+What is the United States' largest national forest?
+the Tongass National Forest
+
+Which ``people of the tides'' are found in Southeast Alaska?
+the Tlingit
+
+Who was the Cartwright family's cook in Bonanza?
+Hop Sing
+
+Who played Duke Mantee in The Petrified Forest (1936)?
+Humphrey Bogart
+
+No, it's not a word for domestic fowl. It's a word describing a very small quantity.
+paltry
+
+Which ``rebellion'' amid the rule of the Qing Dynasty was led by a Hakka who claimed to be the brother of Jesus Christ?
+the Taiping Rebellion
+
+Which dynasty succeeded the Ming?
+the Qing
+
+What does ``teleological'' mean?
+relating to or involving the explanation of phenomena in terms of the purpose they serve rather than of the cause by which they arise
+
+Who in Shakespeare's Henry VI, Part One has been sent ``to be the English scourge'' (Pt. 1, I.ii.129)?
+Joan of Arc
+
+What word represents a fine smooth yarn spun from combed long-staple wool and is the past tense of a verb meaning ``defeat''?
+worsted
+
+With a capital s, it is a feminine name, and with a lowercase s, it is a sudden charge out of a besieged place against the enemy. What is the word?
+sally
+
+What is attainder?
+the forfeiture of land and civil rights suffered as a consequence of a sentence of death for treason or felony
+
+Complete the quotation of Warwick from the first part of William Shakespeare's Henry VI that begins, ``Between two hawks, which flies the higher pitch'' (2.4.11--18).
+Between two hawks, which flies the higher pitch, / Between two dogs, which hath the deeper mouth, / Between two blades, which bears the better temper, / Between two horses, which doth bear him best, / Between two girls, which hath the merriest eye, / I have perhaps some shallow spirit of judgement; / But in these nice sharp quillets of the law, / Good faith, I am no wiser than a daw.
+
+What is the Lumpenproletariat?
+the unorganized and unpolitical lower orders of society who are not interested in revolutionary advancement
+
+What is a rabblement?
+crowd of common people
+
+Which century saw the First Battle of St. Albans?
+the fifteenth century
+
+What does ``spes non confundit'' mean?
+hope does not disappoint
+
+There are none so blind as whom?
+those who will not see
+
+What is a Smithbilt?
+hat
+
+``The Catholic Church is an institution I am bound to hold divine --- but for unbelievers a proof of its divinity might be found in the fact that no merely human institution conducted with such knavish imbecility would have lasted a fortnight.'' Who said this?
+Hilaire Belloc
+
+What do you call a creek in Pennsylvania?
+kill
+
+Where did Gord Downie see the constellations reveal themselves one star at a time?
+Bobcaygeon
+
+Define ``subterfuge.''
+deceit used to achieve one's goal
+
+Define ``inscrutable.''
+impossible to understand or to interpret
+
+What is Allumwandlung?
+chess problem theme in which the four possible types of promotion --- to queen, rook, bishop, and knight --- all take place during the solution
+
+Which music group made ``In The Navy,'' ``Macho Man,'' and ``Y.M.C.A.''?
+Village People
+
+What word may one define as ``the female of a horse'' or ``a large, level basalt plain on the surface of the moon, appearing dark by contrast with highland areas''?
+mare
+
+What proper noun is at the same time the name of a Pueblo people, the name of the Greek goddesses of death, and the last name of a famed Estonian chess player?
+Keres
+
+Which is the first non-trivial knot?
+the trefoil knot
+
+Who according to legend cut the Gordian knot?
+Alexander the Great
+
+What is a damnum?
+loss
+
+What is a damnum fatale?
+loss happening from a cause beyond human control
+
+Was 1900 a leap year?
+no
+
+Was 2000 a leap year?
+yes
+
+Who was the General Secretary of the Central Committee of the Chinese Communist Party from 1921 to 1928?
+Chen Duxiu
+
+Who was the Chairman of the Central Committee of the Chinese Communist Party from 1943 to 1976?
+Mao Zedong
+
+Who was the General Secretary of the Central Committee of the Chinese Communist Party from 1989 to 2002?
+Jiang Zemin
+
+What are the four subregions of Oceania?
+Australasia, Melanesia, Micronesia, Polynesia
+
+(1807--82) What Italian patriot and military leader of the Risorgimento, with his volunteer force of Red Shirts, captured Sicily and southern Italy from the Bourbons in 1860 and 1861, thereby playing a key role in the establishment of a united kingdom of Italy?
+Giuseppe Garibaldi
+
+(1687--1744) What Italian violin-maker known as ``del Gesù'' is the most famous of a family of three generations of violin-makers based in Cremona?
+Giuseppe Guarneri
+
+Whose only novel --- Il Gattopardo (The Leopard) --- was originally rejected by publishers but won worldwide acclaim on its posthumous publication in 1958?
+Giuseppe Tomasi di Lampedusa
+
+What is Gjetost?
+very sweet, firm golden-brown Norwegian cheese, traditionally made with goat's milk
+
+What is a young horse called?
+foal
 
 
 
