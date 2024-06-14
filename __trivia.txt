@@ -3,7 +3,7 @@ Akhenaten
 0
 
 (23 February--6 March 1836) What pivotal event of the Texas Revolution took place in San Antonio and involved all but three defenders dying?
-Battle of the Alamo
+the Battle of the Alamo
 1
 
 (40--93) What Roman general and British governor completed the subjugation of Wales and defeated the Scottish Highland tribes?
@@ -130,7 +130,7 @@ Alphonse Mucha
 Alfred North Whitehead
 32
 
-(1865--1936) What Russian composer and student of Rimsky-Korsakov wrote the ballet The seasons (1901)?
+(1865--1936) What Russian composer and student of Rimsky-Korsakov wrote the ballet The Seasons (1901)?
 Aleksandr Glazunov
 33
 
@@ -138,7 +138,7 @@ Aleksandr Glazunov
 Alfred Werner
 34
 
-(1872--1915) This composer wrote symphonies, tone poems, and numerous pieces for piano, including sonatas and preludes. What Russian composer and pianist, whose late works reflected his interest in mysticism and theosophy, wrote The divine poem (his Third Symphony) and Prometheus: The poem of fire?
+(1872--1915) This composer wrote symphonies, tone poems, and numerous pieces for piano, including sonatas and preludes. What Russian composer and pianist, whose late works reflected his interest in mysticism and theosophy, wrote The Divine Poem (his Third Symphony) and Prometheus: the Poem of Fire?
 Aleksandr Scriabin
 35
 
@@ -238,7 +238,7 @@ Al Capp
 Nelson Algren
 59
 
-(1910--98) What Japanese film director is noted for Rashomon and Ran---a Japanese version of King Lear?
+(1910--98) What Japanese film director is noted for Rashomon and Ran --- a Japanese version of King Lear?
 Akira Kurosawa
 60
 
@@ -266,7 +266,7 @@ Ahmed Ben Bella
 Alexander Dubček
 66
 
-(1922--87) What Scottish novelist wrote thrillers like The guns of Navarone and Where eagles dare and published two other novels under the pseudonym ``Ian Stuart''?
+(1922--87) What Scottish novelist wrote thrillers like The Guns of Navarone and Where Eagles Dare and published two other novels under the pseudonym ``Ian Stuart''?
 Alistair Maclean
 67
 
@@ -294,7 +294,7 @@ Ali Akbar Hashemi Rafsanjani
 Akihito
 73
 
-(b. 1940) What American film actor achieved recognition for The godfather and received eight Oscar nominations, winning one for Scent of a woman?
+(b. 1940) What American film actor achieved recognition for The Godfather and received eight Oscar nominations, winning one for Scent of a Woman?
 Al Pacino
 74
 
@@ -455,27 +455,27 @@ Shanghai
 113
 
 At what battle did Constantine defeat Maxentius to become co-emperor in 312?
-Battle of the Milvian Bridge
+the Battle of the Milvian Bridge
 114
 
 At what battle did José de San Martín defeat Chilean royalists in 1817?
-Battle of Chacabuco
+the Battle of Chacabuco
 115
 
 At what battle did Simón Bolívar defeat the Spanish in 1819, leading to the independence of New Granada?
-Battle of Boyacá
+the Battle of Boyacá
 116
 
 At what battle did the Franks, led by Charles Martel, defeat an Umayyad Caliphate army under Abdul Rahman al-Ghafiqi, halting the Muslim advance into Western Europe in 732?
-Battle of Tour-Poitiers
+the Battle of Tour-Poitiers
 117
 
 At what battle did the Holy Roman Empire, the Hapsburgs, and the Polish-Lithuanian Commonwealth unite to defeat the Ottomans in 1683?
-Battle of Vienna
+the Battle of Vienna
 118
 
 At what battle did the Mongols defeat an army of Poles and Moravians in 1241?
-Battle of Legnica
+the Battle of Legnica
 119
 
 At what Ethiopian lake does the Blue Nile begin?
@@ -1019,23 +1019,23 @@ blame or insult (someone) in strong or violent language
 254
 
 At the mouth of what river is Dublin situated?
-Liffey
+the Liffey
 255
 
 During what age, beginning around 1000 BC, did iron become the most valued material for weapons and tools in some parts of the world?
-Iron Age
+the Iron Age
 256
 
 During what period, beginning in 9000 BC, did humans obtain food by raising crops and animals and use primarily stone, bone, and wood tools?
-Neolithic
+the Neolithic
 257
 
 During what series of civil wars in France from 1648 to 1653 did the nobles rise in rebellion against Mazarin and the court during the minority of Louis XIV?
-Fronde
+the Fronde
 258
 
 What charter did English nobles force King John to seal (15 June 1215)? Later, it was annulled by Pope Innocent III (24 August 1215), leading to the First Barons' War.
-Magna Carta Libertatum
+the Magna Carta Libertatum
 259
 
 By what pseudonym was Eric Blair better known?
@@ -1055,14 +1055,14 @@ seven prophets of Israel and five sibyls who predicted the coming of the Messiah
 263
 
 For what ballet, along with six string quartets, did Ludwig van Beethoven gain notoriety in 1801?
-The creatures of Prometheus
+The Creatures of Prometheus
 264
 
 By what pseudonym is François-Marie Arouet better known?
 Voltaire
 265
 
-From St. Peter to Pope Francis, how many popes have there been?
+From St. Peter to Francis, how many popes have there been?
 two hundred and sixty-six
 266
 
@@ -1175,7 +1175,7 @@ wine, the blood of sacrifice (Mark 14.24)
 293
 
 In what battle did Napoleon's forces suffer a major defeat against a coalition of Russian, Prussian, Austrian, and Swedish armies in 1813?
-Battle of Leipzig
+the Battle of Leipzig
 294
 
 In what city was Felix Mendelssohn born on 3 February 1809?
@@ -1231,43 +1231,43 @@ In what year did Giuseppe Verdi die?
 307
 
 Into what body of water does the Danube drain?
-Black Sea
+the Black Sea
 308
 
 Into what body of water does the Ganges empty?
-Bay of Bengal
+the Bay of Bengal
 309
 
 Into what body of water does the Jordan River drain?
-Dead Sea
+the Dead Sea
 310
 
 Into what body of water does the Mississippi River empty?
-Gulf of Mexico
+the Gulf of Mexico
 311
 
 Into what body of water does the Rhine empty?
-North Sea
+the North Sea
 312
 
 Into what body of water does the Tigris empty?
-Persian Gulf
+the Persian Gulf
 313
 
 Into what body of water does the Yukon River empty?
-Bering Sea
+the Bering Sea
 314
 
 Into what body of water named after a hydrographer does the Mackenzie River empty?
-Beaufort Sea
+the Beaufort Sea
 315
 
-Into what most northeast part of the tropical Atlantic Ocean do the Niger and Volta drain?
-Gulf of Guinea
+Into what most north-east part of the tropical Atlantic Ocean do the Niger and the Volta drain?
+the Gulf of Guinea
 316
 
 Into what region of Africa has the Sahara been extending southward?
-Sahel
+the Sahel
 317
 
 What are the three particles into which a neutron decays?
@@ -1399,7 +1399,7 @@ Gran Colombia
 349
 
 Simón Bolívar's triumph at what battle ensured Venezuela's independence?
-Battle of Carabobo
+the Battle of Carabobo
 350
 
 Whose assassination on 6 October 1981 brought Hosni Mubarak to power in Egypt?
@@ -1434,7 +1434,7 @@ What house that included Louis XIII/XIV was founded by someone known for the quo
 House of Bourbon
 358
 
-Who painted The Ghent altarpiece and The Arnolfini portrait?
+Who painted The Ghent Altarpiece and The Arnolfini Portrait?
 Jan van Eyck
 359
 
@@ -1451,7 +1451,7 @@ Dhaulagiri
 362
 
 What marginal sea is bounded by the Kamchatka Peninsula, the Kuril Islands, Hokkaido, and Sakhalin?
-Sea of Okhotsk
+the Sea of Okhotsk
 363
 
 The members of what religious order have included St. Albert the Great and St. Thomas Aquinas and were given the nickname ``Black Friars'' due to their outer garments?
@@ -1491,7 +1491,7 @@ Edict of Thessalonica
 372
 
 This battle took place in northern France in 1415. What Hundred Years War battle in which Henry V defeated a large French army mainly by using the longbow allowed Henry to occupy Normandy?
-Battle of Agincourt
+the Battle of Agincourt
 373
 
 This city is located in Uttar Pradesh on the River Jumna. What city of north India, founded in the early sixteenth century, was the Mughal Empire's capital until 1658 and is the site of the Taj Mahal?
@@ -1579,7 +1579,7 @@ Luigi Pirandello
 394
 
 What 1260 battle in which the Islamic Mamluks were victorious signalled the waning of the Mongol Empire?
-Battle of Ain Jalut
+the Battle of Ain Jalut
 395
 
 What 1701 statute vested the British Crown in Sophia of Hanover and her Protestant heirs, excluding Roman Catholics, including the Stuarts, from succession to the Crown?
@@ -1587,7 +1587,7 @@ Act of Settlement
 396
 
 What 1956 crisis caused by Anglo-American refusal to finance the Aswan High Dam and Nasser's subsequent nationalization of a theretofore private entity (that in itself led to an Israeli invasion of the Sinai Peninsula and Anglo-French intervention) brought down Anthony Eden's government and eroded British influence in the Middle East?
-Suez Crisis
+the Suez Crisis
 397
 
 What 1983 Nobel laureate who profiled a medieval clergyman in The Spire, described the demise of the Neanderthals in The Inheritors, and detailed young men attempting to self-govern in his first novel Lord of the Flies won the Booker Prize for Rites of Passage?
@@ -1815,7 +1815,7 @@ Sergei Diaghilev
 453
 
 What battle ended Spain's presence in Peru in 1824?
-Battle of Ayacucho
+the Battle of Ayacucho
 454
 
 What Benjamin Britten symphony, op. 44, is made up of four parts?
@@ -1831,39 +1831,39 @@ Summa Theologiae
 457
 
 What body of water borders Ukraine, Romania, Bulgaria, Turkey, Georgia, and Russia and has outflows like the Bosporus?
-Black Sea
+the Black Sea
 458
 
 What body of water connected to the Adriatic Sea and bounded by parts of Italy and Greece, including the Peloponnese, is one of the most seismically active areas in the world?
-Ionian Sea
+the Ionian Sea
 459
 
 What body of water connected to the Black Sea by the Strait of Kerch and bounded by Ukraine and Russia has inflows like the Don River and the Kuban River?
-Sea of Azov
+the Sea of Azov
 460
 
 What body of water enclosed by Denmark, Estonia, Finland, Latvia, Lithuania, Sweden, Germany, Poland, and Russia is a marginal sea of the Atlantic Ocean?
-Baltic Sea
+the Baltic Sea
 461
 
 What body of water is located off the south coast of Ireland and contains the Isles of Scilly?
-Celtic Sea
+the Celtic Sea
 462
 
 What body of water is the world's largest estuary?
-Gulf of Ob
+the Gulf of Ob
 463
 
 What body of water located off the northern coasts of Norway and Russia was the Murman Sea to Russians in the Middle Ages?
-Barents Sea
+the Barents Sea
 464
 
-What marginal sea of the Arctic Ocean once called the ``Nordenskiöld Sea'' is located between Siberia, the Taimyr Peninsula, Severnaya Zemlya, and the New Siberian Islands?
-Laptev Sea
+What marginal sea of the Arctic Ocean once called ``the Nordenskiöld Sea'' is located between Siberia, the Taimyr Peninsula, Severnaya Zemlya, and the New Siberian Islands?
+the Laptev Sea
 465
 
 What body of water regarded as the edge of the known world for many centuries had many disappearances of ships that induced legends of monsters that stopped and sank ships?
-Norwegian Sea
+the Norwegian Sea
 466
 
 What body of water separates Greenland and Baffin Island?
@@ -1871,12 +1871,12 @@ Baffin Bay
 467
 
 What body of water separates the islands of Great Britain and Ireland?
-Irish Sea
+the Irish Sea
 468
 
 What body of water separates the Italian Peninsula from the Balkan Peninsula?
 Adriatic Sea
-469
+the 469
 
 What body of water shared between Tanzania, the Democratic Republic of the Congo, Burundi, and Zambia is the world's second oldest, second largest (by volume), and second deepest lake?
 Lake Tanganyika
@@ -2267,7 +2267,7 @@ acetanilide
 566
 
 What cycle most directly describes the working cycle of a heat engine operating as an ideal engine of maximum thermal efficiency?
-Carnot cycle
+the Carnot cycle
 567
 
 What Czech monetary unit is equal to one-hundredth of a koruna?
@@ -2279,7 +2279,7 @@ Titicaca
 569
 
 What deepwater gulf borders Yemen, the Arabian Sea, Djibouti, Socotra (Yemen), and Somalia and was a significant part of the Erythraean Sea to the ancient Greeks?
-Gulf of Aden
+the Gulf of Aden
 570
 
 What desert also called the ``Great Salt Desert'' is the largest desert located wholly in Iran?
@@ -2287,11 +2287,11 @@ Dasht-e Kavir
 571
 
 What desert in southern California, extending into Nevada, Utah, and Arizona, is the driest desert in North America?
-Mojave Desert
+the Mojave Desert
 572
 
 What desert in the eastern region of the Sahara connected the northern and southern districts of the Kingdom of Kush throughout the Meroitic civilization?
-Bayuda Desert
+the Bayuda Desert
 573
 
 What desert on the UNESCO World Heritage List is the second-largest located completely in Iran?
@@ -2426,7 +2426,7 @@ What do the Latin roots cap--, --cip--, capt--, and --cept-- mean?
 hold, take; from capere, captus `take,' `hold'
 606
 
-What do the Latin roots capit-- and -cipit-- mean?
+What do the Latin roots capit-- and --cipit-- mean?
 head; from caput, capitis `head'
 607
 
@@ -2690,11 +2690,11 @@ What does ``amphoteric'' mean?
 able to react both as a base and as an acid
 672
 
-What does an ``ailurophile'' love?
+What does an ailurophile love?
 cats
 673
 
-What does an ``ailurophobe'' fear?
+What does an ailurophobe fear?
 cats
 674
 
@@ -2767,7 +2767,7 @@ apparently attractive but having no real value
 691
 
 What does Michelangelo's panel painting Doni Tondo, Uffizi, depict?
-Holy Family
+the Holy Family
 692
 
 What does ``modicum'' mean?
@@ -2775,7 +2775,7 @@ small quantity of a particular thing, especially something desirable or valuable
 693
 
 Write the discriminant form $\Delta$ in terms of the modular forms $E_4$ and $E_6$.
-$$ \Delta = \frac{E_4^3 - E_6^2}{1728} $$
+$$\Delta=\frac{E_4^3-E_6^2}{1728}$$
 694
 
 What does ``NADP'' stand for?
@@ -3650,7 +3650,7 @@ What English playwright and actor is noted for Beyond the fringe (1960), Forty y
 Alan Bennett
 912
 
-What English playwright is known chiefly for comedies dealing with suburban and middle-class life, such as Relatively speaking (1967) and Absurd person singular (1973)?
+What English playwright is known chiefly for comedies dealing with suburban and middle-class life, such as Relatively Speaking (1967) and Absurd Person Singular (1973)?
 Sir Alan Ayckbourn
 913
 
@@ -3819,7 +3819,7 @@ stopping the excitation of a nerve after transmission of an impulse
 954
 
 What Galileo Galilei astronomical treatise, published in 1610, announced a series of astronomical discoveries made using his home-made telescope?
-Starry messenger
+Starry Messenger
 955
 
 What German bacteriologist identified the organisms causing anthrax, tuberculosis, and cholera, winning a Nobel Prize in 1905?
@@ -3874,7 +3874,7 @@ What greyish waxy substance is formed by the decomposition of soft tissue in dea
 adipocere
 968
 
-What group of about 40 islands in the West Pacific forms part of Papua New Guinea?
+What group of about forty islands in the West Pacific forms part of Papua New Guinea?
 Admiralty Islands
 969
 
@@ -3903,11 +3903,11 @@ Saul's head (1 Chron. 10.10)
 975
 
 What gulf connects the Arabian Sea with the Strait of Hormuz, bordering Iran and Pakistan on the north, Oman on the south, and the United Arab Emirates on the west?
-Gulf of Oman
+the Gulf of Oman
 976
 
 What gulf of the northeast Atlantic Ocean borders France from Point Penmarc'h to the Spanish border and the north coast of Spain west to Cape Ortegal?
-Bay of Biscay
+the Bay of Biscay
 977
 
 What hadronic subatomic particle is composed of a quark-antiquark pair?
@@ -3955,7 +3955,7 @@ Jesus (Luke 7.38)
 988
 
 What holy object was taken by the Philistines into the temple of Dagon, causing Dagon's image to fall down?
-Ark of the Covenant (1 Sam. 5.2--4)
+the Ark of the Covenant (1 Sam. 5.2--4)
 989
 
 What hormone, also called ``adrenaline,'' is secreted mainly by the medulla of the adrenal glands and functions primarily to increase cardiac output and to raise glucose levels in the blood?
@@ -4359,7 +4359,7 @@ insoluble gelatinous carbohydrate found (chiefly as salts) in many brown seaweed
 1089
 
 What is algolagnia?
-desire for sexual gratification through inflicting pain on oneself or others—sadomasochism
+desire for sexual gratification through inflicting pain on oneself or others --- sadomasochism
 1090
 
 What is alimentation?
@@ -4375,7 +4375,7 @@ brownish-black mineral of the epidote group, consisting of a silicate of rare ea
 1093
 
 What is alopecia?
-the partial or complete absence of hair from areas of the body where it normally grows—baldness
+the partial or complete absence of hair from areas of the body where it normally grows --- baldness
 1094
 
 What is alprazolam?
@@ -4775,7 +4775,7 @@ telescope mounting that moves in azimuth (about a vertical axis) and in altitude
 1193
 
 What is an amanuensis?
-literary or artistic assistant, in particular one who takes dictation or copies manuscripts—scribe
+literary or artistic assistant, in particular one who takes dictation or copies manuscripts --- scribe
 1194
 
 What is an ambassador plenipotentiary?
@@ -6050,8 +6050,8 @@ What literary academy is responsible for the standard form of French and compili
 l'Académie française
 1512
 
-What literary and artistic movement that flourished in 1880s England rejected the notion that art should have a social or moral purpose and included Oscar Wilde, Max Beerbohm, Aubrey Beardsley, and others associated with the journal The yellow book?
-Aesthetic Movement
+What literary and artistic movement that flourished in 1880s England rejected the notion that art should have a social or moral purpose? Its chief exponents included Oscar Wilde, Max Beerbohm, Aubrey Beardsley, and others associated with the journal The Yellow Book.
+the Aesthetic Movement
 1513
 
 What lobe of the brain is the rearmost in each cerebral hemisphere?
@@ -6095,15 +6095,15 @@ Abadan
 1523
 
 What marginal sea of the Atlantic separates the Labrador Peninsula and Greenland?
-Labrador Sea
+the Labrador Sea
 1524
 
 What marginal sea of the northeastern Indian Ocean is bounded by the coastlines of Myanmar and Thailand to the north and east, Breueh Island to the south, and the Andaman and Nicobar Islands to the west?
-Andaman Sea
+the Andaman Sea
 1525
 
 What marginal sea of the south Pacific Ocean contains the world's most vast reef system?
-Coral Sea
+the Coral Sea
 1526
 
 What mass of enlarged lymphatic tissue between the back of the nose and throat often hinders speaking and breathing in young children?
@@ -6139,7 +6139,7 @@ Malta
 1534
 
 What mediterranean sea in Western Asia is an extension of the Indian Ocean through the Strait of Hormuz that lies between Iran to the northeast and the Arabian Peninsula to the southwest?
-Persian Gulf
+the Persian Gulf
 1535
 
 What Mendelssohn symphony makes use of the Martin Luther hymn ``A mighty fortress is our God'' based on Psalm 46?
@@ -6151,7 +6151,7 @@ The Last Judgement (Italian: Il Giudizio Universale)
 1537
 
 What Milanese opera house, inaugurated on 3 August 1778, had Salieri's Europa riconosciuta as its premiere performance?
-Teatro alla Scala
+the Teatro alla Scala
 1538
 
 What military leader was killed while holding on to the horns of the altar?
@@ -6326,7 +6326,7 @@ What nickname is sometimes attributed to Socrates?
 the gadfly
 1581
 
-What Nigerian novelist wrote Things fall apart, No longer at ease, and Arrow of God: collectively called the ``African Trilogy''?
+What Nigerian novelist wrote Things Fall Apart, No Longer at Ease, and Arrow of God: collectively called the ``African Trilogy''?
 Chinua Achebe
 1582
 
@@ -6346,7 +6346,7 @@ What Ottoman sultan (1876--1909) deposed after the revolt of the Young Turks was
 Abdul Hamid II
 1586
 
-What painter created the oil painting The anatomy lesson of Dr. Nicolaes Tulp in 1632?
+What painter created the oil painting The Anatomy Lesson of Dr. Nicolaes Tulp in 1632?
 Rembrandt
 1587
 
@@ -6403,7 +6403,7 @@ Cyrus (Isa. 45.1)
 1600
 
 What Persian national epic by Ferdowsi that was dedicated to Sultan Mahmud of Ghazni and completed around 1010 consists of 60,000 rhyming couplets and covers the acceptance of Zoroastrianism, Alexander the Great's invasion, and the Arabian conquest?
-Shahnameh
+the Shahnameh
 1601
 
 What person was, prior to his fall, anointed by God?
@@ -6438,15 +6438,15 @@ What playwright wrote Tartuffe and Le Misanthrope?
 Molière
 1609
 
-What playwright wrote The Jew of Malta, Doctor Faustus, Edward the Second, and The massacre at Paris?
+What playwright wrote The Jew of Malta, Doctor Faustus, Edward the Second, and The Massacre at Paris?
 Christopher Marlowe
 1610
 
-What poem of Dante's Divine comedy describes the protagonist ascending through ten astronomically incorrect spheres, and, when he reaches the Empyrean, St. Bernard places his guide through Purgatory and the rest of Heaven?
-Paradiso
+Where is Universitas Wratislaviensis?
+Wrocław
 1611
 
-What Polish composer (1933--2020) wrote Threnody for the victims of Hiroshima and religious works like the St. Luke Passion and Polish Requiem?
+What Polish composer (1933--2020) wrote Threnody for the Victims of Hiroshima and religious works like the St. Luke Passion and Polish Requiem?
 Krzysztof Penderecki
 1612
 
@@ -6603,47 +6603,47 @@ Aaron Burr
 1650
 
 What river flows through Albany?
-Hudson River
+the Hudson
 1651
 
 What river flows through Rome?
-Tiber
+the Tiber
 1652
 
 What river forms the border between Russia and northeastern China?
-Amur River
+the Amur
 1653
 
 What river is Africa's second longest?
-Congo
+the Congo
 1654
 
 What river is Australia's longest?
-Murray
+the Murray
 1655
 
 What river is China's longest?
-Yangtze
+the Yangtze
 1656
 
 What river is China's second longest?
-Yellow
+the Yellow
 1657
 
 What river is formed by the confluence of the Tigris and Euphrates and constitutes the border between Iraq and Iran at its southern end before discharging into the Persian Gulf?
-Shatt al-Arab
+the Shatt al-Arab
 1658
 
 What river is France's longest?
-Loire
+the Loire
 1659
 
 What river on which Bangui is located is the largest right-bank tributary of the Congo River?
-Ubangi River
+the Ubangi
 1660
 
 What river of central France rises in the Cévennes and flows 410 km northwest to meet the Loire?
-Allier
+the Allier
 1661
 
 What river of Greek mythology was known as the ``river of woe'' and one of the rivers of Hades?
@@ -6651,27 +6651,27 @@ Acheron
 1662
 
 What river of southern Bangladesh is formed by the confluence of the Ganges and the Brahmaputra near Rajbari?
-Padma
+the Padma
 1663
 
 What river of West Africa, formed in central Ghana flowing into the Gulf of Guinea near the border with Togo, has a dam that created one of the world's largest man-made lakes with the same name?
-Volta River
+the Volta
 1664
 
 What river on which Ufa is located has its source in the southwestern Ural Mountains?
-Belaya
+the Belaya
 1665
 
 What river, about 2,900 km in length, flows from Tibet through Kashmir and Pakistan to the Arabian Sea?
-Indus River
+the Indus
 1666
 
 What river, in the Amazon basin, rises in the Andes in southwest Colombia?
-Japurá River
+the Japurá
 1667
 
 What Roman city wall, built from 271--75, superseded the Servian Wall after the city's borders went beyond the wall?
-Aurelian Wall
+the Aurelian Wall
 1668
 
 What Roman poet wrote the Eclogues, concerning the pastoral poems of Theocritus; the Georgics, concerning agriculture; and the Aeneid, concerning a Trojan hero?
@@ -6723,23 +6723,23 @@ Gutzon Borglum
 1680
 
 What sea lying west of the Pacific Ocean overlies the continental shelf between Australia and Indonesian New Guinea and is bordered by the Torres Strait and the Coral Sea to the east, the Gulf of Carpentaria to the south, the Timor Sea to the west, and the Banda and Ceram Seas to the northwest?
-Arafura Sea
+the Arafura Sea
 1681
 
 What sea of the Pacific Ocean is located in the Maluku Islands of Indonesia and surrounded by the Halmahera and Ceram Seas?
-Banda Sea
+the Banda Sea
 1682
 
 What sea of the western Pacific Ocean and piece of an ancient ocean basin formed about forty-two million years ago is bordered on the north by the Sulu Archipelago, the Sulu Sea and Mindanao Island of the Philippines, the east by the Sangihe Islands chain, the south by Sulawesi's Minahasa Peninsula, and the west by northern Kalimantan in Indonesia?
-Celebes Sea
+the Celebes Sea
 1683
 
 What sea, bounded on the north by Pakistan and Iran, on the west by the Gulf of Aden, Guardafui Channel and the Arabian Peninsula, the southeast by the Laccadive Sea, the southwest by the Somali Sea, and the east by India, has major seaports including Mumbai, Karachi, Kandla, Okha, Gwadar, Chabahar, and Salalah, and has been crossed by many important marine trade routes since the third or second millennium BC?
-Arabian Sea
+the Arabian Sea
 1684
 
 What sea, sometimes considered the northwestern part of the East China Sea and whose innermost bay is the Bohai Sea, separates mainland China and the Korean Peninsula?
-Yellow Sea
+the Yellow Sea
 1685
 
 What second-largest city of Denmark is on the coast of east Jutland?
@@ -6886,7 +6886,7 @@ What Swedish king credited with beginning the Golden Age in Sweden died leading 
 Gustavus Adolphus
 1721
 
-What Swiss mountain of the Bernese Alps, whose glaciers are among the largest in Europe, rises to 4,195 m and is a UNESCO World Heritage SIte?
+What Swiss mountain of the Bernese Alps, whose glaciers are among the largest in Europe, rises to 4,195 metres and is a UNESCO World Heritage SIte?
 Aletschhorn
 1722
 
@@ -6902,7 +6902,7 @@ What symphony of Mahler's uses a minor-key version of Frère Jacques in its slow
 the first (Der Titan)
 1725
 
-What Tang Dynasty poet/artist is often mentioned alongside Du Fu and Li Po and wrote poems including ``A green stream,'' ``In a retreat among bamboos,'' and ``Bound home to Mount Sung''?
+What Tang Dynasty poet and artist is often mentioned alongside Du Fu and Li Po and wrote poems including ``A Green Stream,'' ``In a Retreat among Bamboos,'' and ``Bound Home to Mount Sung''?
 Wang Wei
 1726
 
@@ -6971,7 +6971,7 @@ Agrarian Revolution
 1742
 
 What treatise on politics did Niccolò Machiavelli write in 1513?
-The prince
+The Prince
 1743
 
 What treaty ended the war between the United States and Great Britain?
@@ -6987,7 +6987,7 @@ Mustafa Kemal Atatürk
 1746
 
 What Turkish sea is connected to the Black Sea by the Bosporus and the Aegean Sea by the Dardanelles?
-Sea of Marmara
+the Sea of Marmara
 1747
 
 What two functional groups does an amino acid contain?
@@ -7510,11 +7510,11 @@ Where did Vasco da Gama land after discovering the sea route to India?
 Calicut
 1877
 
-Where does the Chancellor of the Exchequer (the Second Lord of the Treasury) of the UK reside?
+Where does the Chancellor of the Exchequer (the Second Lord of the Treasury) of the United Kingdom reside?
 11 Downing Street, London
 1878
 
-Where does the Prime Minister (the First Lord of the Treasury) of the UK reside?
+Where does the Prime Minister (the First Lord of the Treasury) of the United Kingdom reside?
 10 Downing Street, London
 1879
 
@@ -7894,7 +7894,7 @@ Who were the Three Tenors?
 Plácido Domingo, José Carreras, Luciano Pavarotti
 1973
 
-Who wrote A clockwork orange?
+Who wrote A Clockwork Orange?
 Anthony Burgess
 1974
 
@@ -7906,11 +7906,11 @@ Who wrote the Almagest --- an influential treatise on astronomy?
 Ptolemy
 1976
 
-Who wrote The catcher in the rye?
+Who wrote The Catcher in the Rye?
 J. D. Salinger
 1977
 
-Who wrote The cherry orchard and The seagull?
+Who wrote The Cherry Orchard and The Seagull?
 Anton Chekhov
 1978
 
@@ -7918,19 +7918,19 @@ Who wrote the Decameron between 1348 and 1358, a work containing a hundred tales
 Giovanni Boccaccio
 1979
 
-Who wrote The glass menagerie and A streetcar named desire?
+Who wrote The Glass Menagerie and A Streetcar Named Desire?
 Tennessee Williams
 1980
 
-Who wrote The godfather?
+Who wrote The Godfather?
 Mario Puzo
 1981
 
-Who wrote The interior castle?
+Who wrote The Interior Castle?
 St. Teresa of Ávila
 1982
 
-Who wrote The three musketeers and The count of Monte Cristo?
+Who wrote The Three Musketeers and The Count of Monte Cristo?
 Alexandre Dumas
 1983
 
@@ -8054,7 +8054,7 @@ Andreas Vesalius
 Sir Thomas Bodley
 2013
 
-(1572--1637) What British playwright and poet established his ``comedy of humours'' with his play Every man in his humour (1598), in which a particular obsession dominates each character, and wrote Volpone (1606) and Bartholomew fair (1614)?
+(1572--1637) What British playwright and poet established his ``comedy of humours'' with his play Every man in his humour (1598), in which a particular obsession dominates each character, and wrote Volpone (1606) and Bartholomew Fair (1614)?
 Ben Jonson
 2014
 
@@ -8122,7 +8122,7 @@ Pierre de Beaumarchais
 War of the Austrian Succession
 2030
 
-(1748--1832) What English philosopher, jurist, and proponent of utilitarianism wrote Introduction to the principles of morals and legislation (1789)?
+(1748--1832) What English philosopher, jurist, and proponent of utilitarianism wrote Introduction to the Principles of Morals and Legislation (1789)?
 Jeremy Bentham
 2031
 
@@ -8490,7 +8490,7 @@ David Ben-Gurion
 Leonard Bloomfield
 2122
 
-(1887--1964) What Russian-born American sculptor adapted cubist techniques to sculpture and made Walking woman?
+(1887--1964) What Russian-born American sculptor adapted cubist techniques to sculpture and made Walking Woman?
 Alexander Archipenko
 2123
 
@@ -8511,7 +8511,7 @@ Irving Berlin
 2127
 
 (1890) In what final confrontation between the US Army and North American Indians in South Dakota were more than 150 largely unarmed Sioux men, women, and children massacred?
-Battle of Wounded Knee
+the Battle of Wounded Knee
 2128
 
 (1891--1941) What Canadian physiologist and surgeon discovered insulin with the assistance of Best, using it to treat diabetes, and won the Nobel Prize for Physiology or Medicine (1923) with Macleod?
@@ -8546,7 +8546,7 @@ Andrés Segovia
 Folke Bernadotte
 2136
 
-(1895--1948) What American baseball player known as the ``Bambino'' and the ``Sultan of Swat'' was originally a pitcher who later became noted for his hitting, setting a record of 714 home runs that remained unbroken until 1974 and a single-season record in 1927 of 60 home runs that was not broken until 1961?
+(1895--1948) What American baseball player known as ``the Bambino'' and ``the Sultan of Swat'' was originally a pitcher who later became noted for his hitting, setting a record of 714 home runs that remained unbroken until 1974 and a single-season record in 1927 of 60 home runs that was not broken until 1961?
 Babe Ruth
 2137
 
@@ -8598,11 +8598,11 @@ Miguel Ángel Asturias
 Charles Herbert Best
 2149
 
-(1899--1983) What French composer composed scores for movies like The Lavender Hill mob (1951) and Moulin Rouge (1952)?
+(1899--1983) What French composer composed scores for movies like The Lavender Hill Mob (1951) and Moulin Rouge (1952)?
 Georges Auric
 2150
 
-(1899--1987) What American dancer, singer, and actor starred in Top hat (1935) and Shall we dance? (1937) with Ginger Rogers and Easter parade (1948) with Judy Garland?
+(1899--1987) What American dancer, singer, and actor starred in Top Hat (1935) and Shall We Dance? (1937) with Ginger Rogers and Easter Parade (1948) with Judy Garland?
 Fred Astaire
 2151
 
@@ -8734,11 +8734,11 @@ Babe Zaharias
 Elizabeth Bishop
 2183
 
-(1912--89) What American historian and writer indited works like The guns of August (1962), Stilwell and the American experience in China, 1911--45 (1971), A distant mirror (1978), and The first salute (1988)?
+(1912--89) What American historian and writer indited works like The Guns of August (1962), Stilwell and the American Experience in China, 1911--45 (1971), A Distant Mirror (1978), and The First Salute (1988)?
 Barbara W. Tuchman
 2184
 
-(1913--76) What English composer, pianist, and conductor wrote operas like Peter Grimes (1945), A midsummer night's dream (1960), and Death in Venice (1973)?
+(1913--76) What English composer, pianist, and conductor wrote operas like Peter Grimes (1945), A Midsummer Night's Dream (1960), and Death in Venice (1973)?
 Benjamin Britten
 2185
 
@@ -8746,15 +8746,15 @@ Benjamin Britten
 Menachem Begin
 2186
 
-(1914--72) What American poet and educator was a central figure in the Confessional school of poetry and is best known for The dream songs, which contains the Pulitzer Prize--winning 77 dream songs (1964)?
+(1914--72) What American poet and educator was a central figure in the Confessional school of poetry and is best known for The Dream Songs, which contains the Pulitzer Prize--winning 77 Dream Songs (1964)?
 John Berryman
 2187
 
-(1915--59) This jazz singer began her recording career with Benny Goodman's band in 1933 and then performed with many small jazz groups. Identify this American whose autobiography Lady sings the blues (1956) was made into a movie in 1972.
+(1915--59) This jazz singer began her recording career with Benny Goodman's band in 1933 and then performed with many small jazz groups. Identify this American whose autobiography Lady Sings the Blues (1956) was made into a movie in 1972.
 Billie Holiday
 2188
 
-(1915--80) Identify the French writer, critic, and leading exponent of structuralism and semiology in literary criticism who authored On Racine (1963), Mythologies (1957), and Elements of semiology (1964).
+(1915--80) Identify the French writer, critic, and leading exponent of structuralism and semiology in literary criticism who authored On Racine (1963), Mythologies (1957), and Elements of Semiology (1964).
 Roland Barthes
 2189
 
@@ -8762,11 +8762,11 @@ Roland Barthes
 Ingrid Bergman
 2190
 
-(1915--2005) This American playwright achieved success with Death of a salesman (1949). The crucible (1953) used the Salem witch trials of 1692 as an allegory for McCarthyism. Name this playwright, who also wrote All my sons (1947), After the Fall (1964), and The Ryan interview (1995).
+(1915--2005) This American playwright achieved success with Death of a Salesman (1949). The Crucible (1953) used the Salem witch trials of 1692 as an allegory for McCarthyism. Name this playwright, who also wrote All My Sons (1947), After the Fall (1964), and The Ryan Interview (1995).
 Arthur Miller
 2191
 
-(1915--2005) What Canadian-born American novelist and Nobel laureate (1976) of Russian-Jewish descent is known for The adventures of Augie March (1953), Herzog (1964), More die of heartbreak (1987), and Ravelstein (2000)?
+(1915--2005) What Canadian-born American novelist and Nobel laureate (1976) of Russian-Jewish descent is known for The Adventures of Augie March (1953), Herzog (1964), More Die of Heartbreak (1987), and Ravelstein (2000)?
 Saul Bellow
 2192
 
@@ -8810,7 +8810,7 @@ Ingmar Bergman
 Karel Appel
 2202
 
-(1921--2017) This American economist is noted chiefly for his work on general economic equilibrium and social choice. His Social choices and individual values (1951) argued the impossibility of aggregating the preferences of individuals into a single combined order of priorities for society as a whole. Name this economist who won the Nobel Prize for Economics (1972) with Sir J. Hicks.
+(1921--2017) This American economist is noted chiefly for his work on general economic equilibrium and social choice. His Social Choices and Individual Values (1951) argued the impossibility of aggregating the preferences of individuals into a single combined order of priorities for society as a whole. Name this economist who won the Nobel Prize for Economics (1972) with Sir J. Hicks.
 Kenneth Joseph Arrow
 2203
 
@@ -8818,7 +8818,7 @@ Kenneth Joseph Arrow
 Diane Arbus
 2204
 
-(1923--85) What American actress won an Academy Award in 1946 for her supporting role in The razor's edge?
+(1923--85) What American actress won an Academy Award in 1946 for her supporting role in The Razor's Edge?
 Anne Baxter
 2205
 
@@ -8830,7 +8830,7 @@ André Courrèges
 James Baldwin
 2207
 
-(1924--2014) What American actress acted in movies with husband Humphrey Bogart like The big sleep (1946) and Key Largo (1948) and received Tonys for her lead roles in stage musicals Applause (1970) and Woman of the year (1981)?
+(1924--2014) What American actress acted in movies with husband Humphrey Bogart like The Big Sleep (1946) and Key Largo (1948) and received Tonys for her lead roles in stage musicals Applause (1970) and Woman of the Year (1981)?
 Lauren Bacall
 2208
 
@@ -8850,7 +8850,7 @@ Chuck Berry
 Bob Fosse
 2212
 
-(1928--2014) What American novelist and poet wrote the first volume of her autobiography, I know why the caged bird sings, about living as a black child in the south United States, and wrote six more: Gather Together in My Name (1974), Singin' and Swingin' and Gettin' Merry Like Christmas (1976), The Heart of a Woman (1981), All God's Children Need Travelling Shoes (1986), A Song Flung Up to Heaven (2002), and Mom \& Me \& Mom (2013)?
+(1928--2014) What American novelist and poet wrote the first volume of her autobiography, I Know Why the Caged Bird Sings, about living as a black child in the south United States, and wrote six more: Gather Together in My Name (1974), Singin' and Swingin' and Gettin' Merry Like Christmas (1976), The Heart of a Woman (1981), All God's Children Need Travelling Shoes (1986), A Song Flung Up to Heaven (2002), and Mom \& Me \& Mom (2013)?
 Maya Angelou
 2213
 
@@ -8974,7 +8974,7 @@ Daniel Barenboim
 Ehud Barak
 2243
 
-(b. 1942) What American singer, actress, and director starred in movies like Funny girl (1968), The way we were (1973), A star is born (1976), and The prince of tides (1991) and also starred in, produced, and directed Yentl (1983)?
+(b. 1942) What American singer, actress, and director starred in movies like Funny Girl (1968), The Way We Were (1973), A Star is Born (1976), and The Prince of Tides (1991) and also starred in, produced, and directed Yentl (1983)?
 Barbra Streisand
 2244
 
@@ -9026,7 +9026,7 @@ Cum his superioribus annis
 St. Basil
 2256
 
-(c. 673--735, feast day: 27 May) What English monk, theologian, and historian wrote The Ecclesiastical history of the English people (Latin, completed in 731), a primary source for early English history?
+(c. 673--735, feast day: 27 May) What English monk, theologian, and historian wrote The Ecclesiastical History of the English People (Latin, completed in 731), a primary source for early English history?
 St. Bede
 2257
 
@@ -9215,7 +9215,7 @@ Lake Nasser
 2303
 
 At what Anglo-French battle in 1346 did the forces of Edward III defeated those of Philip VI, marking the first major English victory of the Hundred Years War?
-Battle of Crécy
+the Battle of Crécy
 2304
 
 At what American national park on the Rio Grande, Texas, were fossil remains of the pterosaur found?
@@ -9250,11 +9250,11 @@ Whose Benedictus Deus ratified all decrees and definitions of the Council of Tre
 Pius IV
 2312
 
-Complete this proverb which means `` if a rival or enemy shows one generosity or kindness, one should be suspicious of their motives": beware of [---] bearing gifts.
+Complete this proverb which means `` if a rival or enemy shows one generosity or kindness, one should be suspicious of their motives'': beware of [---] bearing gifts.
 Greeks [with allusion to Virgil's Aeneid (ii. 49), which recounts the story of the Trojan Horse]
 2313
 
-Complete this proverb, meaning ``even the best person sometimes makes a mistake due to a momentary lack of alertness or attention": even [---] nods.
+Complete this proverb, meaning ``even the best person sometimes makes a mistake due to a momentary lack of alertness or attention'': even [---] nods.
 Homer [with allusion to Latin dormitat Homerus (Horace Ars Poetica 359)]
 2314
 
@@ -9303,7 +9303,7 @@ Greek from Hebrew har mĕgiddōn `hill of Megiddo' (Rev. 16.16)
 2325
 
 General George Custer and his forces were defeated by Sioux and Cheyenne warriors on 25 June 1876 in this battle. Identify the conflict that is popularly known as Custer's Last Stand.
-Battle of Little Bighorn
+the Battle of Little Bighorn
 2326
 
 Gregory IX issued the bull Parens scientiarum on 13 Apr. 1231, guaranteeing the independence and self-governance of what institution of higher learning where the pope studied theology?
@@ -9347,7 +9347,7 @@ basal body/basal granule/kinetosome
 2336
 
 Identify the 1917 battle and prolonged episode of trench warfare during World War I in Belgium that involved an appalling loss of life and called alternatively the ``Third Battle of Ypres.''
-Battle of Passchendaele
+the Battle of Passchendaele
 2337
 
 Identify the city at the mouth of the Amazon that is the capital of Pará and Brazil's chief commercial centre.
@@ -9395,19 +9395,19 @@ $\sim$ 1 GeV
 2348
 
 In what 479 BC battle during the Persian Wars were the Persian forces defeated by the Greeks in Boeotia?
-Battle of Plataea
+the Battle of Plataea
 2349
 
 In what 1812 battle in the namesake village did Napoleon's forces defeat the Russian army?
-Battle of Borodino
+the Battle of Borodino
 2350
 
 In what battle in 1805 in the modern-day Czech Republic did Napoleon defeat the Austrians and Russians?
-Battle of Austerlitz
+the Battle of Austerlitz
 2351
 
 In what battle that took place near Stirling, Scotland in 1314 was the English army of Edward II, advancing to break the siege of Stirling Castle, defeated by the Scots under Robert the Bruce?
-Battle of Bannockburn
+the Battle of Bannockburn
 2352
 
 In what billiards-derived indoor table game are small balls hit and then allowed to roll down a sloping board on which there are holes, each numbered with the score achieved if a ball goes into it, with pins acting as obstructions?
@@ -9435,7 +9435,7 @@ ascus
 2358
 
 In what English Civil War battle fought in 1644 near York were the Royalists defeated, fatally weakening Charles I's cause?
-Battle of Marston Moor
+the Battle of Marston Moor
 2359
 
 In what gambling card game do players hold two- or three-card hands, the winning hand being that giving the highest remainder when its face value is divided by ten?
@@ -9455,19 +9455,19 @@ Batesian mimicry
 2363
 
 In what mountain range is Mount Rushmore?
-Black Hills
+the Black Hills
 2364
 
 In what Pacific Ocean arm northeast of New Guinea and north of New Britain did the United States destroy a large Japanese naval force in March 1943?
-Bismarck Sea
+the Bismarck Sea
 2365
 
 In what part of a bell tower or steeple are the bells housed?
-belfry
+the belfry
 2366
 
 In what process does an electron in an atom's outer shell make a transition to a vacancy in an inner shell, the energy gained transferred to an electron that escapes from the atom?
-Auger effect
+the Auger effect
 2367
 
 In what town did Beaver Tails originate?
@@ -9598,11 +9598,11 @@ Supernae dispositionis arbitrio, promulgated by this pope in 1514, called for re
 Leo X
 2399
 
-The 1738 bull In eminenti apostolatus specula of Clement XII banned Catholics from becoming what?
+What did the 1738 bull In eminenti apostolatus specula of Clement XII ban Catholics from becoming?
 Freemasons
 2400
 
-The analects is a book of an extensive collection of sayings and ideas attributed to what philosopher?
+The Analects is a book of an extensive collection of sayings and ideas attributed to this philosopher.
 Confucius
 2401
 
@@ -9650,7 +9650,7 @@ The name of what basic monetary unit of Panama equal to 100 centésimos comes fr
 balboa
 2412
 
-The name of what ceremonial canopy of stone, metal, or fabric over an altar, throne, or doorway comes from the Italian for ``Baghdad": the place of origin of the brocade?
+The name of what ceremonial canopy of stone, metal, or fabric over an altar, throne, or doorway comes from the Italian for ``Baghdad'': the place of origin of the brocade?
 baldachin
 2413
 
@@ -9747,23 +9747,23 @@ Aragon
 2436
 
 This battle took place in 778 at a mountain pass in the Pyrenees in northern Spain. The rearguard of Charlemagne's army was attacked by the Basques and massacred; one of the nobles, Roland, was killed, an event celebrated in the Chanson de Roland (in which the attackers are wrongly identified as the Moors). Identify this battle.
-Battle of Roncesvalles
+the Battle of Roncesvalles
 2437
 
 This battle took place in 1745, just east of Edinburgh. It was the first significant engagement of the Jacobite uprising. The Jacobites routed the Hanoverians, leaving the way clear for Charles Edward Stuart's subsequent invasion of England. Name this conflict.
-Battle of Prestonpans
+the Battle of Prestonpans
 2438
 
 This battle was fought in 1870 in northeastern France. The Prussian army defeated a smaller French army under Napoleon III, opening the way for a Prussian advance on Paris and marking the French Second Empire's end. Name this conflict.
-Battle of Sedan
+the Battle of Sedan
 2439
 
 This battle was fought on 18 June 1815 in modern-day Belgium. Napoleon's army was defeated by the British (under the Duke of Wellington) and Prussians. The allied pursuit caused Napoleon's army to disintegrate entirely, ending his bid to return to power. Identify this renowned conflict.
-Battle of Waterloo
+the Battle of Waterloo
 2440
 
 This battle, named after a nearby river, was fought in Ireland in 1690. The Protestant army of William of Orange, the newly crowned William III, defeated the Catholic army (including troops from both France and Ireland) led by the recently deposed James II. Name this battle, whose result is celebrated annually (on 12 July) in Northern Ireland as a victory for the Protestant cause.
-Battle of the Boyne
+the Battle of the Boyne
 2441
 
 This Charles Perrault character killed several wives in turn for disobeying his order to avoid a locked room, which contained the bodies of his previous wives. Local Breton tradition identifies what character with Gilles de Rais (c. 1400--40), a perpetrator of atrocities, although he had only one wife?
@@ -9771,27 +9771,27 @@ Bluebeard
 2442
 
 This conflict was fought in 1685 in Somerset. The forces of the rebel Duke of Monmouth, who had landed in Dorset as a champion of the Protestant cause and pretender to the throne, were decisively defeated by James II's troops. Name this battle.
-Battle of Sedgemoor
+the Battle of Sedgemoor
 2443
 
 This decisive battle of the Anglo-Scottish war of 1513 was fought on the battle's namesake hill near the Northumbrian village of Branxton. A Scottish army under James IV was defeated by a smaller but better-led English force and suffered heavy losses, including the king and most of his nobles. Identify this battle.
-Battle of Flodden
+the Battle of Flodden
 2444
 
 This decisive battle was fought in 1066. William the Conqueror defeated the forces of the Anglo-Saxon king Harold II. Harold died in the battle, leaving the way open for the Norman Conquest of England. Identify this infamous event.
-Battle of Hastings
+the Battle of Hastings
 2445
 
 This decisive Civil War battle was fought in Pennsylvania in July 1863. A Union army under General Meade repulsed the Confederate army of General Lee and forced him to abandon his invasion of the north. Identify this battle.
-Battle of Gettysburg
+the Battle of Gettysburg
 2446
 
 This decisive naval battle fought in 1827 off Pylos in Peloponnesus was part of the Greek struggle for independence from the Ottoman Empire. Britain, Russia, and France sent a combined fleet that destroyed the Egyptian and Turkish fleet. Name this battle.
-Battle of Navarino
+the Battle of Navarino
 2447
 
 This decisive naval battle was fought on 21 October 1805 off the south coast of Spain during the Napoleonic Wars. The British fleet under Horatio Nelson (who was killed in action) defeated the combined fleets of France and Spain, which were attempting to clear the way for Napoleon's projected invasion of Britain. Name this battle.
-Battle of Trafalgar
+the Battle of Trafalgar
 2448
 
 This emperor of India circa 269--232 BC converted to Buddhism and made it the state religion. Name the emperor who now has a pillar at Sarnath, Uttar Pradesh, with four lions, marking where the Buddha publicly preached his doctrine.
@@ -9799,7 +9799,7 @@ Ashoka
 2449
 
 This final engagement of the Jacobite uprising of 1745--46 was fought on 16 April on a moor near Inverness. Under the Duke of Cumberland, the Hanoverian army crushed the small and poorly supplied Jacobite army of Charles Edward Stuart. A ruthless pursuit after the battle effectively prevented any chance of saving the Jacobite cause. What is this battle's name?
-Battle of Culloden
+the Battle of Culloden
 2450
 
 This goddess was the daughter of Zeus and the sister of Apollo. Name this huntress typically depicted with a bow and arrows.
@@ -9814,8 +9814,8 @@ This man worked for The New York Times from 1951, serving as its president from 
 Arthur Ochs Sulzberger
 2453
 
-This naval battle was fought in 1571 at the entrance to the Gulf of Corinth. The Christian forces of Rome, Venice, and Spain defeated a sizeable Turkish fleet, ending for the time being Turkish naval domination in the eastern Mediterranean. Name this battle.
-Battle of Lepanto
+This naval battle was fought in 1571 at the entrance to the Gulf of Corinth. The Christian forces of Rome, Venice, and Spain under Pius V defeated a sizeable Turkish fleet, ending for the time being Turkish naval domination in the eastern Mediterranean. Name this battle.
+the Battle of Lepanto
 2454
 
 This polyunsaturated fatty acid is present in animal fats, helps synthesize prostaglandins and leukotrienes, and is an essential constituent of the diet. What is its name?
@@ -9827,11 +9827,11 @@ Berenice
 2456
 
 This significant battle of the English Civil War took place in 1645 in Northamptonshire. The Royalist army of Prince Rupert and King Charles I was decisively defeated by the New Model Army under General Thomas Fairfax (1612--71) and Oliver Cromwell. Identify this conflict.
-Battle of Naseby
+the Battle of Naseby
 2457
 
 This significant naval World War In battle was fought between the British Grand Fleet under Admiral Jellicoe and the German High Seas Fleet in the North Sea. Although the battle was indecisive, the German fleet never again sought a full-scale engagement, and the Allies retained control of the North Sea. Identify this conflict.
-Battle of Jutland
+the Battle of Jutland
 2458
 
 This American cyclist won the Tour de France in 1999 after battling testicular cancer and won the race for the next six years. Name this cyclist who was stripped of his titles for using PEDs.
@@ -9843,7 +9843,7 @@ Arachne
 2460
 
 This World War II battle was fought 90 km west of Alexandria in 1942. The German Afrika Korps under Rommel was halted in its advance toward the Nile by the British Eighth Army under Montgomery, giving the British a decisive victory. What is this battle's name?
-Battle of El Alamein
+the Battle of El Alamein
 2461
 
 To what Angolan port and railroad terminal, the namesake of a cold ocean current flowing from Antarctica, is copper brought from Zambia and the Democratic Republic of Congo?
@@ -10182,16 +10182,16 @@ What bass-stringed instrument of the cittern family has a long neck and a scallo
 bandora
 2545
 
-What battle fought in 1704 saw Bavaria the English, under the Duke of Marlborough, defeat the French and Bavarians?
-Battle of Blenheim
+What battle fought in 1704 saw the English, under the Duke of Marlborough, defeat the French and Bavarians?
+the Battle of Blenheim
 2546
 
 What battle of the Crimean War fought between Russia and an alliance of British, French, and Turkish forces in southern Crimea ended inconclusively and is chiefly remembered as the scene of the Charge of the Light Brigade?
-Battle of Balaclava
+the Battle of Balaclava
 2547
 
 What bay on the southwestern coast of Cuba was the scene of an unsuccessful attempt in 1961 by US-backed Cuban exiles to invade the country and overthrow Fidel Castro's regime?
-Bay of Pigs
+the Bay of Pigs
 2548
 
 What beef dish is typically coated in pâté de foie gras, wrapped in puff pastry, and baked?
@@ -10226,7 +10226,7 @@ What British middle-distance runner and neurologist became the first man to run 
 Sir Roger Bannister
 2556
 
-What British philosopher, mathematician, social reformer, and Nobel laureate (1950) collaborated with Whitehead on Principia Mathematica and expounded logical atomism in Our knowledge of the external world (1914) and neutral monism in The analysis of mind (1921)?
+What British philosopher, mathematician, social reformer, and Nobel laureate (1950) collaborated with Whitehead on Principia Mathematica and expounded logical atomism in Our Knowledge of the External World (1914) and neutral monism in The Analysis of Mind (1921)?
 Bertrand Russell
 2557
 
@@ -10254,7 +10254,7 @@ What bull called for the Second Crusade?
 Quantum praedecessores
 2563
 
-What bull did Gregory XIII promulgate on 24 Feb. 1582 to establish the Gregorian calendar?
+What bull did Gregory XIII promulgate on 24 February 1582 to establish the Gregorian calendar?
 Inter gravissimas `Among the most important'
 2564
 
@@ -10262,11 +10262,11 @@ What bull issued by Adrian IV, whose existence is disputed by scholars, gave Eng
 Laudabiliter
 2565
 
-What bull issued by Alexander III on 11 Sept. 1171/72 promoted the Northern Crusades against the pagan Estonians and Finns?
+What bull issued by Alexander III on 11 September 1171/72 promoted the Northern Crusades against the pagan Estonians and Finns?
 Non parum animus noster
 2566
 
-What bull issued by Boniface VIII on 18 Nov. 1302 promulgated the doctrine Extra Ecclesiam nulla salus and declared that the Church must remain united?
+What bull issued by Boniface VIII on 18 November 1302 promulgated the doctrine Extra Ecclesiam nulla salus and declared that the Church must remain united?
 Unam sanctam
 2567
 
@@ -10274,7 +10274,7 @@ What bull issued by Calixtus II circa 1120 protected the Jews who suffered from 
 Sicut Judaeis
 2568
 
-What bull issued by Clement V on 22 Nov. 1307 ordered the arrest of the Knights Templar and the confiscation of their possessions in support of Philip IV of France?
+What bull issued by Clement V on 22 November 1307 ordered the arrest of the Knights Templar and the confiscation of their possessions in support of Philip IV of France?
 Pastoralis praeeminentiae
 2569
 
@@ -10282,7 +10282,7 @@ What bull issued by Gregory IX in 1233 marked the start of the Inquisition?
 Licet ad capiendos
 2570
 
-What bull issued by Gregory IX on 17 Nov. 1234 called for a crusade to the Holy Land and ordered Dominicans and Franciscans to preach in favour of it?
+What bull issued by Gregory IX on 17 November 1234 called for a crusade to the Holy Land and ordered Dominicans and Franciscans to preach in favour of it?
 Rachel suum videns
 2571
 
@@ -10294,7 +10294,7 @@ What bull issued by Honorius III in 1219 closed law schools in Paris and forbade
 Super speculam
 2573
 
-What bull issued by Honorius III on 29 Nov. 1223 approved the Rule of St. Francis?
+What bull issued by Honorius III on 29 November 1223 approved the Rule of St. Francis?
 Solet annuere
 2574
 
@@ -10410,7 +10410,7 @@ What city in western North Carolina, a resort in the Blue Ridge Mountains, is th
 Asheville
 2602
 
-What city is known as the ``Big Easy''?
+What city is known as ``the Big Easy''?
 New Orleans
 2603
 
@@ -10498,7 +10498,7 @@ What Danish neoclassical sculptor created a statue of Jason (1803) in Rome and t
 Bertel Thorvaldsen
 2624
 
-What Danish novelist and short-story writer, also known by her pseudonym ``Isak Dinesen,'' is best known for Seven gothic tales (1934) and her autobiography Out of Africa (1937)?
+What Danish novelist and short-story writer, also known by her pseudonym ``Isak Dinesen,'' is best known for Seven Gothic Tales (1934) and her autobiography Out of Africa (1937)?
 Karen Blixen
 2625
 
@@ -11766,7 +11766,7 @@ What English composer is best known for the fourteen light operas he wrote with 
 Sir Arthur Sullivan
 2941
 
-What English humanist scholar and writer was noted for his treatise on archery, Toxophilus (1545), and The scholemaster (1570), an influential and practical tract on education?
+What English humanist scholar and writer was noted for his treatise on archery, Toxophilus (1545), and The Scholemaster (1570), an influential and practical tract on education?
 Roger Ascham
 2942
 
@@ -11782,7 +11782,7 @@ What English pirate was initially a privateer during the War of the Spanish Succ
 Blackbeard (Edward Teach)
 2945
 
-What English statesman and philosopher wrote The advancement of learning (1605) and Novum Organum (1620)?
+What English statesman and philosopher wrote The Advancement of Learning (1605) and Novum Organum (1620)?
 Francis Bacon
 2946
 
@@ -12103,7 +12103,7 @@ Bes
 3025
 
 What group of four large and seven small islands in the Mediterranean off Spain's eastern coast form an autonomous region there with its capital in Palma on Majorca?
-Balearic Islands
+the Balearic Islands
 3026
 
 What group of heroes accompanied Jason aboard a ship of a similar name in the quest for the Golden Fleece?
@@ -12119,7 +12119,7 @@ Bantu
 3029
 
 What group of three islands is located off the west coast of Ireland and the namesake of a type of traditional knitwear?
-Aran Islands
+the Aran Islands
 3030
 
 What group of twenty-four volcanic islands lies to the north of Luzon?
@@ -12198,7 +12198,7 @@ What hookworm infection of the small intestine often leads to anemia?
 ancylostomiasis (typically from Ancylostoma duodenale)
 3049
 
-What Hungarian-born British novelist wrote The scarlet pimpernel (1905)?
+What Hungarian-born British novelist wrote The Scarlet Pimpernel (1905)?
 Baroness Emmusca Orczy
 3050
 
@@ -12222,8 +12222,8 @@ What index catalogues works of folklore?
 Aarne--Thompson--Uther index
 3055
 
-What is ``v''?
-letter
+What pope promulgated the encyclical Rerum novarum in 1891?
+Leo XIII
 3056
 
 What Indian city in Karnataka state is home to Rani Chennamma of Kittur and Suvarna Vidhana Soudha?
@@ -12779,11 +12779,11 @@ the main (consequent) clause of a conditional sentence
 3194
 
 What is the ASPCA?
-American Society for the Prevention of Cruelty to Animals
+the American Society for the Prevention of Cruelty to Animals
 3195
 
 What is the ATF?
-Federal Bureau of Alcohol, Tobacco, and Firearms
+the Federal Bureau of Alcohol, Tobacco, and Firearms
 3196
 
 What is the Black Hills' highest point?
@@ -12959,7 +12959,7 @@ automatism
 3239
 
 What is the ratio of the span to the mean chord of an airfoil?
-aspect ratio
+the aspect ratio
 3240
 
 What is the spiritual life principle of the universe in Hinduism, especially when regarded as inherent in the real self?
@@ -13523,7 +13523,7 @@ bibliolater
 3380
 
 What name is given to either of two battles fought in 1777 during the American Revolution, the British defeat in both conflicts conventionally being regarded as the turning point of the war in America's favour?
-Battle of Saratoga
+the Battle of Saratoga
 3381
 
 What name is given to flora and fauna found on the bottom, or in the bottom sediments, of a sea, lake, or another water body?
@@ -13906,7 +13906,7 @@ What papal bull issued by Innocent III called for the Fifth Crusade?
 Quia maior
 3476
 
-What papal bull issued by Innocent III in 1205 allowed Jews to have their own houses of worship, did not force Jews to convert, but forbade Jews to eat with Christians or own Christian slaves?
+What papal bull issued by Innocent III in 1205 allowed Jews to have their own houses of worship, did not force Jews to convert, but forbade Jews to eat with Christians or to own Christian slaves?
 Esti Judaeos
 3477
 
@@ -14751,7 +14751,7 @@ BCF (bromochlorodifluoromethane)
 3687
 
 What succession of sea operations during World War II involved Axis naval and air forces attempting to destroy shipping carrying supplies from North America to the United Kingdom?
-Battle of the Atlantic
+the Battle of the Atlantic
 3688
 
 What sugar of the pentose class (an aldose) is a constituent of many plant gums and is a classic example of Wohl degradation from glucose?
@@ -14879,7 +14879,7 @@ Barnegat Bay
 3719
 
 What tideless, nearly landlocked sea is bounded by Ukraine, Russia, Georgia, Turkey, Bulgaria, and Romania and connected to the Mediterranean Sea through the Bosporus and the Sea of Marmara?
-Black Sea
+the Black Sea
 3720
 
 What Titan punished for his part in the Titans' revolt against Zeus by being made to support the heavens is identified with a mountain range of the same name?
@@ -15074,7 +15074,7 @@ What American water route allows sheltered boat passage for 3,100 km along the A
 Atlantic Intracoastal Waterway
 3768
 
-What American writer of popular songs wrote ``Walk on by'' (1961), ``Alfie'' (1966), and ``Raindrops keep falling on my head'' (1969)?
+What American writer of popular songs wrote ``Walk On By'' (1961), ``Alfie'' (1966), and ``Raindrops Keep Falling on my Head'' (1969)?
 Burt Bacharach
 3769
 
@@ -15090,440 +15090,440 @@ What Venezuelan patriot and statesman was called ``the liberator''?
 Simón Bolívar
 3772
 
-What venue is home to the Anaheim Ducks?
-Honda Center
+Who was pope when papal infallibility was defined at the First Vatican Council in Pastor aeternus?
+Pius IX
 3773
 
-What venue is home to the Arizona Cardinals?
-State Farm Stadium, Glendale
+Who promulgated the encyclical Quanta cura in 1864, aspersing errors of the time?
+Pius IX
 3774
 
-What venue is home to the Arizona Coyotes?
-Gila River Arena, Glendale
+Who published the Syllabus ``COMPLECTENS PRAECIPUOS NOSTRAE AETATIS ERRORES'' as an appendix to the encyclical Quanta cura?
+Pius IX
 3775
 
-What venue is home to the Arizona Diamondbacks?
-Chase Field, Phoenix
+What pope commissioned the Trevi Fountain?
+Clement XII
 3776
 
-What venue is home to the Atlanta Braves?
-Truist Park
+What pope succeeded Clement XII?
+Benedict XIV
 3777
 
-What venue is home to the Atlanta Falcons?
-Mercedes-Benz Stadium
+How many popes were from the House of Orsini?
+five
 3778
 
-What venue is home to the Atlanta Hawks?
-State Farm Arena
+Which popes were from the House of Orsini?
+Stephen II, Paul I, Celestine III, Nicholas III, Benedict XIII
 3779
 
-What venue is home to the Baltimore Orioles?
-Camden Yards
+Who promulgated the bull Apostolici Ministerii in 1724 to revive ecclesiastical discipline in Spain?
+Innocent XIII
 3780
 
-What venue is home to the Baltimore Ravens?
-M\&T Bank Stadium
+Who promulgated the bull Romanum decet Pontificem in 1692, banning the office of the cardinal-nephew?
+Innocent XII
 3781
 
-What venue is home to the Boston Bruins and Celtics?
-TD Garden
+What pope commissioned St. Peter's Square?
+Alexander VII
 3782
 
-What venue is home to the Boston Red Sox?
-Fenway Park
+Who was Papa Lampo?
+Pope Leo XI
 3783
 
-What venue is home to the Brooklyn Nets?
-Barclays Center
+How long was Urban VII's papacy?
+twelve days
 3784
 
-What venue is home to the Buffalo Bills?
-Bills Stadium
+What was Gregory XIII's name?
+Ugo Boncompagni
 3785
 
-What venue is home to the Buffalo Sabres?
-KeyBank Center
+Who excommunicated Queen Elizabeth I?
+St. Pius V
 3786
 
-What venue is home to the Calgary Flames?
-Scotiabank Saddledome
+Who promulgated the 1570 Roman Missal?
+St. Pius V
 3787
 
-What venue is home to the Carolina Hurricanes?
-PNC Arena, Raleigh
+Who declared St. Thomas Aquinas the fifth Latin Doctor of the Church in 1567?
+St. Pius V
 3788
 
-What venue is home to the Carolina Panthers?
-Bank of America Stadium, Charlotte
+Who established the Collegium Germanicum in 1552?
+Julius III
 3789
 
-What venue is home to the Charlotte Hornets?
-Spectrum Center
+Which pope was involved in the Innocenzo Scandal?
+Julius III
 3790
 
-What venue is home to the Chicago Bears?
-Soldier Field
+Which pope commissioned Michelangelo's painting of The Last Judgement in the Sistine Chapel in 1533?
+Clement VII
 3791
 
-What venue is home to the Chicago Blackhawks and Bulls?
-United Center
+Who was the first non-Italian pope after Adrian VI?
+St. John Paul II
 3792
 
-What venue is home to the Cincinnati Bengals?
-Paul Brown Stadium
+Who was described by Machiavelli in his works as the ideal prince?
+Pope Julius II
 3793
 
-What venue is home to the Cincinnati Reds?
-Great American Ball Park
+Which pope commissioned the Raphael Rooms?
+Julius II
 3794
 
-What venue is home to the Cleveland Browns?
-FirstEnergy Stadium
+Who was the Warrior Pope?
+Julius II
 3795
 
-What venue is home to the Cleveland Cavaliers?
-Rocket Mortgage FieldHouse
+What was Alexander VI's epithet?
+Valentius
 3796
 
-What venue is home to the Cleveland Indians?
-Progressive Field
+Which pope commissioned the Sistine Chapel?
+Sixtus IV
 3797
 
-What venue is home to the Colorado Avalanche?
-Pepsi Center
+Who said ``Aeneam rejicite, Pium recipite''?
+Pius II
 3798
 
-What venue is home to the Colorado Rockies?
-Coors Field
+Which pope ordered the retrial of St. Joan of Arc?
+Callixtus III
 3799
 
-What venue is home to the Columbus Blue Jackets?
-Nationwide Arena
+Which pope held the Jubilee of 1450?
+Nicholas V
 3800
 
-What venue is home to the Dallas Cowboys?
-AT\&T Stadium
+Which was the last pontiff to be elected outside the College of Cardinals?
+Urban VI
 3801
 
-What venue is home to the Dallas Mavericks and Stars?
-American Airlines Center
+Which pope planned the Sicilian Vespers?
+Nicholas III
 3802
 
-What venue is home to the Denver Broncos?
-Empower Field at Mile High
+Which pope instituted the feast of Corpus Christi in 1264?
+Urban IV
 3803
 
-What venue is home to the Denver Nuggets?
-Pepsi Center
+Which pope initiated the Fifth Crusade?
+Honorius III
 3804
 
-What venue is home to the Detroit Lions?
-Ford Field
+Which pope authorized the Norman conquest of England?
+Alexander II
 3805
 
-What venue is home to the Detroit Pistons and Red Wings?
-Little Caesars Arena
+Who was the pope at the time of the East-West Schism?
+St. Leo IX
 3806
 
-What venue is home to the Detroit Tigers?
-Comerica Park
+Who was the patriarch of Constantinople at the time of the East-West Schism?
+Michael I Cerularius
 3807
 
-What venue is home to the Edmonton Oilers?
-Rogers Place
+Which pope's death marked the end of the Saeculum obscurum?
+John XII
 3808
 
-What venue is home to the Florida Panthers?
-BB\T Center, Sunrise
+Which pope formed the league that triumphed in the Battle of Ostia over the Sacarens?
+St. Leo IV
 3809
 
-What venue is home to the Golden State Warriors?
-Chase Center, San Francisco
+Who was the Pope when the Saeculum obscurum commenced?
+Sergius III
 3810
 
-What venue is home to the Green Bay Packers?
-Lambeau Field
+Who became the Pope after the death of Stephen IV?
+St. Paschal I
 3811
 
-What venue is home to the Houston Astros?
-Minute Maid Park
+Which pope crowned Charlemagne on Christmas Day, 800?
+St. Leo III
 3812
 
-What venue is home to the Houston Rockets?
-Toyota Center
+Which was the last pope of the Byzantine Papacy?
+St. Zachary
 3813
 
-What venue is home to the Houston Texans?
-NRG Stadium
+Where was St. Gregory III born?
+Syria
 3814
 
-What venue is home to the Indiana Pacers?
-Bankers Life Fieldhouse, Indianapolis
+Which pope held the Synod of Rome in 721?
+St. Gregory II
 3815
 
-What venue is home to the Indianapolis Colts?
-Lucas Oil Stadium
+Which pope introduced the singing of the Lamb of God at Mass?
+St. Sergius I
 3816
 
-What venue is home to the Jacksonville Jaguars?
-TIAA Bank Field
+Who was the Pope during the Third Council of Constantinople?
+St. Agatho
 3817
 
-What venue is home to the Kansas City Chiefs?
-Arrowhead Stadium
+Which was the last pope to be recognized as a martyr?
+St. Martin I
 3818
 
-What venue is home to the Kansas City Royals?
-Kauffman Stadium
+Which was the first pope to bear the same name as his immediate predecessor?
+St. Boniface IV
 3819
 
-What venue is home to the Las Vegas Raiders?
-Allegiant Stadium
+Which pope established the Gregorian chant?
+St. Gregory I
 3820
 
-What venue is home to the Los Angeles Angels?
-Angel Stadium, Anaheim
+Which pope was the father of St. Silverius?
+St. Hormisdas
 3821
 
-What venue is home to the Los Angeles Chargers and Rams?
-Sofi Stadium, Inglewood
+Which pope was the son of St. Hormisdas?
+St. Silverius
 3822
 
-What venue is home to the Los Angeles Clippers?
-Staples Center
+Which pope was the great-great-grandfather of St. Gregory I?
+St. Felix III
 3823
 
-What venue is home to the Los Angeles Dodgers?
-Dodger Stadium
+Who was the Pope during the Sack of Rome in 410?
+St. Innocent I
 3824
 
-What venue is home to the Los Angeles Kings and Lakers?
-Staples Center
+Which pope is the earliest not canonized by the Latin Church?
+Liberius
 3825
 
-What venue is home to the Memphis Grizzlies?
-FedExForum
+How did Pope St. Sixtus II die?
+he was beheaded
 3826
 
-What venue is home to the Miami Dolphins?
-Hard Rock Stadium
+Which pope excommunicated Theodotus of Byzantium?
+St. Victor I
 3827
 
-What venue is home to the Miami Heat?
-American Airlines Arena
+Which was the first pope born in Africa?
+St. Victor I
 3828
 
-What venue is home to the Miami Marlins?
-Marlins Park
+Which was the first Syrian pope?
+St. Anicetus
 3829
 
-What venue is home to the Milwaukee Brewers?
-American Family Field
+How did Pope St. Clement I die?
+he was tied to an anchor and thrown into the sea
 3830
 
-What venue is home to the Milwaukee Bucks?
-Fiserv Forum
+Which were the first ten popes?
+St. Peter, St. Linus, St. Anacletus, St. Clement I, St. Evaristus, St. Alexander I, St. Sixtus I, St. Telesphorus, St. Hyginus, St. Pius I
 3831
 
-What venue is home to the Minnesota Timberwolves?
-Target Center
+Which was the second pope?
+St. Linus
 3832
 
-What venue is home to the Minnesota Twins?
-Target Field
+Which pope reformed the calendar in 1582?
+Gregory XIII
 3833
 
-What venue is home to the Minnesota Vikings?
-US Bank Stadium
+Which was the first American president who served two non-consecutive terms?
+Grover Cleveland
 3834
 
-What venue is home to the Minnesota Wild?
-Xcel Energy Center
+Which university has the John F. Kennedy School of Government?
+Harvard University
 3835
 
-What venue is home to the Montreal Canadiens?
-Bell Centre
+Which pope restored the Aqua Traiana in the seventeenth century?
+Paul V
 3836
 
-What venue is home to the Nashville Predators?
-Bridgestone Arena
+Whose wife became a pillar of salt after she looked back at Sodom?
+Lot's
 3837
 
-What venue is home to the New England Patriots?
-Gillette Stadium
+Who was the father of Abram?
+Terah
 3838
 
-What venue is home to the New Jersey Devils?
-Prudential Center
+Who was the father of Terah?
+Nahor
 3839
 
-What venue is home to the New Orleans Pelicans?
-Smoothie King Center
+Define ``frisson.''
+sudden strong feeling of excitement or fear; thrill
 3840
 
-What venue is home to the New Orleans Saints?
-Mercedes-Benz Superdome
+Who won the Masters Tournament in 2003?
+Mike Weir
 3841
 
-What venue is home to the New York Giants and Jets?
-Metlife Stadium
+Whom did Nietzsche refer to as the ``old sorcerer'' in Also sprach Zarathustra?
+Richard Wagner
 3842
 
-What venue is home to the New York Islanders?
-UBS Arena
+Who did King George III think was ``the greatest character of the age''?
+George Washington
 3843
 
-What venue is home to the New York Knicks and Rangers?
-Madison Square Garden
+What is the Judaic equivalent of concupiscence?
+yetzer hara
 3844
 
-What venue is home to the New York Yankees?
-Yankee Stadium
+What is the Catholic equivalent of yetzer hara?
+concupiscence
 3845
 
-What venue is home to the Oakland Athletics?
-Oakland Coliseum
+What were the three degenerate forms of government corresponding to democracy, aristocracy, and monarchy according to Polybius?
+ochlocracy, oligarchy, tyranny
 3846
 
-What venue is home to the Oklahoma City Thunder?
-Chesapeake Energy Arena
+What communist symbol, with the five-pointed star, appears on the flag of the Soviet Union?
+hammer and sickle
 3847
 
-What venue is home to the Orlando Magic?
-Amway Center
+The U. S. Civil Service Commission was established as a result of this would-be civil servant shooting President Garfield.
+Charles Guiteau
 3848
 
-What venue is home to the Ottawa Senators?
-Canadian Tire Centre
+Lambic beer, fermented by wild yeasts, is mainly made in this Low Country.
+Belgium
 3849
 
-What venue is home to the Philadelphia 76ers and Flyers?
-Wells Fargo Center
+What is the brightest star in the constellation Taurus?
+Aldebaran
 3850
 
-What venue is home to the Philadelphia Phillies?
-Citizens Bank Park
+These twelfth century councils named for a Roman palace declared priestly marriages invalid.
+the Lateran Councils
 3851
 
-What venue is home to the Philadephia Eagles?
-Lincoln Financial Field
+From 1940 to 1965 New York City was caught up in the annual contest to find ``Miss'' this brewer.
+Rheingold
 3852
 
-What venue is home to the Phoenix Suns?
-Talking Stick Resort Arena
+John Ratzenberger, Cliff Clavin on Cheers, did British ads for this golden U. S. beer company.
+Coors
 3853
 
-What venue is home to the Pittsburgh Penguins?
-PPG Paints Arena
+What is a scabbard?
+sheath for a dagger or a sword
 3854
 
-What venue is home to the Pittsburgh Pirates?
-PNC Park
+A slight breeze will cause the leaves of this aspen to tremble, thus its name.
+quaking aspen
 3855
 
-What venue is home to the Pittsburgh Steelers?
-Heinz Field
+Smoked herring eaten as these, previously shunned as the breakfast of a bygone Britain, is making a comeback.
+kippers
 3856
 
-What venue is home to the Portland Timbers?
-Providence Park
+Colcannon is a traditional Irish dish made with potatoes & this veggie that puts the ``col'' in the name.
+cabbage
 3857
 
-What venue is home to the Portland Trail Blazers?
-Moda Center
+Quebecol is a compound derived from the sap of this tree.
+maple
 3858
 
-What venue is home to the Sacramento Kings?
-Golden 1 Center
+Who was the father of Noah?
+Lamech
 3859
 
-What venue is home to the San Antonio Spurs?
-AT\&T Center
+Who was the father of Lamech?
+Methuselah
 3860
 
-What venue is home to the San Diego Padres?
-Petco Park
+(Common bonds.) Cymbals, the stock market, uninvited guests
+things that crash
 3861
 
-What venue is home to the San Francisco 49ers?
-Levi's Stadium
+(Common bonds.) A smile, an egg, the books
+things you can crack
 3862
 
-What venue is home to the San Francisco Giants?
-Oracle Park
+This Tarantino Western finds its title characters taking refuge from a nasty blizzard in a Wyoming cabin.
+The Hateful Eight
 3863
 
-What venue is home to the San Jose Sharks?
-SAP Center
+Head of a Bandit is one of the surviving sculptures by this double ``C'' Frenchwoman who destroyed much of her own work.
+Camille Claudel
 3864
 
-What venue is home to the Seattle Mariners?
-T-Mobile Park
+What was the band Chicago called before ``Chicago''?
+Chicago Transit Authority
 3865
 
-What venue is home to the Seattle Seahawks?
-Lumen Field
+What Pacific kingdom gained its independence from Great Britain on 4 June 1970?
+Tonga
 3866
 
-What venue is home to the St. Louis Blues?
-Enterprise Center
+French and Sardinian troops defeat the Austrians at this Italian town soon to give a purplish-red color its name.
+magenta
 3867
 
-What venue is home to the St. Louis Cardinals?
-Busch Stadium
+Sticky foot pads called pulvilli are needed if you want to be this and listen to others' conversations while unseen.
+fly on the wall
 3868
 
-What venue is home to the Tampa Bay Buccaneers?
-Raymond James Stadium
+This 1948 painting depicts a young woman trying to crawl up a hill to her farmhouse.
+Christina's World
 3869
 
-What venue is home to the Tampa Bay Lightning?
-Amalie Arena
+Bogie attests, ``One Rocco more or less isn't worth dying for'' in this tempest-tossed John Huston thriller.
+Key Largo
 3870
 
-What venue is home to the Tampa Bay Rays?
-Tropicana Field
+Born of Norwegian descent in 1916, he was given the first name of a famous Norwegian of the time.
+Roald Dahl
 3871
 
-What venue is home to the Tenessee Titans?
-Nissan Stadium, Nashville
+``Silent'' Calvin Coolidge was inaugurated in 1925 on a Bible open to this six-word first line of the Gospel According to John.
+In the beginning was the Word
 3872
 
-What venue is home to the Texas Rangers?
-Globe Life Field, Arlington
+In the eighteenth century, Hume opined on morality, ``'tis impossible that the distinction betwixt'' these two four-letter words ``can be made by reason.''
+good, evil
 3873
 
-What venue is home to the Toronto Blue Jays?
-Rogers Centre
+In 1934, A. J. Ayer set out to show ``the impossibility of'' this, a plural noun for the study of the nature of the universe.
+metaphysics
 3874
 
-What venue is home to the Toronto Maple Leafs and Raptors?
-Scotiabank Arena
+He published 1843's ``Fear and Trembling'' under the pseudonym Johannes de Silentio.
+Søren Kierkegaard
 3875
 
-What venue is home to the Utah Jazz?
-Vivint Smart Home Arena, Salt Lake City
+This double-first-name philosopher born in 1842 said that the value of a concept is in its practical consequences.
+William James
 3876
 
-What venue is home to the Vancouver Canucks?
-Rogers Arena
+This mother of Alexander the Great was in the cult of Dionysus and liked to sleep with snakes.
+Olympias
 3877
 
-What venue is home to the Vegas Golden Knights?
-T-Mobile Arena
+In the 1920s, several elderly men who had worked digging the Big Bend railroad tunnel remembered this hero as a real person.
+John Henry
 3878
 
-What venue is home to the Washington Capitals and Wizards?
-Capital One Arena
+This man's name was given to a comet that crashed into Jupiter in 1994; he is the only human whose remains lie on the Moon.
+Eugene Merle Shoemaker
 3879
 
-What venue is home to the Washington Nationals?
-Nationals Park
+This character in a series of popular books begun in 1934 promises, ``I'll stay till the wind changes.''
+Mary Poppins
 3880
 
-What venue is home to the Winnipeg Jets?
-Bell MTS Place
+This Boston-born architect designed the Massachusetts State House & from 1818 to 1829 served as architect of the U. S. Capitol
+Charles Bulfinch
 3881
 
 What verb can mean ``pour juices or melted fat over meat during cooking to keep it moist'' or ``tack with long, loose stitches in preparation for sewing''?
@@ -15538,8 +15538,8 @@ What verb means ``make (an unpleasant feeling) less intense''?
 assuage
 3884
 
-What verb means ``to argue about petty and trivial matters or to flow or fall with a gentle repetitive noise''?
-bicker
+What verb means ``to argue about petty and trivial matters or to flow or to fall with a gentle repetitive noise''?
+to bicker
 3885
 
 What viruses are transmitted by mosquitoes, ticks, or other arthropods, like encephalitis, dengue, and yellow fever?
@@ -15662,7 +15662,7 @@ What white wine of German origin or style is made from selected individual grape
 Beerenauslese
 3915
 
-What wind speed scale is based on a visual estimation of the wind's effects, ranging from force 0 (less than one knot or one mph, ``calm") to force 12 (64 knots or 74 mph and above, ``hurricane")?
+What wind speed scale is based on a visual estimation of the wind's effects, ranging from force 0 (less than one knot or one mph, ``calm'') to force 12 (64 knots or 74 mph and above, ``hurricane'')?
 Beaufort scale
 3916
 
@@ -15818,8 +15818,8 @@ Where did Gropius establish Bauhaus?
 Weimar
 3954
 
-Where is Arecibo: an observatory noted for its enormous radio telescope that collapsed in Dec. 2020?
-Puerto Rico
+Who was Angelo Giuseppe Roncalli?
+St. John XXIII
 3955
 
 Where is Assisi located?
@@ -15978,11 +15978,11 @@ Who was the first of the notable mathematician-astronomers from the classical ag
 Aryabhata I
 3994
 
-Who were the two most recent popes to have resigned?
-Benedict XVI, Gregory XII
+Who were the three most recent popes to have renounced the papacy?
+Benedict XVI, Gregory XII, Celestine V
 3995
 
-Who wrote the screenplay for 2001: a space odyssey?
+Who wrote the screenplay for 2001: A Space Odyssey?
 Sir Arthur C. Clarke, Stanley Kubrick
 3996
 
@@ -15994,7 +15994,7 @@ What Equatorial Guinean island's former names include Fernando Póo and Macias N
 Bioko
 3998
 
-With the First Vatican Council, Pius IX defined what concept in an apostolic constitution called ``Pastor aeternus''?
+With the First Vatican Council, what concept did Pius IX define in an apostolic constitution called ``Pastor aeternus''?
 papal infallibility
 3999
 
@@ -16078,7 +16078,7 @@ Giordano Bruno
 Boris Godunov
 4019
 
-(1564--93) What English poet and playwright wrote works including The Jew of Malta, Doctor Faustus, Edward the Second, and The massacre at Paris?
+(1564--93) What English poet and playwright wrote works including The Jew of Malta, Doctor Faustus, Edward the Second, and The Massacre at Paris?
 Christopher Marlowe
 4020
 
@@ -17075,7 +17075,7 @@ Horace's Odes
 4268
 
 From what work does the phrase ``omnes una manet nox'' come, and how does it translate into English?
-Horace's Odes, ``one night is awaiting us all"
+Horace's Odes, ``one night is awaiting us all''
 4269
 
 From what work does the proverb ``brevity is the soul of wit'' originate?
@@ -17146,7 +17146,7 @@ Identify the name of the large, highly venomous southern African tree snake, the
 boomslang
 4286
 
-Identify the organized branch of the Mafia whose name comes from the Italian for ``district, village."
+Identify the organized branch of the Mafia whose name comes from the Italian for ``district, village.''
 borgata
 4287
 
@@ -17267,11 +17267,11 @@ squid
 4316
 
 Of what island group is Bora-Bora part?
-Society Islands
+the Society Islands
 4317
 
 Of what mountain system are the Catskills part?
-Appalachian
+the Appalachian Mountains
 4318
 
 Often compared with Folsom, what Paleo-Indian culture of Central and North America, dated to about 11,500--11,000 years ago and earlier, is distinguished by heavy leaf-shaped stone spearheads?
@@ -17279,7 +17279,7 @@ Clovis
 4319
 
 On what body of water is Cardiff located?
-Bristol Channel
+the Bristol Channel
 4320
 
 On what date is Burns Night celebrated for the birthday of the Scottish poet Robert Burns?
@@ -17299,19 +17299,19 @@ Java
 4324
 
 On what river is Cologne?
-Rhine
+the Rhine
 4325
 
 On what river is Cottbus located?
-Spree River
+the Spree River
 4326
 
 On what river is Derry located?
-River Foyle
+the River Foyle
 4327
 
 On what river is Durham located?
-Wear River
+the Wear River
 4328
 
 On what ship of the British navy did part of its crew, led by Fletcher Christian, mutiny against their commander, William Bligh, setting him adrift in an open boat with eighteen crewmen?
@@ -17323,14 +17323,14 @@ Corcovado
 4330
 
 Once called the ``Truk Islands,'' what group of fourteen volcanic islands and numerous atolls in the western Pacific Ocean, in the Caroline Islands group, forms part of the Federated States of Micronesia?
-Chuuk Islands
+the Chuuk Islands
 4331
 
 Probably a diminutive of the Old French for ``young shoot,'' what word refers to a slender threadlike appendage of a climbing plant, often growing in a spiral form, that stretches out and twines around any suitable support?
 tendril
 4332
 
-Taken from Virgil's Aeneid and used as the epigraph of Freud's The interpretation of dreams, what does ``Flectere si nequeo superos, Acheronta movebo'' mean?
+Taken from Virgil's Aeneid and used as the epigraph of Freud's The Interpretation of Dreams, what does ``Flectere si nequeo superos, Acheronta movebo'' mean?
 if I cannot bend the heavens above, I will move Hell
 4333
 
@@ -17675,7 +17675,7 @@ Arabic, French
 4418
 
 What are the words to Hamlet's best-known soliloquy?
-To be, or not to be, that is the question: / Whether `tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them. To die—to sleep, / No more; and by a sleep to say we end / The heart-ache and the thousand natural shocks / That flesh is heir to: `tis a consummation / Devoutly to be wish'd. To die, to sleep; / To sleep, perchance to dream—ay, there's the rub: / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause—there's the respect / That makes calamity of so long life. / For who would bear the whips and scorns of time, / Th'oppressor's wrong, the proud man's contumely, / The pangs of dispriz'd love, the law's delay, / The insolence of office, and the spurns / That patient merit of th'unworthy takes, / When he himself might his quietus make / With a bare bodkin? Who would fardels bear, / To grunt and sweat under a weary life, / But that the dread of something after death, / The undiscovere'd country, from whose bourn / No traveller returns, puzzles the will, / And makes us rather bear those ills we have / Than fly to others that we know not of? / Thus conscience doth make cowards of us all, / And thus the native hue of resolution / Is sicklied o'er with the pale cast of thought, / And enterprises of great pith and moment / With this regard their currents turn awry / And lose the name of action.
+To be, or not to be, that is the question: / Whether `tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them. To die --- to sleep, / No more; and by a sleep to say we end / The heart-ache and the thousand natural shocks / That flesh is heir to: `tis a consummation / Devoutly to be wish'd. To die, to sleep; / To sleep, perchance to dream --- ay, there's the rub: / For in that sleep of death what dreams may come, / When we have shuffled off this mortal coil, / Must give us pause --- there's the respect / That makes calamity of so long life. / For who would bear the whips and scorns of time, / Th'oppressor's wrong, the proud man's contumely, / The pangs of dispriz'd love, the law's delay, / The insolence of office, and the spurns / That patient merit of th'unworthy takes, / When he himself might his quietus make / With a bare bodkin? Who would fardels bear, / To grunt and sweat under a weary life, / But that the dread of something after death, / The undiscovere'd country, from whose bourn / No traveller returns, puzzles the will, / And makes us rather bear those ills we have / Than fly to others that we know not of? / Thus conscience doth make cowards of us all, / And thus the native hue of resolution / Is sicklied o'er with the pale cast of thought, / And enterprises of great pith and moment / With this regard their currents turn awry / And lose the name of action.
 4419
 
 What assertion states that there is no set whose cardinality is strictly between that of the integers and the real numbers?
@@ -20131,7 +20131,7 @@ Brix scale
 5032
 
 What illuminated manuscript of the Gospels, perhaps made by Irish monks in Iona in the eighth or early ninth century, is now kept at Trinity College, Dublin?
-Book of Kells
+the Book of Kells
 5033
 
 What illuminated manuscript of the Gospels, perhaps made by Irish monks in Iona in the eighth or early ninth century, is now kept at Trinity College, Dublin?
@@ -20155,7 +20155,7 @@ Boricua
 5038
 
 What inlet of the Arabian Sea on the Gujarat coast of western India is north of Mumbai?
-Gulf of Cambay/Khambhat
+the Gulf of Cambay/Khambhat
 5039
 
 What inlet of the South China Sea in south-central Vietnam has been a major base for France, Japan, the former Soviet Union, and the US, which had a major installation here during the Vietnam War?
@@ -23875,7 +23875,7 @@ William Caxton
 5968
 
 Who said ``castigat ridendo mores,'' and how does it translate into English?
-Jean-Baptiste de Santeul, ``one corrects customs by laughing at them"
+Jean-Baptiste de Santeul, ``one corrects customs by laughing at them''
 5969
 
 Who starred in Fists of fury (1972) and Enter the dragon (1973)?
@@ -25658,7 +25658,7 @@ What colourless toxic liquid derived from the distillation of coal tar is insolu
 cyclopentadiene
 6414
 
-Whom did Odysseus blind to escape death in The odyssey?
+Whom did Odysseus blind to escape death in The Odyssey?
 Cyclops Polyphemus
 6415
 
@@ -27194,11 +27194,11 @@ What early Italian goddess was associated with hunting, virginity, and the moon?
 Diana
 6798
 
-(b. 1944) What American pop and soul singer was the lead singer of the Supremes but went on to become a successful solo artist, having portrayed Billie Holiday in the movie Lady sings the blues (1972)?
+(b. 1944) What American pop and soul singer was the lead singer of the Supremes but went on to become a successful solo artist, having portrayed Billie Holiday in the movie Lady Sings the Blues (1972)?
 Diana Ross
 6799
 
-What American actress appeared in Annie Hall (1977), The godfather (1972, and its sequels 1974 and 1990), The first wives' club (1996), and Something's gotta give (2003)?
+What American actress appeared in Annie Hall (1977), The Godfather (1972, and its sequels 1974 and 1990), The First Wives' Club (1996), and Something's Gotta Give (2003)?
 Diane Keaton
 6800
 
@@ -30366,7 +30366,7 @@ São Vicente, Boa Vista, and Santiago are among the islands of which republic? I
 Cabo Verde
 7591
 
-About whom is Graham Farmelo's The strangest man? In 1933, he shared the Nobel Prize for Physics with Erwin Schrödinger.
+About whom is Graham Farmelo's The Strangest Man? In 1933, he shared the Nobel Prize for Physics with Erwin Schrödinger.
 Paul Dirac
 7592
 
@@ -30906,7 +30906,7 @@ Sciagraphy is a branch of the science of perspective that deals with the project
 shadows
 7726
 
-The white boy shuffle and The sellout are works by whom?
+The White Boy Shuffle and The Sellout are works by whom?
 Paul Beatty
 7727
 
@@ -30982,7 +30982,7 @@ MINUTE PUN is an anagram of the name of what actinide metal with the atomic numb
 Neptunium
 7745
 
-What surname is shared by two contemporaneous American composers, one of whom wrote the score for the film The magnificent seven and the other the music for West side story?
+What surname is shared by two contemporaneous American composers, one of whom wrote the score for the film The Magnificent Seven and the other the music for West Side Story?
 Bernstein
 7746
 
@@ -35106,7 +35106,7 @@ Ezio Pinza
 Ezra Stiles
 8776
 
-To whom did Bach dedicate his Musical offering?
+To whom did Bach dedicate his Musical Offering?
 Frederick the Great
 8777
 
@@ -38794,7 +38794,7 @@ Francis Poulenc
 Sir Francis Walsingham
 9698
 
-(1598--1664) This Spanish painter was the official painter to Seville from 1628. He carried out commissions for many churches and for Philip IV, for whom he painted The defence of Cadiz (1634) and the series The labours of Hercules (1634). Much of his subject matter is religious.
+(1598--1664) This Spanish painter was the official painter to Seville from 1628. He carried out commissions for many churches and for Philip IV, for whom he painted The Defence of Cadiz (1634) and the series The Labours of Hercules (1634). Much of his subject matter is religious.
 Francisco de Zurbarán
 9699
 
@@ -39338,12 +39338,12 @@ From where are the Toda people?
 southern India
 9834
 
-Who wrote/gave lectures about The theology of the body?
+Who wrote/gave lectures on The Theology of the Body?
 John Paul II
 9835
 
-From where is Liebfraumilch?
-Rhine region
+Whence does Liebfraumilch come?
+the Rhine region
 9836
 
 Who talks about the primacy of beauty, the centrality of goodness, and the ultimacy of truth?
@@ -39362,7 +39362,7 @@ Who were Ricœur's three ``masters of suspicion''?
 Karl Marx, Sigmund Freud, Friedrich Nietzsche
 9840
 
-Who wrote Phenomenology of perception?
+Who wrote Phenomenology of Perception?
 Maurice Merleau-Ponty
 9841
 
@@ -39370,7 +39370,7 @@ Maurice Merleau-Ponty
 disclose
 9842
 
-Who wrote Saving beauty?
+Who wrote Saving Beauty?
 Han Byung Chul
 9843
 
@@ -40862,7 +40862,7 @@ Define ``fulvous.''
 reddish yellow; tawny
 10215
 
-What crystalline acid isomeric with maleic acid is present in fumitory and many other plants? Alternatively, it is called ``trans -butenedioic acid.''
+What crystalline acid isomeric with maleic acid is present in fumitory and many other plants? Alternatively, it is called ``trans-butenedioic acid.''
 fumaric acid
 10216
 
@@ -41458,7 +41458,7 @@ What instrument does Jean-Yves Thibaudet play?
 piano
 10364
 
-Who wrote ``Rainbow connection''?
+Who wrote ``Rainbow Connection''?
 Jim Henson
 10365
 
@@ -41990,7 +41990,7 @@ Who says that ``if nothing impedes the process of gestation, all ores will, in t
 Eliade
 10497
 
-Who wrote The Nabatean agriculture?
+Who wrote The Nabatean Agriculture?
 Ibn Waḥshiyya
 10498
 
@@ -42002,7 +42002,7 @@ Define ``spagyric.''
 relating to alchemy
 10500
 
-Translate ``hour'' to Bahasa.
+Translate ``hour'' to Bahasa Indonesia.
 jam
 10501
 
@@ -42434,7 +42434,7 @@ What does ``panta rei'' mean?
 everything flows
 10608
 
-What is ``that which we might call the liquid version of self''? ``It is the primal water which contains all four elements. Man's inner life is the ``secret place" where the [---], the panacea, the spark of the light of nature, are to be found. The alchemists put their art on the level of divine revelation and regarded it as an essential component of redemption.''
+What is ``that which we might call the liquid version of self''? ``It is the primal water which contains all four elements. Man's inner life is the ``secret place'' where the [---], the panacea, the spark of the light of nature, are to be found. The alchemists put their art on the level of divine revelation and regarded it as an essential component of redemption.''
 aqua permanens
 10609
 
@@ -42514,7 +42514,7 @@ Who discovered ubiquitin in 1975?
 Gideon Goldstein
 10628
 
-Who directed Pulp fiction?
+Who directed Pulp Fiction?
 Quentin Tarantino
 10629
 
@@ -42743,7 +42743,7 @@ Yunnan
 10685
 
 On what river is the Akosombo Dam?
-Volta
+the Volta
 10686
 
 What part of the Amazon River lies entirely in Amazonas? 
@@ -42770,8 +42770,8 @@ What Tibetan religious painting or drawing on woven material, usually cotton, ha
 thang-ka
 10692
 
-What is considered to be the busiest pedestrian intersection?
-Shibuya crossing
+Who promulgated the motu proprio Sacrorum antistitum in 1910?
+St. Pius X
 10693
 
 What ``forms the foundation of . . . the `elementary character of the Feminine''' (Neumann 28)?
@@ -43275,7 +43275,7 @@ Harold Abelson, Gerald Jay Sussman, Julie Sussman
 10818
 
 What does ``SICP'' abbreviate?
-Structure and interpretation of computer programs
+Structure and Interpretation of Computer Programs
 10819
 
 With what language does SICP teach computer science?
@@ -43430,12 +43430,12 @@ What follows Sense and Sensibility?
 Pride and Prejudice
 10857
 
-Where is Iroquois Ridge High School?
-Oakville, Ontario
+Translate into English: ``et dixit eis euntes in mundum universum praedicate evangelium omni creaturae'' (Mark 16.15).
+And he said to them, ``Go into all the world and proclaim the gospel to the whole creation.''
 10858
 
-Where is A. N. Myer Secondary School?
-Niagara Falls, Ontario
+Whom did Benedict XVI call a ``prophet of peace''?
+Benedict XV
 10859
 
 What is encoded by the bcd maternal effect gene in Drosophilia? It was the first protein demonstrated to act as a morphogen.
@@ -43486,7 +43486,7 @@ What describes itself as a ``UNIX-based software package for instrument control 
 spec
 10871
 
-Who wrote ``Space oddity''?
+Who wrote ``Space Oddity''?
 David Bowie
 10872
 
@@ -43494,11 +43494,11 @@ Who says ``ground control to Major Tom''?
 David Bowie
 10873
 
-Who wrote the song ``You're my best friend''?
+Who wrote the song ``You're my Best Friend''?
 Queen
 10874
 
-Who wrote ``Cupid's chokehold''?
+Who wrote ``Cupid's Chokehold''?
 Gym Class Heroes
 10875
 
@@ -43506,12 +43506,12 @@ Who recorded ``Baba O'Riley''?
 The Who
 10876
 
-What is the real name of ``Teenage wasteland''?
-``Baba O'Riley''
+Who was Good Pope John?
+St. John XXIII
 10877
 
-Who talks about ``any white guy in 1985''?
-Bo Burnham
+Which pope wrote the apostolic letter Maximum illud in 1919?
+Benedict XV
 10878
 
 What protein secreted by the Sertoli cells in men and by the granulosa cells in women inhibits the synthesis and release of the follicle-stimulating hormone in the pituitary gland and reduces the hypothalamic LH--releasing hormone content? It also inhibits the multiplication of spermatogonia in male gonads and the production of progesterone by the ovaries.
@@ -43790,7 +43790,7 @@ On what chromosome is p53?
 17
 10947
 
-Who wrote God and man at Yale?
+Who wrote God and Man at Yale?
 William F. Buckley
 10948
 
@@ -44034,20 +44034,20 @@ What did Operation Laylat al-Qadr target?
 Deir ez-Zor
 11008
 
-Where is Domenico di Michelino's fresco of Dante holding the Divine comedy?
+Where is Domenico di Michelino's fresco of Dante holding the Divine Comedy?
 Florence Cathedral
 11009
 
-What band says ``domo arigato, Mr. Roboto''?
-Styx
+What was St. John Paul II's name?
+Karol Józef Wojtyła
 11010
 
-What was the title of Argentina's de facto song at the 2022 World Cup?
-``Muchachos''
+What was Benedict XVI's name?
+Joseph Aloisius Ratzinger
 11011
 
-Recite the lyrics to Argentina's 2022 World Cup song ``Muchachos.''
-En Argentina nací / Tierra del Diego y Lionel / De los pibes de Malvinas / Que jamás olvidaré / No te lo puedo explicar / Porque no vas a entender / Las finales que perdimos / Cuantos años la lloré / Pero eso se terminó / Porque en el Maracaná / La final con los brazucas / La volvió a ganar papá / Muchachos / Ahora nos volvimos a ilusionar / Quiero ganar la tercera / Quiero ser campeón mundial / Y al Diego / Desde el cielo lo podemos ver / Con Don Diego y La Tota / Alentándolo a Lionel / Muchachos / Ahora nos volvimos a ilusionar / Quiero ganar la tercera / Quiero ser campeón mundial / Y al Diego / Desde el cielo lo podemos ver / Con Don Diego y La Tota / Alentándolo a Lionel, y ser campeones otra vez, y ser campeones otra vez
+What was St. John XXIII's name?
+Angelo Giuseppe Roncalli
 11012
 
 Give a blazon of Auvergne-Rhône-Alpes's coat of arms.
@@ -44083,7 +44083,7 @@ What highways pass through Logan Lake?
 11020
 
 What is a stochastic matrix?
-rows/columns sum to one
+matrix whose rows and columns sum to one
 11021
 
 Who wrote Caritas in veritate?
@@ -44094,7 +44094,7 @@ From Francis back, who were the last ten popes?
 Francis, Benedict XVI, John Paul II, John Paul I, Paul VI, John XXIII, Pius XII, Pius XI, Benedict XV, Pius X
 11023
 
-Who wrote The hockey sweater?
+Who wrote The Hockey Sweater?
 Roch Carrier
 11024
 
@@ -44111,7 +44111,7 @@ occidental
 11027
 
 What are the five rivers of Punjab?
-Jhelum, Chenab, Ravi, Sutlej, and Beas
+Jhelum, Chenab, Ravi, Sutlej, Beas
 11028
 
 What does ``Punjab'' mean?
@@ -45551,7 +45551,7 @@ Alagoas
 11386
 
 Who are the three (male and female) football players to have scored at five World Cups?
-Marta, Christine Sinclair, and Cristiano Ronaldo
+Marta, Christine Sinclair, Cristiano Ronaldo
 11387
 
 Where was Stephen Harper born?
@@ -45582,8 +45582,8 @@ What was N'Djamena named at its foundation?
 Fort-Lamy
 11394
 
-To what settlement does the RR-171 lead?
-Uiramutã
+When he wasn't scoring TV's ``Peanuts'' specials, this man recorded favorites like ``Cast Your Fate To The Wind.''
+Vince Guaraldi
 11395
 
 What does ``Polska Górą!'' mean?
@@ -45843,7 +45843,7 @@ Frank Sinatra
 11459
 
 What major water body does Sundarbans border?
-Bay of Bengal
+the Bay of Bengal
 11460
 
 Who was the strongest of all the Danaans?
@@ -46478,8 +46478,8 @@ Who said, ``Hey, hey, you, you, get off of my cloud''?
 The Rolling Stones
 11618
 
-Who asked, ``Psycho killer / Qu'est-ce que c'est?''
-Talking Heads
+What pope promulgated the encyclical Rerum novarum in 1891?
+Leo XIII
 11619
 
 What is a coeval?
@@ -50114,8 +50114,8 @@ Translate ``Lex orandi, lex credendi.''
 law of prayer, law of belief
 12527
 
-What musicians feature on DJ Khaled's ``I'm the one''?
-Chance the Rapper, Justin Bieber, Lil Wayne, Quavo
+Who reformed the Roman Breviary in the constitutio apostolica Divino afflatu in 1911?
+St. Pius X
 12528
 
 What pope issued Summorum Pontificum?
@@ -50163,7 +50163,7 @@ mends shoes
 12539
 
 What is ``the dunny''?
-toilet
+the toilet
 12540
 
 Who says, tricking the cyclops, ``Οὖτις ἐμοί γ᾽ ὄνομα: Οὖτιν δέ με κικλήσκουσι / μήτηρ ἠδὲ πατὴρ ἠδ᾽ ἄλλοι πάντες ἑταῖροι''?
@@ -51290,7 +51290,7 @@ Who was the first NHL player after Pavel Bure to have back-to-back 50-goal seaso
 Dany Heatley
 12821
 
-Who scored 50 in '07?
+What hockey player scored fifty in '07?
 Dany Heatley
 12822
 
@@ -53258,7 +53258,7 @@ Dnipro
 13313
 
 What strait in north-western Turkey connects the Aegean Sea to the Sea of Marmara?
-Dardanelles
+the Dardanelles
 13314
 
 Which Russian river rises in Novomoskovsk and empties into the Sea of Azov?
@@ -54476,4 +54476,712 @@ very sweet, firm golden-brown Norwegian cheese, traditionally made with goat's
 What is a young horse called?
 foal
 13618
+
+Who was the sixth successor of Peter?
+St. Sixtus I
+13619
+
+Which pope instituted the seven-week fast before Easter?
+St. Telesphoros
+13620
+
+Who introduced Easter as an annual liturgical feast in Rome?
+St. Soter
+13621
+
+Which was the first African pope?
+St. Victor I
+13622
+
+Which was the first pope to abdicate his office?
+St. Pontian
+13623
+
+During whose pontificate was the Council of Ephesus held?
+St. Celestine I
+13624
+
+Who was the first supreme pontiff of German extraction?
+Boniface II
+13625
+
+Which was the first pope to resign his office?
+St. Silverius
+13626
+
+During whose papacy was Muhammad born?
+John III
+13627
+
+Who was the second supreme pontiff of German extraction?
+Pelagius II
+13628
+
+Pope St. Paul I succeeded his brother as the Supreme Pontiff. Which supreme pontiff was his brother?
+Stephen II
+13629
+
+When did the Christianization of Poland happen?
+966
+13630
+
+Which was the first German pope?
+Gregory V
+13631
+
+Pope John XIX succeeded his brother as the Supreme Pontiff. Which supreme pontiff was his brother?
+Benedict VIII
+13632
+
+Which pope canonized Francis of Assissi in 1226, Anthony of Padua in 1232, and Dominic in 1234?
+Gregory IX
+13633
+
+Whose papacy followed a three-year interregnum in the thirteenth century?
+Gregory X
+13634
+
+Which was the first Dominican pope?
+Innocent V
+13635
+
+Which was the first Avignon pope?
+Clement V
+13636
+
+Which was the last Avignon pope?
+Gregory XI
+13637
+
+King Nebuchadnezzar gave Daniel many great gifts and ``made him ruler over the whole province'' of this.
+Babylon
+13638
+
+Woodrow Wilson won reelection in 1916 with this 6-word campaign slogan; a few months later, it was no longer true.
+he kept us out of war
+13639
+
+Another word for a storehouse or burial place, one of these ``of knowledge'' is someone who is full of useful info.
+repository
+13640
+
+Many American soldiers needed prosthetics due to these three-letter devices called the signature weapon of the Iraq War.
+IEDs
+13641
+
+The 1951 court case Dennis v. United States modified this paired type of ``danger'' as a test for suppressing speech.
+clear and present
+13642
+
+Downbursts can cause this turbulent flying condition in which winds of different speeds and directions buffet planes.
+wind shear
+13643
+
+We salute Lou Conter, the last survivor of this battleship sunk in Pearl Harbor, who passed away in 2024 at 102.
+the Arizona
+13644
+
+During a 1972 presidential visit, Richard Nixon discussed a poem by this leader called ``Ode to the Plum Blossom.''
+Mao Zedong
+13645
+
+``Groove Is in the Heart'' sampled Eva Gabor singing ``I'' (before ``get allergic smelling hay'') from the theme of this '60s sitcom.
+Green Acres
+13646
+
+What is the active ingredient in the ``pens'' used to treat anaphylaxis?
+epinephrine
+13647
+
+The tranquillizer Diazepam began being sold under this name in 1963; a few years later, it was ``mother's little helper.''
+Valium
+13648
+
+Before penicillin, bacterial infections were treated with these five-letter drugs that are still used for eye infections and acne.
+sulfa drugs
+13649
+
+Drugs like Claritin work by reducing the effects of this natural chemical in the body.
+histamine
+13650
+
+Remember? Twenty-five years after his death, Nat King Cole duetted with his daughter Natalie on this Grammy-winning hit.
+``Unforgettable''
+13651
+
+On 25 October 2001, the Senate approved this act by a vote of 98--1, with Wisconsin's Russ Feingold as the lone dissenter.
+the Patriot Act
+13652
+
+On 15 November 1919, after two months of debating the Treaty of Versailles, a fed-up Senate applied this rule for the first time.
+cloture
+13653
+
+The black-tailed deer is the type of deer named for this other four-legged animal --- no relation, just that it has long ears.
+mule deer
+13654
+
+A field of 168 empty chairs represents each of the victims in the bombing of a federal building in this city on 19 April 1995.
+Oklahoma City
+13655
+
+Begun in 1885 and inaugurated in 1911, the Victor Emmanuel II monument commemorates the unification of this country.
+Italy
+13656
+
+A poem by Carol Ann Duffy about ``the woman who married the fool who wished for gold'' is titled ``Mrs.'' this mythic king.
+Midas
+13657
+
+The 2024 Gold Wing motorcycle from this Japanese manufacturer features an 1833cc liquid-cooled engine.
+Honda
+13658
+
+Who directed himself in ``The Monuments Men''?
+George Clooney
+13659
+
+Who directed himself in ``Tropic Thunder''?
+Ben Stiller
+13660
+
+Who directed himself in ``Fences''?
+Denzel Washington
+13661
+
+Which was W. H. Auden's longest poem?
+``The Age of Anxiety''
+13662
+
+W. H. Auden wrote a poem called ``The Age of'' this.
+Anxiety
+13663
+
+Which horse won the 1915 Kentucky Derby?
+Regret
+13664
+
+In 1958 a review of this book now considered a classic called it repulsive, disgusting, and ``highbrow pornography.''
+Lolita
+13665
+
+Who wrote Lolita?
+Vladimir Nabokov
+13666
+
+Just west of Denver, it had the ``metal'' to be a territorial capital in the 1860s.
+Golden
+13667
+
+Composer Franco Alfano finished this Asia-set opera after Puccini died.
+Turandot
+13668
+
+Where is Turandot set?
+China
+13669
+
+Where is Madama Butterfly set?
+Japan
+13670
+
+When Charles Gounod's ``Faust'' is sung in the original French, this evil fiend has accents on all three E's in his name.
+Mephistopheles
+13671
+
+In Wagner's opera about the Valkyries, there are nine of them, led by this daughter of Wotan.
+Brunhild
+13672
+
+In Rossini's take on this tale, Alex Trebek's favourite opera, not a fairy but the prince's tutor gets the heroine to the ball.
+Cinderella
+13673
+
+Willie Stargell, who ruled this Pittsburgh stadium as a cleanup hitter in the '70s, was at the Pirates' last game there in 2000.
+Three Rivers
+13674
+
+Who used the pen name Currer Bell?
+Charlotte Brontë
+13675
+
+Kegling is just another name for this sport.
+bowling
+13676
+
+In her film ``Heir to an Execution,'' Ivy Meeropol explored the lives and deaths of her grandparents, this couple executed in 1953.
+the Rosenbergs
+13677
+
+In 1991 the observatory at Vassar named for this nineteenth-century female astronomer was made a National Historic Landmark.
+Maria Mitchell
+13678
+
+In 1774 this British ceramicist came up with his jasperware, a very fine-grained stoneware colored throughout the body.
+Wedgwood
+13679
+
+Ceramics that are fired but not yet glazed are called this, like a soup.
+bisque
+13680
+
+These items that ignite the air-fuel mixture in an engine use ceramic insulators to provide greater thermal conductivity.
+spark plugs
+13681
+
+During his Munich period, this Russian painter co-founded Der Blaue Reiter (``The Blue Rider'') art movement.
+Kandinsky
+13682
+
+The ``K'' in ``K2'' stands for this great mountain system.
+Karakoram
+13683
+
+This ten-letter adjective is used to mean frightening or confusing, like situations in works by ``The Trial'' author.
+Kafkaesque
+13684
+
+Of the ten United States with two-word names, this one stretches the farthest south.
+New Mexico
+13685
+
+A technique to interlock wood pieces inspired John Lloyd Wright to create these in 1916.
+Lincoln Logs
+13686
+
+What is the probability that a one appeared after rolling three dice?
+$$\frac{91}{216}$$
+13687
+
+What was the last name of Evangeline, elected general of the Salvation Army in 1934? She was the third in her family to hold the position.
+Booth
+13688
+
+``The Lone Ranger and ''this man ``Fistfight in Heaven'' is the title story of a collection by Native American author Sherman Alexie.
+Tonto
+13689
+
+A Dostoyevsky story is titled these, the daylit evenings of St. Petersburg in summertime.
+``White Nights''
+13690
+
+W. W. Jacobs came up with pretty much the opposite of a lucky rabbit's foot with this story of a dad, a son, and three wishes gone bad.
+``The Monkey's Paw''
+13691
+
+This nineteenth-century French short story master is noted for twist endings, as in ``The Necklace.''
+Guy de Maupassant
+13692
+
+Steve Largent went on from this university to a HOF pro career, then returned home to represent the area in Congress.
+the University of Tulsa
+13693
+
+Missile launches are part of the mission of the California Air Force base named for this general.
+Hoyt Vandenberg
+13694
+
+It's the romantic quote heard next:\\``I love you. You . . . complete me. And I just had ---''\\``Shut up. Just shut up.''
+``You had me at hello.''
+13695
+
+A cab gets too close in ``Midnight Cowboy'' and Dustin Hoffman lets loose with this outburst.
+``I'm walking here!''
+13696
+
+To the delight of crossword constructors, Eric with this last name founded a reader in 1984.
+Utne
+13697
+
+This French daily paper began in 1944 when the German army had left Paris and France needed an independent voice.
+Le Monde
+13698
+
+This Japanese business paper shares its name with a Japanese stock index.
+Nikkei
+13699
+
+The very first volume of ``The Harvard Lampoon'' appeared in February 1876 and was modelled on this British humour magazine.
+Punch
+13700
+
+Van Gogh drew a famous portrait of this homeopathic physician, whom he called ``sicker than I am.'' Cezanne, also a friend, chose to paint a scene of his house at Auvers.
+Dr. Gachet
+13701
+
+This English engraver is known for his 1730s series called ``The Rake's Progress.''
+William Hogarth
+13702
+
+Born in Rotterdam in 1904, he entered the United States as a stowaway and painted houses before becoming an abstract expressionist.
+Willem de Kooning
+13703
+
+This 1863 Manet masterpiece caused a scandal, as one of the women picnicking in what may be the Bois de Boulogne is nude.
+Luncheon on the Grass
+13704
+
+This second-largest port of France once had a longer name that included ``de Grâce.''
+Le Havre
+13705
+
+By a 2018 treaty this large body into which the Volga flows was deemed neither a lake nor a sea, but a body with special legal status.
+the Caspian
+13706
+
+A rationalist, this Dutch philosopher answered to the first names Bento, Benedictus, and the Hebrew Baruch.
+Spinoza
+13707
+
+Compiled by future generations of disciples, the sayings of Confucius were collected in a work called this, derived from Greek.
+Analects
+13708
+
+Edward Kingsford first used scrap lumber from carmaking to produce these.
+charcoal briquettes
+13709
+
+Its second line is ``All the powers of old Europe have entered into a holy alliance to exorcise this spectre: Pope and Czar, Metternich and Guizot . . . .''
+The Communist Manifesto
+13710
+
+Bijar carpets and Sanandaj rugs are products of this countryless people who live in an area ranging from Syria to Iran.
+the Kurds
+13711
+
+Sisal rugs are made from the fibres of this succulent that's also used to make beer and other alcoholic beverages.
+agave
+13712
+
+Name the decade in which the Tudor line begins its five-monarch rule of England.
+the 1480s
+13713
+
+Name the decade in which the Battle of Crécy is fought.
+the 1340s
+13714
+
+Name the decade in which the Black Death starts.
+the 1340s
+13715
+
+Mountain goats are genus Oreamnos --- other goats, this genus: the same as a filmmaking genius.
+Capra
+13716
+
+This twenty-letter adverb means in a manner not typical of a particular person.
+uncharacteristically
+13717
+
+This twenty-letter ``-tion'' is the attribution of human qualities to something that is not human.
+anthropomorphization
+13718
+
+In a 2010 poll, this Nobel Peace Prize winner and politician ranked as Ireland's greatest person.
+John Hume
+13719
+
+Performances like his 1979 ``Live in Concert'' film made Rolling Stone list him as the greatest stand-up comedian of all time.
+Richard Pryor
+13720
+
+Tall, lanky Joel Barlow was an ambassador carrying messages between these two world leaders, both mocked for being short.
+Napoleon, Madison
+13721
+
+The peak known as the Mönch (``monk'') stands between the Jungfrau (``maiden'') and the Eiger, this type of creature in English.
+ogre
+13722
+
+The Alps are the source of many major rivers including the Rhine, the Rhone, and this 405-mile waterway that flows to the Adriatic.
+the Po
+13723
+
+Thought to be 5,300 years old, a mummified Neolithic ``iceman'' given this first name was found in the Alps in 1991.
+Ötzi
+13724
+
+The name of this ancient garment from a single piece of cloth is related to the Latin word for ``to cover.''
+toga
+13725
+
+Worn by men and women, the chiton was a long tunic dating back to this ancient Greek period, also a word for ``outmoded.''
+archaic
+13726
+
+In 1847 Herman Melville published this sequel to ``Typee'' subtitled ``A Narrative of Adventures in the South Seas.''
+Omoo
+13727
+
+Edited by the author's son Christopher and published in 1977, it's a history of Middle-earth before ``Lord of the Rings.''
+The Silmarillion
+13728
+
+An eisteddfod winner adds a vowel and becomes a long, flat piece of pine.
+bard, board
+13729
+
+A fluid for writing adds a vowel and becomes this barnyard clamour.
+ink, oink
+13730
+
+A word meaning to move quickly afoot adds a vowel and becomes to wreck or destroy.
+run, ruin
+13731
+
+From a Latin word for ``edge,'' this primitive ``system'' of nerves helps run basic behaviour like feeding, fighting, and fleeing.
+the limbic system
+13732
+
+This pea-sized gland secretes a hormone regulating sleep; science has not confirmed Descartes's belief that it's the seat of the soul.
+the pineal
+13733
+
+This 1832--33 crisis ended when South Carolina backed down from its efforts to void federal law.
+Nullification
+13734
+
+Parliament gained supremacy over the president in an 1877 crisis early in this ordinal French republic.
+the Third Republic
+13735
+
+What was the last name of the man who dismissed Prime Minister Mohammad Mosaddegh in August 1953 with some outside help?
+Pahlavi
+13736
+
+In the last line of ``Waiting for Godot,'' he tells Vladimir, ``Yes, let's go.''
+Estragon
+13737
+
+A very long-titled play by Peter Weiss features the Marquis de Sade and this murdered French revolutionary.
+Jean-Paul Marat
+13738
+
+The Greek for ``sacred'' and ``carving'' gives us this word for a writing system.
+hieroglyphics
+13739
+
+This fancy word for a scar is just Latin for ``scar.''
+cicatrix
+13740
+
+This condition was thought to arise from an excess of black bile, the origin of its name.
+melancholia
+13741
+
+These two now-defunct parties each gave the United States four presidents in the nineteenth century.
+Democratic-Republican, Whig
+13742
+
+Angered at the UN's support of Malaysia, this Indonesian president withdrew his country from the UN in January 1965.
+Achmad Sukarno
+13743
+
+Let's get sanguine about this mineral AKA heliotrope, prized in the Middle Ages.
+bloodstone
+13744
+
+Tornadoes are rated from EF0 to EF5, the ``E'' standing for ``enhanced'' and the ``F'' for this Japanese-American meteorologist.
+Fujita
+13745
+
+``Subterranean Homesick Alien'' is on this Radiohead album.
+OK Computer
+13746
+
+All the planets orbit the Sun within seven degrees of this plane, whose name comes from an astronomical event.
+the ecliptic 
+13747
+
+It's a Hollywood term for a long prose synopsis of a screenplay.
+treatment
+13748
+
+This word for extreme malice was also the name of Jabba's nasty beast that Luke killed in ``Return of the Jedi.''
+rancor
+13749
+
+Where are Najaf and Kirkuk?
+Iraq
+13750
+
+The toast ``slainte'' literally means this.
+health
+13751
+
+What three books form Chinua Achebe's African Trilogy?
+Things Fall Apart, No Longer at Ease, Arrow of God
+13752
+
+Of the seven countries that make up Central America, this one is alphabetically third.
+El Salvador
+13753
+
+``Asturias'' by this grade-``A'' Spanish composer has the subtitle ``Leyenda,'' meaning ``legend.''
+Albéniz
+13754
+
+A pas de deux based on music by Samuel Barber premiered in 1975 with Baryshnikov as Jason & Carla Fracci as her.
+Medea
+13755
+
+The 1935 bill authorizing this humongous concrete dam mentions the Columbia Basin Compact.
+the Grand Coulee Dam
+13756
+
+A 1973 act of Congress approved funding for a replacement dam at American Falls on this river in the Northwest.
+the Snake
+13757
+
+Construction began on Oroville Dam before it was fully funded by the Burns-Porter Act, a ballot initiative in this state.
+California
+13758
+
+The invisible hand of Cupid did not strike this eighteenth-century Scot who lived with his mother Margaret for much of his life.
+Adam Smith
+13759
+
+A vizier to Djoser, this Egyptian was one of the few mortals to be completely deified and was worshipped as the god of medicine.
+Imhotep
+13760
+
+René Laënnec invented a monaural version of this instrument, long a staple of the medical kit.
+the stethoscope
+13761
+
+Poplar Bluff is in Missouri; this tree Bluff is in Arkansas.
+Pine
+13762
+
+A three-letter tree is in the name of this Oregon city known for a Shakespeare festival.
+Ashland
+13763
+
+The fabulous skiing of Snowmass is about ten miles west of this city.
+Aspen, Colorado
+13764
+
+The Red Cross Knight is ``pricking on the plaine'' in Book 1 of this long, long 1590 poem (``pricking'' meant spurring a horse).
+The Faerie Queene
+13765
+
+One of Britain's greatest minds was this nineteenth-century physicist and author of ``A Treatise on Electricity and Magnetism.''
+James Clerk Maxwell
+13766
+
+This historic centre for cutlery making is represented by the Blades in Premier League football.
+Sheffield
+13767
+
+From 1968, the ``Village Green Preservation Society'' album is often considered this British band's masterpiece.
+The Kinks
+13768
+
+``Should I Stay or Should I Go'' was an appropriate song for this album; soon afterward, Mick Jones left The Clash.
+Combat Rock
+13769
+
+In 1967 part of Nigeria broke off and declared its independence as this land.
+Biafra
+13770
+
+(``Portmanteau.'') Insidious pandemic culprit of 1918 plus delightfully foamy Italian custard.
+influenzabaglione
+13771
+
+(``Portmanteau.'') Gradual increase in the intensity of a musical piece plus a dental professional who specializes in the pulp of your teeth.
+crescendodontist
+13772
+
+(``Portmanteau.'') Small, oblong Chinese citrus fruit plus rhymed verse employed by Omar Khayyam and Nostradamus.
+kumquatrain
+13773
+
+In 1605 this Brit wrote ``Advancement of Learning''; the ``Screaming Popes'' is a series by a British artist of the same name.
+Francis Bacon
+13774
+
+This area of Greece, home to Pan, is synonymous with a rural paradise; it's a setting for Virgil's shepherd poems the ``Eclogues.''
+Arcadia
+13775
+
+This metrical foot is two short or unstressed syllables followed by one long or stressed one.
+anapest
+13776
+
+This concept of divine intervention to resolve the plot was used in the Sophocles play ``Philoctetes.''
+deus ex machina
+13777
+
+It's the German word for a novel about the education and formative years of the protagonist; ``The Catcher in the Rye'' is one.
+Bildungsroman
+13778
+
+(Math to Roman numerals to initials to names.) $800+250$ to this architect of a DC landmark dedicated in 1982.
+Maya Lin
+13779
+
+(Math to Roman numerals to initials to names.) $\sqrt{4000000}$ to this guy who hit more than five hundred career home runs from 1986 to 2001.
+Mark McGwire
+13780
+
+(Math to Roman numerals to initials to names.) Five percent of four thousand to this author of ``The NUMA Files'' books and other maritime thrillers.
+Clive Cussler
+13781
+
+(Math to Roman numerals to initials to names.) $(1000/2)-350$ to this rock singer who was also a 1997 Golden Globe nominee.
+Courtney Love
+13782
+
+(Math to Roman numerals to initials to names.) $10^2-10$ to this Latin bandleader, ``The Rumba King.''
+Xavier Cugat
+13783
+
+On 19 December 1972, astronauts Cernan, Schmitt, and Evans splashed down in the Pacific as this last manned Moon mission came to an end.
+Apollo 17
+13784
+
+In 1900, three years after leaving the vice presidency, he welcomed a grandson given the same name, later a candidate for president.
+Adlai Stevenson
+13785
+
+Hubert H. Humphrey had the monogram H. H. H.; for this nineteenth-century veep, it was H. H.
+Hannibal Hamlin
+13786
+
+A surprise attack at these plains in Quebec in 1759 led to the British gaining control of New France.
+the Plains of Abraham
+13787
+
+Russia recognizes Abkhazia's independence, declared in 1999, but this country, in which Abkhazia lies, does not.
+Georgia
+13788
+
+This legendary birthplace of Aphrodite has been in dispute between its Greek and Turkish residents for decades now.
+Cyprus
+13789
+
+AKA royal purple, the famed dye named for this Phoenician city was produced during the Bronze Age.
+Tyre
+13790
+
+Porphyrogeniture is succession by the first son ``born in the purple,'' while dad was king; this is succession by the first son born anytime.
+primogeniture
+13791
+
+The fifth and probably smelliest of Hercules's labours, it has come to mean any Herculean task.
+the Augean Stable
+13792
+
+In a 1901 novel, a girl is seized by a Frenchman and ``perhaps carried off to'' this dreadful destiny.
+a fate worse than death
+13793
+
+Thomas Carlyle described a leader as ``soft of speech . . . yet with an inflexible rigour of command'': this metaphor.
+an iron hand in a velvet glove
+13794
+
+He has 272 speeches, the most of any non-title character in a Shakespeare tragedy.
+Iago
+13795
 
