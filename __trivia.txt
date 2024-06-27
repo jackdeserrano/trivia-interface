@@ -3747,7 +3747,7 @@ Augusto Pinochet
 936
 
 What former endorheic lake lying between Kazakhstan and Uzbekistan has drastically shrunk since Soviet irrigation projects diverted rivers that fed it in the 1960s?
-Aral Sea
+the Aral Sea
 937
 
 What four moons of Jupiter are, collectively, the Galilean moons?
@@ -7231,7 +7231,7 @@ Principia
 1807
 
 What St. Francis of Assisi work was written in an Umbrian dialect of Italian and among the first written works in the Italian language?
-Laudes Creaturarum `Canticle of the Sun'
+Laudes Creaturarum `the Canticle of the Sun'
 1808
 
 What writer who was exiled from Athens after he failed to prevent the Spartans' capture of Amphipolis wrote the History of the Peloponnesian War during his exile in an unprecedented feat of composing an account of a war as its events unfolded?
@@ -9106,7 +9106,7 @@ Dundum ad nostram audientiam
 Sicut dudum
 2276
 
-(flor. sixth century) What Greek philosopher and scientist believed that earth was flat and shallow, a retrograde step from Anaximander?
+(flor. the sixth century) What Greek philosopher and scientist believed that earth was flat and shallow, a retrograde step from Anaximander?
 Anaximenes
 2277
 
@@ -9531,11 +9531,11 @@ Areopagus
 2382
 
 On what movable frame is a coffin or corpse placed before burial or cremation?
-bier
+a bier
 2383
 
 On what pad containing optical fibres connected to a light source may a young baby be laid for jaundice treatment?
-biliblanket
+a biliblanket
 2384
 
 On what river does Asunción lie?
@@ -14215,43 +14215,43 @@ asperges
 3553
 
 What river flows 725 km through central Mexico, through Puebla, Guerrero, and Michoacán states, and into the Pacific Ocean?
-Rio Balsas
+the Rio Balsas
 3554
 
 What river flows from central to northern Bolivia, east of the Andes, into the Madeira River?
-Beni River
+the Beni
 3555
 
 What river flows from northern Cameroon into Nigeria, where it joins the Niger River?
-Benue River
+the Benue
 3556
 
 What river flows from northern New Hampshire through south-west Maine into the Atlantic?
-Androscoggin River
+the Androscoggin
 3557
 
 What river forms part of the Russia-China border?
-Amur/Heilong
+the Amur/the Heilong
 3558
 
 What river in Louisiana that flows into the Gulf of Mexico controls flooding on the Red and Mississippi Rivers?
-Atchafalaya River
+the Atchafalaya
 3559
 
 What river in northern India that rises in the Himalayas and flows through Himachal Pradesh to join the Sutlej River in Punjab is one of the five rivers that gave Punjab its name?
-Beas
+the Beas
 3560
 
 What river in south-east Siberia flows northwest and west for over 1,000 miles from Lake Baikal to the Yenisei River?
-Angara River
+the Angara
 3561
 
 What river is known as Big Muddy?
-Missouri River
+the Missouri
 3562
 
 What river known as the Oxus in classical times rises in the Pamirs and flows into the Aral Sea?
-Amu Darya
+the Amu Darya
 3563
 
 What river port in central Belarus is located on the Berezina River southeast of Minsk?
@@ -16282,7 +16282,7 @@ Gustave Courbet
 Sir Richard Burton
 4070
 
-(1821--93) What English painter was inspired by the Pre-Raphaelites, and in 1861 he became a founding member of William Morris's company, designing stained glass and furniture?
+(1821--93) What English painter was inspired by the Pre-Raphaelites, and in 1861 became a founding member of William Morris's company, designing stained glass and furniture?
 Ford Madox Brown
 4071
 
@@ -17199,14 +17199,14 @@ Gloucestershire
 4299
 
 In what desert is the Salton Sea located?
-Colorado Desert
+the Colorado Desert
 4300
 
 In what event does a large cloud of energetic and highly magnetized plasma erupt from the solar corona into space, causing radio and magnetic disturbances on the earth?
-coronal mass ejection
+a coronal mass ejection
 4301
 
-In what Indian state is Coimbatore found?
+What Indian state contains Coimbatore?
 Tamil Nadu
 4302
 
@@ -20579,19 +20579,19 @@ champerty
 5144
 
 What is an imp?
-small, mischievous devil or sprite; a mischievous child
+a small, mischievous devil or sprite; a mischievous child
 5145
 
 What is an incursion?
-invasion or attack, especially a sudden or brief one
+an invasion or attack, especially a sudden or brief one
 5146
 
 What is an intimation?
-indication or hint
+an indication or hint
 5147
 
 What is an organism, typically a bacterium, which derives energy from the oxidation of inorganic compounds called?
-chemoautotroph
+a chemoautotroph
 5148
 
 What is an undercroft?
@@ -20599,11 +20599,11 @@ the crypt of a church
 5149
 
 What is an unstressed word that normally occurs only in combination with another word called?
-clitic
+a clitic
 5150
 
 What is another name for a bruise?
-contusion
+a contusion
 5151
 
 What is another name for a bullfight?
@@ -25819,7 +25819,7 @@ Daesh
 6454
 
 On what river is Dachau located?
-Amper River
+the Amper
 6455
 
 In southeastern Europe in what is now northwestern Romania, what ancient country was annexed by Trajan in 106 AD as a province of the Roman Empire?
@@ -26242,23 +26242,23 @@ What Dutch musical director and orchestra conductor was the principal conductor 
 Bernard Haitink
 6560
 
-What English painter is best known for his California work of the mid-1960s, which depicts flat, almost shadowless architecture, lawns, and swimming pools?
+Which English painter is best known for his California work of the mid-1960s, which depicts flat, almost shadowless architecture, lawns, and swimming pools?
 David Hockney
 6561
 
-(1711--76) What Scottish philosopher, economist, and historian rejected the possibility of certainty in knowledge and wrote A treatise of human nature (1739--40) and History of England (1754--62)?
+(1711--76) Which Scottish philosopher, economist, and historian rejected the possibility of certainty in knowledge and wrote A Treatise of Human Nature (1739--40) and History of England (1754--62)?
 David Hume
 6562
 
-(1908--91) What English movie director's many movies include The bridge on the River Kwai (1957), Lawrence of Arabia (1962), Doctor Zhivago (1965), and A Passage to India (1984)?
+(1908--91) Which English movie director's many movies include The Bridge on the River Kwai (1957), Lawrence of Arabia (1962), Doctor Zhivago (1965), and A Passage to India (1984)?
 Sir David Lean
 6563
 
-(b. 1935) What English novelist and academic has been the professor of Modern English Literature at the University of Birmingham since 1976, often satirizing academia and literary criticism in his novels which include Changing Places (1975), Small World (1984), and Therapy (1995)?
+(b. 1935) Which English novelist and academic has been the professor of Modern English Literature at the University of Birmingham since 1976, often satirizing academia and literary criticism in his novels which include Changing Places (1975), Small World (1984), and Therapy (1995)?
 David Lodge
 6564
 
-(1785--1841) What Scottish painter established his reputation with the painting Village Politicians (1806) and contributed to the growing prestige of genre painting?
+(1785--1841) Which Scottish painter established his reputation with the painting Village Politicians (1806) and contributed to the growing prestige of genre painting?
 Sir David Wilkie
 6565
 
@@ -28014,8 +28014,8 @@ What is divestiture?
 the action or process of selling off subsidiary business interests or investments
 7003
 
-What doctrine that kings derive their authority from God, not from their subjects---from which it follows that rebellion is the worst of political crimes---was claimed in Britain by the earlier Stuarts and is also associated with the absolutism of Louis XIV of France?
-divine right of kings
+What doctrine that kings derive their authority from God, not from their subjects --- from which it follows that rebellion is the worst of political crimes --- was claimed in Britain by the earlier Stuarts and is also associated with the absolutism of Louis XIV of France?
+the divine right of kings
 7004
 
 In what open-bottomed chamber supplied with compressed air can a person be let down underwater?
@@ -31339,7 +31339,7 @@ hoatzin
 7834
 
 Alive in the Cretaceous period and growing to a height of around eight feet, the dinosaur Struthiomimus was so-named because of its superficial resemblance to what large bird?
-ostrich
+the ostrich
 7835
 
 What surname is shared by the two astrophysicists who, alongside Willie Fowler and Fred Hoyle, wrote the landmark 1957 paper ``Synthesis of the elements in stars,'' also known as the ``$\textrm{B}^{\textrm{2FH}}$ paper''?
@@ -34551,7 +34551,7 @@ Euskara
 8637
 
 What narrow passage leading from the pharynx to the cavity of the middle ear permits the equalization of pressure on each side of the eardrum?
-Eustachian tube
+the Eustachian tube
 8638
 
 What is the change of sea level throughout the world caused typically by movements of parts of the earth's crust or melting of glaciers called?
@@ -35395,11 +35395,11 @@ Sir Mo Farah
 8848
 
 In what lively Provençal dance do the dancers join hands and wind in and out in a chain?
-farandole
+the farandole
 8849
 
 What might a Thai call a European or another foreigner?
-farang
+a farang
 8850
 
 What Colombian guerrilla group was formed in 1964 as a Marxist movement and engaged in armed resistance to the government until 2016 when a peace treaty was signed?
@@ -35411,11 +35411,11 @@ Fuerzas Armadas Revolucionarias de Colombia
 8852
 
 What is a fard in Islam?
-religious obligation or duty
+a religious obligation or duty
 8853
 
 Define ``fardel.''
-bundle or collection
+a bundle or collection
 8854
 
 What is the southernmost point of Greenland called?
@@ -38059,7 +38059,7 @@ Ahura Mazdā
 9514
 
 What do Spenta Mainyu and Angra Mainyu, Osiris and Seth, Gilgamesh and Enkidu, and Cain and Abel represent in their respective myths?
-hostile brothers
+the hostile brothers
 9515
 
 What ``most particularly characterizes evil''?
@@ -38726,8 +38726,8 @@ What does ``EBITDA'' abbreviate?
 earnings before interest, taxes, depreciation, and amortization
 9681
 
-What is the oldest film festival?
-Venice film festival
+Which is the oldest film festival?
+the Venice Film Festival
 9682
 
 What prefixed title is given to an Italian monk or friar? It is an abbreviation of the Italian word for ``brother.''
@@ -38930,7 +38930,7 @@ What aromatic gum resin obtained from an African tree is burnt as incense? This 
 frankincense
 9732
 
-(c. 1580--1666) What Dutch portrait and genre painter endowed his portraits with vitality, departing from conventional portraiture with works such as The banquet of the officers of the St. George Militia Company (1616) and The laughing cavalier (1624)?
+(c. 1580--1666) What Dutch portrait and genre painter endowed his portraits with vitality, departing from conventional portraiture with works such as The Banquet of the Officers of the St. George Militia Company (1616) and The Laughing Cavalier (1624)?
 Frans Hals
 9733
 
@@ -42490,7 +42490,7 @@ John 14.12
 Aeterna Dei sapientia `God's eternal wisdom'
 10622
 
-Who were Adam and Eve's three identified children?
+Who were Adam and Eve's sons?
 Cain, Abel, Seth
 10623
 
@@ -43243,11 +43243,11 @@ Rhône
 10810
 
 What is Ontario's bird?
-common loon
+the common loon
 10811
 
 What is Gavia immer?
-common loon
+the common loon
 10812
 
 Who sculpted Christus in the Copenhagen Cathedral?
@@ -46771,7 +46771,7 @@ gegenschein
 11691
 
 What is gegenschein?
-patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun
+a patch of very faint nebulous light sometimes seen in the night sky opposite the position of the sun
 11692
 
 What is Gehenna?
@@ -50586,7 +50586,7 @@ Who plays Harold Abrahams in Chariots of fire?
 Ben Cross
 12645
 
-Where was the beach running scene in Chariots of fire filmed?
+Where was the beach running scene in Chariots of Fire filmed?
 St. Andrews, Scotland
 12646
 
@@ -50615,7 +50615,7 @@ Norm Macdonald
 12652
 
 On what body of water is the Spanish port of Gijón located?
-Bay of Biscay
+the Bay of Biscay
 12653
 
 (1912--88) What Canadian jazz pianist, composer, and arranger began a long association with Miles Davis in 1947, producing albums such as Porgy and Bess (1958) and Sketches of Spain (1959)?
@@ -50623,7 +50623,7 @@ Gil Evans
 12654
 
 What venomous beaded lizard (Heloderma suspectum) is native to the south-western United States and Mexico and named after a river in New Mexico and Arizona?
-Gila monster
+the Gila monster
 12655
 
 (c. 1539--83) What English explorer claimed Newfoundland for Elizabeth I in 1583, but was lost when his ship foundered in a storm on the way home?
@@ -54471,11 +54471,11 @@ Giuseppe Tomasi di Lampedusa
 13616
 
 What is Gjetost?
-very sweet, firm golden-brown Norwegian cheese, traditionally made with goat's milk
+a very sweet, firm golden-brown Norwegian cheese, traditionally made with goat's milk
 13617
 
 What is a young horse called?
-foal
+a foal
 13618
 
 Who was the sixth successor of Peter?
@@ -55185,4 +55185,516 @@ an iron hand in a velvet glove
 He has 272 speeches, the most of any non-title character in a Shakespeare tragedy.
 Iago
 13795
+
+Into how many rivers did the river flowing out of Eden divide?
+four
+13796
+
+Where is the capital of the Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta?
+Rome
+13797
+
+Which is the larger part of Lake Michigan-Huron?
+Lake Huron
+13798
+
+Which is the longest freshwater lake?
+Lake Tanganyika
+13799
+
+Which is the deepest lake?
+Lake Baikal
+13800
+
+Which is the largest freshwater lake by volume?
+Lake Baikal
+13801
+
+Which is the largest lake entirely in Canada?
+Great Bear Lake
+13802
+
+Which is the largest lake entirely in one country?
+Lake Michigan
+13803
+
+Which is the largest lake partially in the Arctic Circle?
+Great Bear Lake
+13804
+
+Which is the deepest lake in North America?
+Great Slave Lake
+13805
+
+Which Great Lake has the smallest volume?
+Lake Erie
+13806
+
+Which is the lowest-lying of the Great Lakes?
+Lake Ontario
+13807
+
+Which is the largest lake in Europe?
+Lake Ladoga
+13808
+
+Which lake is the largest in Antarctica?
+Lake Vostok
+13809
+
+Which is the second largest lake in Europe?
+Lake Onega
+13810
+
+Which is the highest navigable lake in the world?
+Lake Titicaca
+13811
+
+Which is the largest lake in South America?
+Lake Titicaca
+13812
+
+Which is the second largest lake in Saskatchewan?
+Reindeer Lake
+13813
+
+Which is the largest lake in Saskatchewan and in Alberta?
+Lake Athabasca
+13814
+
+Which is the largest permanent desert lake and the largest alkaline lake?
+Lake Turkana
+13815
+
+Which is the largest mountain lake?
+Lake Titicaca
+13816
+
+Which is the second largest mountain lake?
+Issyk-Kul
+13817
+
+Which is the largest lake in Sweden?
+Vänern
+13818
+
+Name the African Great Lakes.
+Lake Albert, Lake Edward, Lake Kivu, Lake Kyoga, Lake Malawi, Lake Mweru, Lake Rukwa, Lake Tanganyika, Lake Turkana, Lake Victoria
+13819
+
+Which is the largest lake on an island, and on which island is this lake?
+Nettilling Lake, Baffin Island
+13820
+
+Which is the second largest lake in Manitoba?
+Lake Winnipegosis
+13821
+
+Which is the largest lake in Manitoba?
+Lake Winnipeg
+13822
+
+Which countries border the Caspian Sea?
+Azerbaijan, Iran, Kazakhstan, Russia, Turkmenistan
+13823
+
+Which countries border Lake Victoria?
+Kenya, Tanzania, Uganda
+13824
+
+Which countries border Lake Tanganyika?
+Burundi, the Democratic Republic of the Congo, Tanzania, Zambia
+13825
+
+Which countries border Lake Malawi?
+Malawi, Mozambique, Tanzania
+13826
+
+Which country contains Lake Balkhash?
+Kazakhstan
+13827
+
+Which countries border Lake Titicaca?
+Bolivia, Peru
+13828
+
+Which is the largest lake entirely in Ontario?
+Lake Nipigon
+13829
+
+Which is the third largest lake in Manitoba?
+Lake Manitoba
+13830
+
+Which is the largest lake entirely in the Arctic Circle?
+Lake Taymyr
+13831
+
+Which is the largest lake in China?
+Qinghai Lake
+13832
+
+Which is the largest lake in Finland?
+Saimaa
+13833
+
+Which lake bordering Ontario, Manitoba, and Minnesota is the sixth-largest freshwater lake in the United States?
+Lake of the Woods
+13834
+
+Which lake north of Vladivostok is the largest lake in Primorsky Krai?
+Lake Khanka
+13835
+
+Which is the largest lake in Turkmenistan?
+Sarygamysh Lake
+13836
+
+Which countries does Sarygamysh Lake border?
+Turkmenistan, Uzbekistan
+13837
+
+Which is the second-largest lake in Nunavut?
+Dubawnt Lake
+13838
+
+Which is the largest lake in Turkey?
+Lake Van
+13839
+
+Which is the largest European lake spanning more than one country?
+Lake Peipus
+13840
+
+Which countries does Lake Peipus border?
+Estonia, Russia
+13841
+
+Which is the largest lake in Mongolia?
+Uvs Lake
+13842
+
+Which is the third-largest lake in Nunavut?
+Amadjuak Lake
+13843
+
+Which is the third-largest lake in Nunavut?
+Amadjuak Lake
+13844
+
+Which is the second-largest lake on Baffin Island?
+Amadjuak Lake
+13845
+
+Which island has the two largest lakes on an island?
+Baffin Island
+13846
+
+Which Canadian province or territory contains Melville Island?
+Newfoundland and Labrador
+13847
+
+Name the Russian lake whose name sounds like the name of a Sufi lodge.
+Lake Khanka
+13848
+
+Name the Supreme Pontiff preceding Innocent VIII who allied with the Swiss Confederacy in the fifteenth century and whose coat of arms (so his nephew's as well) features on the banner of the Pontifical Swiss Guard.
+Sixtus IV
+13849
+
+Which were popes from the House of Della Rovere?
+Sixtus IV, Julius II
+13850
+
+Which is the largest lake in Indonesia?
+Lake Toba
+13851
+
+Which lake contains the island of Samosir, and which island contains that lake?
+Lake Toba, Sumatra
+13852
+
+Which island is the largest island in an island?
+Samosir
+13853
+
+Which province of Indonesia contains Lake Toba?
+North Sumatra
+13854
+
+GLA, short for this, is present in evening primrose oil.
+gamma-linolenic acid
+13855
+
+What is the smooth part of the forehead above and between the eyebrows?
+the glabella
+13856
+
+What does ``glabrate'' mean?
+free from hair or down; smooth
+13857
+
+What does ``glabrous'' mean?
+free from hair or down; smooth
+13858
+
+Which state contains Glacier Bay National Park?
+Alaska
+13859
+
+What is a bank sloping down from a fort which exposes attackers to the defenders' missiles called?
+a glacis
+13860
+
+What word refers to both a sloping down from a fort which exposes attackers to the defenders' missiles and a sloping piece of armour plate protecting part of a vehicle?
+glacis
+13861
+
+What g-word is another word for the stinking iris?
+gladdon
+13862
+
+Which purple-flowered iris (Iris foetidissima, family Iridaceae) native to Eurasia and North Africa, produces an unpleasant odour, especially when bruised?
+the gladdon
+13863
+
+What is a glade?
+an open space in a wood or forest
+13864
+
+Which Old World plant of the iris family, with sword-shaped leaves and spikes of brightly coloured flowers, is popular in gardens and as a cut flower?
+the gladiolus
+13865
+
+What was a gladius in ancient Rome?
+a short sword
+13866
+
+What is the plural of ``gladius''?
+gladii
+13867
+
+(1809--98) This British Liberal statesman was prime minister from 1868 to 1874, from 1880 to 1885, in 1886, and from 1892 to 1894. At first a Conservative minister, he later joined the Liberal Party, becoming its leader in 1867. His ministries saw the introduction of elementary education, the passing of the Irish Land Acts and the third Reform Act, and his campaign in favour of Home Rule for Ireland.
+William Ewart Gladstone
+13868
+
+This word, referring to an alphabet based on Greek minuscules formerly used in writing Slavic languages, comes from the name of the alphabet in Croatian and from there the Old Church Slavonic word for ``word.''
+Glagolitic
+13869
+
+From what is glair made?
+egg white
+13870
+
+What is a glaive?
+a sword
+13871
+
+What is the Welsh name for Glamorgan?
+Morgannwg
+13872
+
+What rare contagious disease that mainly affects horses is characterized by swellings below the jaw and mucous discharge from the nostril? It is caused by the bacterium Pseudomonas mallei.
+glanders
+13873
+
+Which bacterium causes glanders?
+Pseudomonas mallei
+13874
+
+Which river runs through Glasgow?
+the Clyde
+13875
+
+This American theoretical physicist independently developed a unified theory to explain electromagnetic interactions and the weak nuclear force and extended the quark theory of Murray Gell-Mann. He shared the Nobel Prize for Physics in 1979 with Abdus Salam and Steven Weinberg.
+Sheldon Lee Glashow
+13876
+
+Name the Soviet policy or practice of more open consultative government and wider dissemination of information initiated by Mikhail Gorbachev in 1985.
+glasnost
+13877
+
+Name the minimalist composer who wrote Einstein on the Beach (opera, 1976), Glass Pieces (ballet, 1982), and Low Symphony (1993).
+Philip Glass
+13878
+
+To what genus does the glass lizard belong?
+Ophisaurus
+13879
+
+To what genus does the glasswort belong?
+Salicornia
+13880
+
+Which English county contains Glastonbury?
+Somerset
+13881
+
+Which town in Somerset, England is the legendary burial place of King Arthur and Queen Guinevere and the site of a ruined abbey held by legend to have been founded by Joseph of Arimathea?
+Glastonbury
+13882
+
+What is a native of Glasgow called?
+a Glaswegian
+13883
+
+What is the Glatzer Neisse?
+a river
+13884
+
+The name of this condition of increased pressure in the eyeball comes from the Greek word for bluish-green or bluish-grey.
+glaucoma
+13885
+
+What word means ``of a dull greyish-green or blue colour'' or ``covered with a powdery bloom like that on grapes''?
+glaucous
+13886
+
+What large white and pale grey gull (Larus hyperboreus) breeds on Arctic coasts?
+the glaucous gull
+13887
+
+How old was Noah when the flood of waters came upon the earth?
+six hundred years old
+13888
+
+Who was Canaan's father?
+Ham
+13889
+
+Who were Terah's sons?
+Abram, Nahor, Haran
+13890
+
+After Abram's return from the defeat of Chedorlaomer and the kings who were with him, who, the king of Salem, blessed Abram?
+Melchizedek 
+13891
+
+What were the four rivers into which the river flowing out of Eden divided?
+Pishon, Gihon, Tigris, Euphrates
+13892
+
+What is terebinth?
+a small southern European tree which was formerly a source of turpentine and galls for use in tanning
+13893
+
+What is bdellium?
+a fragrant resin produced by a number of trees related to myrrh, used in perfumes
+13894
+
+Falafel can be made from broad beans or these.
+chickpeas
+13895
+
+Who are King Lear's daughters?
+Goneril, Cordelia, Regan
+13896
+
+Identify the song: ``Mine eyes have seen the glory of the coming of the Lord; / He is trampling out the vintage where the grapes of wrath are stored; / He hath loosed the fateful lightning of His terrible swift sword: / His truth is marching on.''
+the Battle Hymn of the Republic
+13897
+
+Identify the song: ``Then conquer we must, when our cause it is just, / And this be our motto --- `In God is our Trust.'''
+the Star Spangled Banner
+13898
+
+The word ``heresy'' comes from the Greek αἵρεσις, which means this.
+a choice
+13899
+
+The Nicene Creed, recast at the First Council of Constantinople, says that Christians believe in a Church that is these four things.
+one, holy, catholic, apostolic
+13900
+
+Who wrote the Preamble to the United States Constitution?
+Gouverneur Morris
+13901
+
+Which is the largest lake on an island in a lake?
+Lake Manitou
+13902
+
+(Initials to Roman numerals to numbers.) For the TV late-night host who in April 2014 announced he'd be retiring.
+550
+13903
+
+(Initials to Roman numerals to numbers.) For the naturalist who discussed his theory of evolution in ``The Expression of the Emotions in Man and Animals.''
+400
+13904
+
+(Initials to Roman numerals to numbers.) For the actor who had the title role in ``The Bourne Ultimatum.''
+1500
+13905
+
+(Initials to Roman numerals to numbers.) For the pilot who was Time's first Man of the Year.
+150
+13906
+
+(Initials to Roman numerals to numbers.) For the creator of ``The X-Files.''
+200
+13907
+
+On June 14, 1900, this future state officially became US territory.
+Hawaii
+13908
+
+Charles XII, king of this country, used a blizzard as cover to crush the Russians at the 1700 Battle of Narva.
+Sweden
+13909
+
+In 431 this pope (by ``prophecy''?) sent St. Palladius as first bishop to Ireland.
+Pope Celestine
+13910
+
+In an archbishop of Canterbury tale, Innocent III excommunicated this thirteenth-century king in a dispute on who would be archbishop.
+King John
+13911
+
+The fifth successor to St. Peter was Alexander I; the next one had this name.
+Sixtus
+13912
+
+From what language does the word ``beluga'' come?
+Russian
+13913
+
+In his 2000 farewell he wrote, ``Snoopy, Linus, Lucy . . . how can I ever forget them?''
+Schulz
+13914
+
+In 1800 this man conducted the first performance of his first symphony.
+Beethoven
+13915
+
+In 1100 William the Conqueror's youngest son became the first of England's eight kings of this name.
+Henry
+13916
+
+His works include ``The Economic Consequences of the Peace'' in 1919 and ``The End of Laissez-Faire'' from 1926.
+John Maynard Keynes
+13917
+
+``God's eternal wisdom `reacheth from end to end mightily and ordereth all things sweetly.' Its light shone with exceptional brilliance in the soul of'' this Pope, ``for it would seem to have burned into it the very image of itself; so fearless the moral courage displayed by this Pope --- `the greatest among the great,' as Our later predecessor Pius XII rightly called him --- yet so gentle his fatherly concern.''
+St. Leo I
+13918
+
+Who won the Battle of Lepanto?
+the Holy League
+13919
+
+Who was the last monarch of the Kingdom of Poland and the Grand Duchy of Lithuania?
+Stanisław II
+13920
+
+Giulio Romano painted The Fire in the Borgo, which depicts this pope halting a fire.
+St. Leo IV
+13921
+
+What is decollation?
+beheading
+13922
+
+How did John the Baptist die?
+he was beheaded
+13923
 
