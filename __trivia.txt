@@ -1046,8 +1046,8 @@ Excluding Homer's, the writings of what man, who collected myths about Theogony,
 Hesiod
 261
 
-For what Hungarian family was F. J. Haydn a court musician?
-Esterházy
+For what Hungarian family was Franz Joseph Haydn a court musician?
+the Esterházy family
 262
 
 What 12 figures do five pendentives along the sides and the two at the ends of the Sistine Chapel ceiling depict?
@@ -1423,15 +1423,15 @@ The Last Supper
 355
 
 The covenant after the Flood was made not only between God and man but also between God and the animals and the earth. What did God give as the sign of this covenant?
-rainbow (Gen. 9.13)
+a rainbow (Gen. 9.13)
 356
 
 What shogunate's establishment by Shogun Minamoto no Yoritomo commenced 675 years of Japanese shogunate rule?
-Kamakura shogunate
+the Kamakura shogunate
 357
 
 What house that included Louis XIII/XIV was founded by someone known for the quote ``Paris is well worth a mass''?
-House of Bourbon
+the House of Bourbon
 358
 
 Who painted The Ghent Altarpiece and The Arnolfini Portrait?
@@ -1443,7 +1443,7 @@ Sweden, Finland
 360
 
 Of what can the Henderson--Hasselbalch equation help to estimate the pH?
-buffer solution
+a buffer solution
 361
 
 What mountain massif in the Himalayas contains the seventh-highest mountain in the world?
@@ -2807,7 +2807,7 @@ the events leading up to the Norman conquest of England concerning William, Duke
 701
 
 What does the Finnish ``Ahvenanmaa'' mean?
-Åland Islands
+the Åland Islands
 702
 
 What does the Greek root acr-- mean?
@@ -4587,15 +4587,15 @@ any defence in which the burden of proof rests upon the defendant and of which t
 1146
 
 What is an affogato?
-Italian dessert consisting of vanilla ice cream topped with a shot of espresso coffee
+an Italian dessert consisting of vanilla ice cream topped with a shot of espresso coffee
 1147
 
 What is an affricate?
-phoneme which combines a plosive with an immediately following fricative or spirant sharing the same place of articulation
+a phoneme which combines a plosive with an immediately following fricative or spirant sharing the same place of articulation
 1148
 
 What is an aficionado?
-person who is very knowledgeable and enthusiastic about an activity, subject, or pastime
+a person who is very knowledgeable and enthusiastic about an activity, subject, or pastime
 1149
 
 What is an agent provocateur?
@@ -4691,19 +4691,19 @@ a distilling apparatus, now obsolete, consisting of a gourd-shaped container and
 1172
 
 What is an Alexander technique?
-system designed to promote well-being by retraining one's awareness and habits of posture to ensure minimum effort and strain
+a system designed to promote well-being by retraining one's awareness and habits of posture to ensure minimum effort and strain
 1173
 
 What is an alexandrine?
-verse of six iambic feet
+a verse of six iambic feet
 1174
 
 What is an alexandrite?
-gem variety of chrysoberyl which appears green in daylight and red in artificial light
+a gem variety of chrysoberyl which appears green in daylight and red in artificial light
 1175
 
 What is an Alford plea in American law?
-guilty plea in which a defendant maintains their innocence but admits that the prosecution's evidence would likely result in a guilty verdict if brought to trial
+a guilty plea in which a defendant maintains their innocence but admits that the prosecution's evidence would likely result in a guilty verdict if brought to trial
 1176
 
 What is an Alfvén wave?
@@ -5015,35 +5015,35 @@ the second climatic stage of the late-glacial period in northern Europe, between
 1253
 
 What is the America's Cup?
-international yacht race
+an international yacht race
 1254
 
 What is the assembly of cardinals for the election of a pope called?
-conclave
+a conclave
 1255
 
 What is the basic monetary unit of Afghanistan?
-afghani
+the afghani
 1256
 
 What is the basic monetary unit of Belgium, Switzerland, and several other countries?
-franc
+the franc
 1257
 
 What is the basic monetary unit of Japan?
-yen
+the yen
 1258
 
 What is the basic monetary unit of Nigeria?
-naira
+the naira
 1259
 
 What is the basic monetary unit of South Africa?
-rand
+the rand
 1260
 
 What is the basic monetary unit of Turkey?
-lira
+the lira
 1261
 
 What is the biological term for an organism with radial symmetry?
@@ -5359,19 +5359,19 @@ series of selections from the books of Nevi'im publicly read in synagogue as par
 1339
 
 What is the highest mountain in Colorado?
-Mt. Elbert
+Mount Elbert
 1340
 
 What is the hip socket called?
-acetabulum/cotyloid cavity
+the acetabulum/the cotyloid cavity
 1341
 
 What is the imaginary line on the earth's surface connecting the north and south magnetic poles and passing through those points where there is no magnetic declination and a freely suspended magnetic needle indicates true north?
-agonic line
+the agonic line
 1342
 
 What is the Indian system of dividing society into hereditary groups whose members interacted primarily within the group and especially married within the group?
-caste system
+the caste system
 1343
 
 What is the Jewish New Year festival held on the first or second day of Tishri and marked by the blowing of the shofar?
@@ -5878,7 +5878,7 @@ What is tintinnabulation?
 ringing or tinkling sound
 1469
 
-What island is the largest of the Aleutian Islands and home to one of the ten most active volcanos in the world: Mt. Shishaldin?
+What island is the largest of the Aleutian Islands and home to one of the ten most active volcanos in the world: Mount Shishaldin?
 Unimak Island
 1470
 
@@ -6191,7 +6191,7 @@ Mount Kilimanjaro
 1547
 
 What mountain is Europe's highest?
-Mt. Elbrus
+Mount Elbrus
 1548
 
 What mountain is the highest of the Alps?
@@ -7738,11 +7738,11 @@ Who managed England to its World Cup victory in 1966?
 Sir Alf Ramsey
 1934
 
-Who painted The great wave off Kanagawa?
+Who painted The Great Wave off Kanagawa?
 Hokusai
 1935
 
-Who penned Of mice and men and East of Eden?
+Who penned Of Mice and Men and East of Eden?
 John Steinbeck
 1936
 
@@ -7882,7 +7882,7 @@ Who were Isaac's sons?
 Esau, Jacob
 1970
 
-Who were the first two people to summit Mt. Everest?
+Who were the first two people to summit Mount Everest?
 Edmund Hillary, Tenzing Norgay
 1971
 
@@ -9287,7 +9287,7 @@ cellulose triacetate
 2321
 
 From what podium or platform in a synagogue are the Torah and Prophets read?
-bimah
+the bimah
 2322
 
 From where did Archimedes hail?
@@ -9482,7 +9482,7 @@ In what two-player card game is the object to acquire the opponent's cards by al
 beggar-my-neighbour
 2370
 
-In what village did Buddha attain enlightenment?
+In what village did the Buddha attain enlightenment?
 Bodhgaya
 2371
 
@@ -9646,8 +9646,8 @@ The name for what small, decorative ornament or trinket comes from the French fo
 bibelot
 2411
 
-The name of what basic monetary unit of Panama equal to 100 centésimos comes from a Spanish explorer?
-balboa
+The name of this basic monetary unit of Panama equal to 100 centésimos comes from a Spanish explorer.
+the balboa
 2412
 
 The name of what ceremonial canopy of stone, metal, or fabric over an altar, throne, or doorway comes from the Italian for ``Baghdad'': the place of origin of the brocade?
@@ -10091,7 +10091,7 @@ openness to experience, conscientiousness, extraversion, agreeableness, neurotic
 2522
 
 What are the endpoints of the Appalachian Trail?
-Mt. Katahdin, ME, Springer Mountain, GA
+Mount Katahdin, ME, Springer Mountain, GA
 2523
 
 What are the lyrics of a Dies Irae?
@@ -10159,19 +10159,19 @@ Belaya River
 2539
 
 What basic monetary unit of Ethiopia is equal to 100 cents?
-birr
+the birr
 2540
 
 What basic monetary unit of Madagascar is equal to five iraimbilanja?
-ariary
+the ariary
 2541
 
 What basic monetary unit of Thailand is equal to 100 satangs?
-baht
+the baht
 2542
 
 What basic monetary unit of Venezuela is equal to one hundred centimos?
-bolivar
+the bolivar
 2543
 
 What bass lute has an extended neck and unstopped bass strings?
@@ -10479,11 +10479,11 @@ beurre blanc
 2619
 
 What crossbow had a unique mechanism for drawing back and releasing the string?
-arbalest
+the arbalest
 2620
 
 What culture of the southwestern United States formed the early stages of the Anasazi culture from the first century BC until 700?
-Basket Makers
+the Basket Makers
 2621
 
 What cyclic derivative of urea and malonic acid has the chemical formula C4H4O3N2?
@@ -12531,7 +12531,7 @@ the growing phase of a hair follicle
 3132
 
 What is analgesia?
-inability to feel pain
+the inability to feel pain
 3133
 
 What is ananda?
@@ -12543,11 +12543,11 @@ the use of a word referring back to a word used earlier in a text or conversatio
 3135
 
 What is anaphylactic shock?
-extreme, often life-threatening allergic reaction to an antigen to which the body has become hypersensitive
+an extreme, often life-threatening allergic reaction to an antigen to which the body has become hypersensitive
 3136
 
 What is anaphylaxis?
-acute allergic reaction to an antigen to which the body has become hypersensitive
+an acute allergic reaction to an antigen to which the body has become hypersensitive
 3137
 
 What is anaplasia?
@@ -12607,11 +12607,11 @@ sexual reproduction by the fusion of dissimilar gametes
 3151
 
 What is ankylosing spondylitis?
-form of spinal arthritis, chiefly affecting young males, that eventually causes ankylosis of vertebral and sacro-iliac joints
+a form of spinal arthritis, chiefly affecting young males, that eventually causes ankylosis of vertebral and sacro-iliac joints
 3152
 
 What is ankylosis?
-abnormal stiffening and immobility of a joint due to fusion of the bones
+the abnormal stiffening and immobility of a joint due to fusion of the bones
 3153
 
 What is another name for Amazigh?
@@ -12827,7 +12827,7 @@ Bodensee
 3206
 
 What is the highest peak of the Appalachian Mountains?
-Mt. Mitchell
+Mount Mitchell
 3207
 
 What is the highest point of Saudi Arabia?
@@ -12839,7 +12839,7 @@ Botev Peak, Bulgaria
 3209
 
 What is the highest point of the Black Mountains?
-Mt. Mitchell
+Mount Mitchell
 3210
 
 What is the Hindi name for India?
@@ -12855,7 +12855,7 @@ Beersheba
 3213
 
 What is the largest stadium in Brazil?
-Maracanã, Rio de Janeiro
+the Maracanã, Rio de Janeiro
 3214
 
 What is the largest stadium in China?
@@ -13330,7 +13330,7 @@ What mountain range in southern Arizona rises to 2,357 m at a peak of the same n
 the Baboquivari (ˌbäbōkəˌvärē) Mountains
 3332
 
-What mountain system stretches from Quebec and Maine to Georgia and Alabama and has its highest peak at Mt. Mitchell, NC?
+What mountain system stretches from Quebec and Maine to Georgia and Alabama and has its highest peak at Mount Mitchell, NC?
 the Appalachian Mountains
 3333
 
@@ -13359,11 +13359,11 @@ Arunachal Pradesh
 3339
 
 What mushroom or toadstool has pores rather than gills on the underside of the cap?
-bolete
+a bolete
 3340
 
 What mythical reptile has a lethal gaze or breath and is hatched by a serpent from a cock's egg?
-basilisk
+the basilisk
 3341
 
 What name for a broad slope of alluvial material at the foot of an escarpment or mountain comes from Spanish for ``descent'' or ``slope''?
@@ -14495,7 +14495,7 @@ Atreus
 3623
 
 What song is traditionally sung by Venetian gondoliers?
-barcarolle
+a barcarolle
 3624
 
 What South African city east of Johannesburg is a gold-mining centre?
@@ -14567,7 +14567,7 @@ Averroës (ibn-Rushd)
 3641
 
 What square cap with three flat projections on top is worn by Roman Catholic clergymen?
-biretta
+a biretta
 3642
 
 What stadium is home to AC Milan and Inter Milan?
@@ -16350,11 +16350,11 @@ Georges Clemenceau
 Camillo Golgi
 4087
 
-(1844--1926) What American painter, known for her draftsmanship, etching, and dry-point studies, was persuaded by Edgar Degas to exhibit with the impressionists, worked mostly in Paris, and painted works, including Lady at the tea table (1885), that display a close interest in everyday subject matter?
+(1844--1926) What American painter, known for her draftsmanship, etching, and dry-point studies, was persuaded by Edgar Degas to exhibit with the impressionists, worked mostly in Paris, and painted works, including Lady at the Tea Table (1885), that display a close interest in everyday subject matter?
 Mary Cassatt
 4088
 
-(1844--1930) What English poet and literary critic, who was poet laureate from 1913 to 1930, wrote a long philosophical poem, The testament of beauty (1929), in the Victorian tradition?
+(1844--1930) What English poet and literary critic, who was poet laureate from 1913 to 1930, wrote a long philosophical poem, The Testament of Beauty (1929), in the Victorian tradition?
 Robert Bridges
 4089
 
@@ -16370,7 +16370,7 @@ Randolph Caldecott
 Bram Stoker
 4092
 
-(1849--1924) What British-born American novelist is remembered chiefly for her novels for children, including Little Lord Fauntleroy (1886), A little princess (1905), and The secret garden (1911)?
+(1849--1924) What British-born American novelist is remembered chiefly for her novels for children, including Little Lord Fauntleroy (1886), A Little Princess (1905), and The Secret Garden (1911)?
 Frances Hodgson Burnett
 4093
 
@@ -16686,7 +16686,7 @@ Pierre Boulez
 Cesar Pelli
 4171
 
-(1929--2002) What American writer, theologian, and rabbi wrote novels like The chosen (1967), The book of lights (1981), and I am the clay (1992), as well as nonfiction and plays?
+(1929--2002) What American writer, theologian, and rabbi wrote novels like The Chosen (1967), The Book of Lights (1981), and I Am the Clay (1992), as well as nonfiction and plays?
 Chaim Potok
 4172
 
@@ -16698,7 +16698,7 @@ Boris Yeltsin
 Carl Sagan
 4174
 
-(1935--2015) This South African's anti-apartheid novel Looking on darkness (1973) became the first novel in Afrikaans to be banned by the South African government. Identify this novelist, short-story writer, and playwright whose notable works include the novel A dry white season (1979) and the memoir A fork in the road (2009).
+(1935--2015) This South African's anti-apartheid novel Looking on Darkness (1973) became the first novel in Afrikaans to be banned by the South African government. Identify this novelist, short-story writer, and playwright whose notable works include the novel A Dry White Season (1979) and the memoir A Fork in the Road (2009).
 André Brink
 4175
 
@@ -16758,7 +16758,7 @@ Chandragupta Maurya
 Charles Martel
 4189
 
-(c. 1450--1516) What painter, whose highly detailed works are typically crowded with half-human, half-animal creatures and grotesque demons in settings symbolic of sin and folly, is best known for The garden of earthly delights, Table of the seven deadly sins, Death and the miser, and The haywain?
+(c. 1450--1516) What painter, whose highly detailed works are typically crowded with half-human, half-animal creatures and grotesque demons in settings symbolic of sin and folly, is best known for The Garden of Earthly Delights, Table of the Seven Deadly Sins, Death and the Miser, and The Haywain?
 Hieronymus Bosch
 4190
 
@@ -17303,19 +17303,19 @@ the Rhine
 4325
 
 On what river is Cottbus located?
-the Spree River
+the Spree
 4326
 
 On what river is Derry located?
-the River Foyle
+the Foyle
 4327
 
 On what river is Durham located?
-the Wear River
+the Wear
 4328
 
 On what ship of the British navy did part of its crew, led by Fletcher Christian, mutiny against their commander, William Bligh, setting him adrift in an open boat with eighteen crewmen?
-Bounty
+the Bounty
 4329
 
 On what summit does Christ the Redeemer stand?
@@ -17707,15 +17707,15 @@ brucellosis
 4426
 
 What band of tissue on the lowest part of a horse's pastern contains the horn-producing cells from which the hoof grows?
-coronet
+the coronet
 4427
 
 What basic monetary unit of Cameroon, Congo, Gabon, and the Central African Republic is equal to 100 centimes?
-CFA franc
+the CFA franc
 4428
 
 What basic monetary unit of Ghana is equal to 100 pesewas?
-cedi
+the cedi
 4429
 
 What bed of shale exposed in the Rocky Mountains in British Columbia, Canada, dated to the Cambrian period (about 530 million years ago), is rich in well-preserved fossils of early marine invertebrates, many of which represent evolutionary lineages unknown in later times?
@@ -19391,7 +19391,7 @@ greater; major, majus; majesty, majority, majuscule
 4847
 
 What does the Latin root mal-- mean?
-bad, wretched,; malus; malfeasance, malicious, malignancy, malodorous
+bad, wretched; malus; malfeasance, malicious, malignancy, malodorous
 4848
 
 What does the Latin root mamm-- mean?
@@ -19747,15 +19747,15 @@ colostrum
 4936
 
 What flat surface forms the stern of a boat?
-transom
+the transom
 4937
 
 What flattened triangular projection above the angle of the jaw where the temporalis muscle is attached shares its name with a projection from the front of the ulna forming part of the articulation of the elbow?
-coronoid process
+the coronoid process
 4938
 
 What fluid-filled canal runs through the midbrain connecting the third and fourth ventricles?
-cerebral aqueduct
+the cerebral aqueduct
 4939
 
 What folk religion practiced in South America (especially Brazil) is based on traditional African religious practices modified by elements of Roman Catholicism and spiritualism?
@@ -20183,31 +20183,31 @@ Jack Cade
 5045
 
 What is a beggar or a vagrant called in France?
-clochard
+a clochard
 5046
 
 What is a billfold?
-wallet, typically made of leather, especially a thin one with few compartments
+a wallet, typically made of leather, especially a thin one with few compartments
 5047
 
 What is a Black Maria?
-police vehicle for transporting prisoners
+a police vehicle for transporting prisoners
 5048
 
 What is a bon mot?
-witty remark
+a witty remark
 5049
 
 What is a bon mot?
-witty remark
+a witty remark
 5050
 
 What is a boor?
-unrefined, ill-mannered person
+an unrefined, ill-mannered person
 5051
 
 What is a bordello?
-brothel
+a brothel
 5052
 
 What is a bouleversement?
@@ -20407,47 +20407,47 @@ corymb
 5101
 
 What is a follower and student of a guru called, commonly translated as ``disciple''?
-chela
+a chela
 5102
 
 What is a glower?
-angry or sullen look on one's face; a scowl
+an angry or sullen look on one's face; a scowl
 5103
 
 What is a golem?
-in Jewish legend: a clay figure brought to life by magic
+a clay figure brought to life by magic in Jewish legend
 5104
 
 What is a group of cats called?
-clowder
+a clowder
 5105
 
 What is a hillock?
-small hill or mound
+a small hill or mound
 5106
 
 What is a lathe?
-machine for shaping wood, metal, or other material using a rotating drive which turns the piece being worked on against changeable cutting tools
+a machine for shaping wood, metal, or other material using a rotating drive which turns the piece being worked on against changeable cutting tools
 5107
 
 What is a leading dancer in a corps de ballet called?
-coryphée
+a coryphée
 5108
 
 What is a member of the clergy who officiates jointly at a Christian Mass called?
-concelebrant
+a concelebrant
 5109
 
 What is a metrical line of verse called if it lacks a syllable in the last foot?
-catalectic
+a catalectic
 5110
 
 What is a milieu?
-person's social environment
+a person's social environment
 5111
 
 What is a narrow band adjacent and parallel to an ordinary such as a bend or chevron called in heraldry?
-cottise
+a cottise
 5112
 
 What is a paraenesis?
@@ -20767,7 +20767,7 @@ thing that persuades or influences someone to do something; (law) introductory s
 5191
 
 What is intelligentsia?
-status class of educated people engaged in the complex mental labours that critique, guide, and lead in shaping the culture and politics of their society
+the status class of educated people engaged in the complex mental labours that critique, guide, and lead in shaping the culture and politics of their society
 5192
 
 What is Morocco's largest city?
@@ -20779,7 +20779,7 @@ lightweight cotton cloth in a plain weave; a hemmed square of light cotton cloth
 5194
 
 What is one's ilk?
-type of people or things similar to that person
+the type of people or things similar to that person
 5195
 
 What is pareidolia?
@@ -20839,11 +20839,11 @@ chesed
 5209
 
 What is the basic monetary unit of Costa Rica and El Salvador?
-colón
+the colón
 5210
 
 What is the basic monetary unit of Nicaragua?
-cordoba
+the cordoba
 5211
 
 What is the binomial name of the bottlenose dolphin?
@@ -22123,11 +22123,11 @@ Cabeza Prieta
 5530
 
 What native people who formerly inhabited the Canary islands bore a superficial skeletal resemblance to the Cro-Magnon type?
-Guanche
+the Guanche
 5531
 
 What network of blood vessels in each ventricle of the brain is derived from the pia mater and produces the cerebrospinal fluid?
-choroid plexus
+the choroid plexus
 5532
 
 What neurological disorder is characterized by jerky involuntary movements affecting especially the shoulders, hips, and face?
@@ -22467,15 +22467,15 @@ clitellum
 5616
 
 What range of hills is found on the border between England and Scotland?
-Cheviot Hills
+the Cheviot Hills
 5617
 
 What range of the Alps on the border of southern Austria and northeastern Italy reaches 2,781 m at Monte Coglians (Hohe Warte)?
-Carnic Alps
+the Carnic Alps
 5618
 
 What range of volcanic mountains in western North America extends from southern British Columbia through Washington and Oregon to northern California and contains Mount St. Helens?
-Cascade Range
+the Cascade Range
 5619
 
 What rare ``c'' term refers to the quality of having a physical body or existence?
@@ -23938,11 +23938,11 @@ Who wrote David Copperfield (1850)?
 Charles Dickens
 5984
 
-Who wrote The descent of man (1871)?
+Who wrote The Descent of Man (1871)?
 Charles Darwin
 5985
 
-Who wrote The Malayan trilogy (1956--59) and Earthly powers (1980)?
+Who wrote The Malayan Trilogy (1956--59) and Earthly Powers (1980)?
 Anthony Burgess
 5986
 
@@ -25271,11 +25271,11 @@ crus
 6317
 
 What was the basic monetary unit of Brazil from 1988 to 1990?
-cruzado
+the cruzado
 6318
 
 What was the basic monetary unit of Brazil from 1990 to 1993?
-cruzeiro
+the cruzeiro
 6319
 
 What branch of biology deals with the properties of organisms and tissues at low temperatures?
@@ -26270,7 +26270,7 @@ Jacques-Louis David
 St. David
 6567
 
-What mountain range includes Mt. Locke?
+What mountain range includes Mount Locke?
 Davis Mountains
 6568
 
@@ -26807,7 +26807,7 @@ demy
 6701
 
 What is the basic monetary unit of North Macedonia?
-denar
+the denar
 6702
 
 What ancient Roman silver coin was originally worth ten asses?
@@ -27422,7 +27422,7 @@ What colourless soluble liquid that is used as a solvent and antifreeze has the 
 diethylene glycol
 6855
 
-(1901--92) What German-born American actress and singer who became famous as Lola in The blue angel (1930), one of many films she made with Josef von Sternberg, was also successful as an international cabaret star from the 1950s?
+(1901--92) What German-born American actress and singer who became famous as Lola in The Blue Angel (1930), one of many films she made with Josef von Sternberg, was also successful as an international cabaret star from the 1950s?
 Marlene Dietrich
 6856
 
@@ -27551,15 +27551,15 @@ dim sum
 6887
 
 What basic monetary unit of Serbia is equivalent to 100 paras?
-dinar
+the dinar
 6888
 
 What basic monetary unit of Jordan, Bahrain, and Iraq is equivalent to 1000 fils?
-dinar
+the dinar
 6889
 
 What basic monetary unit of Libya is equivalent to 1000 dirhams?
-dinar
+the dinar
 6890
 
 What monetary unit of Iran is equivalent to one-hundredth of a rial?
@@ -27771,11 +27771,11 @@ dirge
 6942
 
 What basic monetary unit of Morocco and the United Arab Emirates is equivalent to 100 centimes in Morocco and 100 fils in the United Arab Emirates?
-dirham
+the dirham
 6943
 
 What monetary unit of Libya and Qatar is equal to one thousandth of a dinar in Libya and one hundredth of a riyal in Qatar?
-dirham
+the dirham
 6944
 
 From the Latin ``to direct,'' what noun refers to state control of economic and social matters?
@@ -28115,7 +28115,7 @@ Dobos torte
 7028
 
 What basic monetary unit of São Tomé and Principe is equal to 100 centavos?
-dobra
+the dobra
 7029
 
 What district of eastern Romania and northeastern Bulgaria on the Black Sea coast is bounded on the north and west by the Danube River?
@@ -28479,11 +28479,11 @@ Wisconsin
 7119
 
 What is the speed of sound in dry air at freezing?
-1,091 feet/second
+1,091 feet per second
 7120
 
 What is the speed of sound in water?
-4,680 feet/second
+4,680 feet per second
 7121
 
 Who was Cleopatra and how did she die?
@@ -28491,7 +28491,7 @@ queen of Egypt and contemporary of Julius Caesar and Mark Antony who committed s
 7122
 
 Where are condors found?
-Andes
+the Andes
 7123
 
 Who discovered the law of gravitation?
@@ -28659,7 +28659,7 @@ Donau
 7164
 
 What basic monetary unit of Vietnam is equal to 100 xu?
-dong
+the dong
 7165
 
 What river in Vietnam flows for 483 km from south-central Vietnam to join the Saigon River below Ho Chi Minh City?
@@ -29055,11 +29055,11 @@ dulcian
 7263
 
 What stringed instrument of trapezoidal shape is played with light hammers held in the hands?
-dulcimer
+the dulcimer
 7264
 
 What musical keyboard instrument in which hammers strike a series of steel tuning forks was invented in the late nineteenth century and superseded by the celesta?
-dulcitone
+the dulcitone
 7265
 
 What is the reverence accorded to saints and angels in Roman Catholicism?
@@ -29139,7 +29139,7 @@ Friedrich Nietzsche
 7284
 
 ``As the family goes, so goes the nation, and so goes the whole world in which we live.'' Who said this?
-Pope John Paul II
+St. John Paul II
 7285
 
 ``Everyone thinks of changing the world, but no one thinks of changing himself.'' Who said this?
@@ -29923,7 +29923,7 @@ Eid al-Fitr
 7480
 
 What northern sea duck has mainly black and white plumage with a coloured head (male) or has soft brown down feathers that are used to line the nest (female)?
-eider
+the eider
 7481
 
 What was Eiffel's first name?
@@ -30323,7 +30323,7 @@ elytron
 7580
 
 What basic monetary unit of Swaziland is equal to 100 cents?
-lilangeni
+the lilangeni
 7581
 
 (1688--1772) The spiritual beliefs that this Swedish scientist, philosopher, and mystic expounded after a series of mystical experiences blended Christianity with pantheism and theosophy.
@@ -30623,7 +30623,7 @@ Avignon
 7655
 
 What book of organ pieces by J. S. Bach took existing chorales and elaborated on them?
-Das Orgelbüchlein `Little Organ Book'
+Das Orgelbüchlein `the Little Organ Book'
 7656
 
 Where was Jean-Pierre Serre born?
@@ -30715,7 +30715,7 @@ embowed
 7678
 
 Define ``embrasure.''
-opening with sides flaring outward in a wall or parapet of a fortification usually for allowing the firing of cannon
+an opening with sides flaring outward in a wall or parapet of a fortification usually for allowing the firing of cannon
 7679
 
 Define ``imbrue.''
@@ -31463,11 +31463,11 @@ enchaînement
 7865
 
 What is an enchilada?
-rolled tortilla with a filling typically of meat and served with a chili sauce
+a rolled tortilla with a filling typically of meat and served with a chili sauce
 7866
 
 Define ``enchiridion.''
-book containing essential information on a subject
+a book containing essential information on a subject
 7867
 
 What linguistic term refers to a word pronounced with so little emphasis that it is shortened and forms part of the preceding word, like ``n't'' in ``can't''?
@@ -31475,11 +31475,11 @@ enclitic
 7868
 
 Define ``encomium.''
-speech or piece of writing that praises someone or something highly
+a speech or piece of writing that praises someone or something highly
 7869
 
 What grant was given by the Spanish Crown to a colonist in America, conferring the right to demand tribute and forced labour from the Indian inhabitants of an area?
-encomienda
+the encomienda
 7870
 
 Define ``frabjous.''
@@ -31883,19 +31883,19 @@ Galatea
 7970
 
 In what stanza (papal apartment) did Raphael portray specific miraculous events in the history of the Christian church? The four principal subjects are The expulsion of Heliodorus from the temple, The Mass at Bolsena, The liberation of St. Peter, and Leo I halting Attila.
-Stanza d'Eliodoro
+the Stanza d'Eliodoro
 7971
 
 Raphael's first task in Rome was to paint a cycle of frescos in a suite of medium-sized rooms in the Vatican papal apartments in which Julius II lived and worked. What are these rooms called?
 Stanze
 7972
 
-Who painted Scuola di Atene `The school of Athens'?
+Who painted Scuola di Atene `The School of Athens'?
 Raphael
 7973
 
-Where is Raphael's The school of Athens located? The other main walls in this room are occupied by the Disputa, Parnassus, and Cardinal Virtues.
-Stanza della Segnatura
+Where is Raphael's The School of Athens located? The other main walls in this room are occupied by the Disputa, Parnassus, and Cardinal Virtues.
+the Stanza della Segnatura
 7974
 
 Through what years did Raphael paint the School of Athens?
@@ -31907,7 +31907,7 @@ madonnas
 7976
 
 Whom does Raphael depict halting Attila in a fresco of 1513--14? The fresco is located in the Stanza d'Eliodoro.
-Leo I
+St. Leo I
 7977
 
 Who built the Sistine Chapel under commission from Sixtus IV?
@@ -31923,7 +31923,7 @@ the thing itself; by that very act or quality; thereby
 7980
 
 What is the second epoch of the Tertiary period?
-Eocene
+the Eocene
 7981
 
 What is another term for hyracotherium?
@@ -31931,7 +31931,7 @@ eohippus
 7982
 
 What period at the beginning of the Stone Age was characterized by the earliest crude stone tools?
-Eolithic
+the Eolithic
 7983
 
 Who is the Greek goddess of the dawn?
@@ -33571,7 +33571,7 @@ Warka
 8392
 
 What marble temple of the Ionic order was built on the Acropolis in Athens circa 421--406 BC with shrines to Athena, Poseidon, and Erechtheus, a legendary king of Athens? It is most famous for its southern portico, in which six caryatids support the entablature.
-Erechtheum
+the Erechtheum
 8393
 
 What three-letter conjunction means ``before in time''?
@@ -33634,11 +33634,11 @@ What American speed skater was the world champion in speed skating in 1977, 1978
 Eric Heiden
 8408
 
-(1902--45) What British runner and missionary, born in China, won the 400 metres in world record time in the 1924 Olympics? His exploits were celebrated in the movie Chariots of fire (1981).
+(1902--45) What British runner and missionary, born in China, won the 400 metres in world record time in the 1924 Olympics? His exploits were celebrated in the movie Chariots of Fire (1981).
 Eric Liddell
 8409
 
-(1900--80) The works of this German-born American psychoanalyst and social philosopher, which include Escape from freedom (1941), Man for himself (1947), and The sane society (1955), emphasize the role of culture in neurosis and strongly criticize materialist values. What was his name?
+(1900--80) The works of this German-born American psychoanalyst and social philosopher, which include Escape from Freedom (1941), Man for Himself (1947), and The Sane Society (1955), emphasize the role of culture in neurosis and strongly criticize materialist values. What was his name?
 Erich Fromm
 8410
 
@@ -33991,7 +33991,7 @@ small writing desk with drawers and compartments
 8497
 
 What was the basic monetary unit of Portugal (until the introduction of the euro) that was equal to 100 centavos?
-escudo
+the escudo
 8498
 
 Define ``esculent.''
@@ -34298,11 +34298,11 @@ In what graduated glass tube do mixtures of gases react by an electric spark? It
 eudiometer
 8574
 
-(1912--94) What Romanian-born French playwright and leading exponent of the Theatre of the Absurd wrote The bald prima donna (1950), Rhinoceros (1960), and Exit the king (1962)?
+(1912--94) What Romanian-born French playwright and leading exponent of the Theatre of the Absurd wrote The Bald Prima Donna (1950), Rhinoceros (1960), and Exit the King (1962)?
 Eugène Ionesco
 8575
 
-(1888--1953) What American playwright was awarded the Pulitzer Prize for his first full-length play, Beyond the horizon (1920)? He also wrote The iceman cometh (1946) and Long day's journey into night (1956, posthumously) and won the Nobel Prize for Literature (1936).
+(1888--1953) What American playwright was awarded the Pulitzer Prize for his first full-length play, Beyond the Horizon (1920)? He also wrote The Iceman Cometh (1946) and Long Day's Journey into Night (1956, posthumously) and won the Nobel Prize for Literature (1936).
 Eugene O'Neill
 8576
 
@@ -36359,11 +36359,11 @@ Hansel and Gretel
 9089
 
 What is Aarne--Thompson tale 440?
-The frog king
+The Frog King
 9090
 
 What is Aarne--Thompson tale 510A?
-Little red riding hood
+Little Red Riding Hood
 9091
 
 What is Aarne--Thompson tale 500?
@@ -36371,11 +36371,11 @@ Rumpelstiltskin
 9092
 
 What is Aarne--Thompson tale 410?
-Sleeping beauty
+Sleeping Beauty
 9093
 
 What is Aarne--Thompson tale 709?
-Snow white
+Snow White
 9094
 
 Who was the architect of Neuschwanstein castle?
@@ -36383,7 +36383,7 @@ Eduard Riedel
 9095
 
 How many Regards did Messiaen write?
-20
+twenty
 9096
 
 Where was Slavoj Žižek born?
@@ -36599,7 +36599,7 @@ Arthur Fiedler
 9149
 
 What's a fief?
-estate of land, especially one held on condition of feudal service
+an estate of land, especially one held on condition of feudal service
 9150
 
 (1707--54) What English novelist provoked the introduction of censorship in theatres with his political satire The historical register for 1736? After this, he turned to write picaresque novels, notably Joseph Andrews (1742) and Tom Jones (1749).
@@ -37067,7 +37067,7 @@ Johor Bahru
 9266
 
 What water body separates Malaysia from Singapore?
-Johor strait
+the Johor Strait
 9267
 
 Who described music as ``organized sound''?
@@ -37619,15 +37619,15 @@ Fingal's cave
 9404
 
 What is a finger jam in climbing?
-handhold formed by wedging a finger in a crack in the rock
+a handhold formed by wedging a finger in a crack in the rock
 9405
 
 What small silvery fish with a deep, laterally compressed body occurs in warm inshore and estuarine waters and is popular in aquaria? It comprises several species in the family Monodactylidae and genus Monodactylus.
-fingerfish
+the fingerfish
 9406
 
 What is a distinctive section or ornament at the apex of a roof, canopy, etc. on a building called?
-finial
+a finial
 9407
 
 What promontory of northwestern Spain forms the westernmost point of the mainland?
@@ -38142,11 +38142,11 @@ What Czech hockey icon is the eponym of an under-18 tournament?
 Ivan Hlinka
 9535
 
-In what state is Mt. Kosciusko?
+In what state is Mount Kosciusko?
 New South Wales
 9536
 
-Where can one find the artificial mound after which Mt. Kosciusko is named?
+Where can one find the artificial mound after which Mount Kosciusko is named?
 Kraków
 9537
 
@@ -38539,7 +38539,7 @@ Isabella
 9634
 
 What forward part of a ship below the deck was traditionally used as the crew's living quarters?
-forecastle
+the forecastle
 9635
 
 What type of rock is foyaite?
@@ -39338,8 +39338,8 @@ From where are the Toda people?
 southern India
 9834
 
-Who wrote/gave lectures on The Theology of the Body?
-John Paul II
+Who wrote lectures on The Theology of the Body?
+St. John Paul II
 9835
 
 Whence does Liebfraumilch come?
@@ -39494,8 +39494,8 @@ To what was Le Vernet home in World War II?
 concentration camp
 9873
 
-What is Shoah?
-Holocaust
+What is the Shoah?
+the Holocaust
 9874
 
 What southern French village sheltered thousands of Jewish people during the Shoah? Alexander Grothendieck was among the protected people.
@@ -40911,7 +40911,7 @@ having the mournful, sombre character appropriate to a funeral; funereal
 10227
 
 On what pile of wood is a corpse burnt as part of a funeral ceremony?
-funeral pyre
+a funeral pyre
 10228
 
 Define ``fungible.''
@@ -40919,15 +40919,15 @@ replaceable by another identical item; mutually interchangeable
 10229
 
 What filamentous stalk attaches a seed or ovule to the placenta?
-funicle
+the funicle
 10230
 
 What filamentous section of an insect's antenna supports the club?
-funicle
+the funicle
 10231
 
 What is a bundle of nerve fibres enclosed in a sheath of connective tissue or forming one of the main tracts of white matter in the spinal cord?
-funiculus
+a funiculus
 10232
 
 (1884--1967) What Polish-born American biochemist showed that a number of diseases, including scurvy, rickets, beriberi, and pellagra, were each caused by the deficiency of a particular dietary component and coined the term vitamins for the chemicals concerned?
@@ -41159,11 +41159,11 @@ Huascarán
 10289
 
 What gave Kenya its name?
-Mt. Kenya
+Mount Kenya
 10290
 
 What is Africa's second tallest peak?
-Mt. Kenya
+Mount Kenya
 10291
 
 Define ``abseil.''
@@ -42283,11 +42283,11 @@ Lake Garda
 10570
 
 What eel of warm seas lives in a burrow from which its head and foreparts protrude, enabling it to catch passing food? They comprise several genera and species in the family Congridae.
-garden eel
+the garden eel
 10571
 
 To what garden did Jesus go with his disciples after the Last Supper, where he was betrayed (Matt. 26.36--46)?
-Garden of Gethsemane
+the Garden of Gethsemane
 10572
 
 What is the Garden State?
@@ -42295,7 +42295,7 @@ New Jersey
 10573
 
 Define ``garderobe.''
-toilet in a medieval building
+a toilet in a medieval building
 10574
 
 (b. 1947) What Welsh rugby union player --- an international player from 1967 to 1978 --- was the youngest-ever Welsh captain when appointed in 1968?
@@ -42699,7 +42699,7 @@ uruoboros
 10674
 
 What's the other name for the acetabulum: the socket of the hipbone into which the head of the femur fits?
-cotyloid cavity
+the cotyloid cavity
 10675
 
 Where is Ny-Ålesund?
@@ -42735,7 +42735,7 @@ Phuket
 10683
 
 What is the highest peak of the Adirondack Mountains?
-Mt. Marcy
+Mount Marcy
 10684
 
 Where is the first bend of the Yangtze?
@@ -44659,11 +44659,11 @@ Prairial
 11164
 
 What was Wayne Gretzky's atom team?
-Brantford Nadrofsky Steelers
+the Brantford Nadrofsky Steelers
 11165
 
 What is the rule that a pawn making a first move of two squares instead of one may nevertheless be immediately captured by an opposing pawn on the fifth rank?
-en passant rule
+en passant
 11166
 
 What basketball player was nicknamed ``the logo''?
@@ -44671,11 +44671,11 @@ Jerry West
 11167
 
 What narrow and steep-sided ravine marks the course of a fast stream?
-gulch
+a gulch
 11168
 
 What is a gulch?
-narrow and steep-sided ravine marking the course of a fast stream
+a narrow and steep-sided ravine marking the course of a fast stream
 11169
 
 From what piece was the theme of Benjamin Britten's The Young Person's Guide to the Orchestra?
@@ -46994,7 +46994,7 @@ Where was Noam Chomsky educated?
 University of Pennsylvania
 11747
 
-What year saw Noam Chomsky publish his Syntactic structures?
+What year saw Noam Chomsky publish his Syntactic Structures?
 1957  
 11748
 
@@ -47006,8 +47006,8 @@ Who wrote the song ``21 Questions''?
 50 Cent
 11750
 
-What Brazilian legend was part of the World XI squad at Soccer Aid 2023?
-Roberto Carlos
+What does ``NORAD'' abbreviate?
+North American Aerospace Defense Command
 11751
 
 Define ``phantasmagorical.''
@@ -47986,8 +47986,8 @@ Where was Grandmaster Jan-Krzysztof Duda born?
 Kraków
 11995
 
-In what year was Grandmaster Lê Quang Liêm born?
-1991
+Which bay does the Arnaud River flow into?
+Ungava Bay
 11996
 
 In what country was Grandmaster Nodirbek Abdusattorov born?
@@ -48254,7 +48254,7 @@ Where is Árpád híd?
 Budapest
 12062
 
-What wood cmes from Millettia laurentii?
+What wood comes from Millettia laurentii?
 wengé
 12063
 
@@ -49675,7 +49675,7 @@ Jacques Plante
 12417
 
 With what NHL team did Phil Esposito win two Stanley Cups?
-Boston Bruins
+the Boston Bruins
 12418
 
 Where was Phil Esposito born?
@@ -49687,7 +49687,7 @@ Tony
 12420
 
 For what three NHL teams did Phil Esposito play?
-Chicago Blackhawks, Boston Bruins, New York Rangers
+the Chicago Blackhawks, the Boston Bruins, the New York Rangers
 12421
 
 Who set the record for most shots in an NHL season in 1971?
@@ -49695,11 +49695,11 @@ Phil Esposito
 12422
 
 What did the Ted Lindsay Award used to be called?
-Lester B. Pearson Award
+the Lester B. Pearson Award
 12423
 
 With what NHL team did Johnny Bucyk win two Stanley Cups?
-Boston Bruins
+the Boston Bruins
 12424
 
 Where was Bobby Orr born?
@@ -49942,7 +49942,7 @@ What late-night talk show host hosted The Tonight Show from 1962 to 1992? He is 
 Johnny Carson
 12484
 
-Who directed Chariots of fire?
+Who directed Chariots of Fire?
 Hugh Hudson
 12485
 
@@ -49955,7 +49955,7 @@ Frank Lloyd Cock
 12487
 
 What school originated in 1530 when Francis I was advised to start the creation of a school that would teach topics to royal scholars, that were not taught at the Sorbonne, originally Greek, Hebrew, and mathematics, and then later, French law, Latin, and medicine?
-Collège de France
+the Collège de France
 12488
 
 When was Henry IV assassinated?
@@ -49967,7 +49967,7 @@ Louis XIII
 12490
 
 Inscribed in this building's first stone were the words ``En l'an premier du Regne de Louis XIII Roy de France et de Navarre, âgé de neuf ans, et de la Regence de la Royne Marie de Médicis sa mère MDCX.'' Identify the building.
-Collège de France
+the Collège de France
 12491
 
 What architect continued the construction of the Collège de France around the Cour d'Honneur in 1773?
@@ -49979,7 +49979,7 @@ Rue St Jacques
 12493
 
 What Parisian Lycée remained open during the Revolution?
-Lycée Louis-le-Grand
+the Lycée Louis-le-Grand
 12494
 
 When did the Lycée Louis-le-Grand get that name?
@@ -49987,11 +49987,11 @@ When did the Lycée Louis-le-Grand get that name?
 12495
 
 What Lycée did Galois attend?
-Lycée Louis-le-Grand
+the Lycée Louis-le-Grand
 12496
 
 What school was created after the French Revolution on 28 September 1794, by Jacques- Élie Lamblardie, Gaspard Monge, and Lazare Carnot, as all the royal engineering schools had previously been closed? The aim of this new establishment was to replace all those schools, but they were later reopened and it was decided that students would have to attend this school before entering the other ones.
-École Polytechnique
+the École Polytechnique
 12497
 
 Who had the easiest autograph?
@@ -50582,7 +50582,7 @@ tangerine, grapefruit
 Head-Smashed-In Buffalo Jump
 12644
 
-Who plays Harold Abrahams in Chariots of fire?
+Who plays Harold Abrahams in Chariots of Fire?
 Ben Cross
 12645
 
@@ -50695,7 +50695,7 @@ eye with a piercing stare
 12672
 
 What is gin and it?
-drink of gin and Italian vermouth
+a drink of gin and Italian vermouth
 12673
 
 What are the gingiva?
@@ -50835,15 +50835,15 @@ two
 12707
 
 With what team did Peter Forsberg win two Stanley Cups?
-Colorado Avalanche
+the Colorado Avalanche
 12708
 
 What NHL team drafted Eric Lindros?
-Quebec Nordiques
+the Quebec Nordiques
 12709
 
 Where was Eric Lindros traded after he refused to play for the Quebec Nordiques?
-Philadelphia Flyers
+the Philadelphia Flyers
 12710
 
 In what Russian town was Sergei Fedorov born?
@@ -50951,7 +50951,7 @@ Joe Sakic
 12736
 
 What NHL team drafted Joe Sakic?
-Quebec Nordiques
+the Quebec Nordiques
 12737
 
 How many Stanley Cups did Joe Sakic win?
@@ -50963,7 +50963,7 @@ Laval
 12739
 
 What NHL team drafted José Théodore?
-Montreal Canadiens
+the Montreal Canadiens
 12740
 
 Who won the Hart Memorial Trophy and the Vezina Trophy in the 2001--02 NHL season?
@@ -50994,8 +50994,8 @@ Where was Joe Thornton born?
 London, Ontario
 12747
 
-What NHL team drafted Joe Thornton?
-Boston Bruins
+Which NHL team drafted Joe Thornton?
+the Boston Bruins
 12748
 
 Who won the Art Ross Trophy and the Hart Memorial Trophy in 2005--06?
@@ -51303,11 +51303,11 @@ true
 12824
 
 What unit is defined to be one centimetre per second squared?
-gal
+the gal
 12825
 
 What historical unit, the reciprocal of one ohm (that is, one siemens), is written as an upside-down capital omega?
-mho
+the mho
 12826
 
 Translate ``amoris laetitia.''
@@ -51319,7 +51319,7 @@ you likewise
 12828
 
 What is tu quoque?
-retort charging an adversary with being or doing what the adversary criticizes in others
+a retort charging an adversary with being or doing what the adversary criticizes in others
 12829
 
 Define ``chutzpah.''
@@ -52183,11 +52183,11 @@ brass
 13044
 
 What ornamented staff is carried by rulers on ceremonial occasions as a symbol of sovereignty?
-sceptre
+a sceptre
 13045
 
 What does it mean to brandish something?
-wave or flourish it as a threat or in anger or excitement
+to wave or to flourish it as a threat or in anger or excitement
 13046
 
 Whom was Aeneas the son of?
@@ -54210,7 +54210,7 @@ Which Easter cantata, BWV 4, did John Eliot Gardiner describe as Bach's ``first-
 Christ lag in Todes Banden
 13551
 
-Who wrote the hymn ``Befiehl du deine Wege,'' used as a chorale in Bach's St. Matthew Passion?
+Who wrote the hymn ``Befiehl du deine Wege,'' which is used as a chorale in Bach's St. Matthew Passion?
 Paul Gerhardt
 13552
 
@@ -55697,4 +55697,544 @@ beheading
 How did John the Baptist die?
 he was beheaded
 13923
+
+Which was the first of Hercules's labours?
+slaying the Nemean lion
+13924
+
+Which was the second of Hercules's labours?
+slaying the Lernaean Hydra
+13925
+
+Which was the seventh of Hercules's labours?
+capturing the Cretan Bull
+13926
+
+How many labours did Hercules complete?
+twelve
+13927
+
+It means ``make or become free of unwanted or excess gas,'' and it has nothing to do with painting. 
+degas
+13928
+
+Take away an ``o'' from the name of this gulf of the Arctic Ocean to get the name of a genus of fungi. Add an ``n'' to that word and you'll get the name of a gulf of the Baltic Sea.
+the Gulf of Boothia
+13929
+
+Who liberated Zwolle in the Second World War?
+Léo Major
+13930
+
+Which two Canadian soldiers liberated Zwolle in the Second World War?
+Léo Major, Wilfrid Arsenault
+13931
+
+Define ``qua.''
+in the capacity of; as being
+13932
+
+The name of this a-rune comes from the Proto-Germanic name of a god.
+ansuz
+13933
+
+What does ``IMC'' abbreviate in aviation?
+instrument meteorological conditions
+13934
+
+What town in South Australia is renowned for its opals?
+Coober Pedy
+13935
+
+What does the winner of the Indianapolis 500 drink after he has won?
+milk
+13936
+
+What Australian lady won at Wimbledon in 1971?
+Evonne Goolagong 
+13937
+
+What meter did Carl Magee invent?
+the parking meter
+13938
+
+Who was Lyndon B. Johnson's vice president, the thirty-eighth Vice President of the United States?
+Hubert Humphrey
+13939
+
+Which Democrat, a New York senator, was assassinated in June 1968 during a presidential campaign challenging incumbent Lyndon B. Johnson?
+Robert Francis Kennedy
+13940
+
+Which king is the king of spades?
+King David
+13941
+
+Which king is the king of hearts?
+King Charles
+13942
+
+Which king is the king of diamonds?
+King Cesar
+13943
+
+Which king is the king of clubs?
+King Alexandre
+13944
+
+What is the parade song at the Belmont Stakes?
+``The Sidewalks of New York''
+13945
+
+Who was the pope depicted in Jacques-Louis David's The Coronation of Napoleon?
+Pius VII
+13946
+
+Who wrote The Scarlett Letter?
+Nathaniel Hawthorne
+13947
+
+Who wrote Gone with the Wind?
+Margaret Mitchell
+13948
+
+Who wrote Lord of the Flies?
+William Golding
+13949
+
+Who was Snoopy's secretary?
+Woodstock
+13950
+
+Who was the first black to play in the Masters Tournament?
+Lee Elder
+13951
+
+What was Moses's occupation?
+a shepherd
+13952
+
+What was Peder Severin Krøyer's occupation?
+a painter
+13953
+
+Define ``abrogate.''
+repeal or do away with (a law, right, or formal agreement)
+13954
+
+Who established Acta Apostolicae Sedis?
+St. Pius X
+13955
+
+What is an imprimatur?
+an official licence issued by the Roman Catholic Church to print an ecclesiastical or religious book
+13956
+
+Who was Joseph Aloisius Ratzinger?
+Pope Benedict XVI
+13957
+
+What adjective from the Latin ``of a sentence already passed'' describes a penalty, coming into force as soon as a law is broken, by force of the law itself (such as excommunication for various specified offences)?
+latae sententiae
+13958
+
+What adjective from the Latin ``of a sentence to be passed'' describes a penalty, only coming into force after it is imposed by an authority, and not by the fact of the law being broken)?
+ferendae sententiae
+13959
+
+Which pope excommunicated Archbishop Marcel Lefebvre?
+St. John Paul II
+13960
+
+Which country administers Big Diomede?
+Russia
+13961
+
+Which country administers Little Diomede?
+the United States
+13962
+
+What red velvet cap bordered with ermine did popes don?
+a camauro
+13963
+
+Who starred in Green Acres with Eddie Albert?
+Eva Gabor
+13964
+
+Who won the French Open in 2024?
+Carlos Alcaraz
+13965
+
+What does the Latin ``attamen'' mean?
+nevertheless
+13966
+
+Who was the first antipope?
+Hippolytus
+13967
+
+What is the shortest verse of the Bible, John xi. 35?
+Jesus wept
+13968
+
+What does the Latin ``usquequaque'' mean?
+everywhere; in every circumstance
+13969
+
+What is the forest giraffe?
+the okapi
+13970
+
+``Give not that which is holy unto the dogs, neither [---], lest they trample them under their feet, and turn again and rend you.'' (Matthew vii. 6)
+cast ye your pearls before swine
+13971
+
+Which politician talked about change through rapprochement and negotiated in the Treaty of Moscow and the Treaty of Warsaw?
+Egon Bahr
+13972
+
+What was the Great Patriotic War?
+World War II
+13973
+
+Where was the Molotov--Ribbentrop Pact signed?
+Moscow
+13974
+
+Who signed the Treaty of Non-Aggression between Germany and the Union of Soviet Socialist Republics?
+Vyacheslav Molotov, Joachim von Ribbentrop
+13975
+
+Where is Lake Silvaplana?
+Switzerland
+13976
+
+What were Lancelot, Gawain, and Galahad?
+knights
+13977
+
+Where is the Valley of the Kings?
+Egypt
+13978
+
+Where is Birkirkara?
+Malta
+13979
+
+Where is Chaguanas?
+Trinidad
+13980
+
+What island is Moroni on?
+Grande Comore
+13981
+
+What three islands comprise the Comoros?
+Anjouan, Grande Comore, Mohéli
+13982
+
+This word is a noun for the fruiting body of a bracket fungus and a verb meaning ``break down.''
+conk
+13983
+
+Which bay does the Arnaud River flow into?
+Ungava Bay
+13984
+
+Which bay separates Nunavik from Baffin Island?
+Ungava Bay
+13985
+
+Which bay circumscribes Akpatok Island?
+Ungava Bay
+13986
+
+What was the Roman settlement in Zürich called?
+Turicum
+13987
+
+What is the largest estuary system in the United Kingdom?
+the Wash
+13988
+
+Where is the Winter Palace?
+St. Petersburg
+13989
+
+What autonomous community houses Vigo?
+Galicia
+13990
+
+Which was the largest battle in the history of warfare?
+the Battle of Kursk
+13991
+
+Where was sailing held in the 1936 Summer Olympics?
+the Bay of Kiel
+13992
+
+Which is the most westerly county of Ireland?
+Kerry
+13993
+
+Where is Knossos?
+Crete
+13994
+
+Which is the second-longest river in Italy?
+the Adige
+13995
+
+Which river flows through Trento?
+the Adige
+13996
+
+Which river flows through Heidelberg?
+the Neckar 
+13997
+
+What is the capital of the Silesian Voivodeship?
+Katowice
+13998
+
+Which NHL team drafted Ken Dryden?
+the Boston Bruins
+13999
+
+Who played Mr. Roper in Three's Company?
+Norman Fell
+14000
+
+Which gold bullion coin was authorized under the Gold Bullion Coin Act of 1985?
+the American Gold Eagle
+14001
+
+Swap two letters and add an ``o'' to this word signifying a bulk quantity of precious metal, usually gold or silver, assessed by weight and typically cast as ingots to get a word representing a clear seasoned broth made by simmering beef or chicken.
+bullion
+14002
+
+What action did St. Thomas Aquinas distinguish from immanent action?
+transient action
+14003
+
+What did the Aramaic ``ḥavruta'' mean?
+friendship
+14004
+
+Which two prophets appeared at the Transfiguration?
+Elijah, Moses
+14005
+
+What was the capital of the Electorate of the Palatinate from 1085 to 1690?
+Heidelberg
+14006
+
+What was the capital of the Electorate of the Palatinate from 1085 to 1690?
+Heidelberg
+14007
+
+What was the capital of the Electorate of the Palatinate from 1690 to 1720?
+Düsseldorf
+14008
+
+What was the capital of the Electorate of the Palatinate from 1720 to 1803?
+Mannheim
+14009
+
+Where are cows milked?
+a parlour
+14010
+
+Who was James Bond's enemy?
+Ernst Stavro Blofeld
+14011
+
+Whose enemy was Ernst Stavro Blofeld?
+James Bond's
+14012
+
+What is the glabella?
+the smooth part of the forehead above and between the eyebrows
+14013
+
+Who made the first public American flight of 0.6 miles in 1908?
+Glenn Curtiss
+14014
+
+This word, which means ``land'' or ``fields,'' comes from the Latin for ``clod, land, soil.''
+glebe
+14015
+
+(c.1354--c.1417) This Welsh chief proclaimed himself Prince of Wales and led a national uprising against Henry IV.
+Owen Glendower
+14016
+
+What is a glengarry?
+a brimless boat-shaped hat with a cleft down the centre, typically having two ribbons hanging at the back, worn as part of Highland dress
+14017
+
+Into which shallow depression on the scapula does the head of the humerus fit?
+the glenoid cavity
+14018
+
+From 1940 to 1958, this American nuclear chemist and his colleagues produced nine of the transuranic elements (plutonium to nobelium) in a cyclotron. He and his early collaborator Edwin McMillan (1907--91) shared the Nobel Prize for Chemistry in 1951.
+Glenn Seaborg
+14019
+
+What is the connective tissue of the nervous system?
+the glia
+14020
+
+What is a glim?
+a candle or lantern
+14021
+
+(1804--57) This Russian composer, regarded as the father of the Russian national school of music, is best known for his operas A Life for the Tsar (1836) and Russlan and Ludmilla (1842).
+Mikhail Ivanovich Glinka
+14022
+
+This verb from French means ``slide down a steep slope of snow or ice with the support of an ice axe.''
+glissade
+14023
+
+This is a ballet movement, typically used as a joining step, in which one leg is brushed outwards from the body, which then takes the weight while the second leg is brushed in to meet it.
+a glissade
+14024
+
+Which is the second-highest mountain in Norway?
+Glittertind
+14025
+
+Which is the highest mountain in Norway?
+Galdhøpiggen
+14026
+
+What is the gloaming?
+twilight; dusk
+14027
+
+This unmanned American spacecraft went into orbit around Mars in 1997 to begin detailed photography and mapping of the surface. Contact with the spacecraft was lost in 2006.
+the Mars Global Surveyor
+14028
+
+This plant of the genus Trollius and the family Ranunculaceae --- the buttercup family --- has globular yellow or orange flowers and is native to north temperate regions.
+the globeflower
+14029
+
+To which family does the globe thistle belong?
+Compositae
+14030
+
+This planktonic marine protozoan with a calcareous shell is of the order Foraminiferida. The shells collect as a deposit or ``ooze'' over much of the ocean floor.
+globigerina
+14031
+
+What sensation of a lump in the throat comes as a symptom of anxiety or hysteria?
+globus hystericus
+14032
+
+What is the median part of the lentiform nucleus in the brain?
+the globus pallidus
+14033
+
+This word, from the Greek for ``arrowhead,'' refers to a barbed bristle on the areole of some cacti.
+glochid
+14034
+
+What is a glochidium?
+a parasitic larva of certain freshwater bivalve molluscs, which attaches itself by hooks and suckers to the fins or gills of fish
+14035
+
+What is glögg?
+a type of Scandinavian mulled wine made with brandy, almonds, raisins, and spices
+14036
+
+What does glomerulonephritis affect?
+the kidneys
+14037
+
+What is the glomerulus?
+a cluster of nerve endings, spores, or small blood vessels, especially a cluster of capillaries around the end of a kidney tubule
+14038
+
+What is a gloriole?
+a halo or aureole
+14039
+
+Whose replacement did the Glorious Revolution lead to?
+James II's
+14040
+
+What four-word name is used for chionodoxa?
+glory-of-the-snow
+14041
+
+What is glossitis?
+the inflammation of the tongue
+14042
+
+What name is given to each of the ninth pair of cranial nerves, supplying the tongue and pharynx?
+glossopharyngeal nerve
+14043
+
+What is the second firing of ceramic ware in which the glaze is fused?
+glost
+14044
+
+What is a Gloucester Old Spot?
+a pig
+14045
+
+What literary g-word means ``make excuses for'' and once meant ``use ingratiating language''?
+gloze
+14046
+
+(1899--1983) This American actress was a major star in silent films such as Sadie Thompson (1928) but is now chiefly known for her performance as the fading movie star in Sunset Boulevard (1950).
+Gloria Swanson
+14047
+
+What hormone formed in the pancreas promotes the breakdown of glycogen to glucose in the liver?
+glucagon
+14048
+
+This uronic acid derived from glucose occurs naturally as a constituent of hyaluronic acid and other mucopolysaccharides.
+glucuronic acid
+14049
+
+What is glühwein?
+mulled wine
+14050
+
+What name is given to each of two membranous bracts surrounding the spikelet of a grass (forming the husk of a cereal grain) or one surrounding the florets of a sedge?
+glume
+14051
+
+This compound involved as a coenzyme in oxidation--reduction reactions in cells is a tripeptide derived from glutamic acid, cysteine, and glycine.
+glutathione
+14052
+
+What is glycaemia?
+the presence of glucose in the blood
+14053
+
+What is the bonding of a sugar molecule to a protein or lipid molecule without enzymatic regulation?
+glycation
+14054
+
+What is the controlled enzymatic modification of an organic molecule, especially a protein, by adding a sugar molecule?
+glycosylation
+14055
+
+What is the art or scientific study of gem engraving?
+glyptography
+14056
+
+What is another name for glyceryl trinitrate?
+nitroglycerine
+14057
+
+Name the twenty-two proteinogenic amino acids.
+alanine, arginine, asparagine, aspartate, cysteine, glutamine, glutamate, glycine, histidine, isoleucine, leucine, lysine, methionine, phenylalanine, proline, pyrrolysine, selenocysteine, serine, threonine, tryptophan, tyrosine, valine
+14058
 
