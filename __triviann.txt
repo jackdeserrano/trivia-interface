@@ -1007,7 +1007,7 @@ Of what major river is the Rio Negro a tributary?
 Amazon
 
 Of what was the altar in the tabernacle made?
-acacia wood covered with bronze (Exod. 27.1)
+acacia wood covered with bronze (Exodus xxvii. 1--2)
 
 On Good Friday of what year was Johann Sebastian Bach's St. Matthew Passion first performed?
 1727
@@ -1103,7 +1103,7 @@ Whose death was followed by the Roman Empire's split between East and West?
 Theodosius the Great
 
 The Sahara, the world's largest subtropical desert, extends from the Atlantic Ocean to what sea?
-Red Sea
+the Red Sea
 
 Whose Symphony no. 2 was subtitled ``St. Florian'' and structured after the Mass Ordinary?
 Alfred Schnittke
@@ -1115,7 +1115,7 @@ What nation's independence did the Thirty-Three Orientals (including its second 
 Uruguay
 
 What statute did Theodosius the Great issue in 380, making Christianity the official religion of the Roman Empire?
-Edict of Thessalonica
+the Edict of Thessalonica
 
 This battle took place in northern France in 1415. What Hundred Years War battle in which Henry V defeated a large French army mainly by using the longbow allowed Henry to occupy Normandy?
 the Battle of Agincourt
@@ -1406,13 +1406,13 @@ What body of water separates the islands of Great Britain and Ireland?
 the Irish Sea
 
 What body of water separates the Italian Peninsula from the Balkan Peninsula?
-Adriatic Sea
+the Adriatic Sea
 
 What body of water shared between Tanzania, the Democratic Republic of the Congo, Burundi, and Zambia is the world's second oldest, second largest (by volume), and second deepest lake?
 Lake Tanganyika
 
-What book of the Bible mentions a talking altar?
-Revelation (16.7)
+Which book of the Bible mentions a talking altar?
+Revelation (xvi. 7)
 
 What bright star in one of the feet of Orion derives its name from the Arabic for ``foot''?
 Rigel
@@ -4069,7 +4069,7 @@ the frieze
 What is the most southerly point of Africa?
 Cape Agulhas
 
-What is the name given to a Japanese unframed painting made on paper or silk and displayed as a wall hanging?
+What is the name given to an unframed painting of Japan made on paper or silk and displayed as a wall hanging?
 kakemono
 
 What is the name given to a university professor who has, or originally had, royal patronage or appointment?
@@ -4448,13 +4448,13 @@ What Jordanian king (1946--51) was emir of Transjordan from 1921 and became king
 Abdullah ibn Hussein
 
 What judge and prophet built an altar to the Lord at Ramah?
-Samuel (1 Sam. 7.17)
+Samuel (1 Samuel vii. 17)
 
-What judge built an altar and called it ``The Lord is peace''?
-Gideon (Judg. 6.24)
+What judge built an altar and called it ``the Lord's peace''?
+Gideon (Judges vi. 24)
 
 What judge's parents saw an angel going up to heaven in the flames on the altar?
-Samson's (Judg. 13.20)
+Samson's (Judges xiii. 20)
 
 What kind of cells wrap around the axon of a neuron to form a myelin sheath?
 Schwann cells
@@ -4463,19 +4463,19 @@ What kind of clinometer consists of a sighting tube, spirit level, and graduated
 Abney level
 
 What kind of stone was, according to the Law, not supposed to be used in making an altar?
-cut stones (Exod. 20.25)
+cut stones (Exodus xx. 25)
 
 What king issued an order allowing the Jews to rebuild the temple in Jerusalem?
-Darius (Ezra 6.1--12)
+Darius (Ezra vi. 1--12)
 
-What king of Israel built a Baal altar in Samaria to please his pagan wife?
-Ahab (1 Kings 16.32)
+What kind of stone was, according to the Law, not supposed to be used in making an altar?
+cut stones (Exodus xx. 25)
 
-What king of Israel changed the religious institutions of the country by building an altar at Bethel?
-Jeroboam (1 Kings 12.32)
+What kind of stone was, according to the Law, not supposed to be used in making an altar?
+cut stones (Exodus xx. 25)
 
-What king of Judah tore down Jeroboam's altar at Bethel and pounded the stones into dust?
-Josiah (2 Kings 23.15)
+What kind of stone was, according to the Law, not supposed to be used in making an altar?
+cut stones (Exodus xx. 25)
 
 What king of the Khmer Empire built Angkor Wat circa 1150?
 King Suryavarman II
@@ -4483,26 +4483,26 @@ King Suryavarman II
 What king of the Visigoths (395--410) invaded Italy in 408 and captured Rome in 410?
 Alaric
 
-What king tricked the followers of Baal by gathering them in Baal's temple and then slaughtering them?
-Jehu of Israel (2 Kings 10.18--27)
+What king was told to build an altar in a threshing place?
+David (2 Samuel xxiv. 18)
 
 What king was told to build an altar in a threshing place?
-David (2 Sam. 24.18)
+David (2 Samuel xxiv. 18)
 
 What knee-length coat buttoned in front is worn by men from South Asia?
-achkan
+an achkan
 
 What lake of northwest Russia is the second-largest in Europe and drained by the Svir River?
 Lake Onega
 
 What landform comes in phreatic and Strombolian varieties?
-volcano
+a volcano
 
 What language was the official language of the Incan Empire and is still spoken today in Peru?
 Quechua
 
 What large, shallow sea enclosed on three sides by northern Australia and bounded on the north by the Arafura Sea was first visited by Wilhelm Janszoon in 1605-06?
-Gulf of Carpentaria
+the Gulf of Carpentaria
 
 What largest and most populous island of Greece bounds the southern border of the Aegean Sea?
 Crete
@@ -4514,7 +4514,7 @@ What law states that the pressure and volume of a gas sample at constant tempera
 Boyle's law
 
 What leader anointed David as king?
-Samuel (1 Sam. 16.12)
+Samuel (1 Samuel xvi. 12)
 
 What Lebanese prime minister was assassinated in June 1987?
 Rashid Karami
@@ -4523,7 +4523,7 @@ What Lebanese Shiite Muslim movement/political party was founded as the ``moveme
 Amal
 
 What Leonardo da Vinci drawing depicts a man in two superimposed positions with his arms and legs apart and inscribed in a circle and square?
-Vitruvian man (Italian: L'uomo vitruviano)
+the Vitruvian Man (Italian: L'uomo vitruviano)
 
 What lesser Jewish festival commemorates the rededication of the temple by the Maccabees after its desecration by the Syrians and lasts eight days from the twenty-fifth day of Kislev?
 Chanukah
@@ -5225,13 +5225,13 @@ What traditional founder of the Jewish priesthood (Exod. 28.1) was Moses's broth
 Aaron
 
 What transformation of British agriculture in the eighteenth century is characterized by the enclosure of common land and technological innovations such as the seed drill and crop rotation?
-Agrarian Revolution
+the Agrarian Revolution
 
 What treatise on politics did Niccolò Machiavelli write in 1513?
 The Prince
 
 What treaty ended the war between the United States and Great Britain?
-Treaty of Paris
+the Treaty of Paris
 
 What trilogy of tragedies by Aeschylus was performed in Athens in 458 BC?
 Oresteia
@@ -5840,19 +5840,19 @@ Who shared the 1945 Nobel Prize for Physiology or Medicine with Fleming for esta
 Howard Florey, Ernst Chain
 
 Who stored Goliath's armour in his tent?
-David (1 Sam. 17.54)
+David (1 Samuel xvii. 54)
 
-Who taxed the Israelites in order to pay off Pul, the king of Assyria?
-King Menahem (2 Kings 15.19--20)
+Who stored Goliath's armour in his tent?
+David (1 Samuel xvii. 54)
 
-Who took bones out of tombs and burned them on an altar to defile it?
-Josiah (2 Kings 23.16)
+Who stored Goliath's armour in his tent?
+David (1 Samuel xvii. 54)
 
 Who used the cowpox virus to create the first vaccine for smallpox?
 Edward Jenner
 
 Who was anointed by the Holy Spirit?
-Jesus (Matt. 3.16)
+Jesus (Matthew iii. 16)
 
 Who was Bathsheba's first husband?
 Uriah
@@ -5867,7 +5867,7 @@ Who was Queen of England for only nine days?
 Lady Jane Grey
 
 Who was taken to the highest point of the Jerusalem temple?
-Jesus (Matt. 4.5)
+Jesus (Matthew iv. 5)
 
 Who was the first American to win a Nobel Prize in a science?
 Albert Abraham Michelson (1907, physics)
@@ -5891,19 +5891,19 @@ Who was the first woman to fly across the Atlantic solo?
 Amelia Earhart
 
 Who was told by an angel that his son was to be named John?
-Zechariah (Luke 1.13)
+Zechariah (Luke i. 13)
 
 Who was told by God to name his son Maher-shalal-hash-baz?
-Isaiah (8.3)
+Isaiah (viii. 3)
 
 Who was told in a vision to measure the temple in Jerusalem?
-John (Rev. 11.1--2)
+John (Revelation xi. 1--2)
 
 Who was told to name his firstborn son Jezreel?
-Hosea (1.4)
+Hosea (i. 4)
 
-Who was told to name his son Solomon?
-David (1 Chron. 22.9)
+Who was told by God to name his son Maher-shalal-hash-baz?
+Isaiah (viii. 3)
 
 Who were Abraham's brothers?
 Nahor, Haran
@@ -5915,7 +5915,7 @@ Who were the first two people to summit Mount Everest?
 Edmund Hillary, Tenzing Norgay
 
 Who were the three Hebrew men thrown into a furnace by Nebuchadnezzar?
-Hananiah, Mishael, Azariah (Dan. 3)
+Hananiah, Mishael, Azariah (Daniel iii.)
 
 Who were the Three Tenors?
 Plácido Domingo, José Carreras, Luciano Pavarotti
@@ -5950,40 +5950,40 @@ St. Teresa of Ávila
 Who wrote The Three Musketeers and The Count of Monte Cristo?
 Alexandre Dumas
 
-Who wrote To kill a mockingbird?
+Who wrote To Kill a Mockingbird?
 Harper Lee
 
-Who wrote Who's afraid of Virginia Woolf?
+Who wrote Who's Afraid of Virginia Woolf?
 Edward Albee
 
 Who, according to James, should anoint the sick believer with oil?
-the church elders (Jas. 5.14)
+the church elders (James v. 14)
 
 Whom did Jesus say he would make into fishers of men?
-Peter, Andrew (Mark 1.17)
+Peter, Andrew (Mark i. 17)
 
 Whom did Moses anoint with the blood of a ram?
-Aaron and his sons (Lev. 8.23)
+Aaron and his sons (Leviticus viii. 23)
 
 Whom did Octavian defeat at the Battle of Actium (31 BC)?
 Marc Antony, Cleopatra
 
 Whom did Solomon hire to take charge of building the temple?
-Huram of Tyre (1 Kings 7.13--14)
+Huram of Tyre (1 Kings vii. 13--14)
 
 Whom did Sparta defeat to end the Peloponnesian War?
 Athens
 
 Whose palace had a hand that wrote on the wall?
-Belshazzar's (Dan. 5.5)
+Belshazzar's (Dan. v. 5)
 
 Whose temple did Abimelech burn while the people of Shechem were hiding inside?
-the temple of the god Berith (Judg. 9.46--49)
+the temple of the god Berith (Judges ix. 46--49)
 
 Why did John not see a temple in the new Jerusalem?
-God and the Lamb are the temple (Rev. 21.22)
+God and the Lamb are the temple (Revelation xxi. 22)
 
-Why was Handel's collection of three suites called Water music?
+Why was Handel's collection of three suites called ``Water Music''?
 it was first performed on a barge on the River Thames after King George I requested a concert there (17 July 1717)
 
 With what Canadian saint, who had a pious devotion to St. Joseph, is St. Joseph's Oratory in Montreal associated?
@@ -6899,7 +6899,7 @@ How many buttons does a traditional Roman cassock have?
 33
 
 Aeterni regis, a bull promulgated by Sixtus IV in 1481, confirmed what treaty that put an end to the War of the Castilian Succession?
-Treaty of Alcáçovas
+the Treaty of Alcáçovas
 
 Along what long threadlike part of a neuron are impulses conducted from the cell body to other cells?
 axon
@@ -9164,7 +9164,7 @@ What important source of medieval Canon Law, also called ``Decretales Gregorii I
 Liber extra
 
 What index catalogues works of folklore?
-Aarne--Thompson--Uther index
+the Aarne--Thompson--Uther index
 
 What pope promulgated the encyclical Rerum novarum in 1891?
 Leo XIII
@@ -17267,7 +17267,7 @@ What term, sometimes called destructive metabolism, refers to the breakdown of c
 catabolism
 
 What test for infection with a microorganism involves measuring the amount of complement available in serum to bind with an antibody-antigen complex?
-complement fixation test
+the complement fixation test
 
 What test made in early pregnancy to detect congenital abnormalities in the fetus involves taking a tiny tissue sample from the threadlike projections of the fetal part of the placenta?
 chorionic villus sampling
@@ -19463,7 +19463,7 @@ What is a member of the lowest caste called in the traditional Indian caste syst
 Dalit/untouchable
 
 What is the common name for Ovis dalli?
-Dall sheep
+the Dall sheep
 
 Where was John F. Kennedy assassinated?
 Dallas
@@ -20848,7 +20848,7 @@ Hven
 What Danish astronomer was the first person to estimate the speed of light (1676) by timing the eclipses of Io?
 Rømer
 
-What two scientists---an Englishman and a Frenchman---simultaneously and independently conjectured the existence of Neptune?
+What two scientists --- an Englishman and a Frenchman --- simultaneously and independently conjectured the existence of Neptune?
 John Adams, Urbain Le Verrier
 
 Whose experiment measuring the force of gravitational attraction between pairs of lead spheres allows one to calculate the gravitational constant?
@@ -23723,7 +23723,7 @@ What is the study of wines?
 enology
 
 What is an oenophile?
-connoisseur of wines
+a connoisseur of wines
 
 What name is given to the political union of Cyprus and Greece as an aim or ideal of certain Greeks and Cypriots?
 enosis
@@ -23762,7 +23762,7 @@ Who found a so-called ``loophole'' in the Constitution that allowed American dem
 Gödel
 
 The first Arabic inscriptions were not written in the Arabic script. What script was used?
-Nabataean
+the Nabataean
 
 Where was the oldest inscription of the Arabic language found? It was written in the Nabataean script.
 Ein Avdat
@@ -23774,7 +23774,7 @@ To whom is the chaconne with which Heifetz began his American debut recital trad
 Vitali
 
 What people of ancient Arabia, whose settlements lay in the borderlands between Syria and Arabia from the Euphrates River to the Red Sea, were unsuccessfully attacked by Demetrius I Poliorcetes, king of Macedonia, in their mountain fortress of Petra south of the Dead Sea?
-Nabataeans
+the Nabataeans
 
 What name refers to a horizontal, continuous lintel on a classical building supported by columns or a wall, comprising the architrave, frieze, and cornice?
 entablature
@@ -23798,7 +23798,7 @@ What Gram-positive streptococcus occurs naturally in the intestine but causes in
 enterococcus
 
 What is a toxin produced in or affecting the intestines, such as those causing food poisoning or cholera, called?
-enterotoxin
+an enterotoxin
 
 What thermodynamic quantity is equal to the internal energy of the system plus the product of pressure and volume?
 enthalpy
@@ -23807,7 +23807,7 @@ What chemical substance, typically of plant origin, is ingested to produce a non
 entheogen
 
 What is a parasol?
-lightweight umbrella used as a sunshade
+a lightweight umbrella used as a sunshade
 
 What soil is of an order comprising mineral soils that have not yet differentiated into distinct horizons?
 entisol
@@ -23912,7 +23912,7 @@ In what stanza (papal apartment) did Raphael portray specific miraculous events 
 the Stanza d'Eliodoro
 
 Raphael's first task in Rome was to paint a cycle of frescos in a suite of medium-sized rooms in the Vatican papal apartments in which Julius II lived and worked. What are these rooms called?
-Stanze
+the Stanze
 
 Who painted Scuola di Atene `The School of Athens'?
 Raphael
@@ -26950,7 +26950,7 @@ Federation of St. Christopher and Nevis
 (1920--93) What Italian film director rose to international fame with La strada (1954), which won an Oscar for best foreign film? He also directed La dolce vita (1960): a satire on Rome's high society.
 Federico Fellini
 
-(1898--1936) This Spanish poet and playwright's works include Gypsy ballads (verse, 1928) and intense, poetic tragedies evoking the passionate emotions of Spanish life, notably Blood wedding (1933). He was killed by nationalists in the Spanish Civil War.
+(1898--1936) This Spanish poet and playwright's works include Gypsy Ballads (verse, 1928) and intense, poetic tragedies evoking the passionate emotions of Spanish life, notably Blood Wedding (1933). He was killed by nationalists in the Spanish Civil War.
 Federico García Lorca
 
 What signal processing algorithm begets approximations of unknowns based on statistical noise, etc. over time? It is named after a Hungarian man.
@@ -27215,13 +27215,13 @@ What is the Hungarian name for the Neusieldler See?
 Fertö Tó
 
 What shallow lake in the steppe region between eastern Austria and northwestern Hungary is called ``Fertö Tó'' in Magyar?
-Neusieldler See
+the Neusieldler See
 
-``And not only so, but we glory in tribulations also: knowing that tribulation worketh patience; And patience, experience; and experience, hope: And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.'' Verses.
-Rom. 5.3--5
+``And not only so; but we glory also in tribulations, knowing that tribulation worketh patience; And patience trial; and trial hope; And hope confoundeth not: because the charity of God is poured forth in our hearts, by the Holy Ghost, who is given to us.'' Verses.
+Romans v. 3--5
 
-``When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.'' Verse.
-1 Cor. 13.11
+``When I was a child, I spoke as a child, I understood as a child, I thought as a child. But, when I became a man, I put away the things of a child.'' Verse.
+1 Corinthians xiii. 11
 
 Who described the notion of modes of limited transposition in his La technique de mon langage musical?
 Olivier Messiaen
@@ -27230,13 +27230,13 @@ Who composed My father knew Charles Ives for the San Francisco Symphony? He also
 John Adams
 
 What painting by Caspar David Friedrich epitomizes Romanticism?
-Wanderer above the sea of fog
+Wanderer Above the Sea of Fog
 
-Who painted Wanderer above the sea of fog?
+Who painted Wanderer Above the Sea of Fog?
 Caspar David Friedrich
 
 From what work is Scheherezade?
-Arabian nights
+Arabian Nights
 
 For how many nights did Scheherezade tell tales to Shahryār?
 one thousand and one
@@ -27244,7 +27244,7 @@ one thousand and one
 Who composed Scheherezade?
 Rimsky-Korsakov
 
-What Frenchman was the first European to translate Les mille et une nuits `One thousand and one nights'?
+What Frenchman was the first European to translate Les mille et une nuits `One Thousand and One Nights'?
 Antoine Galland
 
 Who commissioned Neuschwanstein castle?
@@ -27253,7 +27253,7 @@ Ludwig II
 What figure of Slavic folklore steals, cooks, and eats her victims, usually children? She is the subject of the penultimate picture in Mussorgsky's Pictures at an exhibition. ``If [---] comes, don't you say anything. Be silent.''
 Bába Jagá
 
-Whose Morphology of the folk tale (1928) influenced Barthes, Levi-Strauss, and Dundes?
+Whose Morphology of the Folk Tale (1928) influenced Barthes, Levi-Strauss, and Dundes?
 Vladimir Propp
 
 What is Aarne--Thompson tale 510A?
@@ -27481,20 +27481,20 @@ What is the name of the habanera from Carmen?
 Translate ``verklärte Nacht.''
 transfigured night
 
-What are the French equivalents of quotation marks called?
+What are the French equivalents of quotation marks?
 guillemets
 
 What is a ``vertically-organized statement of the octatonic scale as two diminished seventh chords''?
-alpha chord
+the alpha chord
 
 What is the second mode of limited transposition?
-octatonic
+the octatonic
 
 What chord with Forte number 4--22A is connected with Steely Dan?
-mu chord
+the mu chord
 
 What augmented sixth chord has Forte number 4--25?
-French sixth
+the French sixth
 
 What chord with Forte number 5-z17 is named after a piece by Schoenberg in which it is found?
 the Farben chord
@@ -27535,32 +27535,32 @@ the Viennese trichord
 What augmented sixth chord has the Forte number 3--8A?
 the Italian sixth
 
-What is the Forte number of Schoenberg's hexachord---cryptographically, ``EsCHBEG''?
+What is the Forte number of Schoenberg's hexachord --- cryptographically, ``EsCHBEG''?
 6-z44
 
-``And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all things: and as iron that breaketh all these, shall it break in pieces and bruise. And whereas thou sawest the feet and toes, part of potters' clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay. And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken. And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay. And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.'' Verses.
-Dan. 2.40--44
+``And the fourth kingdom shall be as iron. As iron breaketh into pieces, and subdueth all things, so shall that break and destroy all these. And whereas thou sawest the feet, and the toes, part of potter's clay, and part of iron: the kingdom shall be divided, but yet it shall take its origin from the iron, according as thou sawest the iron mixed with the miry clay. And as the toes of the feet were part of iron, and part of clay, the kingdom shall be partly strong, and partly broken. And whereas thou sawest the iron mixed with miry clay, they shall be mingled indeed together with the seed of man, but they shall not stick fast one to another, as iron cannot be mixed with clay. But in the days of those kingdoms the God of heaven will set up a kingdom that shall never be destroyed, and his kingdom shall not be delivered up to another people, and it shall break in pieces, and shall consume all these kingdoms, and itself shall stand for ever.'' Verses.
+Dan. ii. 40--44
 
 What ordinal republican regime was established in France with Charles de Gaulle's introduction of a new constitution in 1958?
-Fifth Republic
+the Fifth Republic
 
-What amendment to the US Constitution contains a number of provisions relating to criminal law, including guarantees of due process and of the right to refuse to answer questions to avoid incriminating oneself?
-Fifth Amendment
+Which amendment to the United States Constitution contains a number of provisions relating to criminal law, including guarantees of due process and of the right to refuse to answer questions to avoid incriminating oneself?
+the Fifth Amendment
 
-``And the eyes of them both were opened, and they knew that they were naked; and they sewed [---] together, and made themselves aprons'' (Gen. 3.7).
+``And the eyes of them both were opened: and when they perceived themselves to be naked, they sewed together [---], and made themselves aprons.'' (Gen. iii. 7).
 fig leaves
 
-How many verses does Deuteronomy 31 have?
+How many verses does Deuteronomy xxxi. have?
 30
 
 Define ``fricative.''
-consonant made by the friction of breath in a narrow opening, producing a turbulent air flow
+a consonant made by the friction of breath in a narrow opening, producing a turbulent air flow
 
 Define ``nothogenus.''
-genus denoting a hybrid or cross
+a genus denoting a hybrid or cross
 
 Define ``paunch.''
-large or protruding abdomen or stomach; thick strong mat used to give protection from chafing on a mast or spar
+a large or protruding abdomen or stomach; a thick strong mat used to give protection from chafing on a mast or spar
 
 What cape of North Carolina is located in the Outer Banks?
 Cape Hatteras
@@ -27689,7 +27689,7 @@ What French term refers to the turn of a century or the end of an era?
 fin de siècle
 
 How many Grand Slams has Novak Djokovic won?
-24
+twenty-four
 
 What is Easter Island's native name?
 Rapa Nui
@@ -27919,14 +27919,14 @@ Sherwood forest
 How many pockets does a snooker table have?
 6
 
-``Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre's sake.'' Verse.
-Tit. 1.11
+``Who must be reproved, who subvert whole houses, teaching things which they ought not, for filthy lucre's sake.'' Verse.
+Titus i. 11
 
-``Behold now behemoth, which I made with thee; he eateth grass as an ox. Lo now, his strength is in his loins, and his force is in the navel of his belly. He moveth his tail like a cedar: the sinews of his stones are wrapped together. His bones are as strong pieces of brass; his bones are like bars of iron. He is the chief of the ways of God: he that made him can make his sword to approach unto him. Surely the mountains bring him forth food, where all the beasts of the field play. He lieth under the shady trees, in the covert of the reed, and fens.'' Identify the book.
+``Behold behemoth whom I made with thee, he eateth grass like an ox. His strength is in his loins, and his force in the navel of his belly. He setteth up his tail like a cedar, the sinews of his testicles are wrapped together. His bones are like pipes of brass, his gristle like plates of iron. He is the beginning of the ways of God, who made him, he will apply his sword. To him the mountains bring forth grass: there all the beasts of the field shall play. He sleepeth under the shadow, in the covert of the reed, and in moist places. The shades cover his shadow, the willows of the brook shall compass him about. Behold, he will drink up a river, and not wonder: and he trusteth that the Jordan may run into his mouth. In his eyes as with a hook he shall take him, and bore through his nostrils with stakes. Canst thou draw out the leviathan with a hook, or canst thou tie his tongue with a cord?'' Identify the book.
 Job
 
-Who painted Ecce quasi filius hominis in nubibus us caeli (Ezekiel 1.4)?
-Salvador Dalí
+Identify the book. ``And I saw, and behold a whirlwind came out of the north: and a great cloud, and a fire infolding it, and brightness was about it: and out of the midst thereof, that is, out of the midst of the fire, as it were the resemblance of amber: And in the midst thereof the likeness of four living creatures: and this was their appearance: there was the likeness of a man in them.''
+Ezekiel
 
 What is the name of Beethoven's twenty-first piano sonata?
 Waldstein
@@ -28018,14 +28018,14 @@ Odin
 ``I ween that I hung / on the windy tree / Hung there for nights full nine / With the spear I was wounded / and offered I was / To Odin, myself to myself / On the tree that none / may know / What root beneath it runs.'' What is this tree called?
 Yggdrasil
 
-What does John 15.5 say?
-I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.
+What does John xv. 5 say?
+I am the vine: you the branches: he that abideth in me, and I in him, the same beareth much fruit: for without me you can do nothing.
 
-``I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.'' Verse.
-Jn. 15.5
+``I am the vine: you the branches: he that abideth in me, and I in him, the same beareth much fruit: for without me you can do nothing.'' Verse.
+John xv. 5
 
 What being is responsible for the creation of the universe?
-demiurge
+a demiurge
 
 What cosmic energy that is believed to lie within everyone is pictured as a coiled serpent lying at the base of the spine?
 kundalini
@@ -28036,7 +28036,7 @@ Upanishad
 What texts are called ``vedanta'' as they conclude the Vedas?
 the Upanishads
 
-Who wrote Heart of darkness?
+Who wrote Heart of Darkness?
 Joseph Conrad
 
 From what text is Kurtz?
@@ -28048,17 +28048,17 @@ Adelaide
 Where was Rob McConnell born?
 London, Ontario
 
-``And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.'' Verse.
-Genesis 3.7
+``And the eyes of them both were opened: and when they perceived themselves to be naked, they sewed together fig leaves, and made themselves aprons.'' Verse.
+Genesis iii. 7
 
-``And they heard the voice of the Lord God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the Lord God amongst the trees of the garden. / And the Lord God called unto Adam, and said unto him, Where art thou? / And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself.'' Verses.
-Genesis 3.8--10
+``And when they heard the voice of the Lord God walking in paradise at the afternoon air, Adam and his wife hid themselves from the face of the Lord God, amidst the trees of paradise. And the Lord God called Adam, and said to him: Where art thou? And he said: I heard thy voice in paradise; and I was afraid, because I was naked, and I hid myself.'' Verses.
+Genesis iii. 8--10
 
-``Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee. / And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life; / Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field; / In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.'' Verses.
-Genesis 3.16--19
+``To the woman also he said: I will multiply thy sorrows, and thy conceptions: in sorrow shalt thou bring forth children, and thou shalt be under thy husband's power, and he shall have dominion over thee. And to Adam he said: Because thou hast hearkened to the voice of thy wife, and hast eaten of the tree, whereof I commanded thee that thou shouldst not eat, cursed is the earth in thy work; with labour and toil shalt thou eat thereof all the days of thy life. Thorns and thistles shall it bring forth to thee; and thou shalt eat the herbs of the earth. In the sweat of thy face shalt thou eat bread till thou return to the earth, out of which thou wast taken: for dust thou art, and into dust thou shalt return.'' Verses.
+Genesis iii. 16--19
 
-``And the Lord God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever: Therefore the Lord God sent him forth from the garden of Eden, to till the ground from whence he was taken. So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.'' Verses.
-Genesis 3.22--24
+``And the Lord God made for Adam and his wife, garments of skins, and clothed them. And he said: Behold Adam is become as one of us, knowing good and evil: now, therefore, lest perhaps he put forth his hand, and take also of the tree of life, and eat, and live for ever. And the Lord God sent him out of the paradise of pleasure, to till the earth from which he was taken. And he cast out Adam; and placed before the paradise of pleasure Cherubims, and a flaming sword, turning every way, to keep the way of the tree of life.'' Verses.
+Genesis iii. 21--24
 
 Who composed ``Befiehl du deine Wege''?
 Paul Gerhardt
@@ -28105,11 +28105,11 @@ Nouvelle-Ecosse
 When did Dalí paint Allegory of spring?
 1978
 
-What does Daniel 3.23 say?
-And these three men, Shadrach, Meshach, and Abednego, fell down bound into the midst of the burning fiery furnace.
+What does Daniel iii. 23 say?
+But these three men, that is, Sidrach, Misach, and Abdenago, fell down bound in the midst of the furnace of burning fire.
 
-``And these three men, Shadrach, Meshach, and Abednego, fell down bound into the midst of the burning fiery furnace.'' Verse.
-Daniel 3.23
+``But these three men, that is, Sidrach, Misach, and Abdenago, fell down bound in the midst of the furnace of burning fire.'' Verse.
+Daniel iii. 23
 
 ``I believe art is born of `I must,' not of `I can.''' Who said this?
 Schoenberg
@@ -28123,32 +28123,32 @@ Schoenberg
 What piece begot the fracas at the Skandalkonzert?
 Five Orchestral Songs after Postcards by Peter Altenberg
 
-When was The firebird written?
+When was The Firebird written?
 1910
 
 When was Petrushka written?
 1911
 
-When was The rite of spring written?
+When was The Rite of Spring written?
 1913
 
 What does ``non compos mentis'' mean?
 not of sound mind
 
 What are the two hostile brothers?
-mythological hero, eternal adversary
+the mythological hero, the eternal adversary
 
 What are the two adversarial types in the story of the hostile brothers?
-fascist, decadent
+the fascist, the decadent
 
 Define ``deluge.''
-severe flood
+a severe flood
 
 Define ``paucity.''
 the presence of something only in small or insufficient quantities or amounts; scarcity
 
 What packing is demonstrated in helium crystals?
-hexagonal close packing
+the hexagonal close packing
 
 What is the volume of the $n$-sphere?
 \begin{align*}\frac{\pi^{n/2}}{(n/2)!}\end{align*}
@@ -28178,7 +28178,7 @@ What does ``FTSE'' abbreviate?
 Financial Times Stock Exchange
 
 What is a finca?
-country estate/ranch
+a country estate/ranch
 
 To what family do the true finches belong?
 Fringillidae
@@ -28468,35 +28468,35 @@ rampage
 Frye says that ``the demonic society is a sustained and systematic parody of the divine one.'' Whose work was he referencing?
 Milton's
 
-What city is denounced in Isaiah 14?
+What city is denounced in Isaiah xiv.?
 Babylon
 
-What city is denounced in Ezekiel 28?
+What city is denounced in Ezekiel xxviii.?
 Tyre
 
-Of where is Hiram?
+Whence is Hiram?
 Tyre
 
-Recite Isaiah 14.14.
-I will ascend above the heights of the clouds; I will be like the most High.
+Recite Isaiah xiv. 14.
+I will ascend above the height of the clouds, I will be like the most High.
 
-Who is quoted in Isaiah 14.14?
+Who is quoted in Isaiah xiv. 14?
 Satan
 
-``Thou art the anointed [---] that [---]; and I have set thee so: thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire'' (Ezek. 28.14).
-cherub, covereth
+``Thou a [---] stretched out, and protecting, and I set thee in the holy mountain of God, thou hast walked in the midst of the stones of fire'' (Ezekiel xxviii. 14).
+cherub
 
-``By the multitude of thy merchandise they have filled the midst of thee with violence, and thou hast sinned: therefore I will cast thee as profane out of the mountain of God: and I will destroy thee, O [---], from the midst of the stones of fire'' (Ezek. 28.16).
+``By the multitude of thy merchandise, thy inner parts were filled with iniquity, and thou hast sinned: and I cast thee out from the mountain of God, and destroyed thee, O [---], out of the midst of the stones of fire'' (Ezekiel xxviii. 16).
 covering cherub
 
-What does Ezekiel 28.15 say?
-Thou wast perfect in thy ways from the day that thou wast created, till iniquity was found in thee.
+What does Ezekiel xxviii. 15 say?
+Thou wast perfect in thy ways from the day of thy creation, until iniquity was found in thee.
 
-``Thou wast perfect in thy ways from the day that thou wast created, till iniquity was found in thee.'' Verse.
-Ezekiel 28.15
+``Thou wast perfect in thy ways from the day of thy creation, until iniquity was found in thee.'' Verse.
+Ezekiel xxviii. 15
 
-What does Luke 10.18 say?
-And he said unto them, I beheld Satan as lightning fall from heaven.
+What does Luke x. 18 say?
+And he said to them: I saw Satan like lightning falling from heaven.
 
 Define ``lascivious.''
 feeling or revealing an overt sexual interest or desire
@@ -28643,31 +28643,31 @@ What country did Siad Barre rule?
 Somalia
 
 What is a marabout?
-Muslim holy man or hermit, especially in North Africa
+a Muslim holy man or hermit, especially in North Africa
 
-``Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders, / Saying, I have sinned in that I have betrayed the innocent blood. And they said, What is that to us? see thou to that. / And he cast down the pieces of silver in the temple, and departed, and went and hanged himself.'' Verses.
-Matthew 27.3--5
+``Then Judas, who betrayed him, seeing that he was condemned, repenting himself, brought back the thirty pieces of silver to the chief priests and ancients, Saying: I have sinned in betraying innocent blood. But they said: What is that to us? look thou to it. And casting down the pieces of silver in the temple, he departed: and went and hanged himself with an halter.'' Verses.
+Matthew xxvii. 3--5
 
 How many pieces of silver did Judas bring to the chief priests and elders?
-30
+thirty
 
-``Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men: but the blasphemy against the Holy Ghost shall not be forgiven unto men. / And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come.'' Verses.
-Matthew 12.31--32
+``Therefore I say to you: Every sin and blasphemy shall be forgiven men, but the blasphemy of the Spirit shall not be forgiven. And whosoever shall speak a word against the Son of man, it shall be forgiven him: but he that shall speak against the Holy Ghost, it shall not be forgiven him, neither in this world, nor in the world to come.'' Verses.
+Matthew xii. 31--32
 
-``Whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the [---], it shall not be forgiven him, neither in this world, neither in the world to come.''
-Holy Ghost
+``And whosoever shall speak a word against the Son of man, it shall be forgiven him: but he that shall speak against [---], it shall not be forgiven him, neither in this world, nor in the world to come.''
+the Holy Ghost
 
 ``The enforcement of a wish merely ensures that the information contained in the denied experience can neither be removed from the domain of threat nor utilized for adaptive purposes.'' Author.
 Jordan Peterson
 
 What is hashish?
-extract of the cannabis plant containing concentrations of the psychoactive resins
+an extract of the cannabis plant containing concentrations of the psychoactive resins
 
 Who hosted The Vinyl Cafe?
 Stuart McLean
 
-Recount Numbers 31.17--18.
-Now therefore kill every male among the little ones, and kill every woman that hath known man by lying with him. / But all the women children, that have not known a man by lying with him, keep alive for yourselves.
+``And whosoever shall speak a word against the Son of man, it shall be forgiven him: but he that shall speak against [---], it shall not be forgiven him, neither in this world, nor in the world to come.''
+the Holy Ghost
 
 What Russian musical instrument, like a guitar with a triangular body, typically has three strings?
 balalaika
@@ -28793,7 +28793,7 @@ Define ``fascicle.''
 separately published instalment of a book or other printed work; bundle of structures such as nerve or muscle fibres or conducting vessels in plants
 
 What is the ruby wedding?
-40th anniversary
+the fortieth anniversary
 
 What adjective describes a strongly articulated voiceless consonant? It is opposed to the adjective ``lenis.''
 fortis
@@ -28853,7 +28853,7 @@ What is the Lake of the Four Cantons?
 Lake Lucerne
 
 By how many cantons is Lake Lucerne surrounded?
-4
+four
 
 By what four cantons is Lake Lucerne surrounded?
 Lucerne, Nidwalden, Uri, Schwyz
@@ -28871,7 +28871,7 @@ Where is Shenyang?
 Liaoning
 
 What time is cognate with the marvel of Peru?
-4 o'clock
+four o'clock
 
 For what is ``four o'clock plant'' another name?
 marvel of Peru
@@ -29674,7 +29674,7 @@ Fram
 (1912--2006) What American economist and principal exponent of monetarism acted as a policy adviser to President Reagan from 1981 to 1989? He won the Nobel Prize for Economics in 1976.
 Milton Friedman
 
-Who painted the altarpiece Cross in the mountains (1808)?
+Who painted the altarpiece Cross in the Mountains (1808)?
 Caspar David Friedrich
 
 (1884--1949) What German industrial chemist won the Nobel Prize for Chemistry in 1931?
@@ -30493,32 +30493,32 @@ yoke; ζυγός (zugos); heterozygous, zygote
 What is Gqeberha?
 Port Elizabeth
 
-What does Matthew 5.43--48 say?
-Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. / But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you; / That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust. / For if ye love them which love you, what reward have ye? do not even the publicans the same? / And if ye salute your brethren only, what do ye more than others? do not even the publicans so? / Be ye therefore perfect, even as your Father which is in heaven is perfect.
+What does Matthew v. 43--48 say?
+You have heard that it hath been said, Thou shalt love thy neighbour, and hate thy enemy. But I say to you, Love your enemies: do good to them that hate you: and pray for them that persecute and calumniate you: That you may be the children of your Father who is in heaven, who maketh his sun to rise upon the good, and bad, and raineth upon the just and the unjust. For if you love them that love you, what reward shall you have? do not even the publicans this? And if you salute your brethren only, what do you more? do not also the heathens this? Be you therefore perfect, as also your heavenly Father is perfect.
 
 What was a publican?
-tax collector
+a tax collector
 
-What does Mark 10.17--26 say?
-And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life? / And Jesus said unto him, Why callest thou me good? there is none good but one, that is, God. / Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother. / And he answered and said unto him, Master, all these have I observed from my youth. / Then Jesus beholding him loved him, and said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me. / And he was sad at that saying, and went away grieved: for he had great possessions. / And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God! / And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, how hard is it for them that trust in riches to enter into the kingdom of God! / It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God. / And they were astonished out of measure, saying among themselves, Who then can be saved?
+What does Mark x. 17--26 say?
+And when he was gone forth into the way, a certain man running up and kneeling before him, asked him, Good Master, what shall I do that I may receive life everlasting? And Jesus said to him, Why callest thou me good? None is good but one, that is God. Thou knowest the commandments: Do not commit adultery, do not kill, do not steal, bear not false witness, do no fraud, honour thy father and mother. But he answering, said to him: Master, all these things I have observed from my youth. And Jesus looking on him, loved him, and said to him: One thing is wanting unto thee: go, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven; and come, follow me. Who being struck sad at that saying, went away sorrowful: for he had great possessions. And Jesus looking round about, saith to his disciples: How hardly shall they that have riches, enter into the kingdom of God! And the disciples were astonished at his words. But Jesus again answering, saith to them: Children, how hard is it for them that trust in riches, to enter into the kingdom of God? It is easier for a camel to pass through the eye of a needle, than for a rich man to enter into the kingdom of God. Who wondered the more, saying among themselves: Who then can be saved?
 
-Identify the verses: ``And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God! / And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, how hard is it for them that trust in riches to enter into the kingdom of God! / It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God. / And they were astonished out of measure, saying among themselves, Who then can be saved?''
-Mark 10.23--26
+Identify the verses: ``And Jesus looking round about, saith to his disciples: How hardly shall they that have riches, enter into the kingdom of God! And the disciples were astonished at his words. But Jesus again answering, saith to them: Children, how hard is it for them that trust in riches, to enter into the kingdom of God? It is easier for a camel to pass through the eye of a needle, than for a rich man to enter into the kingdom of God.''
+Mark x. 23--25
 
-What does Matthew 25.44--45 say?
-Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee? / Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me.
+What does Matthew xxv. 44--45 say?
+Then they also shall answer him, saying: Lord, when did we see thee hungry, or thirsty, or a stranger, or naked, or sick, or in prison, and did not minister to thee? Then he shall answer them, saying: Amen I say to you, as long as you did it not to one of these least, neither did you do it to me.
 
-Identify the verses: ``Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee? / Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me.''
-Matthew 25.44--45
+Identify the verses: ``Then they also shall answer him, saying: Lord, when did we see thee hungry, or thirsty, or a stranger, or naked, or sick, or in prison, and did not minister to thee? Then he shall answer them, saying: Amen I say to you, as long as you did it not to one of these least, neither did you do it to me.''
+Matthew xxv. 44--45
 
-Complete this verse: ``Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, [---]'' (Matt. 25.45).
-ye did it not to me
+Complete this verse: ``Then he shall answer them, saying: Amen I say to you, as long as you did it not to one of these least, [---]'' (Matthew xxv. 45).
+neither did you do it to me
 
 What word does Northrop Frye say means ``change of outlook or spiritual metamorphosis''?
 metanoia
 
 Identify the verse: ``Bring forth fruits meet for metanoia.''
-Matthew 3.8
+Matthew iii. 8
 
 Complete this quotation: ``With what delight could I have walkt thee round / If I could joy in aught, sweet interchange / Of Hill and Vallie, Rivers, Woods and Plaines, / Now Land, now Sea, \& Shores with Forrest crownd, / Rocks, Dens, and Caves; but I in none of these / Find place or refuge; and the more I see / Pleasures about me, so much more I feel / Torment within me, as from the [---] all good to me becomes / Bane, and in Heav'n much worse would be my state'' (Paradise Lost VIII).
 hateful siege of contraries
@@ -30526,7 +30526,7 @@ hateful siege of contraries
 Translate ``Deo concedente.''
 God willing
 
-Who wrote The disappearance of rituals?
+Who wrote The Disappearance of Rituals?
 Han Byung Chul
 
 Who asked, ``What is it like to be a bat?''
@@ -30544,7 +30544,7 @@ plays
 What is autopoiesis?
 self creation or self organization
 
-``Whereas traditional cognitive science also encompasses these disciplines, [---] finds common purpose in a conception of mind wedded to computationalism: mental processes are computational processes; the brain, qua computer, is the seat of cognition. In contrast, [---] variously rejects or reformulates the computational commitments of cognitive science, emphasizing the significance of an agent's physical body in cognitive abilities.'' (Stanford encyclopedia of philosophy)
+``Whereas traditional cognitive science also encompasses these disciplines, [---] finds common purpose in a conception of mind wedded to computationalism: mental processes are computational processes; the brain, qua computer, is the seat of cognition. In contrast, [---] variously rejects or reformulates the computational commitments of cognitive science, emphasizing the significance of an agent's physical body in cognitive abilities.'' (Stanford Encyclopedia of Philosophy)
 embodied cognition
 
 What four words describe 4E cognition?
@@ -30571,10 +30571,10 @@ Igne Natura Renovatur Integra `All nature is through fire renewed'
 What script was invented for the Slavic languages about 860 by the Eastern Orthodox Christian missionaries St. Cyril and his brother St. Methodius? It was based on Greek miniscules.
 Glagolitic
 
-(1892--1971) What American theologian and professor of Christian ethics at Union Theological Seminary (1928--60) wrote Moral man and immoral society (1932) and The irony of American history (1952)?
+(1892--1971) What American theologian and professor of Christian ethics at Union Theological Seminary (1928--60) wrote Moral Man and Immoral Society (1932) and The Irony of American History (1952)?
 Reinhold Niebuhr
 
-(fl. fifth century BC) This Greek philosopher founded the Eleatic school of philosophers---he was born in Elea in southwestern Italy. In his work On Nature, written in hexameter verse, he maintained that the apparent motion and changing forms of the universe are manifestations of an unchanging and indivisible reality.
+(fl. the fifth century BC) This Greek philosopher founded the Eleatic school of philosophers --- he was born in Elea in south-western Italy. In his work On Nature, written in hexameter verse, he maintained that the apparent motion and changing forms of the universe are manifestations of an unchanging and indivisible reality.
 Parmenides
 
 Who founded the Eleatic school of philosophers?
@@ -30874,20 +30874,20 @@ Mount Kenya
 Define ``abseil.''
 descend a rock face or other near-vertical surface by using a doubled rope coiled round the body and fixed at a higher point
 
-``Now [---] was he, which gave counsel to the Jews, that it was expedient that one man should die for the people'' (John 18.14).
+``Now [---] was he who had given the counsel to the Jews: That it was expedient that one man should die for the people.'' (John xviii. 14).
 Caiaphas
 
-``But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are [---]'' (1 Cor. 2.4).
-spiritually discerned
+``But the sensual man perceiveth not these things that are of the Spirit of God; for it is foolishness to him, and he cannot understand, because it is [---].'' (1 Cor. ii. 14).
+spiritually examined
 
-What does Matthew 22.32 say?
-I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.
+What does Matthew xxii. 32 say?
+I am the God of Abraham, and the God of Isaac, and the God of Jacob? He is not the God of the dead, but of the living.
 
-Identify the book: ``For I say unto you, That except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven.''
-Matthew (5.20)
+Identify the book: ``For I tell you, that unless your justice abound more than that of the scribes and Pharisees, you shall not enter into the kingdom of heaven.''
+Matthew (v. 20)
 
-``And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart, / And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light. / And, behold, there appeared unto them Moses and Elias talking with him. / Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias. / While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him. / And when the disciples heard it, they fell on their face, and were sore afraid. / And Jesus came and touched them, and said, Arise, and be not afraid. / And when they had lifted up their eyes, they saw no man, save Jesus only. / And as they came down from the mountain, Jesus charged them, saying, [---]'' (Matt. 17.1--9).
-Tell the vision to no man, until the Son of man be risen again from the dead.
+``And after six days Jesus taketh unto him Peter and James, and John his brother, and bringeth them up into a high mountain apart: And he was transfigured before them. And his face did shine as the sun: and his garments became white as snow. And behold there appeared to them Moses and Elias talking with him. And Peter answering, said to Jesus: Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles, one for thee, and one for Moses, and one for Elias. And as he was yet speaking, behold a bright cloud overshadowed them. And lo, a voice out of the cloud, saying: This is my beloved Son, in whom I am well pleased: hear ye him. And the disciples hearing, fell upon their face, and were very much afraid. And Jesus came and touched them: and said to them, Arise, and fear not. And they lifting up their eyes saw no one but only Jesus. And as they came down from the mountain, Jesus charged them, saying: [---]'' (Matt. xvii. 1--9).
+Tell the vision to no man, till the Son of man be risen from the dead.
 
 Define ``raiment.''
 clothing
@@ -30898,17 +30898,17 @@ relating to gladiators
 ``Turn him to any cause of policy, / The [---] of it he will unloose, / Familiar as his garter'' (Henry V).
 Gordian knot
 
-What things comprise the Buddhist Ashtamangala?
+Which things comprise the Buddhist Ashtamangala?
 conch, endless knot, pair of golden fish, lotus, parasol, vase, dharmachakra, dhvaja
 
 Translate ``dhvaja.''
 banner
 
 What is the Ashtamangala?
-eight auspicious symbols
+the eight auspicious symbols
 
 Define ``koan.''
-paradoxical anecdote or riddle, used in Zen Buddhism to demonstrate the inadequacy of logical reasoning and to provoke enlightenment
+a paradoxical anecdote or riddle, used in Zen Buddhism to demonstrate the inadequacy of logical reasoning and to provoke enlightenment
 
 Where was a man born blind told by Jesus to wash, thereby gaining sight?
 Siloam
@@ -30920,13 +30920,13 @@ What polyhedron has two faces that are identical polygons in parallel planes but
 antiprism
 
 What words does Christ utter in his first sermon?
-The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised, / To preach the acceptable year of the Lord. (Luke 4.18--19, Isaiah 61.1)
+The Spirit of the Lord is upon me. Wherefore he hath anointed me to preach the gospel to the poor, he hath sent me to heal the contrite of heart, [19] To preach deliverance to the captives, and sight to the blind, to set at liberty them that are bruised, to preach the acceptable year of the Lord, and the day of reward. (Luke iv. 18--19, Isaiah lxi. 1)
 
-Who ``[awakens] the sleeping images of the future which can come forth from the night . . . to give the world a new and better face'' (The origins and history of consciousness 174)?
+Who ``[awakens] the sleeping images of the future which can come forth from the night . . . to give the world a new and better face'' (The Origins and History of Consciousness 174)?
 the hero
 
 What is a gelding?
-castrated animal, especially a male horse
+a castrated animal, especially a male horse
 
 What letter denotes quantum states or wave functions that do not change sign on inversion through the origin?
 g
@@ -31501,11 +31501,11 @@ relating to alchemy
 Translate ``hour'' to Bahasa Indonesia.
 jam
 
-Identify the verse: ``But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.''
-Micah 5.2
+Identify the verse: ``AND THOU, BETHLEHEM Ephrata, art a little one among the thousands of Juda: out of thee shall he come forth unto me that is to be the ruler in Israel: and his going forth is from the beginning, from the days of eternity.''
+Micah v. 2
 
-Identify the verse: ``Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.''
-John 8.58
+Identify the verse: ``Jesus said to them: Amen, amen I say to you, before Abraham was made, I am.''
+John viii. 58
 
 (1926--2003) What Argentinian general and statesman's military junta ordered the invasion of the Falkland Islands in 1982, precipitating the Falklands War? He was president from 1981 to 1982.
 Leopoldo Fortunato Galtieri
@@ -31544,22 +31544,22 @@ roof with two sides, each of which has a shallower slope above a steeper one
 roof
 
 What small live-bearing fish found in mangrove creeks and brackish waters of the southern US and northern Mexico were widely introduced for mosquito control? They are called, alternatively, ``mosquito fish.''
-gambusia
+the gambusia
 
 From where does gamelan originate?
 Bali/Java
 
 Define ``gametangium.''
-specialized organ or cell in which gametes are formed in algae, ferns, and some other plants
+a specialized organ or cell in which gametes are formed in algae, ferns, and some other plants
 
 What gamete-producing and usually haploid phase produces the zygote from which the sporophyte arises in the life cycle of plants with alternating generations? It is the dominant form in bryophytes.
 gametophyte
 
 What was a gamin?
-street urchin
+a street urchin
 
 What was a street urchin?
-child who lives, or spends most of his or her time, in the streets
+a child who lives, or spends most of his or her time, in the streets
 
 What does gamma-aminobutyric acid inhibit?
 the transmission of nerve impulses in the central nervous system
@@ -31856,10 +31856,10 @@ Translate ``consensus omnium'' (Synchronicity 24).
 with everyone's approval
 
 Translate ``Descensus ad Inferos.''
-Harrowing of Hell
+the Harrowing of Hell
 
-Identify the verse: ``He that believeth on me, the works that I do shall he do also; and greater works than these shall he do.''
-John 14.12
+Identify the verses: ``Believe you not that I am in the Father, and the Father in me? Otherwise believe for the very works' sake. Amen, amen I say to you, he that believeth in me, the works that I do, he also shall do; and greater than these shall he do.''
+John xiv. 11--12
 
 (11 November 1961) What encyclical of Pope John XXIII commemorates the fifteenth centennial of the death of Pope Leo I?
 Aeterna Dei sapientia `God's eternal wisdom'
@@ -32614,8 +32614,8 @@ spec
 Who wrote ``Space Oddity''?
 David Bowie
 
-Who says ``ground control to Major Tom''?
-David Bowie
+Define ``abrogate.''
+repeal or do away with (a law, right, or formal agreement)
 
 Who wrote the song ``You're my Best Friend''?
 Queen
@@ -32623,8 +32623,8 @@ Queen
 Define ``abrogate.''
 repeal or do away with (a law, right, or formal agreement)
 
-Who recorded ``Baba O'Riley''?
-The Who
+Define ``abrogate.''
+repeal or do away with (a law, right, or formal agreement)
 
 Who was Good Pope John?
 St. John XXIII
@@ -33391,19 +33391,19 @@ Jack Black
 Where was John Candy born?
 Toronto
 
-Who starred in Planes, trains, and automobiles?
+Who starred in Planes, Trains, and Automobiles?
 John Candy
 
 Who starred in Night at the Museum?
 Ben Stiller
 
-Who played Michael Scott in The office?
+Who played Michael Scott in The Office?
 Steve Carell
 
 Where was Steve Carell born?
 Concord, Massachusetts
 
-Who starred in movies like Patch Adams, Mrs. Doubtfire, Jumanji, [Good Morning, Vietnam], Dead Poets Society, and The Fisher King?
+Who starred in movies like Patch Adams, Mrs. Doubtfire, Jumanji, Dead Poets Society, The Fisher King, and Good Morning, Vietnam?
 Robin Williams
 
 Where was Robin Williams born?
@@ -33941,7 +33941,7 @@ What is the symbol for the voiceless alveolo-palatal fricative?
 ɕ
 
 What sound is represented by ɕ?
-voiceless alveolo-palatal fricative
+the voiceless alveolo-palatal fricative
 
 What state witnessed the birth of Ryan Whitney?
 Massachusetts
@@ -35548,7 +35548,7 @@ characterized by exaggerated or affected politeness, refinement, or respectabili
 This plant of temperate and mountainous regions typically has violet or vivid blue trumpet-shaped flowers. Many kinds are cultivated as ornamentals, especially as arctic alpines, and some are of medicinal use. Give its name.
 gentian
 
-(c. 1370--1427) What Italian painter's major surviving work is the altarpiece The adoration of the Magi (1423)?
+(c. 1370--1427) What Italian painter's major surviving work is the altarpiece The Adoration of the Magi (1423)?
 Gentile da Fabriano
 
 Define ``gentility.''
@@ -36091,7 +36091,7 @@ giardiniera
 Who claps and asks smart people ``what's going on''?
 Andrew Dotson
 
-Whose story does The blind side tell?
+Whose story does The Blind Side tell?
 Michael Oher
 
 What do gibberellins stimulate?
@@ -36104,19 +36104,19 @@ What does the Latin ``gibbus'' mean in English?
 hump
 
 What channel separates the southern tip of the Iberian peninsula and North Africa?
-Strait of Gibraltar
+the Strait of Gibraltar
 
 (1883--1931) What Lebanese-born American writer and artist is best known for The Prophet (1923)? His writings in both Arabic and English are deeply romantic, displaying his religious and mystical nature.
 Khalil Gibran
 
 What is a Gibson?
-dry martini cocktail garnished with a pickled onion
+a dry martini cocktail garnished with a pickled onion
 
 What desert region in Western Australia is located to the southeast of the Great Sandy Desert?
-Gibson Desert
+the Gibson Desert
 
 What team did Bob Gibson pitch for from 1959 to 1975?
-St. Louis Cardinals
+the St. Louis Cardinals
 
 (b. 1956) What Australian actor and director is noted for the Lethal Weapon trilogy (1987, 1989, and 1992), Braveheart (1995), and The Passion of the Christ (2004)?
 Mel Gibson
@@ -36143,7 +36143,7 @@ To what family did the Gigantopithecus belong?
 Pongidae
 
 What is a gigolo?
-young man paid or financially supported by an older woman to be her escort or lover
+a young man paid or financially supported by an older woman to be her escort or lover
 
 What is a gigot?
 leg of mutton or lamb
@@ -37727,10 +37727,10 @@ True or false? Thomas Jefferson used a laptop to draft the Declaration of Indepe
 true
 
 How long did the Revolutionary War last?
-8 years
+eight years
 
 What is the name of the treaty that ended the Revolutionary War?
-Treaty of Paris
+the Treaty of Paris
 
 In what country was the hot air balloon invented?
 France
@@ -38404,7 +38404,7 @@ Jack Edwards
 What is Mother Nature’s Stairmaster?
 Grouse Grind
 
-In what work does Plato ``[present] an elaborately wrought account of the formation of the universe and an explanation of its impressive order and beauty''? ``The universe, he proposes, is the product of rational, purposive, and beneficent agency. It is the handiwork of a divine Craftsman (ὁ δημιουργὸς, 28a6) who, imitating an unchanging and eternal model, imposes mathematical order on a pre-existent chaos to generate the ordered universe (ἡ κόσμος). The governing explanatory principle of the account is teleological: the universe as a whole as well as its various parts are so arranged as to produce a vast array of good effects. For Plato, this arrangement is not fortuitous, but the outcome of the deliberate intent of Intellect (ὁ νοῦς), anthropomorphically represented by the figure of the Craftsman who plans and constructs a world that is as excellent as its nature permits it to be'' (Stanford encyclopedia of philosophy).
+In what work does Plato ``[present] an elaborately wrought account of the formation of the universe and an explanation of its impressive order and beauty''? ``The universe, he proposes, is the product of rational, purposive, and beneficent agency. It is the handiwork of a divine Craftsman (ὁ δημιουργὸς, 28a6) who, imitating an unchanging and eternal model, imposes mathematical order on a pre-existent chaos to generate the ordered universe (ἡ κόσμος). The governing explanatory principle of the account is teleological: the universe as a whole as well as its various parts are so arranged as to produce a vast array of good effects. For Plato, this arrangement is not fortuitous, but the outcome of the deliberate intent of Intellect (ὁ νοῦς), anthropomorphically represented by the figure of the Craftsman who plans and constructs a world that is as excellent as its nature permits it to be'' (Stanford Encyclopedia of Philosophy).
 Timaeus
 
 What is Mike Emrick's nickname?
@@ -39737,7 +39737,7 @@ What countries face off in the Ashes?
 Australia, England
 
 What does ħ represent in the International Phonetic Alphabet?
-voiceless pharyngeal fricative
+the voiceless pharyngeal fricative
 
 A movement of a famous composition by Olivier Messiaen comes from the fourth movement of the composer's Fête des belles eaux for six ondes Martenots. What was this famous composition, and which of its movements came from Fête des belles eaux?
 Quatuor pour la fin du temps, fifth 
@@ -40307,7 +40307,7 @@ What is the smallest of the African Great Lakes?
 Lake Edward
 
 Lake Edward is on the border between which two countries?
-Democratic Republic of the Congo, Uganda
+the Democratic Republic of the Congo, Uganda
 
 What river links Lake Albert and Lake Edward?
 the Semliki River
@@ -41903,7 +41903,7 @@ Who was the first antipope?
 Hippolytus
 
 What is the shortest verse of the Bible, John xi. 35?
-Jesus wept
+And Jesus wept
 
 What does the Latin ``usquequaque'' mean?
 everywhere; in every circumstance
@@ -42277,7 +42277,7 @@ milquetoast
 From the Latin for ``strengthened,'' it means to back up another person's account of events.
 corroborate
 
-Who was the Bishop of Eger from 1156 to 1158, and the Archbishop of Esztergom from 1158 to 1181?
+Who was the Bishop of Eger from 1156 to 1158 and the Archbishop of Esztergom from 1158 to 1181?
 Lucas
 
 How many stars are on the flag of Venezuela?
@@ -42537,4 +42537,271 @@ goniatite
 
 This is an instrument for the precise measurement of angles, especially one used to measure the angles between the faces of crystals.
 goniometer
+
+Which peninsula in Newfoundland is St. John's on?
+the Avalon Peninsula
+
+Zosimas of Palestine encountered this Desert Mother naked in the desert according to her vita written by Sophronius of Jerusalem.
+St. Mary of Egypt
+
+Mario Götze scored in the 113th minute of the 2014 World Cup final to lift Germany to a 1--0 win over Argentina. Ten years later, this forward scored in the 112th minute of the 2024 Copa America final to lift Argentina to a 1--0 win over Colombia.
+Lautaro Martínez
+
+How many palafrenieri carry the papal sedia gestatoria?
+twelve
+
+Abreast the sedia gestatoria of the Pope are two flabella made from the feathers of this bird.
+the ostrich
+
+This is the name of the U-shaped lake formed when a meander of a river is cut off.
+oxbow lake
+
+In 1679, The Tragedy of Sertorius by this English playwright premiered at Theatre Royal, Drury Lane in London.
+John Bancroft
+
+Which writer slept facing north to improve his creativity?
+Charles Dickens
+
+Which musical tells you how many minutes are in a year?
+Rent
+
+Define ``behoof.''
+benefit or advantage
+
+Who was the voice of Bugs Bunny?
+Mel Blanc
+
+Who was the voice of Daffy Duck?
+Mel Blanc
+
+Who was the voice of Tweety?
+Mel Blanc
+
+What is a cartouche?
+a carved tablet or drawing representing a scroll with rolled-up ends used ornamentally or bearing an inscription
+
+Who erected an altar and called it El-Elohe-Israel?
+Jacob
+
+Which were the sons of Leah?
+Reuben, Simeon, Levi, Judah, Issachar, Zebulun
+
+Which were the sons of Rachel?
+Joseph, Benjamin
+
+Which were the sons of Bilhah, Rachel's servant?
+Dan, Naphtali
+
+Which were the sons of Zilpah, Leah's servant?
+Gad, Asher
+
+The days of Isaac, the years of his life, were this many years.
+180
+
+How many persons from the house of Jacob came into Egypt?
+seventy
+
+Where in Egypt does Jacob's family settle?
+Goshen
+
+The days of Jacob, the years of his life, were this many years.
+147
+
+Which were the sons of Joseph?
+Manasseh, Ephraim
+
+What are the first fruits?
+the first agricultural produce of a season, especially when given as an offering to God
+
+Which of Jacob's sons is ``a lion's whelp''?
+Judah
+
+Which of Jacob's sons is ``a ravenous wolf''?
+Benjamin
+
+Which of Jacob's sons is ``a hart let loose, and giving words of beauty''?
+Naphtali
+
+Which of Jacob's sons is ``a growing son''?
+Joseph
+
+For how many days did the Egyptians weep for Israel?
+seventy
+
+The days of Jacob, the years of his life, were this many years.
+110
+
+What does ``laconic'' mean?
+using very few words
+
+How many chapters are in Genesis?
+fifty
+
+What is good cholesterol?
+HDL cholesterol
+
+What edible plant of the goosefoot family, with large dark green leaves and insignificant clusters of flowers, native to Europe, is named after a king of England?
+Good King Henry
+
+The jural phrase ``[---] and chattels'' refers to all kinds of personal possessions.
+goods
+
+Where are the Goodwin Sands?
+the Strait of Dover
+
+(1800--60) This American inventor developed the process of the vulcanization of rubber after accidentally dropping some rubber mixed with sulphur and white lead onto a hot stove.
+Charles Goodyear
+
+What is a gooney bird?
+an albatross
+
+The male of this large Eurasian and North American merganser (diving duck) has a dark green head and whitish underside. In North America, it is also called the common merganser.
+the goosander
+
+What is a goosefish?
+a bottom-dwelling anglerfish
+
+What is a goosegog?
+a gooseberry
+
+What does ``GOP'' abbreviate?
+Grand Old Party
+
+Which is the Gopher State?
+Minnesota
+
+(1893--1946) This German Nazi leader and politician was responsible for the German rearmament programme, founded the Gestapo, and from 1936 until 1943 directed the German economy. Sentenced to death at the Nuremberg war trials, he committed suicide in his cell.
+Hermann Wilhelm Göring
+
+This long-haired goat-antelope with backward curving horns, found in mountainous regions of eastern Asia, comprises two species in the genus Nemorhaedus.
+the goral
+
+(1931--2022) This Soviet statesman was the general secretary of the Communist Party of the Soviet Union from 1985 to 1991 and the president from 1988 to 1991. Domestically, he introduced major reforms (гласность, glasnost, and перестройка, perestroika), both in the economy and in freedom of information, and his foreign policy helped bring about an end to the Cold War. Opposition to his policies led to an attempted coup in 1991. His subsequent resignation following the establishment of the Commonwealth of Independent States effectively dissolved the Soviet Union. He won the Nobel Peace Prize in 1990.
+Mikhail Gorbachev
+
+Where is the Gorbals?
+Glasgow
+
+What does ``GORD'' abbreviate in medicine?
+gastro-oesophageal reflux disease
+
+Which was the capital of Egypt from the reign of the Third Dynasty to the reign of the Eighth Dynasty and during the reigns of the Twenty-Fifth, Twenty-Seventh, and Thirty-First Dynasties?
+Memphis
+
+Which ancient city of Asia Minor was the capital of Phrygia in the eighth and ninth centuries BC?
+Gordium
+
+(1833--85) This British general and colonial administrator made his name by crushing the Taiping Rebellion (1863--64) in China. In 1884 he fought Mahdist forces in Sudan led by Muhammad Ahmad (the Mahdi), but was trapped at Khartoum and killed.
+Charles George Gordon
+
+This series of anti-Catholic riots in London in June 1780 saw about 300 people were killed. The riots were provoked by a petition presented to Parliament by Lord George (1751--93) against the relaxation of restrictions on the holding of landed property by Roman Catholics.
+the Gordon Riots
+
+(1933--2010) The works of this Polish composer, influenced by religious music, include the Third Symphony (1976), known as the Symphony of Sorrowful Songs.
+Henryk Górecki
+
+This valley in Cappadocia in central Turkey is noted for its cave dwellings hollowed out of the soft tufa rock. In the Byzantine era these contained hermits' cells, monasteries, and more than 400 churches.
+Göreme
+
+This heraldic adjective describes something having the neck encircled by a coronet or collar.
+gorged
+
+Which body part did a gorget cover?
+the throat
+
+To a Romani, what is a gorgio?
+a person who is not Romani
+
+What is a gorgoneion?
+a representation of a gorgon's head
+
+This is a colonial coral of an order distinguished by having a horny treelike skeleton, including the sea fans and precious red coral.
+gorgonian
+
+Where is Gorgonzola?
+northern Italy
+
+Whose was the nom de plume Maxim Gorky?
+Aleksei Maksimovich Peshkov
+
+(1868--1936) This Russian writer and revolutionary was really Aleksei Maksimovich Peshkov. His best-known works include the play The Lower Depths (1901) and his autobiographical trilogy (1915--23).
+Maxim Gorky
+
+The leaves of this yellow-flowered shrub of the pea family are modified to form spines. It is native to western Europe and North Africa, and it comprises several species in the genus Ulex, including U. europaeus.
+the gorse
+
+This is a council of Welsh or other Celtic bards and Druids, especially one meeting before the eisteddfod.
+a Gorsedd
+
+Define ``gourmandize.''
+eat good food, especially to excess
+
+Which is the official language of Nepal?
+Gurkhali
+
+(1904--86) This English jockey was champion jockey twenty-six times between 1925 and 1953.
+Sir Gordon Richards
+
+(1925--2012) The novels of this American novelist, playwright, and essayist; born Eugene Luther Vidal, many of them satirical comedies, include Williwaw (1946) and Myra Breckenridge (1968).
+Gore Vidal
+
+What is Gose?
+a sour German wheat beer typically brewed with salt and coriander seeds
+
+What is a young goose called?
+a gosling
+
+This toxic crystalline compound found in cotton-seed oil, a polycyclic phenol, has the chemical formula C30H30O8.
+gossypol
+
+What is gossamer?
+a fine, filmy substance consisting of cobwebs spun by small spiders, seen especially in autumn
+
+Who was the king of the Ostrogoths from 471 to 526?
+Theodoric the Great
+
+Which city is Gotham?
+New York City
+
+Beside what body of water is Göteborg situated?
+the Kattegat
+
+What is the capital of Gotland?
+Visby
+
+Translate ``Götterdämmerung.''
+twilight of the gods
+
+What river runs through Göttingen?
+the River Leine
+
+What is the method of painting using opaque pigments ground in water and thickened with a gluelike substance?
+gouache
+
+What is gouache?
+a method of painting using opaque pigments ground in water and thickened with a gluelike substance
+
+What island in the South Atlantic south of Tristan da Cunha became a dependency of the British Crown Colony of St. Helena in 1938?
+Gough Island
+
+What are goujons?
+deep-fried strips of chicken or fish
+
+What is another term for the crowned pigeon?
+the goura
+
+What is the basic monetary unit of Haiti, equal to one hundred centimes?
+the gourde
+
+What is goutweed?
+ground elder
+
+Which is the largest island of Malta?
+Malta
+
+Which is the second-largest island of Malta?
+Gozo
+
+Which is the third-largest island of Malta?
+Comino
 
