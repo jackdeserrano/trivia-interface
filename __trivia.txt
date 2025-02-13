@@ -935,7 +935,7 @@ very numerous
 233
 
 Define ``nabob.''
-person of great wealth or prominence
+a person of great wealth or prominence
 234
 
 Define ``nadir.''
@@ -1515,7 +1515,7 @@ Truro Cathedral, Cornwall
 378
 
 Through what body of water bounded by the Long Strait, Point Barrow, and the Bering Strait does the International Date Line cross?
-Chukchi Sea
+the Chukchi Sea
 379
 
 To what year is the first Olympics traditionally dated?
@@ -1574,7 +1574,7 @@ What eleventh month of the civil and fifth of the religious year in the Jewish c
 Av
 393
 
-What twentieth century playwright who earned a Nobel Prize for Literature in part for Six Characters in Search of an Author contrasted art with life and explored the boundaries of reality in Henry IV?
+What twentieth century playwright who earned a Nobel Prize for Literature in part for Six Characters in Search of an Author and contrasted art with life and explored the boundaries of reality in Henry IV?
 Luigi Pirandello
 394
 
@@ -1783,7 +1783,7 @@ carotid artery
 445
 
 What Assyrian emperor was assassinated by his sons while he was worshipping in his pagan temple?
-Sennacherib (2 Kings 19.37)
+Sennacherib (2 Kings xiv. 37)
 446
 
 What astronomer wrote Astronomia nova?
@@ -4163,23 +4163,23 @@ instrumental music not intended to represent or illustrate something else; the o
 1040
 
 What is abulia?
-absence of willpower or an inability to act decisively, a symptom of schizophrenia or other mental illness
+a loss or impairment of the ability to initiate actions or make decisions, as a symptom of mental illness
 1041
 
 What is acetylcholine?
-compound that occurs throughout the nervous system where is functions as a neurotransmitter
+a compound that occurs throughout the nervous system where is functions as a neurotransmitter
 1042
 
 What is achlorhydria?
-absence of hydrochloric acid in the gastric secretions
+the absence of hydrochloric acid in the gastric secretions
 1043
 
 What is achondroplasia?
-hereditary condition in which the growth of long bones by ossification of cartilage is retarded, resulting in very short limbs and sometimes a face which is small in relation to the skull
+a hereditary condition in which the growth of long bones by ossification of cartilage is retarded, resulting in very short limbs and sometimes a face which is small in relation to the skull
 1044
 
 What is acromegaly?
-abnormal growth of the hands, feet, and face, caused by overproduction of growth hormone by the pituitary gland
+an abnormal growth of the hands, feet, and face, caused by overproduction of growth hormone by the pituitary gland
 1045
 
 What is ACTH?
@@ -4195,11 +4195,11 @@ the ability to make good judgements and take quick decisions
 1048
 
 What is adenocarcinoma?
-malignant tumour formed from glandular structures in epithelial tissue
+a malignant tumour formed from glandular structures in epithelial tissue
 1049
 
 What is Advaita?
-Vedantic doctrine that identifies the individual self (atman) with the ground of reality (brahman) often associated with Shankara
+a Vedantic doctrine that identifies the individual self (atman) with the ground of reality (brahman) often associated with Shankara
 1050
 
 What is adverse procession?
@@ -4263,23 +4263,23 @@ political (originally communist) propaganda, especially in art or literature
 1065
 
 What is agnosia?
-inability to interpret sensations and hence to recognize things, typically as a result of brain damage
+an inability to interpret sensations and hence to recognize things, typically as a result of brain damage
 1066
 
 What is agrammatism?
-tendency to form sentences without the correct inflectional structure as a result of brain damage, as in Broca's aphasia
+a tendency to form sentences without the correct inflectional structure as a result of brain damage, as in Broca's aphasia
 1067
 
 What is agranulocytosis?
-deficiency of granulocytes in the blood, causing increased vulnerability to infection
+a deficiency of granulocytes in the blood, causing increased vulnerability to infection
 1068
 
 What is agraphia?
-inability to write, as a language disorder resulting from brain damage
+an inability to write, as a language disorder resulting from brain damage
 1069
 
 What is aguardiente?
-distilled liquor resembling brandy, especially as made in South America from sugar cane
+a distilled liquor resembling brandy, especially as made in South America from sugar cane
 1070
 
 What is ahimsa?
@@ -4287,7 +4287,7 @@ respect for all living things and avoidance of violence towards others, especial
 1071
 
 What is ainhum?
-condition in which a band of fibrous tissue grows around the base of a toe, eventually resulting in loss of the digit
+a condition in which a band of fibrous tissue grows around the base of a toe, eventually resulting in loss of the digit
 1072
 
 What is aioli?
@@ -4451,11 +4451,11 @@ uncontrollable or obsessive passion (insane love)
 1112
 
 What is amour propre?
-sense of one's own worth; self-respect
+a sense of one's own worth; self-respect
 1113
 
 What is amoxicillin?
-semi-synthetic penicillin closely related to ampicillin and with similar properties, but more readily absorbed when taken orally
+a semi-synthetic penicillin closely related to ampicillin and with similar properties, but more readily absorbed when taken orally
 1114
 
 What is amphimixis?
@@ -4463,7 +4463,7 @@ sexual reproduction involving the fusion of two different gametes to form a zygo
 1115
 
 What is ampicillin?
-semi-synthetic form of penicillin used to treat infections of the urinary and respiratory tracts
+a semi-synthetic form of penicillin used to treat infections of the urinary and respiratory tracts
 1116
 
 What is an A-line garment?
@@ -5871,11 +5871,11 @@ Bananal
 1467
 
 What is the diacritic mark ˇ called?
-háček
+the háček
 1468
 
 What is tintinnabulation?
-ringing or tinkling sound
+a ringing or tinkling sound
 1469
 
 What island is the largest of the Aleutian Islands and home to one of the ten most active volcanos in the world: Mount Shishaldin?
@@ -6163,11 +6163,11 @@ Ludwig Mies van der Rohe
 1540
 
 What mode is equivalent to the natural minor scale?
-Aeolian mode
+the Aeolian mode
 1541
 
 What monetary unit of Israel is equal to one-hundredth of a shekel?
-agora
+the agora
 1542
 
 What month on the Hebrew calendar is preceded by a 30-day intercalary month in leap years and coincides with February and March?
@@ -7183,7 +7183,7 @@ Bucephalus
 1795
 
 What was the name of the oath in which members of the French Third Estate vowed ``not to separate and to reassemble wherever circumstances require, until the Constitution of the kingdom is established'' on 20 June 1789?
-Tennis Court Oath
+the Tennis Court Oath
 1796
 
 What was the real name of the Red Baron?
@@ -7411,7 +7411,7 @@ Augustinian order
 1852
 
 When Samson pulled the building down, how many people had been sitting on the rooftop?
-about three thousand (Judg. 16.27)
+about three thousand (Judges xvi. 27)
 1853
 
 When was Abraham Lincoln assassinated?
@@ -7434,7 +7434,7 @@ When was Napoleon named emperor of the French Empire?
 1804
 1858
 
-When was Pax Romana --- a period of peace in the Roman Empire?
+When was Pax Romana: a period of peace in the Roman Empire?
 27 BC--180 AD
 1859
 
@@ -9203,7 +9203,7 @@ the Treaty of Alcáçovas
 2300
 
 Along what long threadlike part of a neuron are impulses conducted from the cell body to other cells?
-axon
+the axon
 2301
 
 Arkhangelsk is a port on the White Sea in Russia named after the monastery of what archangel there?
@@ -9731,11 +9731,11 @@ batik
 2432
 
 Théodore Rousseau led this group of artists. It was named after a small village in the forest of Fontainebleau, near Paris, where Rousseau and others worked. Identify this mid-nineteenth-century school of French landscape painters that reacted against classical conventions, based their art on the direct study of nature, and included Charles Daubigny and Jean-François Millet.
-Barbizon School
+the Barbizon School
 2433
 
 These uninhabited islands in the Indian Ocean form an external territory of Australia. Captain Nash discovered the first island in 1800 and named it after his ship. The second island was discovered by a captain of the same name on HMS Hibernia in 1811. Identify this territory.
-Ashmore and Cartier Islands
+the Ashmore and Cartier Islands
 2434
 
 This apostolic letter was issued against Holy Roman Emperor Frederick II by Innocent IV during the Council of Lyon on 17 July 1245. Name this letter which set forth the crimes of which Frederick was guilty and that Innocent, desiring to have a restoration of peace in places distracted by dissensions, sent three legates to Frederick as the begetter of these evils.
@@ -10075,7 +10075,7 @@ aqua fortis `strong water'
 2518
 
 What are analects?
-collection of short literary or philosophical extracts (also analecta)
+a collection of short literary or philosophical extracts (also analecta)
 2519
 
 What are arcana?
@@ -10431,7 +10431,7 @@ Aves
 2607
 
 What clear fluid fills the space in front of the eyeball between the lens and cornea?
-aqueous humour
+the aqueous humour
 2608
 
 What collection of stories and romances tells the tales of Aladdin, Sinbad the Sailor, and Ali Baba, narrated by Scheherazade?
@@ -10559,11 +10559,11 @@ Autonomous Soviet Socialist Republic
 2639
 
 What did Solzhenitsyn say was the most important event of the twentieth century?
-Nuremberg trials
+the Nuremberg trials
 2640
 
 What diet named after an American cardiologist is high in protein and fat, low in carbohydrates, and prescribed for weight loss?
-Atkins diet
+the Atkins diet
 2641
 
 What disease causes inflammation of the nerves and heart failure and is caused by a deficiency of vitamin B1?
@@ -10579,7 +10579,7 @@ Beaujolais
 2644
 
 What diving seabird whose name comes from the Old Norse for ``razorbill'' is found in northern oceans, typically with a black head and black and white underparts and comprises the diving birds of the family Alcidae (order Charadriiformes), particularly Pinguinus impennis, Plautus alle, and Alca torda (in picture)?
-auk
+the auk
 2645
 
 What do the Greek roots dogmat-- and --dox mean?
@@ -12027,7 +12027,7 @@ Bastet
 3006
 
 What gold coin of ancient Rome was worth twenty-five silver denarii?
-aureus
+the aureus
 3007
 
 What golden adjective describes language that is highly ornamented or elaborate?
@@ -12295,7 +12295,7 @@ an asterism
 3073
 
 What is a native or inhabitant of the Bahamas called?
-Bahamian
+a Bahamian
 3074
 
 What is a person who legally transfers a right or liability to someone else called?
@@ -12599,7 +12599,7 @@ Jung's term for the masculine part of a woman's personality; hostility or ill fe
 3149
 
 What is anisette?
-liqueur flavoured with aniseed
+a liqueur flavoured with aniseed
 3150
 
 What is anisogamy?
@@ -13015,7 +13015,7 @@ Anguilla
 3253
 
 What Israeli currency is equal to one-hundredth of a shekel?
-agora
+the agora
 3254
 
 What Israeli general and Likud statesman was prime minister (2001--06)?
@@ -13963,11 +13963,11 @@ ascarids
 3490
 
 What part of the Red Sea extends northward between the Sinai and Arabian peninsulas?
-Gulf of Aqaba
+the Gulf of Aqaba
 3491
 
 What part of the Rocky Mountains is found in western Montana and eastern Idaho?
-Bitterroot Range
+the Bitterroot Range
 3492
 
 What patron goddess of Athens (worshipped as the goddess of wisdom, handicrafts, and warfare) is often allegorized into a personification of wisdom and also called ``Pallas''?
@@ -14891,7 +14891,7 @@ bacitracin
 3722
 
 What topmost vertebra of the backbone articulates with the occipital bone of the skull?
-atlas vertebra
+the atlas vertebra
 3723
 
 What tough wove fabric has prominent ridges similar to corduroy and is named after an English town?
@@ -16330,11 +16330,11 @@ Sir Edward Burne-Jones
 Milton Bradley
 4082
 
-(1837--1921) What American naturalist and author entertained friends such as John Muir, Theodore Roosevelt, and Walt Whitman at his home near the Hudson River at West Park, New York, and wrote works including Wake-robin (1871), Locusts and wild honey (1879), and The summit of the years (1913)?
+(1837--1921) What American naturalist and author entertained friends such as John Muir, Theodore Roosevelt, and Walt Whitman at his home near the Hudson River at West Park, New York, and wrote works including Wake-Robin (1871), Locusts and Wild Honey (1879), and The Summit of the Years (1913)?
 John Burroughs
 4083
 
-(1839--1906) What French painter is closely identified with post-impressionism, and his later work had an important influence on cubism, having painted The hanged man's house (1873), Still life with Cupid (1895) and Bathers (sequence of paintings, 1890--1905)?
+(1839--1906) What French painter is closely identified with post-impressionism, and his later work had an important influence on cubism, having painted The Hanged Man's House (1873), Still Life with Cupid (1895) and Bathers (sequence of paintings, 1890--1905)?
 Paul Cézanne
 4084
 
@@ -16678,7 +16678,7 @@ Maria Callas
 Marlon Brando
 4169
 
-(1925--2016) What influential French composer and conductor was the principal conductor of the New York Philharmonic Orchestra from 1971 to 1978 and wrote an article entitled ``Schoenberg est mort''?
+(1925--2016) What influential French composer and conductor was the principal conductor of the New York Philharmonic Orchestra from 1971 to 1978 and wrote two Structures for piano?
 Pierre Boulez
 4170
 
@@ -17379,7 +17379,7 @@ Through what years was the Council of Trent held?
 4344
 
 To what do tools of ignorance refer?
-baseball catcher's equipment
+a baseball catcher's equipment
 4345
 
 To what feet-gill-possessing class do water fleas and fairy shrimp belong?
@@ -17387,7 +17387,7 @@ Branchiopoda
 4346
 
 To what region of a chromosome do the microtubules of the spindle attach, via the kinetochore, during cell division?
-centromere
+the centromere
 4347
 
 To what ridge at the front of the head of the tibia or tibiotarsus is the main extensor muscle of the thigh attached, being particularly well developed in running species?
@@ -17395,11 +17395,11 @@ cnemial crest
 4348
 
 To what short projection from the shoulder blade in mammals is part of the biceps attached?
-coracoid
+the coracoid
 4349
 
 To what solid central part of a vertebra are the arches and processes attached?
-centrum
+the centrum
 4350
 
 To whom are the maxims of the Book of Proverbs attributed?
@@ -17874,7 +17874,7 @@ What class comprises the barnacles that settle on rocks, submerged timbers, cora
 Cirripedia
 4468
 
-What class of fishes includes those with a cartilaginous skeleton?
+What class of fish includes those with a cartilaginous skeleton?
 Chondrichthyes
 4469
 
@@ -18447,7 +18447,7 @@ to be resolutely or dutifully firm and unwavering
 4611
 
 What does it mean to broach?
-to veer and pitch a ship forward because of bad steering or a sea hitting the stern, causing it to present a side to the wind and sea, lose steerage, and possibly suffer serious damage
+to veer and to pitch a ship forward because of bad steering or a sea hitting the stern, causing it to present a side to the wind and sea, lose steerage, and possibly suffer serious damage
 4612
 
 What does it mean to bungle?
@@ -19555,7 +19555,7 @@ having or showing no moral principles; not honest or fair
 4888
 
 What dog, its name derived from the Russian for ``swift,'' is a large Russian wolfhound of a breed with a narrow head and silky, typically white, coat?
-borzoi
+the borzoi
 4889
 
 What drug (C11H16N2) has stimulant and euphoric properties similar to those of amphetamine?
@@ -19567,7 +19567,7 @@ guanethidine
 4891
 
 What dry one-seeded fruit in which the ovary wall is united with the seed coat is typical of grasses and cereals?
-caryopsis
+the caryopsis
 4892
 
 What dry red wine, originally produced in Tuscany, is named after an Italian mountain range?
@@ -20755,18 +20755,18 @@ cholecystitis
 5188
 
 What is gruel?
-thin liquid food of oatmeal or other meal boiled in milk or water
+a thin liquid food of oatmeal or other meal boiled in milk or water
 5189
 
 What is indignation?
 anger or annoyance provoked by what is perceived as unfair treatment
 5190
 
-What is inducement?
-thing that persuades or influences someone to do something; (law) introductory statements in a pleading explaining the matter in dispute
+What is an inducement?
+a thing that persuades or influences someone to do something; (law) introductory statements in a pleading explaining the matter in dispute
 5191
 
-What is intelligentsia?
+What is the intelligentsia?
 the status class of educated people engaged in the complex mental labours that critique, guide, and lead in shaping the culture and politics of their society
 5192
 
@@ -21019,7 +21019,7 @@ Cortes
 5254
 
 What is the name of the British sovereign's court?
-Court of St. James's
+the Court of St. James's
 5255
 
 What is the national sport of Afghanistan?
@@ -21455,11 +21455,11 @@ cladistics
 5363
 
 What metrical foot consists of two short (or unstressed) syllables between two long (or stressed) ones?
-choriambus
+the choriambus
 5364
 
 What military strike force consisting of units from the US Army, Air Force, and Navy was established in 1979 (as the Rapid Deployment Force) to operate in the Middle East and North Africa?
-Central Command
+the Central Command
 5365
 
 What milky fluid consisting of fat droplets and lymph drains from the lacteals of the small intestine into the lymphatic system during digestion?
@@ -21798,7 +21798,7 @@ What name is given to a writ ordering the arrest of a named person?
 capias
 5449
 
-What name is given to an aquatic invertebrate animal of a phylum (Cnidaria) that includes jellyfishes, corals, and sea anemones distinguished by having a tube- or cup-shaped body and a single opening ringed with tentacles?
+What name is given to an aquatic invertebrate animal of a phylum (Cnidaria) that includes jellyfish, corals, and sea anemones distinguished by having a tube- or cup-shaped body and a single opening ringed with tentacles?
 coelenterate
 5450
 
@@ -22487,15 +22487,15 @@ chirm
 5621
 
 What ratio of new orders to completed sales in the semiconductor industry is regarded as an economic indicator for overall trends in the technology sector?
-book-to-bill ratio
+the book-to-bill ratio
 5622
 
 What ratio of new orders to completed sales in the semiconductor industry is regarded as an economic indicator for overall trends in the technology sector?
-book-to-bill ratio
+the book-to-bill ratio
 5623
 
 What receptacle shaped like a shrine or a cup with an arched cover is used in the Christian Church to reserve the Eucharist?
-ciborium
+the ciborium
 5624
 
 What red wine from Bordeaux or wine of a similar character made elsewhere shares its name with a deep purplish-red colour?
@@ -22503,7 +22503,7 @@ claret
 5625
 
 What reflecting telescope involves light reflected from a convex secondary mirror being passed through a hole in the primary mirror?
-Cassegrain telescope
+the Cassegrain telescope
 5626
 
 What region of Antarctica which lies westward of Queen Maud Land and forms the eastern shore of the Weddell Sea was discovered from the Scotia by William S. Bruce, leader of the Scottish National Antarctic Expedition?
@@ -23006,7 +23006,7 @@ What term refers to the use of a ring or loop to bind together the ends of an ob
 cerclage
 5751
 
-What term refers to the willingness to secretly allow or be involved in wrongdoing, especially an immoral or illegal act?
+What term refers to the willingness to allow secretly or to be involved in wrongdoing, especially an immoral or illegal act?
 connivance
 5752
 
@@ -23123,7 +23123,7 @@ celluloid
 5780
 
 What transparent fluid occupies the space between the crystalline lens and the cornea of the eye?
-aqueous humour
+the aqueous humour
 5781
 
 What tribe or suborder of crustaceans is characterized by short abdomens folded toward the ventral surface and includes the true crabs?
@@ -26070,7 +26070,7 @@ What apocryphal book portrays Daniel as a wise judge?
 Susanna
 6517
 
-(1850--1931) What American sculptor created the statue of the Minute man, unveiled 1875 at Concord, Massachusetts, and the seated figure of Abraham Lincoln, completed 1922, in the Lincoln Memorial in Washington, DC?
+(1850--1931) What American sculptor created the statue of the Minute Man, unveiled 1875 at Concord, Massachusetts, and the seated figure of Abraham Lincoln, completed 1922, in the Lincoln Memorial in Washington, DC?
 Daniel Chester French
 6518
 
@@ -26647,7 +26647,7 @@ deglutition
 6661
 
 What rat-like rodent with a long silky coat (family Octodontidae) is found in southern South America?
-degu
+the degu
 6662
 
 What does it mean to degust?
@@ -26794,12 +26794,12 @@ demodectic mange
 Demosthenes
 6698
 
-What is a substance that relieves irritation of the mucous membranes in the mouth by forming a protective film called?
-demulcent
+What is a substance that relieves irritation of the mucous membranes in the mouth by forming a protective film?
+a demulcent
 6699
 
 What is a charge payable to the owner of a chartered ship in respect of failure to load or discharge the ship within the time agreed called?
-demurrage
+a demurrage
 6700
 
 What paper size is now standardized at 564 by 444 mm?
@@ -27675,7 +27675,7 @@ corynebacterium
 6918
 
 What sound formed by the combination of two vowels in a single syllable begins as one vowel and moves toward another?
-diphthong
+a diphthong
 6919
 
 Define ``tutelary.''
@@ -28178,8 +28178,8 @@ Let $f$ be a map from a set $A$ to a set $B$. If the pre-image of every element 
 injective
 7044
 
-What template sets out the format and tag structure of an XML- or SGML-compliant document?
-document type definition (DTD)
+Let $\alpha$ be an ordinal. What is the cofinality of $\alpha$?
+the least ordinal $\beta$ for which there exists a strictly increasing unbounded function $\beta\to\alpha$
 7045
 
 How many faces does a dodecahedron have?
@@ -28503,7 +28503,7 @@ What is the distance between the earth and sun?
 7125
 
 Why is cast iron called pig iron?
-fancied resemblance of the row of channels into which the molten flows to a litter of pigs
+a fancied resemblance of the row of channels into which the molten flows to a litter of pigs
 7126
 
 Who discovered radium?
@@ -28822,7 +28822,7 @@ What French-derived word refers to the most respected or prominent person in a p
 doyen
 7205
 
-(1859--1930) What Scottish novelist and short-story writer is known for his creation of private detective Sherlock Holmes, who first appeared (with his friend Dr. Watson, the narrator of the stories) in A study in Scarlet (1887), The adventures of Sherlock Holmes (1892), and The hound of the Baskervilles (1902)?
+(1859--1930) What Scottish novelist and short-story writer is known for his creation of private detective Sherlock Holmes, who first appeared (with his friend Dr. Watson, the narrator of the stories) in A Study in Scarlet (1887), The Adventures of Sherlock Holmes (1892), and The Hound of the Baskervilles (1902)?
 Sir Arthur Conan Doyle
 7206
 
@@ -29235,7 +29235,7 @@ Proverbs xxvi. 5
 7308
 
 ``Favour is deceitful, and beauty is vain: the woman that feareth the Lord, she shall be praised.'' What is this from?
-Prov. xxxi. 30
+Proverbs xxxi. 30
 7309
 
 ``He afflicted thee with want, and gave thee manna for thy food, which neither thou nor thy fathers knew: to shew that not in bread alone doth man live, but in every word that proceedeth from the mouth of God.'' What is this from?
@@ -29527,7 +29527,7 @@ the Epstein--Barr virus
 7381
 
 What does EBV abbreviate?
-the Epstein--Barr virus
+Epstein--Barr virus
 7382
 
 What name is ascribed to a painting of Jesus Christ wearing the crown of thorns?
@@ -29562,7 +29562,7 @@ What is an echinoid?
 sea urchin
 7390
 
-What phylum of marine invertebrates that includes starfishes, sea urchins, brittlestars, crinoids, and sea cucumbers is characterized by fivefold radial symmetry, a calcareous skeleton, and tube feet operated by fluid pressure?
+What phylum of marine invertebrates that includes starfish, sea urchins, brittlestars, crinoids, and sea cucumbers is characterized by fivefold radial symmetry, a calcareous skeleton, and tube feet operated by fluid pressure?
 Echinodermata
 7391
 
@@ -29594,8 +29594,8 @@ eclose
 Umberto Eco
 7398
 
-What is the gradual, continuous change in the species composition between two ecosystems or communities of organisms across an environmental gradient called?
-ecocline
+What is the gradual, continuous change in the species composition between two ecosystems or communities of organisms across an environmental gradient?
+an ecocline
 7399
 
 What word that means ``flayed'' in French refers to a painting or sculpture of a human figure with the skin removed to display the musculature?
@@ -30847,7 +30847,7 @@ Madagascar
 7711
 
 Who was Dian Fossey?
-zoologist
+a zoologist
 7712
 
 In 1967, Dian Fossey established the Karisoke Research Centre for the study of gorillas in the Virunga Mountains region of what country?
@@ -31991,11 +31991,11 @@ ephedrine
 7997
 
 What was a table or data file giving the calculated positions of a celestial object at regular intervals throughout a period called? Its name comes from the Greek for ``lasting only a day.''
-ephemeris
+an ephemeris
 7998
 
 What is an insect that lives only for a day or a few days called?
-ephemeron
+an ephemeron
 7999
 
 What does the Latin root quint-- mean?
@@ -32951,23 +32951,23 @@ ephor
 8237
 
 What is a larval jellyfish called after it has separated from the scyphistoma?
-ephyra
+an ephyra
 8238
 
 What's the flora and fauna living on the surface of the bottom of a sea or lake called?
 epibenthos
 8239
 
-What's the outermost layer of an embryo before it differentiates into ectoderm and mesoderm called?
-epiblast
+What is the outermost layer of an embryo before it differentiates into ectoderm and mesoderm?
+the epiblast
 8240
 
 What serous membrane forms the innermost layer of the pericardium and the outer surface of the heart?
-epicardium
+the epicardium
 8241
 
 What is an epicedium?
-funeral ode
+a funeral ode
 8242
 
 (c. 55--c. 135) What Greek philosopher preached the common brotherhood of man and advocated a Stoic philosophy?
@@ -33075,7 +33075,7 @@ Magnentius
 8268
 
 How many books are there in the Code of Justinian?
-4
+four
 8269
 
 Who is commonly regarded as the last (though illegitimate) Western Roman emperor?
@@ -33647,7 +33647,7 @@ Eridanus
 8411
 
 What is an Erinys?
-Fury
+a Fury
 8412
 
 Define ``eristic.''
@@ -33934,16 +33934,16 @@ kurtosis
 Leo Esaki
 8483
 
-Which elder of the twin sons of Isaac and Rebecca sold his birthright to his brother Jacob and was tricked out of his father's blessing by his brother (Genesis 25, 27)?
+Which elder of the twin sons of Isaac and Rebecca sold his birthright to his brother Jacob and was tricked out of his father's blessing by his brother (Genesis xxv., xxvii.)?
 Esau
 8484
 
 What's a French squadron of aircraft called?
-escadrille
+an escadrille
 8485
 
-What's a contract clause that allows for an increase or a decrease in wages or prices under certain conditions called?
-escalator clause
+What is a contract clause that allows for an increase or a decrease in wages or prices under certain conditions?
+an escalator clause
 8486
 
 What thin slice of meat without any bone, typically a special cut of veal from the leg, is coated, fried, and served in a sauce?
@@ -33962,11 +33962,11 @@ Define ``eschar.''
 dry, dark scab or falling away of dead skin, typically caused by a burn, or by the bite of a mite, or as a result of anthrax infection
 8490
 
-What part of theology is concerned with death, judgment, and the final destiny of the soul and of humankind?
+What the doctrine of the last or final things, as death, judgment, the state after death?
 eschatology
 8491
 
-What name is assigned to the final event in the divine plan or the end of the world in theology?
+What name is assigned to the final event in the divine plan or the end of the world?
 eschaton
 8492
 
@@ -34427,7 +34427,7 @@ euphrasia
 8606
 
 Define ``euphuism.''
-elegant Elizabethan literary style marked by excessive use of balance, antithesis, and alliteration and by frequent use of similes drawn from mythology and nature
+an elegant Elizabethan literary style marked by excessive use of balance, antithesis, and alliteration and by frequent use of similes drawn from mythology and nature
 8607
 
 What is a nucleus, cell, or organism called if it has an integer multiple of the haploid number of chromosomes?
@@ -34435,7 +34435,7 @@ euploid
 8608
 
 What floating freshwater plant of the family Hydrocharitaceae has creeping stems that bear clusters of small rounded leaves?
-frogbit
+the frogbit
 8609
 
 When was Euratom established?
@@ -35583,11 +35583,11 @@ dormice
 8895
 
 What is a Fata Morgana?
-mirage
+a mirage
 8896
 
 What is the most common echo sounder?
-fathometer
+the fathometer
 8897
 
 Define ``fatidic.''
@@ -36535,7 +36535,7 @@ fianchetto
 9133
 
 What's a fibril?
-small or slender fibre
+a small or slender fibre
 9134
 
 What insoluble protein created from fibrinogen during the clotting of blood forms a fibrous mesh that impedes the flow of blood?
@@ -36831,7 +36831,7 @@ Kuril Islands
 9207
 
 What set of agreements involved the cessation of the Kuril Islands to the Soviet Union?
-Yalta agreements
+the Yalta agreements
 9208
 
 What is the highest point of the Kuril Islands?
@@ -41787,11 +41787,11 @@ galena
 10446
 
 Define ``galère.''
-undesirable group or coterie
+an undesirable group or coterie
 10447
 
 What is the shape of a galea?
-helmet
+a helmet
 10448
 
 What is a (fresh) gale in knots?
@@ -41803,7 +41803,7 @@ What is a (fresh) gale in km/h?
 10450
 
 What small rounded melon of a variety with rough skin and fragrant orange flesh is named after a Hebrew given name?
-galia melon
+the galia melon
 10451
 
 What is Galicia's capital?
@@ -42559,10 +42559,10 @@ São Miguel, Açores
 10639
 
 What is a peregrination?
-journey, especially a long or meandering one
+a journey, especially a long or meandering one
 10640
 
-``The inner world is divided into [---], much as the outer.'' (Maps of meaning 436)
+``The inner world is divided into [---], much as the outer.'' (Maps of Meaning 436)
 familiar and unknown territory
 10641
 
@@ -42811,7 +42811,7 @@ variation (as in observation) occasioned by the personal peculiarities of an ind
 10702
 
 By what thing is the 5' cap of eukaryotic messenger RNA bound?
-cap binding complex
+a cap binding complex
 10703
 
 What enzymes acetylate conserved lysine amino acids on histone proteins by transferring an acetyl group from acetyl-CoA to form epsilon-N-acetyllysine?
@@ -43266,7 +43266,7 @@ What name given to the historic centre of Besançon comes from the shape that th
 La Boucle
 10816
 
-What is the largest governorate of Oman?
+Which is the largest governorate of Oman?
 Dhofar
 10817
 
@@ -43278,7 +43278,7 @@ What does ``SICP'' abbreviate?
 Structure and Interpretation of Computer Programs
 10819
 
-With what language does SICP teach computer science?
+With what language does the Structure and Interpretation of Computer Programs teach computer science?
 Lisp
 10820
 
@@ -45262,8 +45262,8 @@ What sound is represented by ɕ?
 the voiceless alveolo-palatal fricative
 11314
 
-What state witnessed the birth of Ryan Whitney?
-Massachusetts
+Who bore Abraham Zamran, and Jecsan, and Madan, and Madian, and Jesboc, and Sue?
+Cetura
 11315
 
 Did Ryan Whitney play for the United States in the 2010 Olympics?
@@ -45419,11 +45419,11 @@ Chukotka
 11353
 
 What is the easternmost peninsula in Asia?
-Chukchi Peninsula
+the Chukchi Peninsula
 11354
 
 What cape does the Chukchi Peninsula face?
-Seward Peninsula
+the Seward Peninsula
 11355
 
 What is the principal settlement on Sandwich Bay?
@@ -45691,7 +45691,7 @@ index
 11421
 
 What is zugzwang?
-chess situation in which the obligation to make a move in one's turn is a serious, often decisive, disadvantage
+a situation in chess in which the obligation to make a move in one's turn is a serious, often decisive, disadvantage
 11422
 
 Who wrote ``Time in a Bottle''?
@@ -46115,7 +46115,7 @@ Tahiti
 11527
 
 What was a political official governing a district under Nazi rule called?
-Gauleiter
+a Gauleiter
 11528
 
 What series of Cretaceous clays and marls forms strata in southern England? Perhaps its name is related to the Old Swedish for ``barren.''
@@ -46626,12 +46626,12 @@ What is Norway's largest fjord?
 Sognefjord
 11655
 
-What opening is comprised by the moves 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+?
-Bogo--Indian defence
+Which moves characterize the Richter--Rauzer attack?
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2
 11656
 
-After whom is the Bogo--Indian defence named?
-Yefim Bogolyubov
+What is magnanimity?
+greatness of soul: elevation of dignity, of mind: that quality of mind which raises a person above all that is mean of unjust: generosity
 11657
 
 Define ``bootleg'' as a verb.
@@ -46734,12 +46734,12 @@ What country holds Gdynia?
 Poland
 11682
 
-What is the wild or sweet cherry, which is native to both Eurasia and North America?
-gean
+What is the wild or sweet cherry native to both Eurasia and North America?
+the gean
 11683
 
 What is Prunus avium?
-gean
+the gean
 11684
 
 What is a geanticline?
@@ -47299,7 +47299,7 @@ the lateral part of the head below the level of the eyes
 11823
 
 What is the lateral part of the head of an arthropod below the level of the eyes called?
-gena
+the gena
 11824
 
 What is the plural for ``gena''?
@@ -47311,11 +47311,11 @@ cheek
 11826
 
 What does ``gendarme'' mean if it is not referring to a person?
-rock pinnacle on a mountain, occupying and blocking an arête
+a rock pinnacle on a mountain, occupying and blocking an arête
 11827
 
 What is a gendarme?
-paramilitary police officer in France and other French-speaking countries
+a paramilitary police officer in France and other French-speaking countries
 11828
 
 What is the plural for ``genus''?
@@ -48463,7 +48463,7 @@ What are the Greek definite articles?
 12114
 
 What adjective describes words or expressions that ``point'' to some feature of a situation?
-deictic
+a deictic adjective
 12115
 
 What is a deponent verb?
@@ -48471,15 +48471,15 @@ one that is passive in form but active in function
 12116
 
 What are the two dots placed over the second of two adjacent vowels that are to be pronounced separately, as in ``βοΐ ''?
-diaeresis
+a diaeresis
 12117
 
 What is a word formed from another to express diminished size, as with ``hillock''?
-diminutive
+a diminutive
 12118
 
 What is the union of two vowels pronounced as one syllable (one vowel followed by a glide into a second vowel)?
-diphthong
+a diphthong
 12119
 
 What is a short word that cannot stand alone but has to follow another word onto which it throws back its accent?
@@ -49222,8 +49222,8 @@ What country houses the city of Hargeisa?
 Somalia
 12304
 
-Whose embedding theorem says that, for any small abelian category $A$, there is a ring $R$ and a full, faithful, and exact functor from $A$ to the category of $R$-modules?
-Barry Mitchell
+Whose embedding theorem says that, for any small abelian category $\frak A$, there is a ring $R$ and a full, faithful, and exact functor from $\frak A$ to the category of $R$-modules?
+Barry Mitchell's
 12305
 
 What two countries are home to the White Carpathians?
@@ -49255,7 +49255,7 @@ eight
 12312
 
 For what two teams did Red Kelly play?
-Detroit Red Wings, Toronto Maple Leafs
+the Detroit Red Wings, the Toronto Maple Leafs
 12313
 
 How many Stanley Cups did Red Kelly win while he was a member of Parliament?
@@ -49375,7 +49375,7 @@ three
 12342
 
 For what two NHL teams did Sid Abel play?
-Detroit Red Wings, Chicago Blackhawks
+the Detroit Red Wings, the Chicago Blackhawks
 12343
 
 Define ``whittle.''
@@ -49399,7 +49399,7 @@ How many points did Gordie Howe record in his NHL career?
 12348
 
 For what team did Gordie Howe play for 25 seasons?
-Detroit Red Wings
+the Detroit Red Wings
 12349
 
 How many Stanley Cups did Gordie Howe win?
@@ -49899,7 +49899,7 @@ two
 12473
 
 With what two teams did Brett Hull win the Stanley Cup?
-Dallas Stars, Detroit Red Wings
+the Dallas Stars, the Detroit Red Wings
 12474
 
 Who was the lead singer and guitarist for Creedence Clearwater Revival?
@@ -50674,7 +50674,7 @@ gilt
 Gilbert Ryle
 12667
 
-(c. 1465 -- c. 1536) What Portuguese playwright and poet is regarded as Portugal's most important playwright? Many of his works were written to commemorate national or court events and include religious dramas, farces, pastoral plays, and satirical comedies.
+(c. 1465--c. 1536) What Portuguese playwright and poet is regarded as Portugal's most important playwright? Many of his works were written to commemorate national or court events and include religious dramas, farces, pastoral plays, and satirical comedies.
 Gil Vicente
 12668
 
@@ -50795,19 +50795,19 @@ George Gissing
 12697
 
 What is a gitana?
-Romani woman or girl from Spain; female Spanish Gypsy
+a Romani woman or girl from Spain; female Spanish Gypsy
 12698
 
 What is a gitano?
-Romani man or boy from Spain; male Spanish Gypsy
+a Romani man or boy from Spain; male Spanish Gypsy
 12699
 
 What is a gîte?
-furnished holiday house in France, typically in a rural district
+a furnished holiday house in France, typically in a rural district
 12700
 
 What lute-like medieval stringed instrument was the forerunner of the guitar?
-gittern
+the gittern
 12701
 
 Who was the Teflon Don?
@@ -50859,7 +50859,7 @@ Scotty Bowman
 12713
 
 On what NHL team did the Russian Five play?
-Detroit Red Wings
+the Detroit Red Wings
 12714
 
 What coach played the Russian Five in Detroit?
@@ -50891,7 +50891,7 @@ six
 12721
 
 For what NHL teams did Dominik Hašek play?
-Chicago Blackhawks, Buffalo Sabres, Detroit Red Wings, Ottawa Senators
+the Chicago Blackhawks, the Buffalo Sabres, the Detroit Red Wings, the Ottawa Senators
 12722
 
 Where was Dominik Hašek born?
@@ -50899,7 +50899,7 @@ Pardubice
 12723
 
 With what team did Dominik Hašek win his two Stanley Cups?
-Detroit Red Wings
+the Detroit Red Wings
 12724
 
 Where was Jaromír Jágr born?
@@ -54834,8 +54834,8 @@ A rationalist, this Dutch philosopher answered to the first names Bento, Benedic
 Spinoza
 13707
 
-Compiled by future generations of disciples, the sayings of Confucius were collected in a work called this, derived from Greek.
-Analects
+Compiled by future generations of disciples, the sayings of Confucius were collected in a work called this, the name being Greek in origin.
+the Analects
 13708
 
 Edward Kingsford first used scrap lumber from carmaking to produce these.
@@ -57411,7 +57411,7 @@ Bobby Jones
 14351
 
 Who was Karol Józef Wojtyła?
-John Paul II
+St. John Paul II
 14352
 
 Which is the second-largest island of Grenada?
@@ -57454,7 +57454,7 @@ This Patriarch of Constantinople declared that Christ had distinct human and div
 Nestorius
 14362
 
-The First Council of Ephesus declared Mary as this, approximately ``Mother of God'' in Greek.
+The First Council of Ephesus declared Mary as this, approximately ``the Mother of God'' in Greek.
 Theotokos
 14363
 
@@ -57650,7 +57650,734 @@ What inside corn makes it pop?
 water
 14411
 
-Who was the oldest man to have held the world heavyweight boxing title?
+Who was the oldest man to hold the world heavyweight boxing title?
 George Foreman
 14412
 
+Saint Maximus the Confessor identifies that the soul consists of a contemplative part and a practical part. He speaks about ten things realized in pairs that the soul possesses. Truth is the end of the first five, and the good is the end of the second five. He contemplates that ``these five pairs are the divine decad --- the ten strings of the intelligible harp of the soul.'' What are these five pairs?
+mind and reason, wisdom and prudence, contemplation and practice, knowledge and virtue, ``ceaseless knowledge'' and faith
+14413
+
+Horace states: odi profanum vulgus et arceo. What is he saying?
+I hate the vulgar hordes and I exclude them
+14414
+
+``God resisteth the proud, and giveth grace to'' whom?
+the humble (James iv. 6)
+14415
+
+This decoration is placed behind the high altar.
+the reredos
+14416
+
+Who wrote Convivio?
+Dante
+14417
+
+Define ``ancillary.''
+subservient, subordinate
+14418
+
+This word, from the Ancient Greek for ``to paint,'' ``to stain,'' ``to defile,'' or ``to pollute,'' refers to an unpleasant or unhealthy smell or vapour.
+miasma
+14419
+
+This Portuguese term refers to a place, particularly in Paraná or São Paulo, where destructive frosts occur frequently.
+ninho de geada
+14420
+
+What does the German ``Hungersnot'' mean?
+famine
+14421
+
+What does the Serbo-Croatian лала mean?
+tulip
+14422
+
+What does the German ``Sehnsucht'' mean?
+longing
+14423
+
+What does the French ``abeille'' mean?
+bee, honeybee
+14424
+
+What does the Serbo-Croatian голо̀брад mean?
+beardless
+14425
+
+What does the Latin coordinating conjunction -que mean?
+and
+14426
+
+What is a sufganiyah?
+a deep-fried ball-shaped doughnut, usually filled with jelly or custard and topped with powdered sugar
+14427
+
+Translate the Ancient Greek ἀντιτείχισμα.
+counter-fortification
+14428
+
+What is a tuiuiú?
+a jabiru
+14429
+
+What does the German ``Gift'' mean?
+poison
+14430
+
+Translate the Ancient Greek Νεφελοκοκκυγία.
+cloud-cuckoo-land
+14431
+
+Translate the Icelandic ``jökull.''
+glacier
+14432
+
+For what number did the Old Norse word ``hundrað'' stand?
+120
+14433
+
+What is a seadog?
+a sailor accustomed to the sea
+14434
+
+What is an old salt?
+a seasoned sailor, especially one who is hardy and forthright in manner
+14435
+
+Translate the Latin ``arborēscō.''
+I become a tree
+14436
+
+At this traditional Genoese event, occurring on the last Sunday before Christmas, the abbot and the political leaders of Genoa exchange greetings and laurel logs and branches are burned in a public bonfire.
+Confeugo
+14437
+
+The Portuguese adverbial phrase ``nem que a vaca tussa'' has the same meaning as the English ``not in a million years,'' but what does it mean literally?
+not even if the cow coughs
+14438
+
+Something that is corvine is of, pertaining to, or characteristic of these.
+crows or ravens
+14439
+
+What is Fachsprache?
+jargon
+14440
+
+The Portuguese word ``alcateia'' means ``wolfpack'' and was borrowed from this language.
+Arabic
+14441
+
+What is mustadûra?
+the act of treading on grapes
+14442
+
+What is dūstscēawung?
+the viewing or contemplation of dust
+14443
+
+Who invented the word λοπαδο­τεμαχο­σελαχο­γαλεο­κρανιο­λειψανο­δριμυ­ποτριμματο­σιλφιο­καραβο­μελιτο­κατακεχυμενο­κιχλε­πικοσσυφο­φαττο­περιστερα­λεκτρυο­νοπτο­κεφαλλιο­κιγκλο­πελειο­λαγῳο­σιραιο­βαφητραγανοπτερύγων?
+Aristophanes
+14444
+
+What does the Czech ``host'' mean?
+guest
+14445
+
+What does the Russian дерзать mean?
+dare
+14446
+
+Who composed the German Organ Mass?
+Johann Sebastian Bach
+14447
+
+The last movement of Johann Sebastian Bach's German Organ Mass is a fugue named after this saint.
+Saint Anne
+14448
+
+Who did Laplace say was the greatest mathematician of Germany?
+Johann Friedrich Pfaff
+14449
+
+Which work of Saint Thomas More has the character Raphael Hythlodaeus?
+Utopia
+14450
+
+What was the archaic simple past tense of ``dare''?
+durst
+14451
+
+What meter did Henry Wadsworth Longfellow employ in ``The Song of Hiawatha''?
+trochaic tetrameter
+14452
+
+For which voice was Bach's Solokantate Ich will den Kreuzstab gerne tragen (BWV 56) written?
+bass
+14453
+
+The word ``parish'' comes from the Ancient Greek παροικία, which means this.
+a dwelling abroad
+14454
+
+What is a scintilla?
+a tiny trace or spark of a specified quality or feeling
+14455
+
+Who wrote the poem that begins ``Tyger Tyger, burning bright, / In the forests of the night; / What immortal hand or eye, / Could frame thy fearful symmetry?''
+William Blake
+14456
+
+What is a hoagie?
+a submarine sandwich
+14457
+
+What name is given to the act of trying someone twice for the same offence, especially after an acquittal in the first trial?
+double jeopardy
+14458
+
+What concept in the behavioural sciences refers to the extent to which two measures related theoretically are indeed related?
+convergent validity
+14459
+
+One can't have his cake and what?
+eat it too
+14460
+
+Identify the author. ``I was promised on a time / To have reason for my rhyme; / From that time unto this season, / I received nor rhyme nor reason.''
+Edmund Spenser
+14461
+
+``Ay me! what perils do environ / The man that meddles with'' this!
+cold iron
+14462
+
+Identify the author. ``Exceeding fair she was not; and yet fair / In that she never studied to be fairer / Than Nature made her; beauty cost her nothing, / Her virtues were so rare.''
+George Chapman
+14463
+
+Identify the work. ``One eare it heard, at the other out it went.''
+Troilus and Creseide
+14464
+
+Identify the work. ``Eke wonder last but nine deies never in toun.''
+Troilus and Creseide
+14465
+
+Identify the author. ``O, for a draught of vintage! that hath been / Cool'd a long age in the deep-delved earth. / Tasting of Flora and the country green, / Dance, and Provencal song, and sunburnt mirth! / O for a beaker full of the warm South, / Full of the true, the blushful Hippocrene, / With beaded bubbles winking at the brim, / And purple-stained mouth.''
+John Keats
+14466
+
+Whom did Samuel Taylor Coleridge describe as ``myriad-minded''?
+William Shakespeare
+14467
+
+Identify the work. ``God's benison go with you; and with those / That would make good of bad, and friends of foes!''
+Macbeth
+14468
+
+Identify the speaker. ``They have tied me to a stake; I cannot fly, / But, bear-like, I must fight the course.''
+Macbeth
+14469
+
+Who asks Miranda ``What seest thou else / In the dark backward and abysm of time?'' in The Tempest?
+Prospero
+14470
+
+Which canto of Dante's Inferno opens ``Pape Satàn, pape Satàn aleppe''?
+Canto VII
+14471
+
+Identify the author. ``Eloquence may strike the ear, but the language of poverty strikes the heart; the first may charm like music, but the second alarms like a knell.''
+Thomas Paine
+14472
+
+A passacaglia of him inspired Bach's passacaglia BWV 582.
+Dietrich Buxtehude
+14473
+
+Where was Johann Pachelbel born?
+Nuremberg
+14474
+
+Which church was the last where Johann Pachelbel was an organist?
+Sebalduskirche, Nuremberg
+14475
+
+This domain enables SMAD binding activity, identical protein binding activity, and ubiquitin protein ligase activity. It is involved in the negative regulation of transforming growth factor beta receptor signaling pathway, the positive regulation of trophoblast cell migration, and the ubiquitin-dependent protein catabolic process. It is located in the nuclear speck and is part of the ubiquitin ligase complex.
+SMURF2
+14476
+
+Who commissioned Stravinsky's Symphony of Psalms?
+Serge Koussevitzky
+14477
+
+For whose fiftieth anniversary was Stravinsky's Symphony of Psalms commissioned?
+the Boston Symphony Orchestra's
+14478
+
+Which psalms comprise the text of Stravinsky's Symphony of Psalms?
+38, 39, 150
+14479
+
+What is eschatology?
+the doctrine of the last or final things, as death, judgment, the state after death
+14480
+
+``And when she was ready to be brought to bed, there appeared twins in her womb: and in the very delivery of the infants, one put forth a hand, whereon the midwife [did this], saying: This shall come forth the first.'' (Genesis xxxviii. 27,28)
+tied a scarlet thread
+14481
+
+What does the Ancient Greek κόκκινος mean?
+scarlet, blushing
+14482
+
+What does the Hebrew שָׁנִי mean?
+scarlet, crimson
+14483
+
+Who is שִׁמְשׁוֹן?
+Samson
+14484
+
+What is a stumbling block?
+a block or stone over which one would be likely to stumble: a cause of error
+14485
+
+Translate the Ancient Greek σκάνδαλον.
+trap, snare, enticement, temptation, offence, scandal, stumbling block
+14486
+
+Who stars in 8 Mile?
+Eminem
+14487
+
+Who was elected President of Brazil in 1955?
+Juscelino Kubitschek
+14488
+
+Which president of Brazil founded Brasilia?
+Juscelino Kubitschek
+14489
+
+What does the Hebrew יָשַׁן mean?
+to sleep
+14490
+
+What does the Hebrew אַרְגָּמָן mean?
+Tyrian purple
+14491
+
+What does ``BMP-2'' abbreviate?
+bone morphogenetic protein 2
+14492
+
+This saint wrote a biography of his student Saint Dominic Savio.
+Saint John Bosco
+14493
+
+What is palmitoylation?
+the covalent attachment of fatty acids to cysteine, serine, and threonine residues of proteins
+14494
+
+What is the covalent attachment of fatty acids to cysteine, serine, and threonine residues of proteins?
+palmitoylation
+14495
+
+What drink comprises a shot of whisky and a glass of beer?
+a boilermaker
+14496
+
+What was once the name for Haida Gwaii?
+the Queen Charlotte Islands
+14497
+
+Which is the largest island of Haida Gwaii?
+Graham Island
+14498
+
+Which word in Our American Cousin was John Wilkes Booth's cue to shoot Abraham Lincoln?
+sockdologizing
+14499
+
+Which is the fifth-largest moon of Jupiter?
+Amalthea
+14500
+
+Which was the fifth Jovian moon discovered?
+Amalthea
+14501
+
+Which moon is the third closest to Jupiter?
+Amalthea
+14502
+
+What does ``SUFU'' abbreviate?
+suppressor of fused homologue
+14503
+
+What is a metabolic pathway?
+a sequence of chemical reactions undergone by a compound or class of compounds in a living organism
+14504
+
+What is magnanimity?
+greatness of soul: elevation of dignity, of mind: that quality of mind which raises a person above all that is mean of unjust: generosity
+14505
+
+Define ``magnanimous.''
+elevated in sentiment, noble: brave: unselfish
+14506
+
+This Christian sect flourished in North Africa in the fourth and fifth centuries and was named after a bishop of Carthage. It asserted that only those living a blameless life belonged in the Church, and, in particular, that sacraments administered by traditores were invalid, opposite to the view that sacraments are ex opere operato. In 311, Caecilian was consecrated bishop of Carthage by Felix of Aptungi, a supposed traditor. His opponents consecrated Majorinus, a short-lived rival of Caecilian succeeded by the sect's leader and now-eponym. The sect burgeoned and the African Church fragmented; unrest mounted in Carthage over the bishop controversy. Constantine, looking to defuse the situation, donated to Caecilian to pay for churches damaged during the Diocletianic Persecution; he gave nothing to the opponents of Caecilian; they appealed to Rome, whence Constantine charged Pope Miltiades with resolving the conflict. The Pope convoked a commission in 313, and it condemned the sect. The sect did not agree with the condemnation and appealed to Constantine. Constantine called for the first Council of Arles, which took place in 314. The council condemned the sect's doctrine as heresy, and the sect's leader was excommunicated. Churches of the sect outside of Carthage were undisturbed, and, by 321, Constantine asked bishops to show moderation and patience toward the sect. It survived the Vandal occupation and the Byzantine reconquest of Justinian I.
+Donatism
+14507
+
+What are the six precepts of the Church?
+to hear Mass on Sundays and holy days of obligation; to fast and abstain on the days commanded; to confess our sins at least once a year; to receive the Blessed Eucharist at Easter or within the time appointed; to contribute to the support of our Pastors; not to solemnize marriage at the forbidden times, nor to marry persons within the forbidden degrees of kindred, or otherwise prohibited by the Church, nor secretly
+14508
+
+What are the seven sacraments?
+baptism, confirmation, Holy Eucharist, penance, extreme unction, holy orders, matrimony
+14509
+
+What are the four cardinal virtues?
+prudence, justice, fortitude, temperance
+14510
+
+What are the seven gifts of the Holy Ghost?
+wisdom, understanding, counsel, fortitude, knowledge, piety, fear of the Lord
+14511
+
+What are the twelve fruits of the Holy Ghost?
+charity, joy, peace, patience, longanimity, goodness, benignity, mildness, fidelity, modesty, continence, chastity
+14512
+
+What are the spiritual works of mercy?
+to give counsel to the doubtful, to instruct the ignorant, to admonish sinners, to comfort the afflicted, to forgive offences, to bear patiently the troublesome, to pray for the living and the dead
+14513
+
+What are the corporal works of mercy?
+to feed the hungry, to give drink to the thirsty, to clothe the naked, to shelter the needy, to visit the sick, to visit the imprisoned, to bury the dead
+14514
+
+What are the seven deadly sins?
+pride, covetousness, lust, anger, gluttony, envy, sloth
+14515
+
+What are the contrary virtues?
+humility, liberality, chastity, meekness, temperance, brotherly love, diligence
+14516
+
+What are sins against the Holy Ghost?
+presumption upon God's mercy, despair, impugning the known truth, envy of another's spiritual good, obstinancy in sin, final impenitence
+14517
+
+What are the three eminently good works?
+alms-deeds, prayer, fasting
+14518
+
+What are the three evangelical counsels?
+voluntary poverty, chastity, obedience
+14519
+
+What was Ovid's full name?
+Publius Ovidius Naso
+14520
+
+Whose feast is celebrated by eating zeppola?
+St. Joseph's
+14521
+
+Who was Cyprien Katsaris?
+a pianist
+14522
+
+How many boroughs comprise New York City?
+five
+14523
+
+What was the occupation of John Ambrose?
+captain
+14524
+
+Which Canadian governor general succeeded Georges Vanier?
+Roland Michener
+14525
+
+This is the only country that borders Afghanistan and Russia.
+China
+14526
+
+This is the only country that borders Bangladesh and Thailand.
+Myanmar
+14527
+
+This is the only country that borders Chad and Gabon.
+Cameroon
+14528
+
+This is the only country that borders Angola and Cameroon.
+the Republic of the Congo
+14529
+
+This is the only country that borders Guinea and Niger.
+Mali
+14530
+
+This is the only country that borders Guatemala and Honduras.
+El Salvador
+14531
+
+Where did Hap Day play varsity hockey?
+the University of Toronto
+14532
+
+Which pope was enthroned on Christmas Day, 1154?
+Adrian IV
+14533
+
+Who was Nicholas Breakspear?
+Adrian IV
+14534
+
+To which genus does the cinquefoil belong?
+Potentilla
+14535
+
+Translate the French ``sec.''
+dry
+14536
+
+Which mountain is the summit of the Negev Mountains?
+Mount Ramon
+14537
+
+This letter of Old English, Ƿ, represented the sound /w/.
+wynn
+14538
+
+This secretary to Marcus Tullius Cicero is the namesake of a prominent shorthand system.
+Marcus Tullius Tiro
+14539
+
+A Cossack with a yellow hat in Ilya Repin's painting Reply of the Zaporozhian Cossacks was modelled by him, the father of an esteemed composer of music.
+Fyodor Stravinsky
+14540
+
+Take this word for a form of written language, and replace its vowels with a vowel further in the alphabet than any of its letters. When you read that sequence of letters backward, you get a verb synonymous with ``seize.''
+prose
+14541
+
+What is the aegis of something?
+the protection, backing, or support of it
+14542
+
+Walking horses are associated with this state.
+Tennessee
+14543
+
+This is the name of the axioms that all homology theories of topological spaces satisfy.
+the Eilenberg--Steenrod axioms
+14544
+
+What was Palestrina's full name?
+Giovanni Pierluigi da Palestrina
+14545
+
+Which popes reigned during the life of Giovanni Pierluigi da Palestrina?
+Clement VII, Paul III, Julius III, Marcellus II, Paul IV, Pius IV, St. Pius V, Gregory XIII, Sixtus V, Urban VII, Gregory XIV, Innocent IX, Clement VIII
+14546
+
+This is the Latin name for a mixture of nitric and hydrochloric acid.
+aqua regia
+14547
+
+Who was Giuseppe Melchiorre Sarto?
+St. Pius X
+14548
+
+Which popes reigned during the life of Giuseppe Melchiorre Sarto?
+Gregory XVI, Bl. Pius IX, Leo XIII, St. Pius X
+14549
+
+Which popes reigned during the life of Marco Polo?
+Alexander IV, Urban IV, Clement IV, Bl. Gregory X, Bl. Innocent V, Adrian V, John XXI, Nicholas III, Martin IV, Honorius IV, Nicholas IV, St. Celestine V, Boniface VIII, Bl. Benedict XI, Clement V, John XXII
+14550
+
+Which popes reigned during the life of Saint Teresa of Calcutta?
+St. Pius X, Benedict XV, Pius XI, Ven. Pius XII, St. John XXIII, St. Paul VI, Bl. John Paul I, St. John Paul II
+14551
+
+Which popes reigned during the life of Saint Dominic Savio?
+Gregory XVI, Bl. Pius IX
+14552
+
+Which popes reigned during the life of Leonardo da Vinci?
+Nicholas V, Callixtus III, Pius II, Paul II, Sixtus IV, Innocent VIII, Alexander VI, Pius III, Julius II, Leo X
+14553
+
+Which popes reigned during the life of Voltaire?
+Innocent XII, Clement XI, Innocent XIII, Benedict XIII, Clement XII, Benedict XIV, Clement XIII, Clement XIV, Pius VI
+14554
+
+Who was the pope when the Declaration of Independence was signed?
+Pius VI
+14555
+
+Which popes reigned during the life of Saint Thomas Aquinas?
+Honorius III, Gregory IX, Celestine IV, Innocent IV, Alexander IV, Urban IV, Clement IV, Bl. Gregory X
+14556
+
+Which popes reigned during the life of Dante Alighieri?
+Clement IV, Bl. Gregory X, Bl. Innocent V, Adrian V, John XXI, Nicholas III, Martin IV, Honorius IV, Nicholas IV, St. Celestine V, Boniface VIII, Bl. Benedict XI, Clement V, John XXII
+14557
+
+Who lived earlier: Saint Thomas Aquinas or Dante Alighieri?
+Saint Thomas Aquinas
+14558
+
+Which popes reigned during the life of Saint Augustine of Hippo?
+Liberius, St. Damasus I, St. Siricius, St. Anastasius I, St. Innocent I, St. Zosimus, St. Boniface I, St. Celestine I
+14559
+
+Which pope reigned in AD 1000?
+Sylvester II
+14560
+
+Which pope reigned in AD 2000?
+St. John Paul II
+14561
+
+Which was the first pope to be assassinated?
+John VIII
+14562
+
+Which popes reigned during the Black Death?
+Clement VI, Innocent VI
+14563
+
+Which Avignon pope was the only one with the name ``Innocent''?
+Innocent VI
+14564
+
+Who was the pope when Johann Sebastian Bach was born?
+Bl. Innocent XI
+14565
+
+Who was the pope when Johann Sebastian Bach died?
+Benedict XIV
+14566
+
+Who was the pope when Ludwig van Beethoven was born?
+Clement XIV
+14567
+
+Who was the pope when Ludwig van Beethoven died?
+Leo XII
+14568
+
+Who was the pope when Wolfgang Amadeus Mozart was born?
+Benedict XIV
+14569
+
+Who was the pope when Wolfgang Amadeus Mozart died?
+Pius VI
+14570
+
+Other than Saint Peter, which pope has had the longest reign?
+Bl. Pius IX
+14571
+
+Who was the pope when Saint Stephen was coronated King of Hungary?
+Sylvester II
+14572
+
+Who was the pope when the reign of Saint Wenceslaus as Duke of Bohemia commenced?
+John X 
+14573
+
+Who was the pope when Saint Louis was coronated King of France?
+Honorius III
+14574
+
+How many archangels does Eastern Orthodoxy honour?
+eight
+14575
+
+Who composed An American in Paris?
+George Gershwin
+14576
+
+Who discovered Victoria Falls?
+David Livingstone
+14577
+
+What Tennessee Williams play features a girl who collects glass animals?
+The Glass Menagerie
+14578
+
+What rings the globe twenty-three and a half degrees south of the North Pole?
+the Arctic Circle
+14579
+
+What have you come up with if you roll cock-eyes in craps?
+three
+14580
+
+What character did Audrey Hepburn play in Breakfast at Tiffany's?
+Holly Golightly
+14581
+
+What principality has the House of Grimaldi ruled since the Middle Ages?
+Monaco
+14582
+
+Who wrote: ``A thing of beauty is a joy for ever''?
+John Keats
+14583
+
+Which was the first Apollo mission to orbit the moon?
+Apollo 8
+14584
+
+How many properties are there on a Monopoly board?
+twenty-eight
+14585
+
+Where would you say спаси́бо for ``thank you''?
+Russia
+14586
+
+What is the name of Popeye's adopted son?
+Swee'Pea
+14587
+
+How many dots are there on a pair of dice?
+forty-two
+14588
+
+This Koine Greek acclamation confirmed the election of a Christian bishop or patriarch and literally means ``worthy!''
+ἄξιος
+14589
+
+This is the church where the precordia and embalmed hearts of twenty-two popes, from Sixtus V to Leo XIII, are preserved.
+Santi Vincenzo e Anastasio a Trevi
+14590
+
+What were the fourteen regiones into which Augustus divided Rome?
+Porta Capena, Caelimontium, Isis et Serapis, Templum Pacis, Esquiliae, Alta Semita, Via Lata, Forum Romanum, Circus Flaminius, Palatium, Circus Maximus, Piscina Publica, Aventinus, Transtiberim
+14591
+
+Which one of Augustus's fourteen regiones was on the right bank of the Tiber?
+Transtiberim
+14592
+
+``The difference between the almost right word and the right word is really a large matter --- it's the difference between [this] and the lightning.''
+the lightning bug
+14593
+
+``[This] means giving votes to the most obscure of all classes, our ancestors. It is the democracy of the dead. [It] refuses to submit to the small and arrogant oligarchy of those who merely happen to be walking about.''
+tradition
+14594

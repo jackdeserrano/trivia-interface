@@ -1180,7 +1180,7 @@ weak (force, interaction)
 What eleventh month of the civil and fifth of the religious year in the Jewish calendar usually coincides with July and August?
 Av
 
-What twentieth century playwright who earned a Nobel Prize for Literature in part for Six Characters in Search of an Author contrasted art with life and explored the boundaries of reality in Henry IV?
+What twentieth century playwright who earned a Nobel Prize for Literature in part for Six Characters in Search of an Author and contrasted art with life and explored the boundaries of reality in Henry IV?
 Luigi Pirandello
 
 What 1260 battle in which the Islamic Mamluks were victorious signalled the waning of the Mongol Empire?
@@ -1337,7 +1337,7 @@ What artery takes blood to the head and neck from the heart?
 carotid artery
 
 What Assyrian emperor was assassinated by his sons while he was worshipping in his pagan temple?
-Sennacherib (2 Kings 19.37)
+Sennacherib (2 Kings xiv. 37)
 
 What astronomer wrote Astronomia nova?
 Johannes Kepler
@@ -3200,22 +3200,22 @@ What is agnosia?
 inability to interpret sensations and hence to recognize things, typically as a result of brain damage
 
 What is agrammatism?
-tendency to form sentences without the correct inflectional structure as a result of brain damage, as in Broca's aphasia
+a tendency to form sentences without the correct inflectional structure as a result of brain damage, as in Broca's aphasia
 
 What is agranulocytosis?
-deficiency of granulocytes in the blood, causing increased vulnerability to infection
+a deficiency of granulocytes in the blood, causing increased vulnerability to infection
 
 What is agraphia?
 inability to write, as a language disorder resulting from brain damage
 
 What is aguardiente?
-distilled liquor resembling brandy, especially as made in South America from sugar cane
+a distilled liquor resembling brandy, especially as made in South America from sugar cane
 
 What is ahimsa?
 respect for all living things and avoidance of violence towards others, especially in Hinduism, Buddhism, and Jainism
 
 What is ainhum?
-condition in which a band of fibrous tissue grows around the base of a toe, eventually resulting in loss of the digit
+a condition in which a band of fibrous tissue grows around the base of a toe, eventually resulting in loss of the digit
 
 What is aioli?
 mayonnaise seasoned with garlic
@@ -9020,7 +9020,7 @@ What goddess of Egyptian mythology is usually shown as a woman with the head of 
 Bastet
 
 What gold coin of ancient Rome was worth twenty-five silver denarii?
-aureus
+the aureus
 
 What golden adjective describes language that is highly ornamented or elaborate?
 aureate
@@ -14663,7 +14663,7 @@ What does ``unscrupulous'' mean?
 having or showing no moral principles; not honest or fair
 
 What dog, its name derived from the Russian for ``swift,'' is a large Russian wolfhound of a breed with a narrow head and silky, typically white, coat?
-borzoi
+the borzoi
 
 What drug (C11H16N2) has stimulant and euphoric properties similar to those of amphetamine?
 benzylpiperazine
@@ -14672,7 +14672,7 @@ What drug with the chemical formula C10H22N4 is used in the form of its sulphate
 guanethidine
 
 What dry one-seeded fruit in which the ovary wall is united with the seed coat is typical of grasses and cereals?
-caryopsis
+the caryopsis
 
 What dry red wine, originally produced in Tuscany, is named after an Italian mountain range?
 Chianti
@@ -15761,7 +15761,7 @@ What is the name of Spain's legislative assembly?
 Cortes
 
 What is the name of the British sovereign's court?
-Court of St. James's
+the Court of St. James's
 
 What is the national sport of Afghanistan?
 buzkashi
@@ -16088,10 +16088,10 @@ What method of classification of animals and plants according to the proportion 
 cladistics
 
 What metrical foot consists of two short (or unstressed) syllables between two long (or stressed) ones?
-choriambus
+the choriambus
 
 What military strike force consisting of units from the US Army, Air Force, and Navy was established in 1979 (as the Rapid Deployment Force) to operate in the Middle East and North Africa?
-Central Command
+the Central Command
 
 What milky fluid consisting of fat droplets and lymph drains from the lacteals of the small intestine into the lymphatic system during digestion?
 chyle
@@ -20092,11 +20092,11 @@ demodectic mange
 (384--322 BC) What Athenian orator and statesman is known for his political speeches on the need to resist the aggressive tendencies of Philip II of Macedon (the Philippics)?
 Demosthenes
 
-What is a substance that relieves irritation of the mucous membranes in the mouth by forming a protective film called?
-demulcent
+What is a substance that relieves irritation of the mucous membranes in the mouth by forming a protective film?
+a demulcent
 
 What is a charge payable to the owner of a chartered ship in respect of failure to load or discharge the ship within the time agreed called?
-demurrage
+a demurrage
 
 What paper size is now standardized at 564 by 444 mm?
 demy
@@ -20753,7 +20753,7 @@ What bacterium --- a Gram-positive non-motile club-shaped rod --- sometimes caus
 corynebacterium
 
 What sound formed by the combination of two vowels in a single syllable begins as one vowel and moves toward another?
-diphthong
+a diphthong
 
 Define ``tutelary.''
 having the guardianship of a person or a thing
@@ -21923,7 +21923,7 @@ Proverbs xxvi. 27
 Proverbs xxvi. 5
 
 ``Favour is deceitful, and beauty is vain: the woman that feareth the Lord, she shall be praised.'' What is this from?
-Prov. xxxi. 30
+Proverbs xxxi. 30
 
 ``He afflicted thee with want, and gave thee manna for thy food, which neither thou nor thy fathers knew: to shew that not in bread alone doth man live, but in every word that proceedeth from the mouth of God.'' What is this from?
 Deuteronomy viii. 3
@@ -22142,7 +22142,7 @@ What herpesvirus that causes infectious mononucleosis is associated with certain
 the Epstein--Barr virus
 
 What does EBV abbreviate?
-the Epstein--Barr virus
+Epstein--Barr virus
 
 What name is ascribed to a painting of Jesus Christ wearing the crown of thorns?
 Ecce Homo
@@ -24803,7 +24803,7 @@ Whom did Constantius II defeat in the Battle of Mursa?
 Magnentius
 
 How many books are there in the Code of Justinian?
-4
+four
 
 Who is commonly regarded as the last (though illegitimate) Western Roman emperor?
 Romulus Augustulus
@@ -25447,7 +25447,7 @@ kurtosis
 (b. 1925) What Japanese physicist investigated and pioneered the development of quantum-mechanical tunnelling of electrons in semiconductor devices and designed the tunnel diode? He shared the 1973 Nobel Prize for Physics with Ivar Giaever (b. 1929) and Brian D. Josephson (b. 1940).
 Leo Esaki
 
-Which elder of the twin sons of Isaac and Rebecca sold his birthright to his brother Jacob and was tricked out of his father's blessing by his brother (Genesis 25, 27)?
+Which elder of the twin sons of Isaac and Rebecca sold his birthright to his brother Jacob and was tricked out of his father's blessing by his brother (Genesis xxv., xxvii.)?
 Esau
 
 What's a French squadron of aircraft called?
@@ -25817,13 +25817,13 @@ What's a plant of the genus of the same name in the figwort family, especially e
 euphrasia
 
 Define ``euphuism.''
-elegant Elizabethan literary style marked by excessive use of balance, antithesis, and alliteration and by frequent use of similes drawn from mythology and nature
+an elegant Elizabethan literary style marked by excessive use of balance, antithesis, and alliteration and by frequent use of similes drawn from mythology and nature
 
 What is a nucleus, cell, or organism called if it has an integer multiple of the haploid number of chromosomes?
 euploid
 
 What floating freshwater plant of the family Hydrocharitaceae has creeping stems that bear clusters of small rounded leaves?
-frogbit
+the frogbit
 
 When was Euratom established?
 1957
@@ -26684,10 +26684,10 @@ What name is given to agile mouse-like rodents with hairy or bushy tails found i
 dormice
 
 What is a Fata Morgana?
-mirage
+a mirage
 
 What is the most common echo sounder?
-fathometer
+the fathometer
 
 Define ``fatidic.''
 having a prophetic quality
@@ -27620,7 +27620,7 @@ What archipelago that stretches from Kamchatka to Hokkaido was initially inhabit
 Kuril Islands
 
 What set of agreements involved the cessation of the Kuril Islands to the Soviet Union?
-Yalta agreements
+the Yalta agreements
 
 What is the highest point of the Kuril Islands?
 Alaid
@@ -31337,10 +31337,10 @@ What bluish, grey, or black mineral of metallic appearance, consisting of lead s
 galena
 
 Define ``galère.''
-undesirable group or coterie
+an undesirable group or coterie
 
 What is the shape of a galea?
-helmet
+a helmet
 
 What is a (fresh) gale in knots?
 34--40
@@ -31349,7 +31349,7 @@ What is a (fresh) gale in km/h?
 63--74
 
 What small rounded melon of a variety with rough skin and fragrant orange flesh is named after a Hebrew given name?
-galia melon
+the galia melon
 
 What is Galicia's capital?
 Santiago de Compostela
@@ -32446,7 +32446,7 @@ Bali, Lombok, Sumbawa, Flores, Sumba, Savu, Rote, Timor, Atauro, Alor archipelag
 What name given to the historic centre of Besançon comes from the shape that the Doubs gives it?
 La Boucle
 
-What is the largest governorate of Oman?
+Which is the largest governorate of Oman?
 Dhofar
 
 Who wrote SICP?
@@ -32455,7 +32455,7 @@ Harold Abelson, Gerald Jay Sussman, Julie Sussman
 What does ``SICP'' abbreviate?
 Structure and Interpretation of Computer Programs
 
-With what language does SICP teach computer science?
+With what language does the Structure and Interpretation of Computer Programs teach computer science?
 Lisp
 
 Where was Robert Silverman born?
@@ -36344,19 +36344,19 @@ What are the Greek definite articles?
 ὁ, ἡ, τό
 
 What adjective describes words or expressions that ``point'' to some feature of a situation?
-deictic
+a deictic adjective
 
 What is a deponent verb?
 one that is passive in form but active in function
 
 What are the two dots placed over the second of two adjacent vowels that are to be pronounced separately, as in ``βοΐ ''?
-diaeresis
+a diaeresis
 
 What is a word formed from another to express diminished size, as with ``hillock''?
-diminutive
+a diminutive
 
 What is the union of two vowels pronounced as one syllable (one vowel followed by a glide into a second vowel)?
-diphthong
+a diphthong
 
 What is a short word that cannot stand alone but has to follow another word onto which it throws back its accent?
 an enclitic
@@ -38002,7 +38002,7 @@ gilt
 (1900--76) What English philosopher attacks the mind–body dualism of Descartes in The Concept of Mind (1949)? He was a cousin of the astronomer Sir Martin.
 Gilbert Ryle
 
-(c. 1465 -- c. 1536) What Portuguese playwright and poet is regarded as Portugal's most important playwright? Many of his works were written to commemorate national or court events and include religious dramas, farces, pastoral plays, and satirical comedies.
+(c. 1465--c. 1536) What Portuguese playwright and poet is regarded as Portugal's most important playwright? Many of his works were written to commemorate national or court events and include religious dramas, farces, pastoral plays, and satirical comedies.
 Gil Vicente
 
 (1720--93) What English clergyman and naturalist wrote many letters to friends on aspects of natural history in his native village of Selborne, Hampshire? These were published in 1789 as The Natural History and Antiquities of Selborne, which has remained in print ever since.
@@ -43055,7 +43055,7 @@ Which golfer was Emperor Jones?
 Bobby Jones
 
 Who was Karol Józef Wojtyła?
-John Paul II
+St. John Paul II
 
 Which is the second-largest island of Grenada?
 Carriacou
@@ -43087,7 +43087,7 @@ ad orientem
 This Patriarch of Constantinople declared that Christ had distinct human and divine persons, and this doctrine now bears his name. St. Cyril, the Patriarch of Alexandria, opposed this doctrine; at the First Council of Ephesus, the doctrine was condemned, and the Patriarch of Constantinople was deposed from his see. This led to a schism in 431 AD, also bearing his name.
 Nestorius
 
-The First Council of Ephesus declared Mary as this, approximately ``Mother of God'' in Greek.
+The First Council of Ephesus declared Mary as this, approximately ``the Mother of God'' in Greek.
 Theotokos
 
 How many Psalms comprise the Song of Ascents?
@@ -43234,8 +43234,554 @@ Howard K. Smith
 What inside corn makes it pop?
 water
 
-Who was the oldest man to have held the world heavyweight boxing title?
+Who was the oldest man to hold the world heavyweight boxing title?
 George Foreman
+
+Saint Maximus the Confessor identifies that the soul consists of a contemplative part and a practical part. He speaks about ten things realized in pairs that the soul possesses. Truth is the end of the first five, and the good is the end of the second five. He contemplates that ``these five pairs are the divine decad --- the ten strings of the intelligible harp of the soul.'' What are these five pairs?
+mind and reason, wisdom and prudence, contemplation and practice, knowledge and virtue, ``ceaseless knowledge'' and faith
+
+Horace states: odi profanum vulgus et arceo. What is he saying?
+I hate the vulgar hordes and I exclude them
+
+``God resisteth the proud, and giveth grace to'' whom?
+the humble (James iv. 6)
+
+This decoration is placed behind the high altar.
+the reredos
+
+Who wrote Convivio?
+Dante
+
+Define ``ancillary.''
+subservient, subordinate
+
+This word, from the Ancient Greek for ``to paint,'' ``to stain,'' ``to defile,'' or ``to pollute,'' refers to an unpleasant or unhealthy smell or vapour.
+miasma
+
+This Portuguese term refers to a place, particularly in Paraná or São Paulo, where destructive frosts occur frequently.
+ninho de geada
+
+What does the German ``Hungersnot'' mean?
+famine
+
+What does the Serbo-Croatian лала mean?
+tulip
+
+What does the German ``Sehnsucht'' mean?
+longing
+
+What does the French ``abeille'' mean?
+bee, honeybee
+
+What does the Serbo-Croatian голо̀брад mean?
+beardless
+
+What does the Latin coordinating conjunction -que mean?
+and
+
+What is a sufganiyah?
+a deep-fried ball-shaped doughnut, usually filled with jelly or custard and topped with powdered sugar
+
+Translate the Ancient Greek ἀντιτείχισμα.
+counter-fortification
+
+What is a tuiuiú?
+a jabiru
+
+What does the German ``Gift'' mean?
+poison
+
+Translate the Ancient Greek Νεφελοκοκκυγία.
+cloud-cuckoo-land
+
+Translate the Icelandic ``jökull.''
+glacier
+
+For what number did the Old Norse word ``hundrað'' stand?
+120
+
+What is a seadog?
+a sailor accustomed to the sea
+
+What is an old salt?
+a seasoned sailor, especially one who is hardy and forthright in manner
+
+Translate the Latin ``arborēscō.''
+I become a tree
+
+At this traditional Genoese event, occurring on the last Sunday before Christmas, the abbot and the political leaders of Genoa exchange greetings and laurel logs and branches are burned in a public bonfire.
+Confeugo
+
+The Portuguese adverbial phrase ``nem que a vaca tussa'' has the same meaning as the English ``not in a million years,'' but what does it mean literally?
+not even if the cow coughs
+
+Something that is corvine is of, pertaining to, or characteristic of these.
+crows or ravens
+
+What is Fachsprache?
+jargon
+
+The Portuguese word ``alcateia'' means ``wolfpack'' and was borrowed from this language.
+Arabic
+
+What is mustadûra?
+the act of treading on grapes
+
+What is dūstscēawung?
+the viewing or contemplation of dust
+
+Who invented the word λοπαδο­τεμαχο­σελαχο­γαλεο­κρανιο­λειψανο­δριμυ­ποτριμματο­σιλφιο­καραβο­μελιτο­κατακεχυμενο­κιχλε­πικοσσυφο­φαττο­περιστερα­λεκτρυο­νοπτο­κεφαλλιο­κιγκλο­πελειο­λαγῳο­σιραιο­βαφητραγανοπτερύγων?
+Aristophanes
+
+What does the Czech ``host'' mean?
+guest
+
+What does the Russian дерзать mean?
+dare
+
+Who composed the German Organ Mass?
+Johann Sebastian Bach
+
+The last movement of Johann Sebastian Bach's German Organ Mass is a fugue named after this saint.
+Saint Anne
+
+Who did Laplace say was the greatest mathematician of Germany?
+Johann Friedrich Pfaff
+
+Which work of Saint Thomas More has the character Raphael Hythlodaeus?
+Utopia
+
+What was the archaic simple past tense of ``dare''?
+durst
+
+What meter did Henry Wadsworth Longfellow employ in ``The Song of Hiawatha''?
+trochaic tetrameter
+
+For which voice was Bach's Solokantate Ich will den Kreuzstab gerne tragen (BWV 56) written?
+bass
+
+The word ``parish'' comes from the Ancient Greek παροικία, which means this.
+a dwelling abroad
+
+What is a scintilla?
+a tiny trace or spark of a specified quality or feeling
+
+Who wrote the poem that begins ``Tyger Tyger, burning bright, / In the forests of the night; / What immortal hand or eye, / Could frame thy fearful symmetry?''
+William Blake
+
+What is a hoagie?
+a submarine sandwich
+
+What name is given to the act of trying someone twice for the same offence, especially after an acquittal in the first trial?
+double jeopardy
+
+What concept in the behavioural sciences refers to the extent to which two measures related theoretically are indeed related?
+convergent validity
+
+One can't have his cake and what?
+eat it too
+
+Identify the author. ``I was promised on a time / To have reason for my rhyme; / From that time unto this season, / I received nor rhyme nor reason.''
+Edmund Spenser
+
+``Ay me! what perils do environ / The man that meddles with'' this!
+cold iron
+
+Identify the author. ``Exceeding fair she was not; and yet fair / In that she never studied to be fairer / Than Nature made her; beauty cost her nothing, / Her virtues were so rare.''
+George Chapman
+
+Identify the work. ``One eare it heard, at the other out it went.''
+Troilus and Creseide
+
+Identify the work. ``Eke wonder last but nine deies never in toun.''
+Troilus and Creseide
+
+Identify the author. ``O, for a draught of vintage! that hath been / Cool'd a long age in the deep-delved earth. / Tasting of Flora and the country green, / Dance, and Provencal song, and sunburnt mirth! / O for a beaker full of the warm South, / Full of the true, the blushful Hippocrene, / With beaded bubbles winking at the brim, / And purple-stained mouth.''
+John Keats
+
+Whom did Samuel Taylor Coleridge describe as ``myriad-minded''?
+William Shakespeare
+
+Identify the work. ``God's benison go with you; and with those / That would make good of bad, and friends of foes!''
+Macbeth
+
+Identify the speaker. ``They have tied me to a stake; I cannot fly, / But, bear-like, I must fight the course.''
+Macbeth
+
+Who asks Miranda ``What seest thou else / In the dark backward and abysm of time?'' in The Tempest?
+Prospero
+
+Which canto of Dante's Inferno opens ``Pape Satàn, pape Satàn aleppe''?
+Canto VII
+
+Identify the author. ``Eloquence may strike the ear, but the language of poverty strikes the heart; the first may charm like music, but the second alarms like a knell.''
+Thomas Paine
+
+A passacaglia of him inspired Bach's passacaglia BWV 582.
+Dietrich Buxtehude
+
+Where was Johann Pachelbel born?
+Nuremberg
+
+Which church was the last where Johann Pachelbel was an organist?
+Sebalduskirche, Nuremberg
+
+This domain enables SMAD binding activity, identical protein binding activity, and ubiquitin protein ligase activity. It is involved in the negative regulation of transforming growth factor beta receptor signaling pathway, the positive regulation of trophoblast cell migration, and the ubiquitin-dependent protein catabolic process. It is located in the nuclear speck and is part of the ubiquitin ligase complex.
+SMURF2
+
+Who commissioned Stravinsky's Symphony of Psalms?
+Serge Koussevitzky
+
+For whose fiftieth anniversary was Stravinsky's Symphony of Psalms commissioned?
+the Boston Symphony Orchestra's
+
+Which psalms comprise the text of Stravinsky's Symphony of Psalms?
+38, 39, 150
+
+What is eschatology?
+the doctrine of the last or final things, as death, judgment, the state after death
+
+``And when she was ready to be brought to bed, there appeared twins in her womb: and in the very delivery of the infants, one put forth a hand, whereon the midwife [did this], saying: This shall come forth the first.'' (Genesis xxxviii. 27,28)
+tied a scarlet thread
+
+What does the Ancient Greek κόκκινος mean?
+scarlet, blushing
+
+What does the Hebrew שָׁנִי mean?
+scarlet, crimson
+
+Who is שִׁמְשׁוֹן?
+Samson
+
+What is a stumbling block?
+a block or stone over which one would be likely to stumble: a cause of error
+
+Translate the Ancient Greek σκάνδαλον.
+trap, snare, enticement, temptation, offence, scandal, stumbling block
+
+Who stars in 8 Mile?
+Eminem
+
+Who was elected President of Brazil in 1955?
+Juscelino Kubitschek
+
+Which president of Brazil founded Brasilia?
+Juscelino Kubitschek
+
+What does the Hebrew יָשַׁן mean?
+to sleep
+
+What does the Hebrew אַרְגָּמָן mean?
+Tyrian purple
+
+What does ``BMP-2'' abbreviate?
+bone morphogenetic protein 2
+
+This saint wrote a biography of his student Saint Dominic Savio.
+Saint John Bosco
+
+What is palmitoylation?
+the covalent attachment of fatty acids to cysteine, serine, and threonine residues of proteins
+
+What is the covalent attachment of fatty acids to cysteine, serine, and threonine residues of proteins?
+palmitoylation
+
+What drink comprises a shot of whisky and a glass of beer?
+a boilermaker
+
+What was once the name for Haida Gwaii?
+the Queen Charlotte Islands
+
+Which is the largest island of Haida Gwaii?
+Graham Island
+
+Which word in Our American Cousin was John Wilkes Booth's cue to shoot Abraham Lincoln?
+sockdologizing
+
+Which is the fifth-largest moon of Jupiter?
+Amalthea
+
+Which was the fifth Jovian moon discovered?
+Amalthea
+
+Which moon is the third closest to Jupiter?
+Amalthea
+
+What does ``SUFU'' abbreviate?
+suppressor of fused homologue
+
+What is a metabolic pathway?
+a sequence of chemical reactions undergone by a compound or class of compounds in a living organism
+
+What is magnanimity?
+greatness of soul: elevation of dignity, of mind: that quality of mind which raises a person above all that is mean of unjust: generosity
+
+Define ``magnanimous.''
+elevated in sentiment, noble: brave: unselfish
+
+This Christian sect flourished in North Africa in the fourth and fifth centuries and was named after a bishop of Carthage. It asserted that only those living a blameless life belonged in the Church, and, in particular, that sacraments administered by traditores were invalid, opposite to the view that sacraments are ex opere operato. In 311, Caecilian was consecrated bishop of Carthage by Felix of Aptungi, a supposed traditor. His opponents consecrated Majorinus, a short-lived rival of Caecilian succeeded by the sect's leader and now-eponym. The sect burgeoned and the African Church fragmented; unrest mounted in Carthage over the bishop controversy. Constantine, looking to defuse the situation, donated to Caecilian to pay for churches damaged during the Diocletianic Persecution; he gave nothing to the opponents of Caecilian; they appealed to Rome, whence Constantine charged Pope Miltiades with resolving the conflict. The Pope convoked a commission in 313, and it condemned the sect. The sect did not agree with the condemnation and appealed to Constantine. Constantine called for the first Council of Arles, which took place in 314. The council condemned the sect's doctrine as heresy, and the sect's leader was excommunicated. Churches of the sect outside of Carthage were undisturbed, and, by 321, Constantine asked bishops to show moderation and patience toward the sect. It survived the Vandal occupation and the Byzantine reconquest of Justinian I.
+Donatism
+
+What are the six precepts of the Church?
+to hear Mass on Sundays and holy days of obligation; to fast and abstain on the days commanded; to confess our sins at least once a year; to receive the Blessed Eucharist at Easter or within the time appointed; to contribute to the support of our Pastors; not to solemnize marriage at the forbidden times, nor to marry persons within the forbidden degrees of kindred, or otherwise prohibited by the Church, nor secretly
+
+What are the seven sacraments?
+baptism, confirmation, Holy Eucharist, penance, extreme unction, holy orders, matrimony
+
+What are the four cardinal virtues?
+prudence, justice, fortitude, temperance
+
+What are the seven gifts of the Holy Ghost?
+wisdom, understanding, counsel, fortitude, knowledge, piety, fear of the Lord
+
+What are the twelve fruits of the Holy Ghost?
+charity, joy, peace, patience, longanimity, goodness, benignity, mildness, fidelity, modesty, continence, chastity
+
+What are the spiritual works of mercy?
+to give counsel to the doubtful, to instruct the ignorant, to admonish sinners, to comfort the afflicted, to forgive offences, to bear patiently the troublesome, to pray for the living and the dead
+
+What are the corporal works of mercy?
+to feed the hungry, to give drink to the thirsty, to clothe the naked, to shelter the needy, to visit the sick, to visit the imprisoned, to bury the dead
+
+What are the seven deadly sins?
+pride, covetousness, lust, anger, gluttony, envy, sloth
+
+What are the contrary virtues?
+humility, liberality, chastity, meekness, temperance, brotherly love, diligence
+
+What are sins against the Holy Ghost?
+presumption upon God's mercy, despair, impugning the known truth, envy of another's spiritual good, obstinancy in sin, final impenitence
+
+What are the three eminently good works?
+alms-deeds, prayer, fasting
+
+What are the three evangelical counsels?
+voluntary poverty, chastity, obedience
+
+What was Ovid's full name?
+Publius Ovidius Naso
+
+Whose feast is celebrated by eating zeppola?
+St. Joseph's
+
+Who was Cyprien Katsaris?
+a pianist
+
+How many boroughs comprise New York City?
+five
+
+What was the occupation of John Ambrose?
+captain
+
+Which Canadian governor general succeeded Georges Vanier?
+Roland Michener
+
+This is the only country that borders Afghanistan and Russia.
+China
+
+This is the only country that borders Bangladesh and Thailand.
+Myanmar
+
+This is the only country that borders Chad and Gabon.
+Cameroon
+
+This is the only country that borders Angola and Cameroon.
+the Republic of the Congo
+
+This is the only country that borders Guinea and Niger.
+Mali
+
+This is the only country that borders Guatemala and Honduras.
+El Salvador
+
+Where did Hap Day play varsity hockey?
+the University of Toronto
+
+Which pope was enthroned on Christmas Day, 1154?
+Adrian IV
+
+Who was Nicholas Breakspear?
+Adrian IV
+
+To which genus does the cinquefoil belong?
+Potentilla
+
+Translate the French ``sec.''
+dry
+
+Which mountain is the summit of the Negev Mountains?
+Mount Ramon
+
+This letter of Old English, Ƿ, represented the sound /w/.
+wynn
+
+This secretary to Marcus Tullius Cicero is the namesake of a prominent shorthand system.
+Marcus Tullius Tiro
+
+A Cossack with a yellow hat in Ilya Repin's painting Reply of the Zaporozhian Cossacks was modelled by him, the father of an esteemed composer of music.
+Fyodor Stravinsky
+
+Take this word for a form of written language, and replace its vowels with a vowel further in the alphabet than any of its letters. When you read that sequence of letters backward, you get a verb synonymous with ``seize.''
+prose
+
+What is the aegis of something?
+the protection, backing, or support of it
+
+Walking horses are associated with this state.
+Tennessee
+
+This is the name of the axioms that all homology theories of topological spaces satisfy.
+the Eilenberg--Steenrod axioms
+
+What was Palestrina's full name?
+Giovanni Pierluigi da Palestrina
+
+Which popes reigned during the life of Giovanni Pierluigi da Palestrina?
+Clement VII, Paul III, Julius III, Marcellus II, Paul IV, Pius IV, St. Pius V, Gregory XIII, Sixtus V, Urban VII, Gregory XIV, Innocent IX, Clement VIII
+
+This is the Latin name for a mixture of nitric and hydrochloric acid.
+aqua regia
+
+Who was Giuseppe Melchiorre Sarto?
+St. Pius X
+
+Which popes reigned during the life of Giuseppe Melchiorre Sarto?
+Gregory XVI, Bl. Pius IX, Leo XIII, St. Pius X
+
+Which popes reigned during the life of Marco Polo?
+Alexander IV, Urban IV, Clement IV, Bl. Gregory X, Bl. Innocent V, Adrian V, John XXI, Nicholas III, Martin IV, Honorius IV, Nicholas IV, St. Celestine V, Boniface VIII, Bl. Benedict XI, Clement V, John XXII
+
+Which popes reigned during the life of Saint Teresa of Calcutta?
+St. Pius X, Benedict XV, Pius XI, Ven. Pius XII, St. John XXIII, St. Paul VI, Bl. John Paul I, St. John Paul II
+
+Which popes reigned during the life of Saint Dominic Savio?
+Gregory XVI, Bl. Pius IX
+
+Which popes reigned during the life of Leonardo da Vinci?
+Nicholas V, Callixtus III, Pius II, Paul II, Sixtus IV, Innocent VIII, Alexander VI, Pius III, Julius II, Leo X
+
+Which popes reigned during the life of Voltaire?
+Innocent XII, Clement XI, Innocent XIII, Benedict XIII, Clement XII, Benedict XIV, Clement XIII, Clement XIV, Pius VI
+
+Who was the pope when the Declaration of Independence was signed?
+Pius VI
+
+Which popes reigned during the life of Saint Thomas Aquinas?
+Honorius III, Gregory IX, Celestine IV, Innocent IV, Alexander IV, Urban IV, Clement IV, Bl. Gregory X
+
+Which popes reigned during the life of Dante Alighieri?
+Clement IV, Bl. Gregory X, Bl. Innocent V, Adrian V, John XXI, Nicholas III, Martin IV, Honorius IV, Nicholas IV, St. Celestine V, Boniface VIII, Bl. Benedict XI, Clement V, John XXII
+
+Who lived earlier: Saint Thomas Aquinas or Dante Alighieri?
+Saint Thomas Aquinas
+
+Which popes reigned during the life of Saint Augustine of Hippo?
+Liberius, St. Damasus I, St. Siricius, St. Anastasius I, St. Innocent I, St. Zosimus, St. Boniface I, St. Celestine I
+
+Which pope reigned in AD 1000?
+Sylvester II
+
+Which pope reigned in AD 2000?
+St. John Paul II
+
+Which was the first pope to be assassinated?
+John VIII
+
+Which popes reigned during the Black Death?
+Clement VI, Innocent VI
+
+Which Avignon pope was the only one with the name ``Innocent''?
+Innocent VI
+
+Who was the pope when Johann Sebastian Bach was born?
+Bl. Innocent XI
+
+Who was the pope when Johann Sebastian Bach died?
+Benedict XIV
+
+Who was the pope when Ludwig van Beethoven was born?
+Clement XIV
+
+Who was the pope when Ludwig van Beethoven died?
+Leo XII
+
+Who was the pope when Wolfgang Amadeus Mozart was born?
+Benedict XIV
+
+Who was the pope when Wolfgang Amadeus Mozart died?
+Pius VI
+
+Other than Saint Peter, which pope has had the longest reign?
+Bl. Pius IX
+
+Who was the pope when Saint Stephen was coronated King of Hungary?
+Sylvester II
+
+Who was the pope when the reign of Saint Wenceslaus as Duke of Bohemia commenced?
+John X 
+
+Who was the pope when Saint Louis was coronated King of France?
+Honorius III
+
+How many archangels does Eastern Orthodoxy honour?
+eight
+
+Who composed An American in Paris?
+George Gershwin
+
+Who discovered Victoria Falls?
+David Livingstone
+
+What Tennessee Williams play features a girl who collects glass animals?
+The Glass Menagerie
+
+What rings the globe twenty-three and a half degrees south of the North Pole?
+the Arctic Circle
+
+What have you come up with if you roll cock-eyes in craps?
+three
+
+What character did Audrey Hepburn play in Breakfast at Tiffany's?
+Holly Golightly
+
+What principality has the House of Grimaldi ruled since the Middle Ages?
+Monaco
+
+Who wrote: ``A thing of beauty is a joy for ever''?
+John Keats
+
+Which was the first Apollo mission to orbit the moon?
+Apollo 8
+
+How many properties are there on a Monopoly board?
+twenty-eight
+
+Where would you say спаси́бо for ``thank you''?
+Russia
+
+What is the name of Popeye's adopted son?
+Swee'Pea
+
+How many dots are there on a pair of dice?
+forty-two
+
+This Koine Greek acclamation confirmed the election of a Christian bishop or patriarch and literally means ``worthy!''
+ἄξιος
+
+This is the church where the precordia and embalmed hearts of twenty-two popes, from Sixtus V to Leo XIII, are preserved.
+Santi Vincenzo e Anastasio a Trevi
+
+What were the fourteen regiones into which Augustus divided Rome?
+Porta Capena, Caelimontium, Isis et Serapis, Templum Pacis, Esquiliae, Alta Semita, Via Lata, Forum Romanum, Circus Flaminius, Palatium, Circus Maximus, Piscina Publica, Aventinus, Transtiberim
+
+Which one of Augustus's fourteen regiones was on the right bank of the Tiber?
+Transtiberim
+
+``The difference between the almost right word and the right word is really a large matter --- it's the difference between [this] and the lightning.''
+the lightning bug
+
+``[This] means giving votes to the most obscure of all classes, our ancestors. It is the democracy of the dead. [It] refuses to submit to the small and arrogant oligarchy of those who merely happen to be walking about.''
+tradition
 
 
 
