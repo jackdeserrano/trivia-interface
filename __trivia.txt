@@ -1219,7 +1219,7 @@ Spain
 304
 
 In what Stone Age phase (roughly 250000--9000 BC) did humans use stone, bone, and wood tools and obtain food by gathering and hunting?
-Palaeolithic
+the Palaeolithic
 305
 
 In what Vincenzo Bellini opera seria does a druid priestess fall in love with a Roman general who leaves her but gets captured, when they are all sacrificed together?
@@ -1931,7 +1931,7 @@ midbrain
 482
 
 What cetacean of the Eocene had fore and hind limbs and could walk on land?
-Ambulocetus
+the Ambulocetus
 483
 
 What Chancellor of the German Empire, who served as an ambassador in Paris and St. Petersburg before being named Chief Minister by William the First, presided over the annexation of Alsace-Lorraine, waved ``a red rag the Gallic Bull'' in 1870, and was called ``the Iron Chancellor''?
@@ -10327,7 +10327,7 @@ Arthur Meighen
 2581
 
 What Canadian river flows for 950 km from eastern Saskatchewan into Manitoba to join the Red River at Winnipeg?
-Assiniboine River
+the Assiniboine River
 2582
 
 What Canadian-born American executive in the cosmetics industry built up an international chain of beauty salons and an extensive cosmetics range?
@@ -11006,7 +11006,7 @@ What does ``ex lib.'' stand for?
 ex libris `from the library of'
 2751
 
-What does me ``transmitte sursum, Caledoni!'' mean?
+What does ``me transmitte sursum, Caledoni!'' mean?
 beam me up, Scotty!
 2752
 
@@ -11790,7 +11790,7 @@ What English-based pidgin language, also called ``Beach-la-mar,'' is used as a l
 Bislama
 2947
 
-What English-born American actress appeared in movies like Gaslight and The Manchurian candidate and starred in Murder, she wrote (1984--96) and Broadway shows Mame (1966), Gypsy (1974), and Sweeney Todd (1979)?
+What English-born American actress appeared in movies like Gaslight and The Manchurian Candidate and starred in Murder, She Wrote (1984--96) and Broadway shows Mame (1966), Gypsy (1974), and Sweeney Todd (1979)?
 Angela Lansbury
 2948
 
@@ -12935,7 +12935,7 @@ aurar
 3233
 
 What is the point at which a spacecraft is furthest from the moon in lunar orbit?
-apolune
+the apolune
 3234
 
 What is the prime number theorem?
@@ -25307,7 +25307,7 @@ Crystal Palace
 6326
 
 What Hungarian dance has a slow introduction and a fast, wild finish?
-csardas
+the csardas
 6327
 
 What comblike structure, especially a respiratory organ or gill in a mollusk, consists of an axis with a row of projecting filaments?
@@ -28931,11 +28931,11 @@ Alfred Dreyfus
 7232
 
 What river flows for 459 km partly along the border between Bosnia and Herzegovina and Serbia into the Sava River west of Belgrade in Serbia?
-Drina River
+the Drina River
 7233
 
 What device, typically conical or funnel-shaped with open ends, towed behind a boat, an aircraft, or another moving object to reduce speed or improve stability?
-drogue
+a drogue
 7234
 
 What is the alleged right of a medieval feudal lord to have sexual intercourse with a vassal's bride on her wedding night called?
@@ -28943,11 +28943,11 @@ droit de seigneur
 7235
 
 What carnivorous bipedal dinosaur of a late Cretaceous family that included deinonychus and the velociraptors had a large slashing claw on each hind foot?
-dromaeosaurid
+the dromaeosaurid
 7236
 
 What low four-wheeled open carriage was used in Russia?
-droshky
+a droshky
 7237
 
 What is the site in London of the Theatre Royal?
@@ -28955,7 +28955,7 @@ Drury Lane
 7238
 
 What is an electric cell in which the electrolyte is absorbed in a solid to form a paste, preventing spillage, called?
-dry cell
+a dry cell
 7239
 
 What island group in southwestern Florida, west of Key West, is noted for its wildlife?
@@ -28963,7 +28963,7 @@ the Dry Tortugas
 7240
 
 What common polypore growing on tree stumps and logs with a scaly, yellowish-brown upper surface is found in both North America and Eurasia and edible when young?
-dryad saddle
+the dryad saddle
 7241
 
 (1631--1700) What English poet, critic, and playwright of the Augustan Age is best known for Marriage à la mode (1673), All for love (1678), and Absalom and Achitophel (1681)?
@@ -30606,8 +30606,8 @@ Where was Pablo Picasso born?
 Málaga
 7651
 
-In what year was Chloe Chua born?
-2007
+The eighth Shia Imam is referenced in the name of what Iranian province? This Imam's mausoleum is located in Mashhad and constitutes one of the holiest sites in Shia Islam.
+Razavi Khorasan
 7652
 
 Where was Gustavo Dudamel born?
@@ -30783,7 +30783,7 @@ emu
 7695
 
 Translate ``Kejserens nye klæder.''
-The emperor's new clothes
+The Emperor's New Clothes
 7696
 
 What five-letter word begins expressions with these meanings: ``a statistical measure of student enrollment in education'' and ``a standard measure of the value of goods and services produced in a country during a certain period''?
@@ -31194,7 +31194,7 @@ Who introduced the theory of schemes in 1960?
 Grothendieck
 7798
 
-On what date did Puccini's Madama butterfly premiere?
+On what date did Puccini's Madama Butterfly premiere?
 17 February 1904
 7799
 
@@ -31238,12 +31238,12 @@ Based on James Joyce's acquaintance, Oliver St. John Gogarty, what fictional cha
 Buck Mulligan
 7809
 
-``I think my sculptures are about what a human being or an animal feels like, not what they necessarily look like.'' These are the words of what twentieth-century sculptor whose works include Horse and rider and Goggle head?
+``I think my sculptures are about what a human being or an animal feels like, not what they necessarily look like.'' These are the words of what twentieth-century sculptor whose works include Horse and Rider and Goggle Head?
 Elisabeth Frink
 7810
 
-What single word completes the phrase coined by the critic Herbert Reed to describe the work of sculptors including Bernard Meadows, whose use of spindly and angular forms influenced Elisabeth Frink's early work? ``The geometry of [---].''
-fear
+What single word completes the phrase coined by the critic Herbert Reed to describe the work of sculptors including Bernard Meadows, whose use of spindly and angular forms influenced Elisabeth Frink's early work? ``The Geometry of [---].''
+Fear
 7811
 
 Elisabeth Frink's War horse and Walking madonna may be seen in the gardens of what stately home in Derbyshire?
@@ -31310,7 +31310,7 @@ Meaning ``small box,'' what three-letter word appears in the name of an annual j
 pyx
 7827
 
-Meaning ``to separate the grain from the chaff,'' what word does Keats use to describe the wind in the second stanza of ``To autumn''?
+Meaning ``to separate the grain from the chaff,'' what word does Keats use to describe the wind in the second stanza of ``To Autumn''?
 winnowing
 7828
 
@@ -31450,7 +31450,7 @@ Who discovered Enceladus?
 Herschel
 7862
 
-What name is given to two naturally occurring compounds in the brain---peptides related to the endorphins with similar physiological effects---that regulate nociception?
+What name is given to two naturally occurring compounds in the brain that regulate nociception?
 enkephalin
 7863
 
@@ -35943,7 +35943,7 @@ Federico García Lorca
 8985
 
 What signal processing algorithm begets approximations of unknowns based on statistical noise, etc. over time? It is named after a Hungarian man.
-Kálmán filter
+the Kálmán filter
 8986
 
 What type of tenure in land has restrictions (entailments) regarding the line of heirs to whom it may be willed?
@@ -36239,7 +36239,7 @@ Fermanagh
 9059
 
 This unit of length equivalent to one femtometre is similar to the diameter of a proton and is named after an Italian atomic physicist.
-fermi
+the fermi
 9060
 
 (1881--1955) From about 1909, this French painter was associated with the cubist movement but developed a style inspired by machinery and modern technology. His works include the Contrast of forms series (1913).
@@ -42375,11 +42375,11 @@ Garoua
 10593
 
 For what is ``garron'' another term?
-Highland pony
+the Highland pony
 10594
 
 What is a garryowen?
-up-and-under
+an up-and-under
 10595
 
 What is the principal King of Arms of the English College of Arms?
@@ -42387,7 +42387,7 @@ Garter King of Arms
 10596
 
 What prevalent, harmless North American snake that typically has well-defined longitudinal stripes and favours damp habitats comprises several species in the genus Thamnophis in the family Colubridae, particularly T. sirtalis?
-garter snake
+the garter snake
 10597
 
 What eagle-like being serves as the mount of Vishnu?
@@ -42398,15 +42398,15 @@ Garuda
 Gary Lineker
 10599
 
-Where did Gary Player enter the world?
+Where was Gary Player born?
 Johannesburg
 10600
 
-What does Exodus 1.15--22 say?
+What does Exodus i. 15--22 say?
 And the king of Egypt spake to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah: / And he said, When ye do the office of a midwife to the Hebrew women, and see them upon the stools; if it be a son, then ye shall kill him: but if it be a daughter, then she shall live. / But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive. / And the king of Egypt called for the midwives, and said unto them, Why have ye done this thing, and have saved the men children alive? / And the midwives said unto Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in unto them. / Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty. / And it came to pass, because the midwives feared God, that he made them houses. / And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive.
 10601
 
-``And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening. / And when Moses' father in law saw all that he did to the people, he said, What is this thing that thou doest to the people? why sittest thou thyself alone, and all the people stand by thee from morning unto even? / And Moses said unto his father in law'' what? (Exod. 18.13--16)
+``And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening. / And when Moses' father in law saw all that he did to the people, he said, What is this thing that thou doest to the people? why sittest thou thyself alone, and all the people stand by thee from morning unto even? / And Moses said unto his father in law'' what? (Exod. xviii. 13--16)
 Because the people come unto me to enquire of God: / When they have a matter, they come unto me; and I judge between one and another, and I do make them know the statutes of God, and his laws.
 10602
 
@@ -42447,7 +42447,7 @@ Lucas Jennis
 10611
 
 Define ``Paraclete.''
-the Holy Spirit as advocate or counsellor (Jn. 14.16, 26)
+the Holy Spirit as advocate or counsellor (Jn. xiv. 16,26)
 10612
 
 Define ``antedate.''
@@ -42455,7 +42455,7 @@ precede in time
 10613
 
 What is WAIS-R?
-IQ test
+an IQ test
 10614
 
 Who writes that ``perhaps the entire cosmos is not worth a single child's suffering''?
@@ -42579,7 +42579,7 @@ Trinus et Unus
 10644
 
 To what century is the Berlin Codex dated?
-fifth AD
+the fifth AD
 10645
 
 What knitwear company was established in 1784 and is centred in Lea Mills, Derbyshire?
@@ -42599,11 +42599,11 @@ Neumann
 10649
 
 For what event did Felix Mendelssohn write his fifth symphony?
-tercentennial of the Augsburg Confession
+the tercentennial of the Augsburg Confession
 10650
 
 What symphony (numbered) did Felix Mendelssohn write for the tercentennial of the Augsburg Confession?
-fifth
+the fifth
 10651
 
 Where was Mahler rowing when he conceived the accompaniment rhythm for the first movement of his seventh symphony?
@@ -44742,8 +44742,8 @@ From where is the Brisa Maracujá drink?
 Madeira
 11185
 
-Where is Patek Philippe centred?
-Geneva
+What large canopied tree native to most of Africa, primarily to the savanna and Sahel, is classified as ``Vachellia tortilis''?
+the umbrella thorn acacia
 11186
 
 What family took ownership of Patek Philippe in 1932?
@@ -47819,7 +47819,7 @@ Gesundheit
 11953
 
 Where did Jesus go with his disciples after the Last Supper?
-Garden of Gethsemane
+the Garden of Gethsemane
 11954
 
 (1927--91) What American leader of the ``cool'' school of jazz recorded pieces including ``Early Autumn'' (1948) and ``The Girl from Ipanema'' (1963)?
@@ -47835,7 +47835,7 @@ Alsace, Austria, the Rhine valley
 11957
 
 What is a geyser?
-hot spring in which water intermittently boils, sending a tall column of water and steam into the air
+a hot spring in which water intermittently boils, sending a tall column of water and steam into the air
 11958
 
 What name is given to a burst of light caused by damaged electrical equipment, sometimes caused by tornados?
@@ -48295,7 +48295,7 @@ What is your favourite colour? What is the capital of Assyria? What is your favo
 12072
 
 What MLB team drafted Tom Brady?
-Montreal Expos
+the Montreal Expos
 12073
 
 Who was the eightieth and the eighty-third speaker of the United States House of Representatives? His two terms were from 1947 to 1949 and from 1953 to 1955. He was a Republican from Massachusetts.
@@ -49319,7 +49319,7 @@ two
 12328
 
 For what team did Elmer Lach play?
-Montreal Canadiens
+the Montreal Canadiens
 12329
 
 What players comprised the Punch Line (from left to right)?
@@ -49427,7 +49427,7 @@ Waterloo, Ontario
 12355
 
 For what team did Jean Béliveau play?
-Montreal Canadiens
+the Montreal Canadiens
 12356
 
 To whom does Matt Groening attribute the quote ``Love is a slippery eel that bites like hell''?
@@ -52027,7 +52027,7 @@ Carey Price
 13005
 
 For what NHL team did Carey Price play?
-Montreal Canadiens
+the Montreal Canadiens
 13006
 
 Who was Team Canada's netminder at the 2014 Winter Olympics?
@@ -53427,7 +53427,7 @@ Majorca
 13355
 
 What river in northern France was the site of two eponymous battles during World War I?
-Marne
+the Marne
 13356
 
 What is the largest city north of the Arctic Circle?
@@ -55571,7 +55571,7 @@ Melchizedek
 13891
 
 What were the four rivers into which the river flowing out of Eden divided?
-Pishon, Gihon, Tigris, Euphrates
+the Pishon, the Gihon, the Tigris, the Euphrates
 13892
 
 What is terebinth?
@@ -59747,7 +59747,7 @@ Recall lines 364 to 367 of Book 9 of the Odyssey in which Odysseus, speaking to 
 14935
 
 What is the first verse of Veni redemptor gentium?
-Veni, redemptor gentium,
+Veni, redemptor gentium, / ostende partum Virginis; / miretur omne saeculum: / talis decet partus Deum.
 14936
 
 Who says that something is rotten in the state of Denmark?
@@ -60513,4 +60513,136 @@ Commerce, Texas
 For which team did Elgin Baylor play in the NBA?
 the Lakers
 15127
+
+Where is the buccinator?
+the cheek
+15128
+
+What is an endotherm?
+an animal that is dependent on or capable of the internal generation of heat
+15129
+
+What is a hexactinellid?
+a glass sponge
+15130
+
+What is Camellia sinensis used to make?
+tea
+15131
+
+How long is the swim in an IRONMAN?
+2.4 miles
+15132
+
+How long is the bike in an IRONMAN?
+112 miles
+15133
+
+How long is the run in an IRONMAN?
+26.2 miles
+15134
+
+What is a yellowbelly?
+a coward
+15135
+
+Which country contains Sibiu?
+Romania
+15136
+
+Which is the only mammal able to fly?
+the bat
+15137
+
+Which is the rarest element that occurs naturally in the Earth's crust?
+astatine
+15138
+
+Which state administers San Juan Island?
+Washington
+15139
+
+Which is the only achiral amino acid?
+glycine
+15140
+
+Name the two doubly landlocked countries.
+Liechtenstein, Uzbekistan
+15141
+
+Dante says that there was a sinner in each of Lucifer's three mouths. Who were they?
+Judas Iscariot, Brutus, Cassius
+15142
+
+Name the work from the quotation: ``Behold Dis!''
+the Divine Comedy
+15143
+
+What name was given to the maximum mass a white dwarf can have?
+the Chandrasekhar limit
+15144
+
+What name was given to the maximum mass a cold, non-rotating neutron star can have?
+the Tolman--Oppenheimer-Volkoff limit
+15145
+
+Which pope presided over the cadaver synod?
+Pope Stephen VI
+15146
+
+The ``hima'' in Himachal Pradesh and Himalaya is the Sanskrit word for what?
+cold
+15147
+
+Where is the Slavianski Bazaar held?
+Vitebsk
+15148
+
+In what year did the RMS Titanic sink?
+1912
+15149
+
+Name two words, one German and one Algonquian, for an isolated mountain.
+inselberg, monadnock
+15150
+
+Who played Iron Man from 2008 to 2019?
+Robert Downey Jr.
+15151
+
+What does ``cacciatore'' mean in Italian?
+hunter
+15152
+
+What number is the cleanup hitter in the batting order?
+four
+15153
+
+This Kenyan statesman was imprisoned for alleged complicity in the Mau Mau uprising (1952--61). On his release, he was elected president of the Kenya African National Union, led Kenya to independence in 1963 and served as its first president.
+Jomo Kenyatta
+15154
+
+What is a baobab?
+a short tree with a very thick trunk and large edible fruit, living to a great age
+15155
+
+Which is the largest island in the Caspian Sea?
+Ogurjaly Island
+15156
+
+Through which prefectures does the Shōnai River pass?
+Gifu, Aichi
+15157
+
+Which country almost completely encompasses the antipode of Hawaii?
+Botswana
+15158
+
+Which two places have the most major blackwater rivers?
+the Amazon Basin, the Southern United States
+15159
+
+Where are the Togian Islands?
+the Gulf of Tomini
+15160
 
