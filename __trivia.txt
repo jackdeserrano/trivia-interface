@@ -1919,7 +1919,7 @@ Axel Heiberg Island
 479
 
 What Canadian river rises in the Rocky Mountains and flows into the Strait of Georgia?
-Fraser River
+the Fraser River
 480
 
 What Central American country does not border the Caribbean Sea?
@@ -1927,7 +1927,7 @@ El Salvador
 481
 
 What central part of the brainstem, also known as the mesencephalon, is divided into the tegmentum and tectum and develops from the middle of the primitive or embryonic brain?
-midbrain
+the midbrain
 482
 
 What cetacean of the Eocene had fore and hind limbs and could walk on land?
@@ -9059,7 +9059,7 @@ Bernardo O'Higgins
 2264
 
 What group of American realist painters painted scenes from the slums of New York and grew out of the group called ``The Eight''?
-Ashcan School
+the Ashcan School
 2265
 
 (Clement V, 6 May 1312) What bull stated the conditions of Franciscan rule?
@@ -9214,7 +9214,7 @@ What lake is south of Aswan?
 Lake Nasser
 2303
 
-At what Anglo-French battle in 1346 did the forces of Edward III defeated those of Philip VI, marking the first major English victory of the Hundred Years War?
+At what Anglo-French battle in 1346 did the forces of Edward III defeat those of Philip VI, marking the first major English victory of the Hundred Years War?
 the Battle of Crécy
 2304
 
@@ -10155,7 +10155,7 @@ Assateague Island
 2538
 
 What Bashkir Republic river flows from the Urals to the Kama River?
-Belaya River
+the Belaya River
 2539
 
 What basic monetary unit of Ethiopia is equal to 100 cents?
@@ -11863,15 +11863,15 @@ Belleau Wood
 2965
 
 What forest-dwelling wild pig with several upturned hornlike tusks is native to Malaysia?
-babirusa
+the babirusa
 2966
 
 What forested upland region extending over parts of south-east Belgium, north-east France, and Luxembourg was the scene of fierce fighting in both world wars?
-Ardennes
+the Ardennes
 2967
 
 What form of aircraft has freely rotating horizontal vanes and a propeller but differs from a helicopter in that the vanes are not powered but rotate in the slipstream, propulsion being by a conventional mounted engine?
-autogiro
+an autogiro
 2968
 
 What form of punishment or torture involves caning the soles of someone's feet?
@@ -14327,7 +14327,7 @@ the Baumé scale
 3581
 
 What Scandinavian alcoholic spirit is made from potatoes or other starchy plants?
-akvavit/aquavit
+aquavit
 3582
 
 What scarp marks the geologic fault separating the plains of eastern Texas from highlands to the west, San Antonio, Austin, and Waco lying near it?
@@ -14767,7 +14767,7 @@ appendectomy
 3691
 
 What south-western American river flows from the Rockies in Colorado to the Mississippi and has been made navigable for oceangoing vessels as far west as Tulsa, Oklahoma
-Arkansas River
+the Arkansas River
 3692
 
 What Swedish chemist noted for his work on electrolytes won the Nobel Prize for Chemistry (1903)?
@@ -20995,15 +20995,15 @@ Bougainville
 5248
 
 What is the longest river in New England?
-Connecticut River
+the Connecticut River
 5249
 
 What is the lowest female singing voice?
-contralto
+a contralto
 5250
 
 What is the lowest point of a ridge or saddle between two peaks, typically affording a pass from one side of a mountain range to another, called?
-col
+a col
 5251
 
 What is the medical term for gallstone formation?
@@ -22199,7 +22199,7 @@ glib
 5549
 
 What open carriage with a Polish name had a calash top and space for reclining?
-britzka
+the britzka
 5550
 
 What order of insects comprises the beetles (including weevils) and forms the largest order of animals on the earth?
@@ -22527,47 +22527,47 @@ bouillabaisse
 5631
 
 What river and essential trade route flows for 1,800 km from central Angola through southern and central Democratic Republic of Congo into the Congo River?
-Kasai River
+the Kasai River
 5632
 
 What river flows for 60 miles (100 km) through eastern Massachusetts, between Cambridge and Boston, to Boston Harbor?
-Charles River
+the Charles River
 5633
 
 What river flows for 213 km through the Ozark Plateau in northwestern Arkansas and is a designated national preserve?
-Buffalo River
+the Buffalo River
 5634
 
 What river flows for 600 miles (1,000 km) from New Mexico across Oklahoma to the Arkansas River near Tulsa?
-Cimarron River
+the Cimarron River
 5635
 
 What river flows north for 120 miles (190 km) from the Maine border through Quebec and empties into the St. Lawrence River opposite Quebec City?
-Chaudiere River
+the Chaudiere River
 5636
 
 What river flows southeast across Texas from the Panhandle to the Gulf of Mexico?
-Brazos River
+the Brazos River
 5637
 
 What river in central Brazil flows for 2,195 kilometres north into the Tocantins River?
-Araguaia
+the Araguaia
 5638
 
 What river in southern Asia rises in the Himalayas and flows for 2,900 kilometres through Tibet, northeastern India, and Bangladesh to join the Ganges River at its delta on the Bay of Bengal?
-Brahmaputra
+the Brahmaputra
 5639
 
 What river in western France rises in the Massif Central and flows west for 225 miles (360 km) to the Bay of Biscay at Rochefort?
-Charente
+the Charente
 5640
 
 What river of northern India and Pakistan rises in the Himalayas and flows through Himachal Pradesh and Jammu and Kashmir, joining the Sutlej River in Punjab, and is one of the five rivers that gave Punjab its name?
-Chenab
+the Chenab
 5641
 
 What river that flows for 660 miles (1,060 km) through the Central African Republic, Chad, and Cameroon, emptying into Lake Chad, is the longest river in the African continent that drains internally?
-Chari River
+the Chari River
 5642
 
 What Roman division of southwestern Gaul under Caesar consisted of the area between the Pyrenees Mountains and the Garonne River and under Augustus was expanded as far as the Loire and Allier rivers?
@@ -25931,7 +25931,7 @@ dais
 6482
 
 What river is also known as the ``Dakota River''?
-James River
+the James River
 6483
 
 What does ``Dalai Lama'' mean in English?
@@ -25939,7 +25939,7 @@ ocean monk
 6484
 
 What monetary unit of the Gambia is equal to one hundred butut?
-dalasi
+the dalasi
 6485
 
 (1875--1968) What English physiologist and pharmacologist investigated the role of histamine in anaphylactic shock and allergy and the role of acetylcholine as a natural neurotransmitter, winning the Nobel Prize for Physiology or Medicine (1936) with Otto Loewi?
@@ -26175,7 +26175,7 @@ Kentucky
 6543
 
 What third-longest river in Australia flows southwest for 2,757 km before joining the Murray River?
-Darling River
+the Darling River
 6544
 
 What Hindu noun refers to an opportunity or occasion of seeing a holy person or the image of a deity?
@@ -28663,7 +28663,7 @@ the dong
 7165
 
 What river in Vietnam flows for 483 km from south-central Vietnam to join the Saigon River below Ho Chi Minh City?
-Dong-nai River
+the Dong-nai River
 7166
 
 (1797--1848) What Italian composer's operas include tragedies such as Lucia di Lammermoor (1835) and comedies such as Don Pasquale (1843)?
@@ -28671,7 +28671,7 @@ Gaetano Donizetti
 7167
 
 What is the great tower or innermost keep of a castle called?
-donjon
+the donjon
 7168
 
 What equilibrium is reached between two ionic solutions separated by a semipermeable membrane when one or more of the kinds of ion present cannot pass through the membrane, resulting in a difference in osmotic pressure and electrical potential between the solutions?
@@ -28843,7 +28843,7 @@ Theodor Seuss Geisel
 7210
 
 What unit of weight, formerly used by apothecaries, is equivalent to 60 grains or 1/8 of an ounce?
-drachma
+the drachma
 7211
 
 What large northern constellation (the Dragon) with no bright stars stretches around the north celestial pole and represents the dragon killed by Hercules?
@@ -28879,7 +28879,7 @@ Sir Francis Drake
 7219
 
 What speculative equation estimates the likelihood of discovering intelligent extraterrestrial life in the galaxy, expressed as the product of a series of factors such as the number of stars, the fraction of stars with planets, the fraction of planets on which life evolves, the average lifetime of a civilization, etc.?
-Drake equation
+the Drake equation
 7220
 
 What area of ocean, noted for its violent storms, connects the South Atlantic Ocean with the South Pacific Ocean and separates the southern tip of South America (Cape Horn) from the Antarctic Peninsula?
@@ -28907,7 +28907,7 @@ Drang nach Osten
 7226
 
 What river rises in northern Italy and flows for 725 km through southern Austria, Slovenia, and Croatia to join the Danube River near Osijek and forms part of the border between Hungary and Croatia?
-Drava River
+the Drava River
 7227
 
 What type of battleship that was introduced in the early twentieth century was larger and faster than its predecessors and equipped entirely with large-calibre guns?
@@ -29379,7 +29379,7 @@ James Madison
 7344
 
 What river rises in Russia's Valai Hills and flows west, then north, for 1,020 km across Belarus and Latvia into the Gulf of Riga?
-Dvina River
+the Dvina River
 7345
 
 (b. 1941) What American singer, songwriter, and leader of an urban folk-music revival in the 1960s who became known for political and protest songs such as ``The Times They Are A-Changin'' (1964) wrote Highway 61 Revisited (1965) and Blood on the Tracks (1975) and won the Nobel Prize for Literature (2016)?
@@ -33842,7 +33842,7 @@ What national paramilitary police force in Italy was an elite military organizat
 carabinieri
 8460
 
-What founder of Roman epic poetry and drama translated The odyssey into Latin?
+What founder of Roman epic poetry and drama translated The Odyssey into Latin?
 Livius Andronicus
 8461
 
@@ -35486,12 +35486,12 @@ sullen or shy in company
 Farouk
 8871
 
-(1678--1707) What Irish playwright, who was a principal figure in Restoration comedy, wrote The recruiting officer (1706) and The beaux's stratagem (1707)?
+(1678--1707) What Irish playwright, who was a principal figure in Restoration comedy, wrote The Recruiting Officer (1706) and The Beaux's Stratagem (1707)?
 George Farquhar
 8872
 
 What is a smith who shoes horses called?
-farrier
+a farrier
 8873
 
 What hulled wheat, especially spelt or emmer, is typically used in salads, soups, and side dishes?
@@ -35499,19 +35499,19 @@ farro
 8874
 
 What is a litter of pigs called?
-farrow
+a farrow
 8875
 
 What hooped petticoat or circular pad of fabric around the hips was worn under women's skirts to extend and shape them?
-farthingale
+a farthingale
 8876
 
 In what system of training for distance runners are the terrain and pace continually varied?
 fartlek
 8877
 
-What instrument did Olivier Messaien commission someone to create for Des canyons aux étoiles . . . ? A drum with many lead pellets comprises it.
-geophone
+What instrument did Olivier Messaien commission someone to create for Des canyons aux étoiles . . . ? It consists of a drum with many lead pellets.
+the geophone
 8878
 
 What composer invented the geophone?
@@ -36555,7 +36555,7 @@ sillimanite
 9138
 
 What is a ficelle?
-small, very narrow loaf of French bread
+a small, very narrow loaf of French bread
 9139
 
 (1762--1814) What German philosopher and student of Kant postulated that the ego is the basic reality, and the world is posited by the ego in defining and delimiting itself?
@@ -36563,7 +36563,7 @@ Johann Gottlieb Fichte
 9140
 
 What small triangular shawl is worn around a woman's shoulders and neck?
-fichu
+a fichu
 9141
 
 What is the largest and best known of several companies that provide software for calculating a person's credit score?
@@ -38503,7 +38503,7 @@ four o'clock
 9625
 
 For what is ``four o'clock plant'' another name?
-marvel of Peru
+the marvel of Peru
 9626
 
 Of what country is the tropical American herbaceous plant (Mirabilis jalapa) with fragrant trumpet-shaped flowers which open late in the afternoon the ``marvel''?
@@ -38919,7 +38919,7 @@ Frankenstein
 9729
 
 What river flows through Frankfurt?
-Main
+the Main
 9730
 
 What is olibanum or gum olibanum?
@@ -43383,7 +43383,7 @@ John Tate
 10845
 
 What is Rudavoi?
-river
+a river
 10846
 
 Where was Max Stern born?
@@ -47611,7 +47611,7 @@ Joseph Albo
 11901
 
 What river flows close to Machu Picchu?
-Urubamba River
+the Urubamba River
 11902
 
 Who was Henry Tudor's mother?
@@ -48635,7 +48635,7 @@ speech register
 12157
 
 What is the third-to-last syllable of a word?
-antepenultima
+the antepenultima
 12158
 
 What is the removal of a letter or sound from the beginning of a word?
@@ -48951,7 +48951,7 @@ paroxytone
 12236
 
 What is the next-to-last syllable of a word?
-penultima
+the penultima
 12237
 
 What adjective describes using more words to produce a grammatical effect?
@@ -49099,7 +49099,7 @@ Niels Henrik Abel Tasman
 12273
 
 Where did Atle Selberg work for most of his academic life?
-Institute for Advanced Study
+the Institute for Advanced Study
 12274
 
 Identify the author. ``Only the silent, sleepy, staring houses in the backwoods can tell all that has lain hidden since the early days; and they are not communicative, being loath to shake off the drowsiness which helps them forget. Sometimes one feels that it would be merciful to tear down these houses, for they must often dream.''
@@ -49135,11 +49135,11 @@ Richmond Hill
 12282
 
 What NHL team drafted Mike Cammalleri in 2001?
-Los Angeles Kings
+the Los Angeles Kings
 12283
 
 What team was Mike Cammalleri on when he scored a career-high 82 points in the 2008--09 season?
-Calgary Flames
+the Calgary Flames
 12284
 
 What is a proparoxytone?
@@ -49287,7 +49287,7 @@ Howie Morenz
 12320
 
 Whose number was the first that the Montreal Canadiens retired?
-Howie Morenz
+Howie Morenz's
 12321
 
 How many Stanley Cups did Howie Morenz win?
@@ -49347,7 +49347,7 @@ Syl Apps
 12335
 
 For what team did Syl Apps play?
-Toronto Maple Leafs
+the Toronto Maple Leafs
 12336
 
 How many Stanley Cups did Syl Apps win?
@@ -49950,8 +49950,8 @@ Who were the first ten Fields Medallists to come from the École normale supéri
 Laurent Schwartz, René Thom, Jean-Pierre Serre, Alain Connes, Pierre-Louis Lions, Jean-Christophe Yoccoz, Laurent Lafforgue, Wendelin Werner, Ngô Bả Châu, Cédric Villani
 12486
 
-Who was the original architect of the Empire State Building?
-Frank Lloyd Cock
+What does a cobbler do?
+mends shoes
 12487
 
 What school originated in 1530 when Francis I was advised to start the creation of a school that would teach topics to royal scholars, that were not taught at the Sorbonne, originally Greek, Hebrew, and mathematics, and then later, French law, Latin, and medicine?
@@ -50214,7 +50214,7 @@ What does the Ancient Greek ``λεπταλέος'' mean?
 fine; delicate
 12552
 
-Who wrote The old man and the sea?
+Who wrote The Old Man and the Sea?
 Ernest Hemingway
 12553
 
@@ -53199,7 +53199,7 @@ Albania
 13298
 
 What ``impenetrable'' forest region of Belgium and Luxembourg did the Nazis break through in their attack on France in 1940?
-Ardennes
+the Ardennes
 13299
 
 Which Spanish city is allegedly named after Hamilcar Barca, father of the Carthaginian General Hannibal?
@@ -54079,7 +54079,7 @@ Australia's
 13518
 
 What is a Maris Piper?
-potato
+a potato
 13519
 
 Who sold a cow for five beans?
@@ -56175,7 +56175,7 @@ the inflammation of the tongue
 14042
 
 What name is given to each of the ninth pair of cranial nerves, supplying the tongue and pharynx?
-glossopharyngeal nerve
+the glossopharyngeal nerve
 14043
 
 What is the second firing of ceramic ware in which the glaze is fused?
@@ -60618,7 +60618,7 @@ What number is the cleanup hitter in the batting order?
 four
 15153
 
-This Kenyan statesman was imprisoned for alleged complicity in the Mau Mau uprising (1952--61). On his release, he was elected president of the Kenya African National Union, led Kenya to independence in 1963 and served as its first president.
+This Kenyan statesman was imprisoned for alleged complicity in the Mau Mau uprising (1952--61). On his release, he was elected president of the Kenya African National Union, led Kenya to independence in 1963, and served as its first president.
 Jomo Kenyatta
 15154
 

@@ -1,14 +1,5 @@
 .*
 !.gitignore
-*.aux
-*.synctex
-*.toc
-*.idx
-*.log
-*.out
-*.ind
-*.ilg
-*.fls
-manim__
-__pycache__
+__pycache__/
 new_interf/
+ignore/
