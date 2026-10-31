@@ -1567,7 +1567,7 @@ freedom, exemption
 391
 
 What force that involves beta decay and violates parity conservation according to the experimental results of Wu Chien-Shiung do W and Z bosons mediate?
-weak (force, interaction)
+the weak (force, interaction)
 392
 
 What eleventh month of the civil and fifth of the religious year in the Jewish calendar usually coincides with July and August?
@@ -3891,15 +3891,15 @@ les nabis
 972
 
 What group of sacred Hindu texts, sometimes called ``Shruti,'' has four sections: Rig, Sama, Yajur, and Atharva?
-Vedas
+the Vedas
 973
 
 What group of spectacular granite peaks in southern Chile rise to a height of 2,668 m?
-Paine Towers
+the Paine Towers
 974
 
 What gruesome object did the Philistines fasten in the temple of Dagon?
-Saul's head (1 Chron. 10.10)
+Saul's head (1 Chron. x. 10)
 975
 
 What gulf connects the Arabian Sea with the Strait of Hormuz, bordering Iran and Pakistan on the north, Oman on the south, and the United Arab Emirates on the west?
@@ -4567,19 +4567,19 @@ the innermost sanctuary of an ancient Greek temple
 1141
 
 What is an adz?
-tool similar to an axe, with an arched blade at right angles to the handle, used for cutting or shaping large pieces of wood
+a tool similar to an axe, with an arched blade at right angles to the handle, used for cutting or shaping large pieces of wood
 1142
 
 What is an affaire de cœur?
-love affair
+a love affair
 1143
 
 What is an Affenpinscher?
-dog of a small breed resembling the griffon
+a dog of a small breed resembling the griffon
 1144
 
 What is an affidavit?
-written statement confirmed by oath or affirmation for use as evidence in court
+a written statement confirmed by oath or affirmation for use as evidence in court
 1145
 
 What is an affirmative defence?
@@ -5847,11 +5847,11 @@ Hakenkreuz
 1461
 
 What is the three-dimensional analogue of a parallelogram?
-parallelepiped
+a parallelepiped
 1462
 
 What is the unicameral legislative assembly of Iceland called?
-Althing
+the Althing
 1463
 
 What is the University of Cambridge's motto?
@@ -5947,7 +5947,7 @@ Schwann cells
 1486
 
 What kind of clinometer consists of a sighting tube, spirit level, and graduated scale?
-Abney level
+an Abney level
 1487
 
 What kind of stone was, according to the Law, not supposed to be used in making an altar?
@@ -11750,7 +11750,7 @@ What encyclical of Clement IV written in 1265 stated that appointments to all be
 Licet Ecclesiarum
 2937
 
-What English actress and singer is best known for her lead roles in Mary Poppins and The sound of music?
+What English actress and singer is best known for her lead roles in Mary Poppins and The Sound of Music?
 Julie Andrews
 2938
 
@@ -12171,7 +12171,7 @@ Arjuna
 3042
 
 What historic area at the southern end of Manhattan contains attractions such as an old fort named Castle Clinton?
-Battery
+the Battery
 3043
 
 What historic commercial street in downtown Memphis, Tennessee, is associated with black music and commerce?
@@ -12871,11 +12871,11 @@ Salt Lake Stadium, Kolkata
 3217
 
 What is the law term for a person who applies to a higher court for a reversal of a lower court's decision?
-appellant
+an appellant
 3218
 
-What is the lightest strange meson?
-kaon
+Which is the lightest strange meson?
+the kaon
 3219
 
 What is the Liouville function?
@@ -12883,7 +12883,7 @@ $\displaystyle \lambda(n)=\begin{cases} +1& \text{$n$ is a product of an even nu
 3220
 
 What is the longest chapter in the Bible?
-Daniel 3
+Daniel iii.
 3221
 
 What is the main island of Guadeloupe called?
@@ -12899,7 +12899,7 @@ andragogy
 3224
 
 What is the more common name for the Eastern Desert?
-Arabian Desert
+the Arabian Desert
 3225
 
 What is the official language of Bhutan?
@@ -12915,7 +12915,7 @@ Archipiélago de Colón
 3228
 
 What is the oldest complete manuscript of the Hebrew Bible in Hebrew?
-Leningrad Codex
+the Leningrad Codex
 3229
 
 What is the only language that is official in both Singapore and Sri Lanka?
@@ -13771,11 +13771,11 @@ Divina dispensatione
 3442
 
 What narrow corridor of disputed desert in northern Chad forms the border between Chad and Libya and saw the withdrawal of Libyan troops in 1994?
-Aouzou Strip
+the Aouzou Strip
 3443
 
 What narrow opaque band encircles the cornea, typical in old age?
-arcus senilis
+the arcus senilis
 3444
 
 What narrow, mountainous peninsula in north-east Greece, projecting into the Aegean, is inhabited by monks of the Orthodox Church who forbid women and female animals to set foot there?
@@ -13863,11 +13863,11 @@ Batrachia
 3465
 
 What Oxonian museum of art and antiquities opened in 1683 and was the first public institution of its kind in England?
-Ashmolean Museum
+the Ashmolean Museum
 3466
 
 What pair of cartilages at the back of the larynx is used in the production of different kinds of voice quality?
-arytenoids
+the arytenoids
 3467
 
 What pair of glands lying near the entrance of the vagina secretes a fluid that lubricates the vulva?
@@ -14447,7 +14447,7 @@ Lake Balaton
 3611
 
 What small and densely staining structure in the cell nuclei of female mammals consists of a condensed, inactive X chromosome and is regarded as diagnostic of genetic femaleness?
-Barr body
+a Barr body
 3612
 
 What small and faint southern constellation (the Altar) is found in the Milky Way near Scorpius?
@@ -14455,7 +14455,7 @@ Ara
 3613
 
 What small hunting dog of a central African breed growls and yelps but does not bark?
-basenji
+the basenji
 3614
 
 What small northern constellation containing Altair represents the eagle that carried Ganymede to Olympus and shares its name with the capital of Abruzzi, Italy?
@@ -14463,19 +14463,19 @@ Aquila
 3615
 
 What small pointed tool is used for piercing holes, especially in leather?
-awl
+an awl
 3616
 
 What small shoaling fish is a calcium-rich herring relative that is enjoyed by some on pizza?
-anchovy
+the anchovy
 3617
 
 What small songbird with a curved bill, typically with a white stripe over the eye, a sooty gray back, and yellow underparts, is widespread in the West Indies and Central and South America?
-bananaquit
+the bananaquit
 3618
 
 What small southern European viper has an upturned snout (Vipera aspis) and shares its name with another term for Egyptian cobra?
-asp
+the asp
 3619
 
 What small, rich sponge cake is typically soaked in rum-flavoured syrup and has a name that means ``married peasant woman''?
@@ -15030,7 +15030,7 @@ What American electrical engineer invented the superheterodyne radio receiver an
 Edwin Howard Armstrong
 3757
 
-What American historian and writer wrote books like Mayday: Eisenhower, Khrushchev, and the U-2 affair (1986), The crisis years: Kennedy and Khrushchev, 1960--1963 (1991), and The conquerors: Roosevelt, Truman, and the destruction of Hitler's Germany, 1941--1945 (2002)?
+What American historian and writer wrote books like Mayday: Eisenhower, Khrushchev, and the U-2 Affair (1986), The Crisis Years: Kennedy and Khrushchev, 1960--1963 (1991), and The Conquerors: Roosevelt, Truman, and the Destruction of Hitler's Germany, 1941--1945 (2002)?
 Michael Beschloss
 3758
 
@@ -16098,7 +16098,7 @@ Cornelius Johnson
 Francesco Borromini
 4024
 
-(1600--82) What French painter is noted for the use of light in his landscapes, his works including Ascanius and the stag (1682)?
+(1600--82) What French painter is noted for the use of light in his landscapes, his works including Ascanius and the Stag (1682)?
 Claude Lorrain
 4025
 
@@ -16398,7 +16398,7 @@ Sir Charles Scott Sherrington
 Christiaan Eijkman
 4099
 
-(1859--1930) What Scottish novelist and short-story writer is known for his creation of private detective Sherlock Holmes, who first appeared in A study in scarlet (1887), and wrote The hound of the Baskervilles (1902)?
+(1859--1930) What Scottish novelist and short-story writer is known for his creation of private detective Sherlock Holmes, who first appeared in A Study in Scarlet (1887), and wrote The Hound of the Baskervilles (1902)?
 Sir Arthur Conan Doyle
 4100
 
@@ -16434,7 +16434,7 @@ G. K. Chesterton
 Howard Carter
 4108
 
-(1874--1954) What American composer, noted for his use of polyrhythms, polytonality, quarter-tones, and aleatoric techniques, wrote works like The unanswered question (1906), Three places in New England (1903--14), and Concord (1915)?
+(1874--1954) What American composer, noted for his use of polyrhythms, polytonality, quarter-tones, and aleatoric techniques, wrote works like The Unanswered Question (1906), Three Places in New England (1903--14), and Concord (1915)?
 Charles Ives
 4109
 
@@ -16442,7 +16442,7 @@ Charles Ives
 Mikhail Ivanovich Kalinin
 4110
 
-(1875--1950) What American novelist and science fiction writer was most successful with an adventure series that began with Tarzan of the apes (1914)?
+(1875--1950) What American novelist and science fiction writer was most successful with an adventure series that began with Tarzan of the Apes (1914)?
 Edgar Rice Burroughs
 4111
 
@@ -16450,11 +16450,11 @@ Edgar Rice Burroughs
 Constantin Brancusi
 4112
 
-(1878--1965) What Austrian-born Israeli religious philosopher's existentialist work I and thou (1923) argues that religious experience involves reciprocal relationships with a personal subject, rather than knowledge of some ``thing''?
+(1878--1965) What Austrian-born Israeli religious philosopher's existentialist work I and Thou (1923) argues that religious experience involves reciprocal relationships with a personal subject, rather than knowledge of some ``thing''?
 Martin Buber
 4113
 
-(1878--1967) This poet and biographer's poetry is collected in Chicago poems (1915), Smoke and steel (1920), Complete poems (1950), and Honey and salt (1963). Identify this American also noted for his biography of Abraham Lincoln, written in six volumes (Abraham Lincoln: The prairie years, two volumes, and Abraham Lincoln: The war years, four volumes) between 1926 and 1939.
+(1878--1967) This poet and biographer's poetry is collected in Chicago Poems (1915), Smoke and Steel (1920), Complete Poems (1950), and Honey and Salt (1963). Identify this American also noted for his biography of Abraham Lincoln, written in six volumes (Abraham Lincoln: The Prairie Years, two volumes, and Abraham Lincoln: The War Years, four volumes) between 1926 and 1939.
 Carl Sandburg
 4114
 
@@ -16482,7 +16482,7 @@ Sir C. V. Raman
 Jean Cocteau
 4120
 
-(1890--1938) What Czech novelist and playwright is known for R. U. R. (Rossum's universal robots) (1920), which introduced the word ``robot'' to the English language, and The insect play (1921), written with his brother Josef (1887--1945)?
+(1890--1938) What Czech novelist and playwright is known for R. U. R. (Rossum's Universal Robots) (1920), which introduced the word ``robot'' to the English language, and The Insect Play (1921), written with his brother Josef (1887--1945)?
 Karel Čapek
 4121
 
@@ -16807,7 +16807,7 @@ Paean
 4201
 
 What is the room in which the Last Supper was held called?
-cenacle
+the cenacle
 4202
 
 What was niobium once called?
@@ -16815,10 +16815,10 @@ columbium
 4203
 
 At the base of what range of mountains, part of the Coast Ranges in southern Alaska, does Anchorage lie, noted for its glaciers that flow south into the Gulf of Alaska?
-Chugach Mountains
+the Chugach Mountains
 4204
 
-At what ancient small town in Galilee is Christ said to have performed his first miracle by changing water into wine during a marriage feast (John 2.1--11)?
+At what ancient small town in Galilee is Christ said to have performed his first miracle by changing water into wine during a marriage feast (John ii. 1--11)?
 Cana
 4205
 
@@ -17191,7 +17191,7 @@ circa the ninth
 4297
 
 In what corner of the Kaaba is a sacred Black Stone set?
-south-east
+the south-east
 4298
 
 In what county are the Cotswold Hills mainly located?
@@ -20531,19 +20531,19 @@ close-hauled
 5132
 
 What is a small, usually painless lump on the edge of the eyelid caused by blockage of the gland at the base of an eyelash called?
-chalazion
+a chalazion
 5133
 
 What is a spherical bacterium called?
-coccus
+a coccus
 5134
 
 What is a syllogism?
-instance of a form of reasoning in which a conclusion is drawn (whether validly or not) from two given or assumed propositions (premises), each of which shares a term with the conclusion and shares a common or middle term not present in the conclusion (e.g., all dogs are animals; all animals have four legs; therefore all dogs have four legs)
+an instance of a form of reasoning in which a conclusion is drawn (whether validly or not) from two given or assumed propositions (premises), each of which shares a term with the conclusion and shares a common or middle term not present in the conclusion (e.g. all dogs are animals; all animals have four legs; therefore all dogs have four legs)
 5135
 
 What is a woody plant whose resting buds are on or near the ground called?
-chamaephyte
+a chamaephyte
 5136
 
 What is an afferent signal?
@@ -21083,23 +21083,23 @@ clairvoyance
 5270
 
 What is the surgical removal of the gallbladder called?
-cholecystectomy
+a cholecystectomy
 5271
 
 What is the system of neural pathways in a brain or nervous system called?
-connectome
+a connectome
 5272
 
 What is the technical term for a blackhead?
-comedo
+a comedo
 5273
 
 What is the technical term for a callus?
-callosity
+a callosity
 5274
 
 What is the technical term for a stringed instrument?
-chordophone
+a chordophone
 5275
 
 What is the technical term for earwax?
@@ -21107,11 +21107,11 @@ cerumen
 5276
 
 What is the technical term for the collarbone?
-clavicle
+the clavicle
 5277
 
 What is the technical term for the neck?
-cervix
+the cervix
 5278
 
 What is the Tibetan name for Mount Everest?
@@ -21127,11 +21127,11 @@ chiaroscuro
 5281
 
 What is the upper front part of the right ventricle of the heart called?
-conus arteriosus
+the conus arteriosus
 5282
 
 What is the bad use of a comma to link two independent clauses called?
-comma splice
+a comma splice
 5283
 
 What is virility?
@@ -21851,7 +21851,7 @@ bourdon
 5462
 
 What name is given to members of an early Nazi militia founded by Hitler in Munich in 1921, with uniforms resembling that of Mussolini's Blackshirts, who aided Hitler's rise to power but were eclipsed by the SS after the ``night of the long knives'' in June 1934?
-Brownshirts/Storm Troops/Sturmabteilung
+the Brownshirts/the Storm Troops/the Sturmabteilung
 5463
 
 What name is given to musical compositions for a group of solo instruments accompanied by an orchestra?
@@ -25263,7 +25263,7 @@ krummhorn
 6315
 
 What two symmetrical tracts of nerve fibres at the base of the midbrain link the pons and the cerebral hemispheres?
-crura cerebri (singular crus cerebri)
+the crura cerebri (singular crus cerebri)
 6316
 
 What noun refers to an elongated part of an anatomical structure, especially one which occurs in the body as a pair?
@@ -25383,15 +25383,15 @@ cui bono?
 6345
 
 What artificial ventilator encloses the body, leaving the limbs free, and forces air in and out of the lungs by changes in pressure?
-cuirass
+a cuirass
 6346
 
 What historical piece of armour consisted of breastplate and backplate fastened together?
-cuirass
+a cuirass
 6347
 
 What was a piece of armour for the thigh called?
-cuisse
+a cuisse
 6348
 
 Who revolutionized the game of contract bridge by formalizing a system of bidding?
@@ -25399,7 +25399,7 @@ Ely Culbertson
 6349
 
 Of what mass of stones, broken shells, and grit is an oyster bed formed?
-cultch
+a cultch
 6350
 
 What Irish or Scottish monks of the eighth to twelfth centuries lived as a recluse, usually in a group of thirteen?
@@ -25999,7 +25999,7 @@ Damascus steel
 6499
 
 What sweet-scented rose of an old variety (or hybrid) that is typically pink or light red in colour has soft, velvety petals and is used to make attar?
-damask rose
+the damask rose
 6500
 
 What name is given to the eastern branch of the Nile delta?
@@ -26035,7 +26035,7 @@ dan
 6508
 
 What name is given to a small marker buoy with a lightweight flagpole?
-dan
+a dan
 6509
 
 An oracle betokened that this daughter of Acrisuius would bear a son who would kill her father. Attempting to evade this, Acrisius imprisoned her, but Zeus visited her in the form of a shower of gold and she conceived Perseus, who killed Acrisius by accident. Name this figure of Greek myth.
@@ -26043,11 +26043,11 @@ Danae
 6510
 
 What daughters of Danaus were compelled to marry the sons of his brother Aegyptus but murdered their husbands on the wedding night, except for one, Hypermnestra, who helped her husband to escape?
-Danaids
+the Danaids
 6511
 
 What name is given to a member of a Sufi religious order who has taken vows of poverty and austerity?
-dervish
+a dervish
 6512
 
 What port in Liaoning province near the mouth of the Yalu River is located on the border with North Korea and was once called ``Antung''?
@@ -26059,11 +26059,11 @@ Danegeld
 6514
 
 What name is given to a yellow van that transports passengers for a fare as part of an informal transit system in Lagos, Nigeria?
-danfo
+a danfo
 6515
 
 What name is given to a participle intended to modify a noun which is not actually present in the text?
-dangling participle
+a dangling participle
 6516
 
 What apocryphal book portrays Daniel as a wise judge?
@@ -27459,11 +27459,11 @@ digamma
 6864
 
 What soft-brimmed felt hat is worn as part of the Australian army uniform?
-digger's hat
+a digger's hat
 6865
 
 What solitary wasp (families Sphecidae and Pompilidae) typically excavates a burrow in sandy soil, filling it with one or more paralyzed insects or spiders for its larvae to feed on?
-digger wasp
+the digger wasp
 6866
 
 What drug is prepared from the dried leaves of foxgloves and contains substances that stimulate the heart muscle?
@@ -27507,7 +27507,7 @@ dilettante
 6876
 
 What earliest of the large bipedal dinosaurs had two long crests on the head and occurred in the early Jurassic period?
-dilophosaurus
+the dilophosaurus
 6877
 
 (1913--65) What English broadcaster was the BBC's first news correspondent (1936) and was particularly noted for his radio and television commentaries on royal, national, and international events?
@@ -27515,7 +27515,7 @@ Richard Dimbleby
 6878
 
 What is a molecule or molecular complex consisting of two identical molecules linked together called?
-dimer
+a dimer
 6879
 
 What colourless, oily liquid with an unpleasant smell is used as an antidote for poisoning by mercury, arsenic, lead, and other heavy metals and has the chemical formula CH2(SH)CH(SH)CH2OH?
@@ -27531,7 +27531,7 @@ dimethyl sulphoxide
 6882
 
 What large fossil carnivorous mammal-like reptile of the Permian period had long spines on its back supporting a sail-like crest?
-dimetrodon
+the dimetrodon
 6883
 
 What name is attributed to the combination of two coats of arms by juxtaposing the dexter half of one and the sinister half of the other on a single shield (a practice primarily superseded by impalement)?
@@ -28003,7 +28003,7 @@ diverticulum
 7000
 
 What short dance within a ballet displays a dancer's technical skill without advancing the plot or character development?
-divertissement
+a divertissement
 7001
 
 What literary noun refers to a typical or hypothetical rich man?
@@ -31006,7 +31006,7 @@ Of the elements in the p-block of the periodic table, which has the lowest atomi
 boron
 7751
 
-Still life with apples and Basket of apples are works by what artist, born in Provence in 1839?
+Still Life with Apples and Basket of Apples are works by what artist, born in Provence in 1839?
 Cezanne
 7752
 
@@ -31230,7 +31230,7 @@ Encephalization quotient values are normalized to an average species such that v
 the cat
 7807
 
-What species has the largest encephalization quotient after humans?
+What species has the largest encephalization quotient after the human?
 the dolphin
 7808
 
@@ -31963,15 +31963,15 @@ shock people who have attitudes or views perceived as conventional or complacent
 7990
 
 What thin membrane of glial cells lines the ventricles of the brain and the central canal of the spinal cord?
-ependyma
+the ependyma
 7991
 
 What is the insertion of a sound or letter within a word called?
-epenthesis
+an epenthesis
 7992
 
 What is the ornamental centrepiece for a dining table typically used for holding fruit or flowers called?
-epergne
+an epergne
 7993
 
 What word from the Greek for ``explanation'' means ``the addition of words to clarify meaning''?
@@ -31979,11 +31979,11 @@ epexegesis
 7994
 
 What ancient Hebrew dry measure was equivalent to a bushel (35 l)?
-ephah
+the ephah
 7995
 
 What was a young man of 18--20 years undergoing military training in ancient Greece called?
-ephebe
+an ephebe
 7996
 
 What crystalline alkaloid drug obtained from some ephedras causes constriction of the blood vessels and widening of the bronchial passages and is used to relieve asthma and hay fever? It is systematically named 1-phenyl-2-methylaminopropanol and has the chemical formula C10H15NO.
@@ -33343,11 +33343,11 @@ sylph
 8335
 
 What is a flourish at the end of a signature called?
-paraph
+a paraph
 8336
 
 What's an image of a Semitic household god?
-teraph
+a teraph
 8337
 
 What mixture of mastic resin and linseed oil was added to oil paints and widely used in the nineteenth century?
@@ -34019,7 +34019,7 @@ Isfahan
 8504
 
 What small New World curlew with a striped head was formerly common in the arctic tundra but is now close to extinction?
-Eskimo curlew
+the Eskimo curlew
 8505
 
 Define ``esoteric.''
@@ -34639,7 +34639,7 @@ Artiodactyla
 8659
 
 Name some even-toed ungulates.
-ruminant, camel, pig, hippopotamus
+a ruminant, the camel, the pig, the hippopotamus
 8660
 
 How many toes do odd-toed ungulates have?
@@ -34651,7 +34651,7 @@ Perissodactyla
 8662
 
 Name some odd-toed ungulates.
-horse, rhinoceros, tapir
+the horse, the rhinoceros, the tapir
 8663
 
 What literary noun refers to the onset of evening or dusk?
@@ -35183,7 +35183,7 @@ Johann Christian Fabricius
 8795
 
 What interferometer that incorporates an etalon is used chiefly in astronomy?
-Fabry--Pérot interferometer
+the Fabry--Pérot interferometer
 8796
 
 Define ``facture.''
@@ -35191,11 +35191,11 @@ the quality of the execution of a painting; an artist's characteristic handling 
 8797
 
 Identify the name of the bright granular structure on the Sun's surface that is slightly hotter or cooler than the surrounding photosphere.
-facula
+the facula
 8798
 
 What society constitutes the Scottish Bar?
-Faculty of Advocates
+the Faculty of Advocates
 8799
 
 Define ``facinorous.''
@@ -35207,11 +35207,11 @@ factor VIII
 8801
 
 What Irish diacritic mark that has the form of an acute accent is placed over a vowel to indicate that the letter should be pronounced with a long sound?
-fada
+the fada
 8802
 
 What's a fado?
-type of popular Portuguese song, usually with a melancholy theme and accompanied by mandolins or guitars
+a type of popular Portuguese song, usually with a melancholy theme and accompanied by mandolins or guitars
 8803
 
 What town in Emilia-Romagna in northern Italy gave its name to the type of pottery called faience?
@@ -35222,7 +35222,7 @@ Of what grey crystalline copper-containing mineral are tetrahedrite and tennanti
 fahlerz
 8805
 
-What was Fahrenheit's first name?
+What were Fahrenheit's first names?
 Daniel Gabriel
 8806
 
@@ -35231,7 +35231,7 @@ welcome!
 8807
 
 What ring-shaped brooch or pin is worn to indicate that the wearer is a speaker of Irish?
-fáinne
+a fáinne
 8808
 
 Which of the Shetland Islands lies about halfway between Orkney and the main Shetland group?
@@ -35239,7 +35239,7 @@ Fair Isle
 8809
 
 What is the common name of Marasmius oreades: a small edible mushroom with a light brown cap, growing in short grass in both Eurasia and North America and often forming fairy rings?
-fairy ring champignon
+the fairy ring champignon
 8810
 
 What was Faisalabad's name before 1979?
@@ -35255,7 +35255,7 @@ affected; artificial
 8813
 
 What miniature horse breed is named after an Argentinian breeder? Adults of this breed do not usually exceed 75 cm in height.
-Falabella
+the Falabella
 8814
 
 What Spanish Fascist movement merged with traditional right-wing elements in 1937 to form the ruling party under General Franco? It was formally abolished in 1977.
@@ -35271,7 +35271,7 @@ falcate
 8817
 
 The name of this broad, slightly curved sword with the cutting edge on the convex side comes from the Latin for ``sickle.'' What is it called?
-falchion
+a falchion
 8818
 
 What is the most severe form of malaria? It is caused by infection with Plasmodium [---].
@@ -36650,7 +36650,7 @@ What are the French equivalents of quotation marks?
 guillemets
 9162
 
-What is a ``vertically-organized statement of the octatonic scale as two diminished seventh chords''?
+What is the ``vertically-organized statement of the octatonic scale as two diminished seventh chords''?
 the alpha chord
 9163
 
@@ -36882,8 +36882,8 @@ To whose poem did Schubert set Die forelle?
 Christian Friedrich Daniel Schubart
 9220
 
-What movement of Stravinsky's Rite of spring is composed around the infamous E flat--dominant over F flat polychord?
-Les augures printaniers `Augurs of spring'
+What movement of Stravinsky's Rite of Spring is composed around the infamous E flat--dominant over F flat polychord?
+Les augures printaniers `Augurs of Spring'
 9221
 
 What Japanese region, whose capital is Sendai, gives its name to Grothendieck's ``Sur quelques points d'algèbre homologique''?
@@ -37763,7 +37763,7 @@ First Consul
 9440
 
 What was the period of the reign of Napoleon I as emperor of the French (1804--15) called?
-First Empire
+the First Empire
 9441
 
 Through what years did Napoleon I reign as the emperor of the French?
@@ -37771,7 +37771,7 @@ Through what years did Napoleon I reign as the emperor of the French?
 9442
 
 What fleet of eleven ships, under Captain Arthur Phillip (1738--1814), sailed from England in 1787 carrying convicts, marines, and officials to establish a convict settlement in New South Wales?
-First Fleet
+the First Fleet
 9443
 
 How many ships comprised the First Fleet?
@@ -37838,7 +37838,7 @@ Who is the ``bringer of light''?
 Lucifer
 9459
 
-Who is the ``son of the morning'' (Is. 14.12)?
+Who is the ``son of the morning'' (Is. xiv. 12)?
 Lucifer
 9460
 
@@ -38743,11 +38743,11 @@ Fra Filippo Lippi
 9685
 
 What is the replacement of a simple vowel by a diphthong owing to the influence of a following sound, typically a consonant?
-fracture
+a fracture
 9686
 
 What small ridge of tissue supports or checks the motion of the thing to which it is attached? Examples include a fold of skin beneath the tongue or between the lip and the gum.
-frenulum
+the frenulum
 9687
 
 (1732--1806) What French painter in the rococo style is famous for landscapes and for erotic canvases such as The progress of love (1771)?
@@ -40939,7 +40939,7 @@ hosta
 10234
 
 What Muslim people of the mountainous and desert regions of southwestern Sudan speak a Nilo-Saharan language? This language is isolated in its family.
-Fur
+the Fur
 10235
 
 How many yards are in a furlong?
@@ -41131,7 +41131,7 @@ Moses
 10282
 
 What does Exodus xx. 3--17 outline?
-Ten Commandments
+the Ten Commandments
 10283
 
 What is a sluagh-ghairm?
@@ -41503,7 +41503,7 @@ Sargon
 10375
 
 What is an amicus curiae?
-impartial adviser to a court of law in a particular case
+an impartial adviser to a court of law in a particular case
 10376
 
 Define ``per curiam.''
@@ -41694,7 +41694,7 @@ This Soviet mathematician said that ``the epistemological value of probability t
 Andrey Kolmogorov
 10423
 
-Deligne says: ``From [---], I have also learned not to take glory in the difficulty of a proof: Difficulty means we have not understood. The idea is to be able to paint a landscape in which the proof is obvious.''
+Deligne says: ``From [---], I have also learned not to take glory in the difficulty of a proof: difficulty means we have not understood. The idea is to be able to paint a landscape in which the proof is obvious.''
 Alexander Grothendieck
 10424
 
@@ -42055,7 +42055,7 @@ gamboge
 10513
 
 What is a gambrel roof?
-roof with two sides, each of which has a shallower slope above a steeper one
+a roof with two sides, each of which has a shallower slope above a steeper one
 10514
 
 ``gambrel [---]''
@@ -42187,7 +42187,7 @@ the gannet
 10546
 
 What is a gannetry?
-breeding colony of gannets, usually on an isolated rock
+a breeding colony of gannets, usually on an isolated rock
 10547
 
 Define ``ganoid.''
@@ -42199,15 +42199,15 @@ Gansu
 10549
 
 What line passed through a block near the masthead is used to hoist sails or rigging?
-gantline
+a gantline
 10550
 
 What bridge-like overhead structure has a platform supporting equipment such as a crane, signals, lights, or cameras?
-gantry
+a gantry
 10551
 
 What chart shows the amount of work done or production completed in specific periods of time in relation to the amount planned for those periods via a series of horizontal lines?
-Gantt chart
+a Gantt chart
 10552
 
 What Trojan youth was so beautiful that he was carried off to be Zeus's cup-bearer?
@@ -42219,15 +42219,15 @@ Ganymede
 10554
 
 What is ganzfeld?
-technique of controlled sensory input used with the aim of improving results in tests of telepathy and other paranormal phenomena
+a technique of controlled sensory input used with the aim of improving results in tests of telepathy and other paranormal phenomena
 10555
 
 What is the upper part of a graft?
-scion
+the scion
 10556
 
 What is the lower part of a graft?
-understock
+the understock
 10557
 
 What does ``GAA'' abbreviate?
@@ -42235,11 +42235,11 @@ Gaelic Athletic Association
 10558
 
 What is the 高考?
-test of a student's academic skills, used for admission to colleges and universities
+a test of a student's academic skills, used for admission to colleges and universities
 10559
 
 What is the gaokao?
-test of a student's academic skills, used for admission to colleges and universities
+a test of a student's academic skills, used for admission to colleges and universities
 10560
 
 What is the alternative spelling for ``jail''?
@@ -43410,15 +43410,15 @@ Who plays Paul Edgecomb in The Green Mile?
 Tom Hanks
 10852
 
-When was Armageddon released?
-1998
+What is an old salt?
+a seasoned sailor, especially one who is hardy and forthright in manner
 10853
 
-Who directed Armageddon?
+Who directed Armageddon (1998)?
 Michael Bay
 10854
 
-Who stars in Armageddon?
+Who stars in Armageddon (1998)?
 Bruce Willis
 10855
 
@@ -43963,7 +43963,7 @@ Moz, Ybf2/Sas3, Sas2, Tip60
 10990
 
 What short-stemmed glass whose vessel has a wide bottom and a relatively narrow top is used mostly to serve aged brown liquors such as bourbon, brandy, and whisky? 
-snifter
+a snifter
 10991
 
 What region that produces a distinctive brandy lies between the Adour and Garonne rivers in the foothills of the Pyrenees? 
@@ -43975,7 +43975,7 @@ Courvoisier, Hennessy, Martell, Rémy Martin
 10993
 
 What body of water borders Sovetskaya Gavan's port?
-Strait of Tartary
+the Strait of Tartary
 10994
 
 What Boston bridge that spans the Charles River has the colloquial name ``salt-and-pepper bridge''?
@@ -44163,7 +44163,7 @@ Dortmund
 11040
 
 What is the largest river that flows into the Arctic Ocean?
-Yenisei
+the Yenisei
 11041
 
 Complete the name: ``Yorkshire and the [---].''
@@ -44467,11 +44467,11 @@ When is Saint George's feast day?
 11116
 
 What three sections stratify lakes?
-epilimnion, metalimnion, hypolimnion
+the epilimnion, the metalimnion, the hypolimnion
 11117
 
 What cluster of muscles is located on the radial portion of the volar hand at the base of the thumb?
-thenar eminence
+the thenar eminence
 11118
 
 What three muscles comprise the thenar eminence?
@@ -45167,11 +45167,11 @@ Herbert Spencer Gasser
 11291
 
 What is a Gasthaus?
-small inn or hotel in a German-speaking country or region
+a small inn or hotel in a German-speaking country or region
 11292
 
 What hotel in a German-speaking country is typically larger than a Gasthaus?
-Gasthof
+a Gasthof
 11293
 
 What is the inflammation of the lining of the stomach?
@@ -45179,11 +45179,11 @@ gastritis
 11294
 
 What is gastritis?
-inflammation of the lining of the stomach
+the inflammation of the lining of the stomach
 11295
 
 What chief muscle of the calf of the leg, which flexes the knee and foot runs to the Achilles tendon from two heads attached to the femur? Don't be fooled, however: it isn't very close to the stomach.
-gastrocnemius
+the gastrocnemius
 11296
 
 What is the plural of ``gastrocnemius''?
@@ -45191,7 +45191,7 @@ gastrocnemii
 11297
 
 What is a gastronome?
-gourmet
+a gourmet
 11298
 
 To what class do snails belong?
@@ -45207,7 +45207,7 @@ Gastrotricha
 11301
 
 What is an embryo at the stage following the blastula, when it is a hollow cup-shaped structure having three layers of cells?
-gastrula
+a gastrula
 11302
 
 What name was given to any of seventeen poems attributed to Zoroaster --- the most ancient texts of the Avesta?
@@ -45618,8 +45618,8 @@ When is a condensed abelian group $V$ $p$-liquid (where $p\in (0,1]$)?
 when, for every compact Hausdorff topological space $X$ and every morphism of condensed sets $f$ from $X$ to $V$, there exists a unique morphism of condensed abelian groups from $M_{<p}(X)$ to $V$ that extends $f$ along the inclusion of $X$ into $M_{<p}(X)$
 11403
 
-What phrase is Rasheed Wallace famous for saying?
-ball don't lie
+Let $p$ be a prime number. Is $\operatorname{W}(\mathbf{Q})$, the ring of Witt vectors over $\mathbf{Q}$ relative to $p$, an integral domain?
+no
 11404
 
 Who wrote the song ``Any Way You Want It''?
@@ -46195,7 +46195,7 @@ Pope Leo XIII
 11547
 
 What is a Salem number?
-real algebraic integer $\lambda > 1$ whose conjugates have modulus at most $1$ and which has a conjugate of modulus precisely $1$
+a real algebraic integer $\lambda > 1$ whose conjugates have modulus at most $1$ and which has a conjugate of modulus precisely $1$
 11548
 
 Who painted the Aino-taru --- the Aino myth triptych?
@@ -46491,7 +46491,7 @@ depression
 11621
 
 What was a tunic?
-a loose garment, typically sleeveless and reaching to the wearer's knees, as worn in ancient Greece and
+a loose garment, typically sleeveless and reaching to the wearer's knees, as worn in ancient Greece and Rome
 11622
 
 Where was Dean Martin born?
@@ -46603,7 +46603,7 @@ when all submodules of finitely generated projective $R$-modules are projective
 11649
 
 What is a seiche?
-temporary disturbance or oscillation in the water level of a lake or partially enclosed body of water, especially one caused by changes in atmospheric pressure
+a temporary disturbance or oscillation in the water level of a lake or partially enclosed body of water, especially one caused by changes in atmospheric pressure
 11650
 
 What was the score of the 2013 World Chess Championship between Viswanathan Anand and Magnus Carlsen?
@@ -46671,7 +46671,7 @@ Jacques Hadamard, Charles Jean de la Vallée Poussin
 11666
 
 What class of fields is comprised of finite extensions of $\mathbf{Q}$ and finite extensions of $\mathbf{F}_q(T)$?
-global fields
+the global fields
 11667
 
 Who challenged Magnus Carlsen in 2016 for the World Chess Championship?
@@ -46707,7 +46707,7 @@ when $\min_{p\in \mathbf{Z}} \lvert q\alpha - p \rvert \ge C q^{-\omega}$ for al
 11675
 
 Define ``bulbil.''
-small bulblike structure, in particular one in the axil of a leaf, which may fall to form a new plant
+a small bulblike structure, in particular one in the axil of a leaf, which may fall to form a new plant
 11676
 
 Is $\mathbf{Z}_{10}$ an integral domain?
@@ -47163,7 +47163,7 @@ Christopher Plummer
 11789
 
 What does modus ponens say?
-if x and x implies y then y
+if x and (x implies y) then y
 11790
 
 What does ``vel'' mean in Latin?
@@ -47171,7 +47171,7 @@ or
 11791
 
 Who was Q. q. Switcheroo?
-Albanian railroad engineer who worked in logic on the siding
+an Albanian railroad engineer who worked in logic on the siding
 11792
 
 What is ``Ganto's Axe''?
@@ -47259,7 +47259,7 @@ C. S. Lewis
 11813
 
 What tectonically thickened wedge of sediment found on the landward side of some trenches consists of oceanic sediment scraped off the subducting plate plus sediment derived from landward and deposited in the trench?
-accretionary wedge
+an accretionary wedge
 11814
 
 What two centuries did John Wallis survive?
@@ -47278,7 +47278,7 @@ What is an LF-space?
 a countable direct limit of Fréchet spaces
 11818
 
-When is a seminorm $\nu$ not a norm on a vector space over?
+When is a seminorm $\nu$ not a norm on a vector space?
 when there exists $x\ne 0$ such that $\nu(x) = 0$
 11819
 
@@ -47679,7 +47679,7 @@ the geoduck
 11918
 
 What is Panopea generosa?
-geoduck
+the geoduck
 11919
 
 To what family does the geoduck belong?
@@ -47687,7 +47687,7 @@ Hyatellidae
 11920
 
 Define ``geode.''
-small cavity in rock lined with crystals or other mineral matter
+a small cavity in rock lined with crystals or other mineral matter
 11921
 
 What sport did Geoffrey Boycott play?
@@ -49907,7 +49907,7 @@ John Fogerty
 12475
 
 For what baseball team did Bob Uecker broadcast? 
-Milwaukee Brewers
+the Milwaukee Brewers
 12476
 
 What catcher and broadcaster for the Milwaukee Brewers routinely appeared on Johnny Carson?
@@ -50395,7 +50395,7 @@ Rod Gilbert, Wayne Gretzky
 12597
 
 What landmark featured on Mike Richter's famous goalie mask?
-Statue of Liberty
+the Statue of Liberty
 12598
 
 What building is on the Conn Smythe trophy?
@@ -50423,11 +50423,11 @@ Scott Stevens
 12604
 
 What's a knuckle-dragger?
-stupid or loutish man
+a stupid or loutish man
 12605
 
 What sound, used in the pronunciation of the word ``loch,'' is denoted by ``x'' in the International Phonetic Alphabet?
-unvoiced velar fricative
+the unvoiced velar fricative
 12606
 
 Define ``nascent.''
@@ -50439,7 +50439,7 @@ digressing from subject to subject
 12608
 
 What circular aperture in the anterior and medial part of the greater wing of the sphenoid gives passage to the maxillary nerve?
-foramen rotundum
+the foramen rotundum
 12609
 
 What does the Latin masculine adjective ``rotundus'' mean?
@@ -50459,7 +50459,7 @@ calabash
 12613
 
 ``Draco interfecit se ipsum, maritat se ipsum, impraegnat se ipsum.'' What symbol is being described?
-uroboros
+the uroboros
 12614
 
 Translate ``ἓν τὸ πᾶν.''
@@ -51139,7 +51139,7 @@ Life is Beautiful
 12783
 
 What is a canary in the coal mine?
-early indicator of potential danger or failure
+an early indicator of potential danger or failure
 12784
 
 What is the graybar hotel?
@@ -51147,7 +51147,7 @@ jail
 12785
 
 What is bedlam?
-scene of uproar and confusion
+a scene of uproar and confusion
 12786
 
 What is a shoo-in?
@@ -51163,7 +51163,7 @@ fuel
 12789
 
 What is the Palio di Siena?
-horse race
+a horse race
 12790
 
 What are the seventeen contrade of Siena?
@@ -52167,7 +52167,7 @@ RPA70, RPA32, RPA14
 13040
 
 What is a ute in Australia?
-utility truck
+a utility truck
 13041
 
 Whence is an Argive?
@@ -52675,11 +52675,11 @@ Turf Moor
 13167
 
 What NHL team drafted Alexei Kasatonov?
-New Jersey Devils
+the New Jersey Devils
 13168
 
 Of what river is the Khemchik a tributary?
-Yenisei
+the Yenisei
 13169
 
 Change one letter in the name for a musical ornament to get this adjective describing something, like humour, with a sharp or critical quality.

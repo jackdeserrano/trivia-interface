@@ -41,5 +41,3 @@ with open("__trivia.txt", "a") as __trivia:
         __trivia.write(str(index) + "\n\n")
 
         index += 1
-
-        
