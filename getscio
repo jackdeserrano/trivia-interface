@@ -1,5 +1,7 @@
 #!/bin/zsh
 
+#for getting 2000 questions at a time
+
 r=$1
 
 top=$((6000*($((r))-1)+1))
