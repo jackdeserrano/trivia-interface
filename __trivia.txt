@@ -2231,7 +2231,7 @@ adenine/6-aminopurine
 557
 
 What continuation of the spinal cord within the skull forms the lowest part of the brainstem and contains control centres for the heart and lungs?
-medulla oblongata
+the medulla oblongata
 558
 
 What coral island group in the Indian Ocean was part of the British Indian Ocean Territory before becoming an outlying dependency of Seychelles in 1976?
@@ -3943,19 +3943,19 @@ Aksai Chin
 985
 
 What Hindu epic written in Sanskrit contains discussions of dharma and the soul's immortality, details the struggles between two groups of cousins --- including the warrior Arjuna --- for their family's throne, and is literature's longest-known poem?
-Mahabharata
+the Mahabharata
 986
 
 What Hindu poem composed between the second century BC and the second century AD and incorporated into the Mahabharata presented a dialogue between the Kshatriya prince Arjuna and his divine charioteer Krishna?
-Bhagavadgita
+the Bhagavadgita
 987
 
 What holy man was anointed by an immoral woman?
-Jesus (Luke 7.38)
+Jesus (Luke vii. 38)
 988
 
 What holy object was taken by the Philistines into the temple of Dagon, causing Dagon's image to fall down?
-the Ark of the Covenant (1 Sam. 5.2--4)
+the Ark of the Covenant (1 Sam. v. 2--4)
 989
 
 What hormone, also called ``adrenaline,'' is secreted mainly by the medulla of the adrenal glands and functions primarily to increase cardiac output and to raise glucose levels in the blood?
@@ -9299,7 +9299,7 @@ Sweden
 2324
 
 From where does the word Armageddon come?
-Greek from Hebrew har mĕgiddōn `hill of Megiddo' (Rev. 16.16)
+Greek from Hebrew har mĕgiddōn `hill of Megiddo' (Rev. xvi. 16)
 2325
 
 General George Custer and his forces were defeated by Sioux and Cheyenne warriors on 25 June 1876 in this battle. Identify the conflict that is popularly known as Custer's Last Stand.
@@ -9383,7 +9383,7 @@ Nur-Sultan, Akmola, Tselinograd
 2345
 
 In 1485, Bosworth Field was fought. Henry Tudor defeated and killed the Yorkist king Richard III, which enabled him to take the throne as Henry VII. What war saw this battle?
-Wars of the Roses
+the Wars of the Roses
 2346
 
 In ballet, it is a posture in which the body is supported on one leg, with the other leg extended horizontally backward. In music, it is a passage or composition with fanciful ornamentation of the melody. Alternatively, it is an ornamental design consisting of intertwined flowing lines, originally found in Arabic or Moorish decoration.
@@ -13119,11 +13119,11 @@ bêche-de-mer
 3279
 
 What large semicircular/polygonal recess in a church, arched or with a domed roof and typically at the eastern end, usually contains the altar?
-apse
+the apse
 3280
 
 What large single-bladed pocketknife has a characteristically long bolster, an elongated oval handle, and one or two blades?
-Barlow knife
+the Barlow knife
 3281
 
 What large southern constellation is now divided into the constellations Carina, Puppis, and Vela?
@@ -13131,15 +13131,15 @@ Argo Navis
 3282
 
 What large vein on the right side at the back of the thorax drains into the superior vena cava?
-azygos vein
+the azygos vein
 3283
 
 What large wine bottle has a capacity of twelve litres, equivalent to that of sixteen ordinary wine bottles?
-balthazar
+a balthazar
 3284
 
 What large wine bottle has the capacity of twenty regular bottles?
-nebuchadnezzar
+a nebuchadnezzar
 3285
 
 What largely arid region of the south-western United States is chiefly located in Nevada, Utah, and California?
@@ -13215,15 +13215,15 @@ bel canto
 3303
 
 What main beam rests across the tops of columns, specifically the lower third entablature?
-architrave
+an architrave
 3304
 
 What main research library of Oxford University is one of six copyright libraries in the United Kingdom?
-Bodleian Library
+the Bodleian Library
 3305
 
 What marine crustacean with an external shell attaches itself permanently to various surfaces and feeds by filtering particles from the water using its modified feathery legs?
-barnacle
+the barnacle
 3306
 
 What martial art traditionally practiced in the Philippines is characterized by the use of sticks, bladed weapons, and bare hands in combat?
@@ -14959,11 +14959,11 @@ bebop
 3739
 
 What type of knot is used by anglers to join two fishing lines?
-blood knot
+a blood knot
 3740
 
 What type of light antiaircraft gun was named after the place in which it was first manufactured?
-Bofors gun
+the Bofors gun
 3741
 
 In what type of long-distance road cycling event must participants navigate a route within a specified time?
@@ -14971,15 +14971,15 @@ audax
 3742
 
 What type of quasar is an intense, irregularly variable source of highly polarized light, thought to arise from a plasma jet pointing in the earth's direction?
-blazar
+a blazar
 3743
 
 What type of remote elliptical galaxy, remarked for its considerable short-term variations in brightness and radio emissions, has a very compact starlike nucleus?
-BL Lac object
+a BL Lac object
 3744
 
 What type of vocal music is more melodic than recitative but less formal than an aria?
-arioso
+an arioso
 3745
 
 What type of yoga based on eight principles and consisting of a series of poses executed in swift succession comes from the Sanskrit for ``having eight parts''?
@@ -14995,7 +14995,7 @@ Baker Island
 3748
 
 What unit of area is equal to $10^{-28}\ \text{m}^2$ and used primarily in particle physics?
-barn
+the barn
 3749
 
 What unit of transmission speed is equal to the number of times a signal changes state per second or one bit per second?
@@ -16478,7 +16478,7 @@ Marc Chagall
 Sir C. V. Raman
 4119
 
-(1889--1963) What French playwright, novelist, and movie director's works include Beauty and the beast (1945) and Orpheus (1949)?
+(1889--1963) What French playwright, novelist, and movie director's works include Beauty and the Beast (1945) and Orpheus (1949)?
 Jean Cocteau
 4120
 
@@ -18066,12 +18066,12 @@ What daughter of the Trojan king Priam was given the gift of prophecy by Apollo,
 Cassandra
 4516
 
-What deep-bodied North Pacific salmon has small black spots and is also called ``silver salmon''?
-coho
+What deep-bodied North Pacific salmon has small black spots and is also called the silver salmon?
+the coho
 4517
 
 What deepest part (36,201 feet, 11,034 m) of the Mariana Trench in the North Pacific is named after the vessel that discovered it in 1948?
-Challenger Deep
+the Challenger Deep
 4518
 
 What deficiency disease is caused by inadequate intake of riboflavin and characterized by sores on the mouth?
@@ -19591,7 +19591,7 @@ Comecon
 4897
 
 What effect involves a mass moving in a rotating system experiencing a force acting perpendicular to the direction of motion and to the axis of rotation?
-Coriolis effect
+the Coriolis effect
 4898
 
 What Egyptian concept referred to truth and wisdom but more broadly referred to order as opposed to chaos?
@@ -19843,7 +19843,7 @@ duck
 4960
 
 What fracture of the lower end of the radius in the wrist is characterized by a backward hand displacement?
-Colles fracture
+a Colles fracture
 4961
 
 What French adjective means ``served with a sauce of red wine and onions''?
@@ -20607,11 +20607,11 @@ a contusion
 5151
 
 What is another name for a bullfight?
-corrida
+a corrida
 5152
 
-What is another name for climbing euonymus?
-winter creeper
+What is another name for the climbing euonymus?
+the winter creeper
 5153
 
 What is another name for pinkeye?
@@ -20619,7 +20619,7 @@ conjunctivitis
 5154
 
 What is another term for a constructed language?
-conlang
+a conlang
 5155
 
 What is another term for loan translation?
@@ -20630,24 +20630,24 @@ What is another term for mercuric chloride?
 corrosive sublimate
 5157
 
-What is another term for pollen basket?
+What is another term for a pollen basket?
 corbicula
 5158
 
-What is another term for stringcourse?
-cordon
+What is another term for a string course?
+a cordon
 5159
 
-What is another term for?
+What is another term for ubiquinone?
 coenzyme Q
 5160
 
 What is atavism?
-tendency to revert to something ancient or ancestral
+the tendency to revert to something ancient or ancestral
 5161
 
 What is boskage?
-massed trees or shrubs
+a mass of trees or shrubs
 5162
 
 What is bouillon?
@@ -20707,14 +20707,14 @@ pain in the region of the heart
 5176
 
 What is carmine?
-vivid crimson colour
+a vivid crimson colour
 5177
 
 What is carphology?
 plucking at the bedclothes by a delirious patient
 5178
 
-What is Cascade Range's highest peak?
+What is the Cascade Range's highest peak?
 Mount Rainier
 5179
 
@@ -20727,7 +20727,7 @@ sodium hydroxide
 5181
 
 What is Charles's Wain?
-Big Dipper
+the Big Dipper
 5182
 
 What is clemency?
@@ -28087,7 +28087,7 @@ Duchenne muscular dystrophy
 7021
 
 What law states that for every proposition, either it or its negation is true?
-law of the excluded middle
+the law of the excluded middle
 7022
 
 What river in eastern Europe rises in Russia west of Moscow and flows south for about 2,200 km through Ukraine to the Black Sea?
@@ -28239,7 +28239,7 @@ dolichocephalic
 7059
 
 From what Dickens novel is the sentence ``Silas Wegg, being on his road to the Roman Empire, approaches it by way of Clerkenwell''?
-Our mutual friend
+Our Mutual Friend
 7060
 
 Who coined the term ``cultural capital''?
@@ -31711,7 +31711,7 @@ entablature
 7927
 
 What platform supports a statue above the dado and base?
-entablement
+an entablement
 7928
 
 What slight convex curve in the shaft of a column is introduced to correct the visual illusion of concavity produced by a straight shaft?
@@ -34071,7 +34071,7 @@ Chelmsford
 8517
 
 What is an estaminet?
-small cafe in France that sells alcoholic drinks
+a small cafe in France that sells alcoholic drinks
 8518
 
 What woman was chosen on account of her beauty by the Persian king Ahasueru --- supposedly Xerxes I --- to be his queen? She used her influence with him to save the Israelites in captivity from persecution.
@@ -35855,15 +35855,15 @@ Rothenburg ob der Tauber
 8963
 
 What Rossini opera has the same storyline as Le nozze di Figaro?
-The barber of Seville
+The Barber of Seville
 8964
 
 ``For that which I do I allow not: for what I would, that do I not; but what I hate, that do I. If then I do that which I would not, I consent unto the law that it is good. Now then it is no more I that do it, but sin that dwelleth in me. For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not. For the good that I would I do not: but the evil which I would not, that I do. Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me.'' From what is this passage?
-Rom. 7.15--20
+Rom. vii. 15--20
 8965
 
 ``Par Lui tout a été fait.'' Translate.
-All things were made by him (Jn. 1.3)
+All things were made by him (Jn. i. 3)
 8966
 
 Who wrote the three Figaro plays?
@@ -35923,7 +35923,7 @@ febrifuge
 8980
 
 To what does the adjective ``febrile'' refer?
-fever
+a fever
 8981
 
 Define ``fecundate.''
@@ -36063,7 +36063,7 @@ Heinrich Schenker
 9015
 
 What type of cocktail consists of liqueurs of varying densities that form distinct layers?
-pousse-café
+a pousse-café
 9016
 
 Where was Abbé Vogler appointed court chaplain and second maestro di cappella in 1775?
@@ -36267,7 +36267,7 @@ Ferrara
 9066
 
 What is a ferrule?
-ring or cap, typically a metal one, which strengthens the end of a handle, stick, or tube and prevents it from splitting or wearing
+a ring or cap, typically a metal one, which strengthens the end of a handle, stick, or tube and prevents it from splitting or wearing
 9067
 
 Whose law states that Coriolis forces deflect winds and freely moving objects to the right in the northern hemisphere and to the left in the southern hemisphere?
@@ -37379,7 +37379,7 @@ kundalini
 9344
 
 What constituent of every Veda speculates about the ontological connection between humanity and the cosmos?
-Upanishad
+an Upanishad
 9345
 
 What texts are called ``vedanta'' as they conclude the Vedas?
@@ -41622,8 +41622,8 @@ Where does Theseus abandon Ariadne?
 Naxos
 10405
 
-``Once a mathematician truly gets to know, in an original and `personal' manner, some small part of the mathematical world, however esoteric it may look at first, the journey can properly start.'' Who said this?
-Alain Connes
+What is a light verb?
+a semantically incomplete verb which qualifies as a predicate only in combination with a predicative complement, usually a noun
 10406
 
 ``Mathematics, rightly viewed, possesses not only truth, but supreme beauty --- a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show.'' Who said this?
@@ -41686,8 +41686,8 @@ Who said that ``chance favours only the prepared mind''?
 Louis Pasteur
 10421
 
-Who said that ``the corpus of mathematics resembles a biological entity, which can [survive only] as a whole and which would perish if separated into disjoint pieces''?
-Alain Connes
+What is a light verb?
+a semantically incomplete verb which qualifies as a predicate only in combination with a predicative complement, usually a noun
 10422
 
 This Soviet mathematician said that ``the epistemological value of probability theory is based on the fact that chance phenomena, considered collectively and on a grand scale, create non-random regularity.''
@@ -46319,7 +46319,7 @@ Zlatko Dalić
 11578
 
 Define ``quisling.''
-traitor who serves as the puppet of the enemy occupying his country
+a traitor who serves as the puppet of the enemy occupying his country
 11579
 
 What does the Oxford English Dictionary say that room temperature is in degrees Celsius?
@@ -53255,7 +53255,7 @@ Derby
 13312
 
 What river, the fourth longest in Europe, runs through Russia, Belarus, and Ukraine?
-Dnipro
+the Dnipro
 13313
 
 What strait in north-western Turkey connects the Aegean Sea to the Sea of Marmara?
